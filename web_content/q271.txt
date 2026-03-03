@@ -1,0 +1,44 @@
+=== SEARCH SNIPPETS ===
+
+[Classes - Dark Souls Wiki]
+A class is a specialized role chosen for the player character upon starting the game. Each one has a different starting set of stats, equipment, and abilities. These alternative ways of starting can drastically change the beginning of the game and the player experience. However, the starting class does not determine the final role of a character. All starting classes may raise stats and ...
+URL: http://darksouls.wikidot.com/classes
+
+[Classes - Dark Souls Wiki - FextraLife]
+Hunter Class, get the Great Scythe in the catacombs, 2 hand wield it (Chaos/Lighting or Lifehunt Scythe) invest only in Vitality and Endurance. ... I found a build deprived might be best at.
+URL: https://darksouls.wiki.fextralife.com/Classes
+
+[r/darksouls on Reddit: I compared the starting stats of every class side by side to figure out the best class to go with at high levels. Here are my findings.]
+Warrior: Overall a great class, only being one point below the best class consistently until all spell casting is removed from the equation. It's just well optimized for melee combat, allowing for any kind of build. Strength or dex, tanky or offense focused, it has just what you want and no more.
+URL: https://www.reddit.com/r/darksouls/comments/1dgb7r1/i_compared_the_starting_stats_of_every_class_side/
+
+[Classes | Dark Souls Wiki]
+Nov 15, 2023 · If you’re new to the game and don’t know what to choose, I’d recommend actually the lowest level class, the Pyromancer. Pyromancers start with Fireball, and Pyromancy spells in general require no stat investment in Intelligence or Faith, just in upgrading the glove for more damage.
+URL: https://darksouls.wiki.fextralife.com/classes
+
+[Dark Souls: Every Class Ranked From Worst To Best]
+In fact, it's common to see Deprived class users wielding massive clubs and other Strength weapons to melt bosses' health bars in a few hits. In a world that has monsters, mythical creatures, dragons, and undead enemies, what would a Thief even do? Published February 26, 2025
+URL: https://gamerant.com/dark-souls-ranking-every-class/
+
+
+=== FULL EXTRACTED CONTENT ===
+
+
+--- [Classes - Dark Souls Wiki] ---
+A class is a specialized role chosen for the player character upon starting the game. Each one has a different starting set of stats, equipment, and abilities. These alternative ways of starting can drastically change the beginning of the game and the player experience. However, the starting class does not determine the final role of a character. All starting classes may raise stats and progress through the game in a way that allows them to use all equipment and abilities once requirements are met. Click on any of the class names to receive a more detailed overview of the respective class. | Class | Vitality | Attunement | Endurance | Strength | Dexterity | Resistance | Intelligence | Faith | Soul Level | Total Points (At Starting Level) | |---|---|---|---|---|---|---|---|---|---|---| | Warrior | 11 | 8 | 12 | 13 | 13 | 11 | 9 | 9 | 4 | 86 (83@1) | | Knight | 14 | 10 | 10 | 11 | 11 | 10 | 9 | 11 | 5 | 86 (82@1) | | Wanderer | 10 | 11 | 10 | 10 | 14 | 12 | 11 | 8 | 3 | 86 (84@1) | | Thief | 9 | 11 | 9 | 9 | 15 | 10 | 12 | 11 | 5 | 86 (82@1) | | Bandit | 12 | 8 | 14 | 14 | 9 | 11 | 8 | 10 | 4 | 86 (83@1) | | Hunter | 11 | 9 | 11 | 12 | 14 | 11 | 9 | 9 | 4 | 86 (83@1) | | Sorcerer | 8 | 15 | 8 | 9 | 11 | 8 | 15 | 8 | 3 | 82 (80@1) | | Pyromancer | 10 | 12 | 11 | 12 | 9 | 12 | 10 | 8 | 1 | 84 (84@1) | | Cleric | 11 | 11 | 9 | 12 | 8 | 11 | 8 | 14 | 2 | 84 (83@1) | | Deprived | 11 | 11 | 11 | 11 | 11 | 11 | 11 | 11 | 6 | 88 (83@1) | Disregarding the Resistance figure, all classes start with a total of 71 stat points plus one per Soul Level; this is worth noting because Resistance is usually considered useless and not beneficial to level. A class should not be chosen solely based upon who has the most points at SL1 - any class that doesn't have useless stats for a chosen build is just as good as any other. Information for Beginners: In Dark Souls, the character plays the role of an undead. Most undead are hollow (lost their humanity and will attack anything), and all are labeled pariahs by the society of the Dark Souls world. Hollowing can be reversed by offering humanity at bonfires, making the player character appear human. Being human allows players to access certain multiplayer features, such as summoning phantoms (co-op), invading other players, or being invaded by phantoms (PVP). Choosing a class does not determine the character's later role or style, it merely gives the player character a set of starting stats and equipment, note however that every class has its strengths and weaknesses that require some time to get used to. Melee combat is required, but magic and ranged combat are options as well, especially if the engagement of higher-powered foes early on is desired. Magic is mostly learned from trainers. Early Miracles are taught by Petrus of Thorolund, Sorceries by Griggs of Vinheim and Pyromancies by Laurentius of the Great Swamp. Petrus is first met at the Firelink Shrine, the game's hub, while Griggs is rescued from Lower Undead Burg and Laurentius from the depths. Later more advanced trainers will appear. A catalyst and the Soul Arrow sorcery can be purchased immediately after arriving in Firelink from blacksmith Rickert in the New Londo Ruins. Note that using magic makes combat significantly easier in the overworld since you can snipe enemies from afar and 'bait' or 'kite' single enemies away from a group. Bosses, on the other hand, may prove more difficult if sniping isn't an option. Some bosses like to get very personal, and your physical defense if starting as a sorcerer or cleric will be significantly weaker than melee combat starting options. Bows are rarely useful in combat but are suitable for stationary foes and to pull enemies. A Short Bow can be purchased early from the Undead Merchant in Undead Burg. Purchasing this bow and about 60-70 arrows allows the Drake Sword, an incredibly powerful sword, to be obtained early - however, note that this sword lacks scaling, meaning that it quickly becomes useless due to its flat damage (this means that the sword's damage is stationary regardless of character level or stats). Crossbows are less useful than bows in such cases because they cannot be manually aimed. Another way to utilize the bow is poison. Most larger enemies have a limited range of aggression. With this in mind, most enemies can be poisoned/sniped from afar without difficulty. Unlike Demon's Souls, items are used to write (and rate) comments, create a summoning sign or invade. The Orange Guidance Soapstone (to write and rate messages) is purchased from the Undead Merchant in Undead Burg, the White Sign Soapstone (to offer help in co-op) is given by Solaire of Astora if the player agrees to assist him, and Cracked Red Eye Orbs (for invading) are available throughout the world. Dark Souls is non-linear, and there are many effective ways to play and options for where to go. Experimenting with different weapons, spells, and techniques will help you decide what you like. There is no single best weapon or Covenant. Note that despite Dark Souls' being famous for "being extremely difficult," if you're experiencing insurmountable difficulties, perhaps trying another set of equipment, weapons, spells or routes is worth a try. Keep in mind that the game will reward players who explore and experiment and are willing to change their tactics to overcome difficulties, but will punish those who remain stubborn and make mistakes. Try to think outside of the box if you're facing obstacles!
+
+
+--- [Classes - Dark Souls Wiki - FextraLife] ---
+No content
+
+
+--- [r/darksouls on Reddit: I compared the starting stats of every class side by side to figure out the best class to go with at high levels. Here are my findings.] ---
+You've been blocked by network security. To continue, log in to your Reddit account or use your developer token If you think you've been blocked by mistake, file a ticket below and we'll look into it. Log in File a ticket
+
+
+--- [Classes | Dark Souls Wiki] ---
+No content
+
+
+--- [Dark Souls: Every Class Ranked From Worst To Best] ---
+No content

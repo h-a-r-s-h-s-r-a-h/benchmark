@@ -1,0 +1,74 @@
+=== SEARCH SNIPPETS ===
+
+[SunPass]
+The C-Pass system operated by Miami-Dade County Public Works on the ... replaced by SunPass and pay-by-plate on September 23, 2014. In July 2020 ...
+URL: https://en.wikipedia.org/wiki/SunPass
+
+[What's the difference between 'a year' and 'the year'?]
+Jan 26, 2017 · 'A year' can be any year without any specification. But 'the year' means a particular/specified year or the one which is already mentioned and thereby known. E.g: In a year there are twelve months. (means any year or all years) I was born in the year 2000. (in that particular year) Grammatically 'a/an' is known as indefinite article and 'the' is definite article. The indefinite article (a/an ...
+URL: https://english.stackexchange.com/questions/370328/whats-the-difference-between-a-year-and-the-year
+
+[SunPass To Replace C Pass On Causeways - CBS Miami]
+Jan 5, 2012 — South Florida's C Pass, which is used to pay to travel over the Rickenbacker and Venetian Causeways, will be replaced this year by SunPass.
+URL: https://www.cbsnews.com/miami/news/sunpass-to-replace-c-pass-on-causeways/
+
+['Year' or 'Years'? - English Language & Usage Stack Exchange]
+The second and final year gives the impression that you mean one specific year, which was at the same time your second, as well as your final year. For example: In the fifth and last year of the war, the motivation was dwindling. Of course, in your sentence, this interpretation is impossible because you use between, but I did get confused at first.
+URL: https://english.stackexchange.com/questions/173111/year-or-years
+
+[Miami Causeways Now Using SunPass]
+Sep 24, 2014 — Miami Causeways Now Using SunPass. The new toll lanes will no longer accept cash or C-Pass. Published September 24, 2014 • ...
+URL: https://www.nbcmiami.com/news/local/miami-causeways-now-running-on-sunpass/1953277/
+
+
+=== FULL EXTRACTED CONTENT ===
+
+
+--- [SunPass] ---
+SunPass is an electronic toll collection system within the state of Florida, United States. It was created in 1999 by the Florida Department of Transportation's (FDOT's) Office of Toll Operations, operating as a division of Florida's Turnpike Enterprise (FTE). The system utilizes windshield-mounted RFID transponders manufactured by TransCore and lane equipment designed by companies including TransCore, SAIC, and Raytheon.
+
+
+--- [What's the difference between 'a year' and 'the year'?] ---
+# What&#39;s the difference between &#39;a year&#39; and &#39;the year&#39;?
+
+When I should use "a year" and when I should use "the year."
+
+
+## Accepted Answer
+
+'A year' can be any year without any specification. But 'the year' means a particular/specified year or the one which is already mentioned and thereby known. 
+E.g: In a year there are twelve months. (means any year or all years)
+     I was born in the year 2000. (in that particular year)
+
+Grammatically 'a/an' is known as indefinite article and 'the' is definite article.
+
+The indefinite article(a/an) refers to things in general and the definite article(the) refers to a particular person or thing. This is the very basic rule pertaining to the use of articles. Actually, in English grammar, perhaps the uses of the articles are the most difficult/confusing topic.
+For details on this subject, it is better to consult a good grammar like 'PRACTICAL ENGLISH USAGE' by Michael Swan.
+
+'January is the first month of the year'- here 'the' is used in a sense of 'general plus known', as everybody knows what a year is and how many months are there in a year and what they are.
+Sometimes 'the' is used with a singular countable noun to talk about things in general.
+See a couple of examples from the above-mentioned grammar:
+E.g: 'Schools should pay less attention to examination success, and more attention to the child.' (means all school children, not a particular child)
+'The tiger is in danger of becoming extinct.'( means the whole tiger family, not any specific tiger.
+
+
+
+--- [SunPass To Replace C Pass On Causeways - CBS Miami] ---
+SunPass To Replace C Pass On Causeways MIAMI (CBSMiami) – South Florida's C Pass, which is used to pay to travel over the Rickenbacker and Venetian Causeways, will be replaced this year by SunPass. According to CBS4 News partner The Miami Herald, the Rickenbacker Causeway will transition to SunPass in June or July followed by the Venetian Causeway in the fall, possibly around October. Residents of the Venetian islands currently pay $24 a year for their C Pass transponders, non-residents pay $90 a year. Without a transponder, it costs $1.50 every time a car crosses the toll booth on the west end of Biscayne Island. After the transition, the county will continue to maintain one toll booth lane east and west for drivers paying cash, but the SunPass devices will work on all lanes. (©2012 CBS Local Media, a division of CBS Radio Inc. All rights reserved. This material may not be published, broadcast, rewritten, or redistributed. CBS4 news partner The Miami Herald contributed material for this report.)
+
+
+--- ['Year' or 'Years'? - English Language & Usage Stack Exchange] ---
+# &#39;Year&#39; or &#39;Years&#39;?
+
+In the context of the following sentence:
+
+
+  "This report gives an overview of x, which took place between the second and final year of my degree from xmonth to ymonth."
+
+
+Should I be using the word year or years? I'm inclined to choose the latter, as I am referring to two years and not one.
+
+
+
+--- [Miami Causeways Now Using SunPass] ---
+The Rickenbacker and Venetian Causeways are now officially using SunPass to collect tolls. The new toll lanes will no longer accept cash or the old Miami-Dade County C-Pass transponders. Instead, all tolls will be collected via SunPass transponders or Toll-by-Plate. Two-axle vehicles will pay the standard $1.75 per trip on the Rickenbacker and $1.75 each way on the Venetian. Those without SunPass using Toll-by-Plate will be charged $2.25 per trip and a monthly administrative fee of $2.50. Annual causeway plan holders will be billed at the same rate, but they must associate their activated SunPass transponders with their toll plans to avoid extra charges.
