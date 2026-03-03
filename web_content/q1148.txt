@@ -1,0 +1,45 @@
+=== SEARCH SNIPPETS ===
+
+[Yariguíes Airport - Wikipedia]
+Yariguíes Airport (Spanish: Aeropuerto Yariguíes, IATA: EJA, ICAO: SKEJ) is an airport serving Barrancabermeja, a city in the Santander Department of Colombia. The airport is 6 kilometres (3.7 mi) southeast of the city. The airport was renovated in 2013 at a cost of $13 million pesos. Colombian president Juan Manuel Santos visited the airport to inaugurate the completed renovations. [3][4]
+URL: https://en.wikipedia.org/wiki/Yarigu%C3%ADes_Airport
+
+[METAR SKEJ - Yariguíes Airport, Barrancabermeja, Colombia]
+METAR Yariguíes Airport - SKEJ/EJA Yariguíes Airport is a midsized airport in Santander, Colombia. The airport is located at latitude 7.02433 and longitude -73.80680. The airport has one runway: 4/22. The ICAO airport code of this field is SKEJ. The local airport ID (FAA LID) of this airport is EJA. The airport's IATA code is EJA. The airport is in the Bogota FIR. This aviation weather ...
+URL: https://metar-taf.com/metar/SKEJ
+
+[SKEJ AIRPORT CODE | Yarigüies Airport]
+EJA / SKEJ are the airport codes for Yarigüies Airport. Click here to find more.
+URL: https://airportcodes.aero/SKEJ
+
+[SKEJ/Barrancabermeja/Yariguies General Airport Information]
+SKEJ - Barrancabermeja/Yariguies Located in Barrancabermeja, COLOMBIA ICAO - SKEJ, IATA - EJA Weather Clearance Visa/Health NOTAMs Nearby Trip Sheet Airport Type Civil Lat/Long N07-01.4/W073-48.4
+URL: https://acukwik.com/Airport-Info/skej
+
+[Barrancabermeja Airport (EJA/SKEJ): DEPARTURES, ARRIVALS, FLIGHT ...]
+Barrancabermeja · Colombia Barrancabermeja Yariguies Airport Current Delays Statistics Current Weather Live Map Current Flights Destinations Top Traffic Airlines IDENTIFIER EJA/SKEJ LOCAL TIME 13. Dec 09:54 UTC-05
+URL: https://www.flightera.net/en/airport/Barrancabermeja/SKEJ
+
+
+=== FULL EXTRACTED CONTENT ===
+
+
+--- [Yariguíes Airport - Wikipedia] ---
+Yariguíes Airport (Spanish: Aeropuerto Yariguíes, IATA: EJA, ICAO: SKEJ) is an airport serving Barrancabermeja, a city in the Santander Department of Colombia. The airport is 6 kilometres (3.7 mi) southeast of the city.
+The airport was renovated in 2013 at a cost of $13 million pesos. Colombian president Juan Manuel Santos visited the airport to inaugurate the completed renovations.
+
+
+--- [METAR SKEJ - Yariguíes Airport, Barrancabermeja, Colombia] ---
+No content
+
+
+--- [SKEJ AIRPORT CODE | Yarigüies Airport] ---
+| Name | Yarigüies Airport | | Country | Colombia | | Elevation | 412 feet | | Latitude | 7° 1' 27.59" N | | Longitude | 73° 48' 24.48" W | | Wikipedia | https://en.wikipedia.org/wiki/Yarigüies_Airport | | Name | Yarigüies Airport | | Country | Colombia | | Elevation | 412 feet | | Latitude | 7° 1' 27.59" N | | Longitude | 73° 48' 24.48" W | | Wikipedia | https://en.wikipedia.org/wiki/Yarigüies_Airport |
+
+
+--- [SKEJ/Barrancabermeja/Yariguies General Airport Information] ---
+SKEJ - Barrancabermeja/Yariguies Located in Barrancabermeja, COLOMBIA ICAO - SKEJ, IATA - EJA Airport Type Civil Lat/Long N07-01.4/W073-48.4 Elevation (ft) 397 Fuel Available AVGAS JET Current UTC 4:16:26 PM (-5.00) Approaches VOR/DME Longest Primary Runway (ft) 5272 x 148, 04/22 Runway Surface Asphalt PCN Local Standard Time 11:16:26 AM More Airport Information (Click to expand) Airport Light Intensity MEDIUM US Customs Pre-Clearance No DST None (No Daylight Savings Time observed) Control Tower Hours 1100-2300Z Distance from City 10 KM SE OF TOWN Google Satellite Map of SKEJ Airport Distance Calculator The distance from to is Nautical Miles Airport Restrictions and Information
+
+
+--- [Barrancabermeja Airport (EJA/SKEJ): DEPARTURES, ARRIVALS, FLIGHT ...] ---
+Barrancabermeja · Colombia TEMPERATURE 31°C 66% humidity WIND 3kt 0° CLOUDS Scattered clouds 2,000 feet VISIBILITY 9km 6 mi. Yariguíes Airport is an airport serving Barrancabermeja, a city in the Santander Department of Colombia. The airport is 6 kilometres southeast of the city. SOURCE: Wikipedia Airport City, Country © 2017 - 2026 Flightera. All rights reserved.

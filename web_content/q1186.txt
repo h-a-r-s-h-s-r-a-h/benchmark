@@ -1,0 +1,45 @@
+=== SEARCH SNIPPETS ===
+
+[207 Hedda - Wikipedia]
+207 Hedda is a sizeable Main belt asteroid. It is a C-type asteroid, meaning it is primitive in composition and dark in colour. This asteroid was discovered by Johann Palisa on October 17, 1879, in Pola and was named after Hedwig Winnecke (née Dell), wife of astronomer Friedrich A. T. Winnecke. [3] Attempts to determine the rotation period for this asteroid have led to conflicting results. A ...
+URL: https://en.wikipedia.org/wiki/207_Hedda
+
+[207 Hedda - Wikiwand]
+207 Hedda is a sizeable Main belt asteroid. It is a C-type asteroid, meaning it is primitive in composition and dark in colour. This asteroid was discovered by Johann Palisa on October 17, 1879, in Pola and was named after Hedwig Winnecke (née Dell), wife of astronomer Friedrich A. T. Winnecke. [3]
+URL: https://www.wikiwand.com/en/articles/207_Hedda
+
+[Astronomy:207 Hedda - HandWiki]
+Hedda (minor planet designation: 207 Hedda) is a sizeable Main belt asteroid. It is a C-type asteroid, meaning it is primitive in composition and dark in colour. This asteroid was discovered by Johann Palisa on October 17, 1879, in Pola and was named after Hedwig Winnecke (née Dell), wife of astronomer...
+URL: https://handwiki.org/wiki/Astronomy:207_Hedda
+
+[207 Hedda - Alchetron, The Free Social Encyclopedia]
+Sep 28, 2024 · 207 Hedda is a sizeable Main belt asteroid. It is a C-type asteroid, meaning it is primitive in composition and dark in colour. This asteroid was discovered by Johann Palisa on October 17, 1879 in Pola and was named after Hedwig, wife of astronomer Friedrich A. T. Winnecke.
+URL: https://alchetron.com/207-Hedda
+
+[207 Hedda - Wikidata]
+3 October 2025 asteroid spectral type C-type asteroid asteroid taxonomy Tholen classification SMASS classification 1 reference 20000207 17 October 2023 absolute magnitude 10.26 1 reference 20000207 3 October 2025 albedo 0.055 criterion used geometric albedo 1 reference 0.058±0.008 criterion used geometric albedo 1 reference stated in 20000207 ...
+URL: https://www.wikidata.org/wiki/Q147330
+
+
+=== FULL EXTRACTED CONTENT ===
+
+
+--- [207 Hedda - Wikipedia] ---
+207 Hedda is a sizeable Main belt asteroid. It is a C-type asteroid, meaning it is primitive in composition and dark in colour. This asteroid was discovered by Johann Palisa on October 17, 1879, in Pola and was named after Hedwig Winnecke (née Dell), wife of astronomer Friedrich A. T. Winnecke.
+Attempts to determine the rotation period for this asteroid have led to conflicting results. A study published in 2010 using photometric observations from Organ Mesa Observatory showed a rotation period of 19.489 ± 0.002 hours and a brightness variation of 0.18 ± 0.02 in magnitude.
+
+
+--- [207 Hedda - Wikiwand] ---
+No content
+
+
+--- [Astronomy:207 Hedda - HandWiki] ---
+Astronomy:207 Hedda From HandWiki Short description: Main-belt asteroid Orbital diagram | | | Discovery | | |---|---| | Discovered by | Johann Palisa | | Discovery date | 17 October 1879 | | Designations | | | (207) Hedda | | | Pronunciation | German: [ˈhɛdaː] | | Named after | Hedwig Winnecke | | A879 UA, 1932 CL1 1934 XJ, 1953 BF | | | Minor planet category | Main belt | | Orbital characteristics[1] | | | Epoch 31 July 2016 (JD 2457600.5) | | | Uncertainty parameter 0 | | | Observation arc | 133.61 yr (48801 d) | | |{{{apsis}}}|helion}} | 2.3497 astronomical unit|AU (351.51 Gm) | | |{{{apsis}}}|helion}} | 2.2177 AU (331.76 Gm) | | 2.2837 AU (341.64 Gm) | | | Eccentricity | 0.028894 | | Orbital period | 3.45 yr (1260.5 d) | | Average Orbital speed | 19.71 km/s | | Mean anomaly | 34.9926° | | Mean motion | 0° 17m 8.124s / day | | Inclination | 3.8036° | | Longitude of ascending node | 29.212° | | |{{{apsis}}}|helion}} | 2023-Feb-21 | | 192.936° | | | Physical characteristics | | | Dimensions | 58.70±1.3 km | | Rotation period | 30.098 h (1.2541 d)[1] 19.489 h[2] | | Geometric albedo | 0.0552±0.003 | | C | | | Absolute magnitude (H) | 9.92 | Hedda (minor planet designation: 207 Hedda) is a sizeable Main belt asteroid. It is a C-type asteroid, meaning it is primitive in composition and dark in colour. This asteroid was discovered by Johann Palisa on October 17, 1879, in Pola and was named after Hedwig Winnecke (née Dell), wife of astronomer Friedrich A. T. Winnecke.[3] Attempts to determine the rotation period for this asteroid have led to conflicting results. A study published in 2010 using photometric observations from Organ Mesa Observatory showed a rotation period of 19.489 ± 0.002 hours and a brightness variation of 0.18 ± 0.02 in magnitude.[2] References - ↑ 1.01.1 "207 Hedda". JPL Small-Body Database. NASA/Jet Propulsion Laboratory. https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=207. - ↑ 2.02.1 Pilcher, Frederick (January 2010), "Rotational Period Determination for 23 Thalia, 204 Kallisto and 207 Hedda, and Notes on 161 Athor and 215 Oenone", The Minor Planet Bulletin 37 (1): 21–23, Bibcode: 2010MPBu...37...21P. - ↑ Schmadel, L. (2003:31). Dictionary of minor planet names. Germany: Springer. External links - The Asteroid Orbital Elements Database - Asteroid Albedo Compilation - 207 Hedda at AstDyS-2, Asteroids—Dynamic Site - 207 Hedda at the JPL Small-Body Database Original source: https://en.wikipedia.org/wiki/207 Hedda. Read more |
+
+
+--- [207 Hedda - Alchetron, The Free Social Encyclopedia] ---
+Minor planet category Main belt Aphelion 2.3497 AU (351.51 Gm) Orbits Sun Asteroid group Asteroid belt | Discovery date 17 October 1879 Observation arc 133.61 yr (48801 d) Discovered 17 October 1879 Discovery site Pola Observatory | | Alternative names 1932 CL1, 1934 XJ,1953 BF Similar 208 Lacrimosa, 242 Kriemhild, 220 Stephania, 142 Polana, 218 Bianca | 207 Hedda is a sizeable Main belt asteroid. It is a C-type asteroid, meaning it is primitive in composition and dark in colour. This asteroid was discovered by Johann Palisa on October 17, 1879 in Pola and was named after Hedwig, wife of astronomer Friedrich A. T. Winnecke. Attempts to determine the rotation period for this asteroid have led to conflicting results. A study published in 2010 using photometric observations from Organ Mesa Observatory showed a rotation period of 19.489 ± 0.002 hours and a brightness variation of 0.18 ± 0.02 in magnitude. References 207 Hedda Wikipedia(Text) CC BY-SA
+
+
+--- [207 Hedda - Wikidata] ---
+207 Hedda (Q147330) Appearance main-belt asteroid - (207) Hedda - Hedda | Language | Label | Description | Also known as | |---|---|---|---| | default for all languages | 207 Hedda | || | English | 207 Hedda | main-belt asteroid | | Statements 17 October 1879Gregorian 2.349127828259292±0.0000000011145 astronomical unit 2.219006072095686±0.0000000037259 astronomical unit 193.0805103877527±0.0000021531 degree 0.02848466332247723±0.0000000013859 3.799517664923622±0.000000085111 degree 1,260.844915560012±0.00000089727 day 30.098 hour 2.284066950177489±0.0000000010836 astronomical unit 29.08296261295142±0.0000010838 degree 285.7125636039423±0.0000021596 degree 10.26 0.058±0.008 57.88±0.149 kilometre 2,461,260.6803790834±0.0000076402 Julian day 1932 CL1 1934 XJ 1953 BF A879 UA 207 Hedda 0 references Identifiers Sitelinks Wikipedia(45 entries) - arzwiki 207 Hedda (كويكب) - astwiki 207 Hedda - bewiki (207) Геда - cawiki (207) Hedda - cewiki (207) Гедда - dewiki (207) Hedda - elwiki 207 Χέντα - enwiki 207 Hedda - eowiki 207 Hedda - eswiki (207) Hedda - euwiki 207 Hedda - fawiki هدا ۲۰۷ - fiwiki 207 Hedda - frwiki (207) Hedda - hrwiki 207 Hedda - huwiki 207 Hedda - hywiki (207) Հեդդա - itwiki 207 Hedda - jawiki (207) ヘッダ - kkwiki (207) Гедда - lawiki 207 Hedda - lowiki 207 Hedda - ndswiki (207) Hedda - nnwiki 207 Hedda - nowiki 207 Hedda - ocwiki (207) Hedda - plwiki (207) Hedda - ptwiki 207 Hedda - rowiki 207 Hedda - ruwiki (207) Гедда - shwiki 207 Hedda - skwiki 207 Hedda - slwiki 207 Heda - srwiki 207 Hedda - svwiki 207 Hedda - thwiki 207 เฮ็ดดา - tlwiki 207 Hedda - trwiki 207 Hedda - ttwiki (207) Гедда - ukwiki 207 Гедда - viwiki 207 Hedda - yowiki 207 Hedda - zh_min_nanwiki 207 Hedda - zh_yuewiki 小行星207 - zhwiki 小行星207 Wikibooks(0 entries) Wikinews(0 entries) Wikiquote(0 entries) Wikisource(0 entries) Wikiversity(0 entries) Wikivoyage(0 entries) Wiktionary(0 entries) Multilingual sites(1 entry) - commonswiki Category:207 Hedda

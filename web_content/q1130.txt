@@ -1,0 +1,44 @@
+=== SEARCH SNIPPETS ===
+
+[TCG Yavuz (F 240) - Wikipedia]
+They are similar in design to the larger Barbaros -class frigates of the Turkish Navy, which are improved versions of the Yavuz -class frigate. The Turkish Navy has an ongoing limited modernization project for an electronic warfare suite.
+URL: https://en.wikipedia.org/wiki/TCG_Yavuz_(F_240)
+
+[Frigate TCG Yavuz (F240) — Shipshub]
+Selim I (1470 - 1520), known as Selim the Grim or Selim the Resolute (Turkish: Yavuz Sultan Selim), was the Sultan of the Ottoman Empire from 1512 to 1520.
+URL: https://shipshub.com/ships/113-1.html
+
+[TCG Yavuz (F 240) | Military Wiki | Fandom]
+TCG Yavuz (F 240) is the lead ship of Yavuz-class frigate of the Turkish Navy. Yavuz-class frigates were designed in Germany and are part of the MEKO family of modular warships; in this case the MEKO 200 design. An order for ships was signed by the Turkish government in April 1983 for four MEKO...
+URL: https://military-history.fandom.com/wiki/TCG_Yavuz_(F_240)
+
+[TCG Yavuz (F 240) ve HS Themistoklis (F 465) Çanakkale ... - YouTube]
+MEKO 200 dizaynı üzerinden geliştirilmiştir. 1985 yılında denize indirilen ve 1987 yılında hizmete giren TCG Yavuz (F-240), 115,5 metre uzunlukta, 14,2 metre genişliktedir ve 4,1 metre drafta...
+URL: https://www.youtube.com/watch?v=aHvYluFW_q4
+
+[Yavuz class Frigate MEKO200TN Turkish Navy Türk Deniz Kuvvetleri]
+Specifications: Length: 115.5 meters (379 feet) Beam: 14.2 meters (46.59 ft) Draft: 4.1 meters (13.45 ft) Displacement: 2920 tons (full load) Speed: 27 knots (50 km/h), max. Range: 4000 NM (7400 km) at 20 knots (37 km/h) Complement: 170 Propulsion: Combined Diesel and Diesel (CODAD) 4 x MTU 20V 1163 TB93 diesel engines (29050 kW / 38960 hp total)
+URL: https://www.seaforces.org/marint/Turkish-Navy/Frigates/Yavuz-class.htm
+
+
+=== FULL EXTRACTED CONTENT ===
+
+
+--- [TCG Yavuz (F 240) - Wikipedia] ---
+No content
+
+
+--- [Frigate TCG Yavuz (F240) — Shipshub] ---
+Frigate TCG Yavuz (F240) Classification Type: Basic information Namesake: Selim I (1470 – 1520), known as Selim the Grim or Selim the Resolute (Turkish: Yavuz Sultan Selim), was the Sultan of the Ottoman Empire from 1512 to 1520. Operator: Country of build: Builder: Launched: Commissioned (service): Status: Ship measurements Displacement: 2,919 t Length: 115.5 m Length (waterline): 110.5 m Beam: 14.2 m Beam (waterline): 13.5 m Draft: 4.1 m Machine Propulsion: - CODAD - 4 * MTU 20V 1163 diesel-engines - 2 * shafts - 2 * controllable pitch propellers - 30,000 hp (22,000 kW) - 3 * MTU/SIEMENS 775 kW (auxiliary) Speed: 27 knots Range: 4,000 nautical miles (7,000 km) at 20 knots (37 km/h) Personnel Complement: 185 Combat assets Electronics: - TM 1126 radar - AWS-6 radar - HSA D08 radar - HSA STIR 124 radar - SQS-56 sonar - Rapid/Rameses suite - Mk 36 decoy Armament: - 2 * 4 Mk 141 Launcher for RGM-84 Harpoon - 1 * MK 21 Guided Missile Launching System for 16 * RIM-7 Sea Sparrow - 1 * 127 mm (5 in) 127/54 MK 45 gun - 3 * Oerlikon Contraves Sea Zenith 25 mm CIWS gun systems - 2 * 3 12.75 in Mk.32 torpedo tubes Aircraft: - 1 * AB 212 ASW helicopter - Helicopter pad - Hangar
+
+
+--- [TCG Yavuz (F 240) | Military Wiki | Fandom] ---
+No content
+
+
+--- [TCG Yavuz (F 240) ve HS Themistoklis (F 465) Çanakkale ... - YouTube] ---
+About Press Copyright Contact us Creators Advertise Developers Impressum Cancel Memberships Terms Privacy Policy & Safety How YouTube works Test new features © 2026 Google LLC
+
+
+--- [Yavuz class Frigate MEKO200TN Turkish Navy Türk Deniz Kuvvetleri] ---
+| HOME | US Navy - ships | US Navy - air units | USMC - air units | International Navies | Weapon Systems | Special Reports | ||| | | ||| | | ||| | Turkish Navy / Türk Deniz Kuvvetleri Yavuz class Frigate (MEKO-200TN) | ||| | | ||| | | ||| | 08/20 | ||| | Ships: | ||| | F 240 TCG Yavuz (1987) F 241 TCG Turgutreis (1988) F 242 TCG Fatih (1988) F 243 TCG Yildirim (1989) | ||| | Specifications: | ||| | ||| | The Yavuz class are a group of four frigates that were built for the Turkish Navy. They were designed in Germany and are part of the MEKO family of modular warships; in this case the MEKO 200 design. Two ships were built in Germany and two in Turkey with German assistance. They are similar in design to the larger Barbaros-class frigates of the Turkish Navy, which are improved versions of the Yavuz-class frigate. The Turkish Navy has an ongoing procurement project for an Electronic Warfare Suite. The intent is to locally produced the ECM, ECCM systems, active decoys, LWRs, IRST and the necessary user interface systems. An order for ships was signed by the Turkish government in April 1983 for two MEKO frigates to be built in Germany and two to be built in Turkey. | ||| | images for more images go to the individual ship-site | ||| | F 240 TCG Yavuz F 241 TCG Turgutreis F 242 TCG Fatih F 243 TCG Yildirim ARMAMENT + DETAILS Mk-45 Mod.2 main gun (5-inches / 54-caliber) - forward Oerlikon Contraves Sea Zenith 25mm close-in weapon system (CIWS) Mk-141 tube launcher for 2x4 RGM-84 Harpoon SSM - Mk-32 triple torpedo tubes radar and antenna arrangement 2 x Oerlikon Contraves Sea Zenith 25mm CIWS, aft - Mk-29 box launcher for 2x4 RIM-7 Sea Sparrow SAM missiles - fire control radars (CIWS and SAM) 2 x Oerlikon Contraves Sea Zenith 25mm CIWS Mk-141 tube launcher for 2x4 RGM-84 Harpoon SSM missiles Mk-32 triple torpedo tubes - Mk-29 box launcher for 2x4 RIM-7 Sea Sparrow SAM missiles Mk-45 Mod.2 main gun (5-inches / 54-caliber) | ||| | | ||| | | seaforces.org | Turkish Navy start page | |

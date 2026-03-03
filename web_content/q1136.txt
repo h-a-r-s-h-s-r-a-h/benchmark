@@ -1,0 +1,45 @@
+=== SEARCH SNIPPETS ===
+
+[List of Boston Red Sox managers]
+The most World Series championships won by a Red Sox manager is two, accomplished by Bill Carrigan (1915 and 1916) and Francona (2004 and 2007). John McNamara ...
+URL: https://en.wikipedia.org/wiki/List_of_Boston_Red_Sox_managers
+
+[first和firstly以及first of all有什么区别? - 知乎]
+以下是一些例句： The first step is to gather your materials. Firstly, let's discuss the budget. First of all, we need to identify the problem. 在大多数情况下，"first" 和 "firstly" 可以互换使用，但 "firstly" 通常用于强调某件事是最重要的。 "first of all" 则通常用于引出一系列要点或步骤。
+URL: https://www.zhihu.com/question/626729181
+
+[Red Sox All-time Managers - Boston]
+Red Sox All-time Managers ; Alex Cora, 2018-2019, 2021-present, 192-132 (through 2019); Won 2018 World Series ; John Farrell, 2013-2017, 432-378; Won 2013 World ...
+URL: https://www.mlb.com/redsox/history/managers
+
+[Last name 和 First name 到底哪个是名哪个是姓？ - 知乎]
+Last name 和 First name 到底哪个是名哪个是姓？ 上学的时候老师说因为英语文化中名在前，姓在后，所以Last name是姓，first name是名，假设一个中国人叫孙悟空，那么他的first nam… 显示全部 关注者 460
+URL: https://www.zhihu.com/question/20031049
+
+[At the first time和for the first time 的区别是什么？ - 知乎]
+At the first time和for the first time的区别主要体现在语义和用法两个方面。 At the first time：意思是“第一次”， 强调的是某一个具体的时刻或时间点。 For the first time：意思是“首次”， 更多强调的是一个时间段内 的首次经历或发生。
+URL: https://www.zhihu.com/question/313064228
+
+
+=== FULL EXTRACTED CONTENT ===
+
+
+--- [List of Boston Red Sox managers] ---
+The Boston Red Sox are a professional baseball team based in Boston, Massachusetts. The Red Sox are members of the American League (AL) East Division in Major League Baseball (MLB).  They have competed since 1901, initially as the Boston Americans (1901–1907), and under their current name since 1908. Since 1912, the Red Sox have played their home games at Fenway Park. In baseball, the head coach of a team is called the manager, or more formally, the field manager. There have been 48 different managers in franchise history; the current manager is Alex Cora, who previously managed the team during the 2018 and 2019 seasons and was re-hired by the team on November 6, 2020.
+Jimmy Collins was the first manager of the franchise, managing from 1901 to 1906. Among all Red Sox managers, Joe Cronin managed the most regular season games (2,007) and registered the most regular season wins (1,071), while Terry Francona managed the most playoff games (45) and registered the most playoff wins (28). The most World Series championships won by a Red Sox manager is two, accomplished by Bill Carrigan (1915 and 1916) and Francona (2004 and 2007). John McNamara and Jimy Williams are the only two Red Sox managers to win the AL Manager of the Year Award, in 1986 and 1999, respectively.
+
+
+--- [first和firstly以及first of all有什么区别? - 知乎] ---
+No content
+
+
+--- [Red Sox All-time Managers - Boston] ---
+Red Sox All-time Managers | Name | Years Served | Record | |---|---|---| | Ron Roenicke | 2020 | 24-36 | | Alex Cora | 2018-2019, 2021-present | 192-132 (through 2019); Won 2018 World Series | | John Farrell | 2013-2017 | 432-378; Won 2013 World Series | | Bobby Valentine | 2012 | 69-93 | | Terry Francona | 2004-2011 | 744-552; Won 2004 & 2007 World Series | | Grady Little | 2002-2003 | 188-136 | | Joe Kerrigan | 2001 | 17-26 | | Jimy Williams | 1997-2001 | 414-352 | | Kevin Kennedy | 1995-1996 | 171-135 | | Butch Hobson | 1992-1994 | 207-232 | | Joe Morgan | 1988-1991 | 301-262 | | John McNamara | 1985-1988 | 297-273 | | Ralph Houk | 1981-1984 | 312-282 | | Don Zimmer | 1976-1980 | 411-304 | | Darrell Johnson | 1974-1976 | 220-188 | | Eddie Kasko | 1970-1973 | 345-295 | | Eddie Popowski | 1969 | 6-4 | | Dick Williams | 1967-1969 | 260-217 | | Pete Runnels | 1966 | 8-8 | | Billy Herman | 1964-1966 | 128-182 | | Johnny Pesky | 1963-1964, 1980 | 147-179 | | Billy Jurges | 1959-1960 | 59-63 | | Del Baker | 1960 | 2-5 | | Rudy York | 1959 | 0-1 | | Pinky Higgins | 1955-1959, 1960-1962 | 560-556 | | Lou Boudreau | 1952-1954 | 229-232 | | Steve O'Neill | 1950-1951 | 150-99 | | Joe McCarthy | 1948-1950 | 223-145 | | Joe Cronin | 1935-1947 | 1,071-916 | | Bucky Harris | 1934 | 76-76 | | Marty McManus | 1932-1933 | 95-153 | | Shano Collins | 1931-1932 | 73-134 | | Heinie Wagner | 1930 | 52-102 | | Lee Fohl | 1924-1926 | 160-299 | | Frank Chance | 1923 | 61-91 | | Hugh Duffy | 1921-1922 | 136-172 | | Ed Barrow | 1918-1920 | 213-203 | | Jack Barry | 1917 | 90-62 | | Bill Carrigan | 1913-1916, 1927-1929 | 489-500 | | Jake Stahl | 1912-1913 | 144-88 | | Patsy Donovan | 1910-1911 | 159-147 | | Fred Lake | 1908-1909 | 110-80 | | Deacon McGuire | 1907-1908 | 98-123 | | Bob Unglaub | 1907 | 9-20 | | George Huff | 1907 | 2-6 | | Chick Stahl | 1906 | 14-26 | | Jimmy Collins | 1901-1906 | 455-376 |
+
+
+--- [Last name 和 First name 到底哪个是名哪个是姓？ - 知乎] ---
+No content
+
+
+--- [At the first time和for the first time 的区别是什么？ - 知乎] ---
+No content

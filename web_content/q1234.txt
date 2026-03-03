@@ -1,0 +1,109 @@
+=== SEARCH SNIPPETS ===
+
+[2022 Rugby Europe Championship - Wikipedia]
+The winner and runner-up of the two-year cycle automatically qualify for the tournament as Europe 1 and Europe 2 respectively while the team in third place advances to the final qualification tournament as Europe 3.
+URL: https://en.wikipedia.org/wiki/2022_Rugby_Europe_Championship
+
+[Match case statement with multiple 'or' conditions in each case]
+Dec 2, 2022 · Match case statement with multiple 'or' conditions in each case Ask Question Asked 3 years, 2 months ago Modified 1 year, 6 months ago
+URL: https://stackoverflow.com/questions/74655787/match-case-statement-with-multiple-or-conditions-in-each-case
+
+[Spain Men vs Netherlands | Rugby Europe Championship ...]
+View the latest Spain Men vs Netherlands | Rugby Europe Championship match, including their scores, standings, and highlights.
+URL: https://supersport.com/rugby/match/2da19539-1fc6-4072-8bef-8e535bd6311b
+
+[JavaScript - Use variable in string match - Stack Overflow]
+Although the match function doesn't accept string literals as regex patterns, you can use the constructor of the RegExp object and pass that to the String.match function:
+URL: https://stackoverflow.com/questions/3172985/javascript-use-variable-in-string-match
+
+[MISinformation: WWC23: Netherlands v Spain (Quarterfinal)]
+MISinformation WWC23 Netherlands v Spain QuarterfinalMISinformation is the sequel to the MISinformation newsletters I started sending a monthly newsletter to my Boston friends in 1988. I continued the tradition for about five more years or until I had kids. Spai...
+URL: https://mis-misinformation.blogspot.com/2023/08/wwc23-netherlands-v-spain-quarterfinal.html
+
+
+=== FULL EXTRACTED CONTENT ===
+
+
+--- [2022 Rugby Europe Championship - Wikipedia] ---
+The 2022 Rugby Europe Championship was the sixth Rugby Europe Championship, the annual rugby union for the top European national teams outside the Six Nations Championship, and the 52nd edition of the competition (including all its previous incarnations as the FIRA Tournament, Rugby Union European Cup, FIRA Nations Cup, FIRA Trophy and European Nations Cup). 
+The 2022 Championship was contested by Georgia, The Netherlands, Portugal, Romania, Russia and Spain.
+Georgia enter the tournament as defending champions. They topped the table after winning all of their matches in the 2021 tournament, claiming their 13th title and 10th Grand Slam as a result.
+As in several other sports, Russia were disqualified after Week 3 due to the 2022 Russian invasion of Ukraine.
+This year's edition of the Rugby Europe Championship doubles as the second year of the 2023 Rugby World Cup qualifiers for the European region. The winner and runner-up of the two-year cycle automatically qualify for the tournament as Europe 1 and Europe 2 respectively while the team in third place advances to the final qualification tournament as Europe 3.
+
+
+--- [Match case statement with multiple 'or' conditions in each case] ---
+# Match case statement with multiple &#39;or&#39; conditions in each case
+
+Is there a way to assess whether a case statement variable is inside a particular list? We have three lists:
+a = [1, 2, 3]
+b = [4, 5, 6]
+c = [7, 8, 9]
+
+Then I want to check whether x is in each list. Something like this (of course this is a Syntax Error but I hope you get the point):
+match x:
+    case in a:
+        return "132"
+    case in b:
+        return "564"
+    case in c:
+        return "798"
+
+This can be easy with an if-else scenario. Nonetheless, focusing on the match-case, if one has many lists. And big lists, it would be a mundane task to write them like that:
+match x:
+    case 1 | 2 | 3:
+        return "132"
+    case 4 | 5 | 6:
+        return "564"
+    case 7 | 8 | 9:
+        return "762"
+
+Is there an easy way to check for multiple conditions for each case, without having to write them down?
+
+
+## Accepted Answer
+
+cases accept a "guard" clause, which you can use for this purpose:
+match x:
+    case w if w in a:
+        return "132"
+    case w if w in b:
+        return "564"
+    case w if w in c:
+        return "798"
+
+the w here actually captures the value of x, part of the syntax here too, but it's more useful in some other fancy cases listed on the linked whatsnew page.
+
+
+
+--- [Spain Men vs Netherlands | Rugby Europe Championship ...] ---
+Saturday 5 Feb 2022 Estadio Nacional Complutense, TBC Tries Santiago Ovejero71' Gauthier Minguillon65' Manuel Ordas56' Alvar Gimeno44' Jordi Jorba38' Marco Pinto23' Asier Usarraga10' Conversion Mathieu Belie72' Manuel Ordas45', 24', 11' End End Mathieu Belie Conversion Santiago Ovejero Try Jade Plane Out: Christopher Raymond Michael Hogg Out: Facundo Dominguez Gauthier Minguillon Try Storm Carroll Out: Mees van Oord Bautista Guemes Out: Fabien Perrin Robin Moenen Out: Hugo Langelaan Tomas Munilla Out: Guillaume Rouet Manuel Ordas Try Anibal Bonan Out: Manuel Mora Mark Coebergh Out: Caleb Korteweg Lodi Buijs Out: Andy Darlington Mike Mbaud Out: Ross Bennie-Coulson Dennis van Dijken Out: Louis Bruinsma Mathieu Belie Out: Julen Goia Joel Merkler Out: Jon Zabala Santiago Ovejero Out: Marco Pinto Gavin van den Berg Out: Fernando Lopez Manuel Ordas Conversion Alvar Gimeno Try Start Start Jon Zabala Out: Joel Merkler End End Jordi Jorba Try Christopher Raymond Out: Mike Mbaud Joel Merkler Out: Jon Zabala Mike Mbaud Out: Christopher Raymond Manuel Ordas Conversion Marco Pinto Try Ross Bennie-Coulson Yellow Card Manuel Ordas Conversion Asier Usarraga Try Mees van Oord Out: Bart Wierenga Start Start Estadio Nacional Complutense, TBC Saturday, 5 February 2022
+
+
+--- [JavaScript - Use variable in string match - Stack Overflow] ---
+# JavaScript - Use variable in string match
+
+I found several similar questions, but it did not help me. So I have this problem:
+
+var xxx = "victoria";
+var yyy = "i";
+alert(xxx.match(yyy/g).length);
+
+
+I don't know how to pass variable in match command. Please help. Thank you.
+
+
+## Accepted Answer
+
+Although the match function doesn't accept string literals as regex patterns, you can use the constructor of the RegExp object and pass that to the String.match function:
+
+var re = new RegExp(yyy, 'g');
+xxx.match(re);
+
+
+Any flags you need (such as /g) can go into the second parameter. 
+
+
+
+--- [MISinformation: WWC23: Netherlands v Spain (Quarterfinal)] ---
+And it's back to Wellington for the first Quarterfinal match! Careful planning when last in Wellington meant that I arrived the day before the game and did a night tour at Zealandia with Mark Moir. And my New Zealand adventure is complete having now seen a Kiwi in real life (the bird, not the residents of New Zealand). They are every bit as cute and awkward as they are depicted and it was genuinely exciting to tramp around at night and peak in bushes to see the kiwi doing his thing (and yes, the one we saw was a he). We were also treated to a nice clear view as he waddled across our path (so, why does the Kiwi cross the path?). The Dutch had a good first round, tying the US, beating Portugal 1-0, and trouncing Vietnam soundly. Spain had a bit of a rougher first round: they accumulated a bunch of goals against Zambia and Costa Rica and then were soundly beaten 4-0 by Japan. I was cheering for Spain, in large part due to their amazing footwork and fast-paced play. The Netherlands seem well-disciplined and skilled, but much less artful and creative. We were seated in one of the cold corners of the field. You may recall from the USA/Netherlands match that the stadium in Wellington can boast multiple climate zones during the same game. Last time, we were in the sunny zone; this time we were most definitely in the cold zone, but at least it was dry and not terribly windy. It was a match for the ages. The Dutch were bigger and more physical, and the ref let play progress uninterrupted for the most part. The crowd was largely Dutch (based on the orange hue throughout the stadium and the bit of a cheering contest the local TV personalities encouraged before the game). But there was no booing and there was universal appreciation for good soccer. And there was a lot of good soccer! It was an end to end match with Spain dominating in possession, but the Dutch making the most of absolutely every opportunity presented to them. However, the Spanish defense was a thing of beauty, and they were quite successful keeping the Dutch away from any shooting opportunities. In contrast, the Spaniards made sure that the Dutch goalkeeper did not get chilly. Spain took control of the game both maintaining possession and pushing forward on breathtaking attacks. The Dutch counterattacks looked threatening, but they were not able to create a single on-target shot! In the 38th minute, Redonda found Gonzalez who drilled the ball into the net. Unfortunately, our friendly VAR detected that Gonzalez was offsides and the it became the goal that wasn't. The Dutch players and fans breathed a synchronized sigh of relief and the Spaniards went back to work. But, at halftime, the score remained 0-0. Spain wastes no time and setting the tone for the second half: in the opening fifteen seconds, Gonzalez sends a shot a hair's width outside the goal. Beerensteyn, the speedy Dutch forward continues to test the Spanish defense. She is blazingly fast and agile; she constantly gives the Spanish back line a run for their money, and in minute 63, it appears that Paredes commited a foul against her in the box. This time, the trusty VAR reveals that, in fact, perhaps there was no foul, and the Dutch are no longer on the cusp of a potential 1-0 lead. And then, in a cruel twist of fate, in the 79th minute, the VAR shows reveals a Van de Gragt did, in fact, have handball in the box. Penalty! Caldenty places the ball perfectly in the lower right corner and it's Spain 1-0! The clock ticks up to 90 and the game moves into 12 minutes of extra time. Spain is still leading and the Dutch effort does seem a biut frantic, but twelve minutes is an eternity in soccer! And it did not take an eternity: two minutes into extra time, Van de Gragt makes up for the earlier handball with a brilliant goal that seemed to come out of the middle of nowhere!. It's a 1-1 game! Perhaps Spain had let up just a bit, and that's all it took to push this game into overtime. This lifesaver sends the Dutch into the first overtime period flying and Spain looking a bit flat. However, a couple of near-misses by the Dutch trigger the adrenaline rush and Spain are back at it. The first overtime period ends at 1-1 and you can feel the PK dread spreading around the stadium. In the opening minutes of the second overtime, Beerensteyn threatens, but her shot goes just a tad wide. Spain really has dominated this game, but they have not been able to put the ball in the net from the run of play; does this mean we are destined for a shootout? Fortunately not! Substitute Paralluelo single-handedly carries the ball about half a field and sends a blazing shot into the far side of the net. Spain 2-1! And there are only nine (official) minutes left in the match. And the rest is history: for eleven more minutes, it's an end to end frenzy for the Dutch and an end-to-end relentless push and defend from Spain. Final: Spain 2 - Netherlands 1! What a game!!!
