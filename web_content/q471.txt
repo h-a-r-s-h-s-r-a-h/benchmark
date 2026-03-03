@@ -1,0 +1,44 @@
+=== SEARCH SNIPPETS ===
+
+[Past Award Winners - About ISCB]
+Accomplishments by a Senior Scientist Past Award Recipients 2025 - Amos Bairoch 2024 - Tandy Warnow 2023 - Mark Gerstein 2022 - Ron Shamir 2021 - Peer Bork 2020 - Steven L. Salzberg 2019 - Bonnie Berger 2018 - Ruth Nussinov 2017 - Pavel Pevzner 2016 - Søren Brunak 2015 - Cyrus Chothia 2014 - Gene Myers 2013 - David Eisenberg 2012 - Gunnar von ...
+URL: https://www.iscb.org/about-iscb/awards-and-competitions/past-award-winners
+
+[ISCB Senior Scientist Award - Wikipedia]
+The ISCB Accomplishment by a Senior Scientist Award[1] is an annual prize awarded by the International Society for Computational Biology for contributions to the field of computational biology.
+URL: https://en.wikipedia.org/wiki/ISCB_Senior_Scientist_Award
+
+[Accomplishment by a Senior Scientist Award - transition.iscb.org]
+The Accomplishment by a Senior Scientist Award recognizes a member of the computational biology community who is more than two decades post-degree (or equivalent professional experience) and has made major contributions to the field of computational biology.
+URL: https://transition.iscb.org/iscb-awards/accomplishment-senior-scientist-award
+
+[2003 Accomplishment by a Senior Scientist Award - David Sankoff]
+David Sankoff. The ISCB will present the first-ever ISCB Senior Scientist Accomplishment Award to David Sankoff, Canada Research Chair in Mathematical Genomics ...
+URL: https://www.iscb.org/89-ISCB%20About%20Us/awards6/1135-2003-assa-sankoff
+
+[Double recognition of EBI scientists by the ISCB - EMBL]
+Feb 28, 2005 · The ISCB’s Senior Scientist Accomplishment Award, first given in 2003 to David Sankoff (University of Ottawa) and then in 2004 to David Lipman (US National Center for Biotechnology Information, Bethesda, USA), recognizes established members of the computational biology community who have made major contributions to the field through research ...
+URL: https://www.embl.org/news/embl-announcements/double-recognition-of-ebi-scientists-by-the-iscb/
+
+
+=== FULL EXTRACTED CONTENT ===
+
+
+--- [Past Award Winners - About ISCB] ---
+Accomplishments by a Senior Scientist Past Award Recipients 2025 - Amos Bairoch 2024 - Tandy Warnow 2023 - Mark Gerstein 2022 - Ron Shamir 2021 - Peer Bork 2020 - Steven L. Salzberg 2019 - Bonnie Berger 2018 - Ruth Nussinov 2017 - Pavel Pevzner 2016 - Søren Brunak 2015 - Cyrus Chothia 2014 - Gene Myers 2013 - David Eisenberg 2012 - Gunnar von Heijne 2011 - Michael Ashburner 2010 - Chris Sander 2009 - Webb Miller 2008 - David Haussler 2007 - Temple F Smith 2006 - Michael S Waterman 2005 - Janet Thornton 2004 - David Lipman 2003 - David Sankoff ISCB Innovator Past Award Recipients 2025 - Fabian Theis 2024 - Sun-In Lee 2023 - Dana Pe'er 2022 - Nuria Lopez-Bigas 2021 - Ben Raphael 2020 - Xiaole Shirley Liu 2019 - William Stafford Noble 2018 - M. Madan Babu 2017 - Aviv Regev 2016 - Serafim Batzoglou Outstanding Service Past Award Recipients 2025 - Lucia Peixoto 2024 - Scott Markel 2023 - Shoba Ranganathan 2022 - Reinhard Schneider 2021 - Teresa Attwood 2020 - Judith Blake 2019 - Barbara Bryant 2018 - Russ Altman 2017 - Fran Lewitter 2016 - Burkhard Rost 2015 - Larry Hunter Overton Prize Past Award Recipients 2025 - James Zou 2024 - Martin Steinegger 2023 - Jingyi Jessica Li 2022 - Po-Ru Loh 2021 - Barbara Engelhardt 2020 - Jian Peng 2019 - Christophe Dessimoz 2018 - Cole Trapnell 2017 - Christoph Bock 2016 - Debora Marks 2015 - Curtis Huttenhower 2014 - Dana Pe'er 2013 - Goncalo Abecasis 2012 - Ziv Bar-Joseph 2011 - Olga Troyanskaya 2010 - Steven E. Brenner 2009 - Trey Ideker 2008 - Aviv Regev 2007 - Eran Segal 2006 - Mathieu Blanchette 2005 - Ewan Birney 2004 - Uri Alon 2003 - Jim Kent 2002 - David Baker 2001 - Christopher B. Burge
+
+
+--- [ISCB Senior Scientist Award - Wikipedia] ---
+The ISCB Accomplishment by a Senior Scientist Award is an annual prize awarded by the International Society for Computational Biology for contributions to the field of computational biology.
+
+
+--- [Accomplishment by a Senior Scientist Award - transition.iscb.org] ---
+Accomplishment by a Senior Scientist Award The Accomplishment by a Senior Scientist Award recognizes a member of the computational biology community who is more than two decades post-degree (or equivalent professional experience) and has made major contributions to the field of computational biology. 2025 ISCB Accomplishments by a Senior Scientist Award: Amos Bairoch | Past ISCB Award Recipients | | | 2024 | Tandy Warnow | | 2023 | Mark Gerstein | | 2022 | Ron Shamir | | 2021 | Peer Bork | | 2020 | Steven L. Salzberg | | 2019 | Bonnie Berger | | 2018 | Ruth Nussinov | | 2017 | Pavel Pevzner | | 2016 | Søren Brunak | | 2015 | Cyrus Chothia | | 2014 | Gene Myers | | 2013 | David Eisenberg | | 2012 | Gunnar von Heijne | | 2011 | Michael Ashburner | | 2010 | Chris Sander | | 2009 | Webb Miller | | 2008 | David Haussler | | 2007 | Temple Smith | | 2006 | Michael Waterman | | 2005 | Janet Thornton | | 2004 | David Lipman | | 2003 | David Sankoff |
+
+
+--- [2003 Accomplishment by a Senior Scientist Award - David Sankoff] ---
+An error has occurred while processing your request. You may not be able to visit this page because of: If the above actions are not the issue, please send a screenshot of this error page to programmer@iscb.org. Be sure to include the URL that you were attempting to visit and the following error message: 404 Page not found Go to the Home Page
+
+
+--- [Double recognition of EBI scientists by the ISCB - EMBL] ---
+EMBL-EBI Press Office Wellcome Genome Campus Hinxton, Cambridgeshire CB10 1SD, UK media@ebi.ac.uk+44 1223 494369
