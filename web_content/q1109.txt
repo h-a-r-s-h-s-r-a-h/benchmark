@@ -1,0 +1,46 @@
+=== SEARCH SNIPPETS ===
+
+[Granat - Wikipedia]
+Granat was a three-axis-stabilized spacecraft and the last of the 4MV Bus produced by the Lavochkin Scientific Production Association. It was similar to the Astron observatory which was functional from 1983 to 1989; for this reason, the spacecraft was originally known as the Astron 2.
+URL: https://en.wikipedia.org/wiki/Granat
+
+[Helio Data | Data Discovery for the Heliophysics Community]
+Originally called Astron 2, Granat was an X- and gamma-ray astronomical observatory studying high energy emissions from galactic and extra-galactic sources. It was launched from Tyuratam by a four-stage Proton (D-1-e) booster.
+URL: https://helio.data.nasa.gov/mission/Granat
+
+[SPASE Resource Description]
+Originally called Astron 2, Granat was an X- and gamma-ray astronomical observatory studying high energy emissions from galactic and extra-galactic sources. It was launched from Tyuratam by a four-stage Proton (D-1-e) booster. The observatory was based on the main bus design of earlier Venera ...
+URL: https://spase-metadata.org/SMWG/Observatory/Granat
+
+[Granat - Imagine the Universe! - NASA]
+Dec 11, 2018 — Granat was a dedicated X-ray and gamma-ray astronomical observatory designed to study high-energy emission from galactic and extra-galactic sources.
+URL: https://imagine.gsfc.nasa.gov/observatories/history/missions/granat.html
+
+[Granat | Proton-K/Block D-1 | Next Spaceflight]
+Originally called Astron 2, Granat was an X- and gamma-ray astronomical observatory studying high energy emissions from galactic and extra-galactic sources. It was launched from Tyuratam by a four-stage Proton-K Blok-D-1 booster.
+URL: https://nextspaceflight.com/launches/details/6637/
+
+
+=== FULL EXTRACTED CONTENT ===
+
+
+--- [Granat - Wikipedia] ---
+The International Astrophysical Observatory "GRANAT" (usually known as Granat; Russian: Гранат, lit. pomegranate), was a Soviet (later Russian) space observatory developed in collaboration with France, Denmark and Bulgaria. It was launched on 1 December 1989 aboard a Proton rocket and placed in a highly eccentric four-day orbit, of which three were devoted to observations. It operated for almost nine years.
+In September 1994, after nearly five years of directed observations, the gas supply for its attitude control was exhausted and the observatory was placed in a non-directed survey mode. Transmissions finally ceased on 27 November 1998.
+With seven different instruments on board, Granat was designed to observe the universe at energies ranging from X-ray to gamma ray. Its main instrument, SIGMA, was capable of imaging both hard X-ray and soft gamma-ray sources. The PHEBUS instrument was meant to study gamma-ray bursts and other transient X-Ray sources. Other experiments such as ART-P were intended to image X-Ray sources in the 35 to 100 keV range. One instrument, WATCH, was designed to monitor the sky continuously and alert the other instruments to new or interesting X-Ray sources. The ART-S spectrometer covered the X-ray energy range while the KONUS-B and TOURNESOL experiments covered both the X-ray and gamma ray spectrum.
+
+
+--- [Helio Data | Data Discovery for the Heliophysics Community] ---
+No content
+
+
+--- [SPASE Resource Description] ---
+Originally called Astron 2, Granat was an X- and gamma-ray astronomical observatory studying high energy emissions from galactic and extra-galactic sources. It was launched from Tyuratam by a four-stage Proton (D-1-e) booster. The observatory was based on the main bus design of earlier Venera and VEGA missions. It was cylindrical, about 4 m long and 2.5 m in diameter. Two solar panels extended from either side of the main body. Mass was about 4 metric tons, with 2.3 metric tons of experiments. The major experiment was a French Sigma coded-mask gamma radiation telescope. It measured 3.5 m by 1.2 m diameter and had a 4.45 by 4.20 deg. field of view. The satellite also carried a spectroscope and an X-ray imaging telescope. The astrophysics payload was developed in cooperation with France, Bulgaria and Denmark. The mission was expected to last 18 months, however, lengthy ground delays may have reduced its on-orbit life to eight months. Version:2.2.2 Originally called Astron 2, Granat was an X- and gamma-ray astronomical observatory studying high energy emissions from galactic and extra-galactic sources. It was launched from Tyuratam by a four-stage Proton (D-1-e) booster. The observatory was based on the main bus design of earlier Venera and VEGA missions. It was cylindrical, about 4 m long and 2.5 m in diameter. Two solar panels extended from either side of the main body. Mass was about 4 metric tons, with 2.3 metric tons of experiments. The major experiment was a French Sigma coded-mask gamma radiation telescope. It measured 3.5 m by 1.2 m diameter and had a 4.45 by 4.20 deg. field of view. The satellite also carried a spectroscope and an X-ray imaging telescope. The astrophysics payload was developed in cooperation with France, Bulgaria and Denmark. The mission was expected to last 18 months, however, lengthy ground delays may have reduced its on-orbit life to eight months. | Role | Person | StartDate | StopDate | Note | | |---|---|---|---|---|---| | 1. | GeneralContact | spase://SMWG/Person/Natalia.E.Papitashvili | Information about the Granat mission
+
+
+--- [Granat - Imagine the Universe! - NASA] ---
+Granat Lifetime: December 1989 - November 1998 Country (primary): Soviet Union Primary Science Granat was a dedicated X-ray and gamma-ray astronomical observatory designed to study high-energy emission from galactic and extra-galactic sources. Science Highlights - Deep imaging of the galactic center region - Discovery of electron-positron annihilation lines from a micro-quasar and an X-ray nova - Study of the spectra and time variability of black hole candidates - Detection of a number of gamma-ray bursts
+
+
+--- [Granat | Proton-K/Block D-1 | Next Spaceflight] ---
+No content
