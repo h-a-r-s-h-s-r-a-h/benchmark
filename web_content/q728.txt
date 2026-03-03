@@ -1,0 +1,45 @@
+=== SEARCH SNIPPETS ===
+
+[WhatsApp]
+In May 2022, the file upload limit was raised from 100 MB to 2 GB, and the maximum group size increased to 512 members.
+URL: https://en.wikipedia.org/wiki/WhatsApp
+
+[WhatsApp group limits and file sizes get big increase]
+May 6, 2022 — WhatsApp has started rolling out an update that increases the maximum number of group chat participants to 512. This doubles the previous limit of 256 group ...
+URL: https://mybroadband.co.za/news/smartphones/443438-whatsapp-group-limits-and-file-sizes-get-big-increase.html
+
+[WhatsApp introduces ways to call anyone even those not on the app]
+Sep 27, 2022 — In May 2022, the file upload limit was raised from 100 MB to 2 GB, and the maximum group size increased to 512 members. Last month, WhatsApp ...
+URL: https://nairobinews.nation.africa/whatsapp-introduces-ways-to-call-anyone-even-those-not-on-the-app/
+
+[whatapp Features.docx - Features In November 2010, a slate of ...]
+Apr 24, 2024 — [159] In May 2022, the file upload limit was raised from 100 MB to 2 GB, and maximum group size increased to 512 members. [160] In April ...
+URL: https://www.collegesidekick.com/study-docs/11676961
+
+[Usman 02 | PDF | Mac Os | Ios]
+[5. In May 2022, the file upload limit was raised from 100 MB to 2 GB, and maximum group size increased to 512 members.[144] In August 2022, WhatsApp ...
+URL: https://www.scribd.com/document/620458275/usman02
+
+
+=== FULL EXTRACTED CONTENT ===
+
+
+--- [WhatsApp] ---
+WhatsApp Messenger, commonly known simply as WhatsApp, is an American social media, instant messaging (IM), and Voice over IP (VoIP) service accessible via desktop and mobile app. Owned by Meta Platforms, the service allows users to send text messages, voice messages, and video messages, make voice and video calls, and share images, documents, user locations, and other content. The service requires a cellular mobile telephone number to register. WhatsApp was launched in May 2009. In January 2018, WhatsApp released a standalone business app called WhatsApp Business which can communicate with the standard WhatsApp client. As of May 2025, the service had 3 billion monthly active users, making it the most used messenger app. The name of the app is meant to sound like "what's up".
+The service was created by WhatsApp Inc. of Mountain View, California, which was acquired by Facebook in February 2014 for approximately US$19.3 billion. It became the world's most popular messaging application in 2015, with 900 million users, and had more than 2 billion active users worldwide in February 2020. WhatsApp Business had approximately 200 million monthly users in 2023. By 2016, it had become the primary means of Internet communication in regions including the Americas, the Indian subcontinent, and large parts of Europe and Africa.
+
+
+--- [WhatsApp group limits and file sizes get big increase] ---
+WhatsApp group limits and file sizes get big increase WhatsApp has started rolling out an update that increases the maximum number of group chat participants to 512. This doubles the previous limit of 256 group members. WhatsApp said the increase had been one of the top requested features from users. The Meta-owned platform announced its plans for WhatsApp Communities last month. Communities is a revamp of WhatsApp groups that will bring together separate group chats under one umbrella and promises better management tools for admins. However, Meta (formerly Facebook) won’t roll out Communities in one big update. WhatsApp said it would be deploying upgrades over the next several weeks. Yesterday it announced the launch of message reactions, a file size limited increase, and the increase in group size limited. “We’re now building for organisations, businesses, and other close-knit groups to communicate securely and get things done on WhatsApp,” the company said in a blog post on Thursday. It was reported last month that WhatsApp was testing the new file limit with a small group of beta users in Argentina. This feature is now rolling out to all WhatsApp users. The file size upgrade lets you send documents up to 2GB — a substantial increase from the previous limit of 100MB.
+
+
+--- [WhatsApp introduces ways to call anyone even those not on the app] ---
+WhatsApp introduces ways to call anyone even those not on the app Mobile application WhatsApp has announced the introduction of call links this week. In a post on Twitter, Will Cathcart, WhatsApp Head Manager in Meta, tweeted, “Excited to introduce Call Links on @WhatsApp so you can easily start or join a call using just a link. Available for both audio and video calls starting this week.” Once operational, WhatsApp users will be able to send the link to not only all their contact lists but also to contacts that are not on WhatsApp. “Add the link to an invite or send in a chat, now planning and joining calls is easier than ever,” a post from the WhatsApp account read. Also read: Exclusive: I want to go home to mourn mum – DJ Evolve Launched in January 2009, WhatsApp, the mobile application allows its users to send text and voice messages, make voice and video calls, and share images, documents, and user locations, among other functions. In January 2018, WhatsApp released a standalone business app called WhatsApp Business which can communicate with the standard WhatsApp client. It became the world’s most popular messaging application by 2015 and had more than 2 billion users worldwide by February 2020. In April 2022, WhatsApp announced updated plans to roll out a Communities feature allowing several group chats to exist in a shared space, getting unified notifications and opening up smaller discussion groups. Also read: Watch: Pastor Nganga humiliates wife before congregation The company also announced plans to implement reactions, the ability for administrators to delete messages in groups and voice calls to up to 32 participants. In May 2022, the file upload limit was raised from 100 MB to 2 GB, and the maximum group size increased to 512 members. Last month, WhatsApp enabled one to leave groups silently. In a post, they said, “Leave groups silently is a new feature that will only notify the admin when you leave a group chat. That means you can decide when to make a quiet exit—without everyone knowing.” Also read: Exclusive: Singer Bahati speaks on Diana Marua’s health following eerie Instagram post Exclusive: ‘The experience is magical,’ Lillian Ng’ang’a opens up about motherhood Officially married? Kamene Goro, DJ Bonez spot wedding rings during vacation Kenyans on TikTok excited after Japanese animation series features Nairobi, Kenyan cuisine – Video
+
+
+--- [whatapp Features.docx - Features In November 2010, a slate of ...] ---
+No content
+
+
+--- [Usman 02 | PDF | Mac Os | Ios] ---
+WhatsApp File Limit and Group Size Update WhatsApp is an internationally available freeware, cross-platform messaging and voice calling service owned by Meta. It allows users to send texts, images, documents and make voice/video calls. WhatsApp was founded in 2009 by ex-Yahoo employees and has grown rapidly to over 1 billion users worldwide by 2017, becoming the largest messaging platform. It uses a customized version of the XMPP protocol and automatically connects users with contacts in their phone books. WhatsApp File Limit and Group Size Update
