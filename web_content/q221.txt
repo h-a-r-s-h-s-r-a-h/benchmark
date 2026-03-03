@@ -1,0 +1,87 @@
+=== SEARCH SNIPPETS ===
+
+[Regency Personalities Series-Henry Charles Howard 13th Duke of Norfolk]
+Feb 5, 2014 — On 4 May 1829 Norfolk, then Earl of Surrey, was elected to the House of Commons for Horsham. When he took his seat he became the first Roman ...
+URL: https://thethingsthatcatchmyeye.wordpress.com/2014/02/05/regency-personalities-series-henry-charles-howard-13th-duke-of-norfolk/
+
+[Set time, date and time zone - Clock Help - Google Help]
+You can change your clock’s settings, including the date, time, and time zone. You can set how your alarms and timers work, and add clocks for other cities. Change time and time zone
+URL: https://support.google.com/clock/answer/2841106?hl=en
+
+[DATE - Google Docs Editors Help]
+DATE will silently recalculate numeric dates which fall outside of valid month or day ranges. For example, DATE(1969,13,1), which specifies the illegal month 13, will create a date of 1/1/1970.
+URL: https://support.google.com/docs/answer/3092969?hl=en
+
+[Catherine Howard]
+Catherine Howard ( c. 1523 – 13 February 1542) was Queen of England from July 1540 until November 1541 as the fifth wife of King Henry VIII.
+URL: https://en.wikipedia.org/wiki/Catherine_Howard
+
+[windows - What does...]
+Mar 22, 2016 · The above command line defines an environment variable with name fileName starting with fixed string db_, appending with %date:~-4,4% the last four characters of the current locale date which is obviously the year, appending with %date:~-10,2% the tenth and ninth characters from right side of the current locale date which is most likely the month,
+URL: https://stackoverflow.com/questions/36147552/what-does-date-4-4date-10-2date-7-2-time0-2time3-2-mean
+
+
+=== FULL EXTRACTED CONTENT ===
+
+
+--- [Regency Personalities Series-Henry Charles Howard 13th Duke of Norfolk] ---
+Regency Personalities Series In my attempts to provide us with the details of the Regency, today I continue with one of the many period notables. Henry Charles Howard 13th Duke of Norfolk 12 August 1791 – 18 February 1856 Henry Charles Howard Norfolk was the son of Bernard Edward Howard, 12th Duke of Norfolk, and Lady Elizabeth, daughter of Henry Belasyse, 2nd Earl Fauconberg. He gained the courtesy title Earl of Surrey when his father succeeded as Duke of Norfolk in 1815. On 4 May 1829 Norfolk, then Earl of Surrey, was elected to the House of Commons for Horsham. When he took his seat he became the first Roman Catholic to sit in the House after Catholic emancipation. Surrey held the Horsham seat until 1832, and then represented West Sussex between 1832 and 1841. He was sworn of the Privy Council in 1837 and served under Lord Melbourne as Treasurer of the Household between 1837 and 1841. The latter year he was summoned to the House of Lords through a writ of acceleration in his father’s junior title of Baron Maltravers, and served briefly under Melbourne as Captain of the Yeomen of the Guard between July and August 1841. The following year he succeeded his father in the dukedom of Norfolk. When the Whigs returned to office under Lord John Russell in 1846, Norfolk was made Master of the Horse, a position he retained until the government fell in 1852. He later served as Lord Steward of the Household in Lord Aberdeen’s coalition government between 1853 and 1854. He was invested a Knight of the Garter in 1848. In 1854, Norfolk agreed to lease land to Sheffield Cricket Club near Bramall Lane for ninety-nine years, a site which is now home to Sheffield United. Norfolk married Lady Charlotte Sophia, daughter of George Leveson-Gower, 1st Duke of Sutherland, in 1814. They had five children: - Lady Adeliza Matilda Fitzalan-Howard, married her second cousin, Lord George Manners. - Henry Granville Fitzalan-Howard, 14th Duke of Norfolk. - Edward George Fitzalan-Howard, 1st Baron Howard of Glossop. - Lady Mary Charlotte Howard, married Thomas Foley, 4th Baron Foley. - Lord Bernard Thomas Fitzalan-Howard. Norfolk died in February 1856, aged 64, and was succeeded in the dukedom by his eldest son, Henry. The Duchess of Norfolk died in July 1870
+
+
+--- [Set time, date and time zone - Clock Help - Google Help] ---
+You can change your clock’s settings, including the date, time, and time zone. You can set how your alarms and timers work, and add clocks for other cities. Change time and time zone - Open your device's Clock app . - Tap More Settings. - To pick your home time zone: Tap Home time zone. - To add a clock for home while in another time zone: Turn on Automatic home clock. - To automatically update the time: Tap Change date and time. Turn Automatic date and time on. - To set a time zone automatically: Tap Change date and time. Under “Time zone,” turn Automatic time zone on. Important: - Your device may use location to determine your time zone. - If “Use location” is turned off, your device location won’t be used to detect your timezone. - If “Use location” is turned on, your device location may be used to detect your timezone. - Some devices only support using location to set the time zone, like Wifi-only tablets. These don’t have a "Use location" setting. - To set a time zone manually: Tap Change date & time Time zone. - If present: Turn off Set automatically. - Tap Time zone and select your time zone. Tip: Only some devices let you automatically set the time zone. Change alarm settings - Open your device's Clock app . - Tap More Settings. - Under "Alarms": - Choose how long your alarm rings: Tap Silence after. - Choose how long "snoozing" delays an alarm: Tap Snooze length. - Change your alarm’s volume: Use the "Alarm volume" slider. - Have an alarm become louder over time: Tap Gradually increase volume. - Choose what the volume buttons do: Tap Volume buttons. They can control volume, snooze an alarm, or dismiss an alarm. - Pick what day your week starts on: Tap Start week on. Change timer settings - Open your device's Clock app . - Tap More Settings. - Under "Timers": - Pick the ringtone that plays when the timer ends: Tap Timer sound. - Make the timer sound become louder over time, Tap Gradually increase volume. - Have the timer vibrate: Tap Timer vibrate. Tip: Not all devices have a timer vibrate option. Add clocks for other cities - Open your device's Clock app . - Tap World Clock. - At the bottom, tap Add . - Type the name of a city in the search bar, then tap the city you want to add. - Reorder a city: Touch and hold a city, then move it up or down in the list. - Delete a city: Swipe to the left or right on the city you want to delete.
+
+
+--- [DATE - Google Docs Editors Help] ---
+Converts a year, month, and day into a date. Sample Usage DATE(1969,7,20) DATE(A2,B2,C2) Syntax DATE(year, month, day) - year - The year component of the date. - month - The month component of the date. - day - The day component of the date. Notes - Inputs to DATE must be numbers - if a string or a reference to a cell containing a string is provided, the#VALUE! error will be returned. - DATE will silently recalculate numeric dates which fall outside of valid month or day ranges. For example,DATE(1969,13,1) , which specifies the illegal month 13, will create a date of 1/1/1970. Similarly,DATE(1969,1,32) , which specifies the non-existent 32nd day of January, will create a date of 2/1/1969. - DATE will silently truncate decimal values input into the function, e.g. a month of 12.75 will be interpreted as 12. - Google Sheets uses the 1900 date system. It counts the days since December 30, 1899 (not including December 30, 1899). - Between 0 and 1899, Google Sheets adds that value to 1900 to calculate the year. For example, DATE(119,2,1) will create a date of 2/1/2019. - For years 1900 to 9999, Google Sheets will use that value as the year. For example, DATE(2019,1,2) will create a date of 1/2/2019. - For years less than 0 or greater than 10,000, Google Sheets will return the #NUM! error value. See Also TO_DATE : Converts a provided number to a date. TIME : Converts an hour, minute, and second into a time. N : Returns the argument provided as a number. DATEVALUE : Converts a provided date string in a known format to a date value.
+
+
+--- [Catherine Howard] ---
+Catherine Howard (c. 1523 – 13 February 1542) was Queen of England from July 1540 until November 1541 as the fifth wife of King Henry VIII. She was the daughter of Lord Edmund Howard and Joyce Culpeper, a first cousin to Anne Boleyn (the second wife of Henry VIII), and the niece of Thomas Howard, 3rd Duke of Norfolk. Thomas Howard was a prominent politician at Henry's court. He secured her a place in the household of Henry's fourth wife, Anne of Cleves, where Howard caught the King's interest. She married him on 28 July 1540 at Oatlands Palace in Surrey, just 19 days after the annulment of his marriage to Anne. Henry was 49, and it is widely accepted that Catherine was about 17 at the time of her marriage to him.
+Catherine was stripped of her title as queen in November 1541 and beheaded three months later on the grounds of treason for committing adultery with her distant cousin, Thomas Culpeper.
+
+
+--- [windows - What does...] ---
+# What does %date:~-4,4%%date:~-10,2%%date:~-7,2%_%time:~0,2%%time:~3,2% mean?
+
+I have this part of script that create a variable called fileName used later to name a file.
+
+set fileName=db_%date:~-4,4%%date:~-10,2%%date:~-7,2%_%time:~0,2%%time:~3,2%.bak
+
+
+What does %date:~-4,4%%date:~-10,2%%date:~-7,2%_%time:~0,2%%time:~3,2% mean?
+
+
+## Accepted Answer
+
+Opening a command prompt window and running there set /? outputs the help for command SET.
+There is explained on last help page that %DATE% expands to the current locale date and %TIME% to the current locale time on parsing the line containing those dynamic variable references.
+The format of the date and the time depends on Windows region and language settings. It is necessary for that reason to execute in a command prompt window:
+echo Date is: %DATE%
+echo Time is: %TIME%
+
+or alternatively
+echo %DATE% %TIME%
+
+best executed before 10:00 AM to know the locale date and time string formats. Is the date with weekday? What is the order of day, month, and year in date string? Is the time in 12- or 24-hours format? Is the time always with a two-digit hour?
+In output help of command SET is explained also %Variable:~X,Y% to get a substring of a string of a variable value from position X in string with Y characters length.
+The first character in a string has position number (character index) 0.
+A negative value for X means X characters from end of string (from right side).
+set fileName=db_%date:~-4,4%%date:~-10,2%%date:~-7,2%_%time:~0,2%%time:~3,2%.bak
+
+The above command line defines an environment variable with name fileName
+
+starting with fixed string db_,
+appending with %date:~-4,4% the last four characters of the current locale date which is obviously the year,
+appending with %date:~-10,2% the tenth and ninth characters from right side of the current locale date which is most likely the month,
+appending with %date:~-7,2% the seventh and sixth characters from right side of the current locale date which is most likely the day,
+appending an underscore as separator between date in format yyyyMMdd and time in format HHmm,
+appending with %time:~0,2% the first two characters of the current locale time which is obviously the hour with always two digits in 24-hour format,
+appending with %time:~3,2% the fourth and fifth character of the current locale time which is obviously the minute and
+appending the file extension .bak.
+
+The result of this variable definition with several substrings can be verified by executing in a command prompt window:
+echo db_%date:~-4,4%%date:~-10,2%%date:~-7,2%_%time:~0,2%%time:~3,2%.bak
+
+The substring references from date string are done from right side (end of string) instead of left side (beginning of string) to make the definition independent on weekday present or missing at the beginning of the date string.
+
