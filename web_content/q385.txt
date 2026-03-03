@@ -1,0 +1,47 @@
+=== SEARCH SNIPPETS ===
+
+[Türksat 2A]
+Türksat 2A was launched by Arianespace atop an Ariane-44P H10-3 launch vehicle on January 10, 2001, at 21:39 UTC from ELA-2 at the Guiana Space Centre in Kourou ...
+URL: https://en.wikipedia.org/wiki/T%C3%BCrksat_2A
+
+[Eurasiasat 1 (Türksat 2A) - Gunter's Space Page]
+Jun 2, 2025 — The satellite was retired in 2016 and was moved into a graveyard orbit above the geostationary belt.
+URL: https://space.skyrocket.de/doc_sdat/eurasiasat-1.htm
+
+[Türkiye to open new chapter in space with launch of 1st indigenous ...]
+Jun 26, 2024 — In January 2001, Turksat 2A was launched to provide domestic and foreign networks and operated until September 2016. Turksat 3A, 4A, and 4B were ...
+URL: https://www.aa.com.tr/en/turkiye/turkiye-to-open-new-chapter-in-space-with-launch-of-1st-indigenous-communications-satellite/3259270
+
+[Türksat (satellite)]
+Decommissioned (2010). Turkey · Türksat 2A, 10 January 2001. European Union. ELA-2 Guiana Space Centre. European Union. Ariane-44P H10-3, 3,530 kg (7,780 lb) ...
+URL: https://en.wikipedia.org/wiki/T%C3%BCrksat_(satellite)
+
+[Türkiye to open new chapter in space with launch of 1st indigenous ...]
+Jun 27, 2024 — In January 2001, Turksat 2A was launched to provide domestic and foreign networks and operated until September 2016. Turksat 3A, 4A, and 4B were ...
+URL: https://en.yenisafak.com/technology/turkiye-to-open-new-chapter-in-space-with-launch-of-1st-indigenous-communications-satellite-3686606
+
+
+=== FULL EXTRACTED CONTENT ===
+
+
+--- [Türksat 2A] ---
+Türksat 2A, a.k.a. Eurasiasat 1, was a Turkish communications satellite as part of a project to form an instant network with two geosynchronous satellites that are supervised by the companies Türksat A.Ş. in Turkey and Eurasiasat SAM in Monaco.
+Türksat 2A was launched by Arianespace atop an Ariane-44P H10-3 launch vehicle on January 10, 2001, at 21:39 UTC from ELA-2 at the Guiana Space Centre in Kourou, French Guiana. The spacecraft was successfully placed into geostationary transfer orbit and then shifted to 42°E position, co-locating with Türksat 1C, which was launched in 1996. Its broadcast traffic entered service on February 1, 2001.
+Turksat 2A was designed for covering Europe, Turkey on west spot and Turkey and Central Asia including Middle East and Russia on east spot so as to serve simultaneously within that region, and to provide direct connection between Europe and Central Asia. It is based on the Alcatel Spacebus 3000B3 series having an on-orbit mass of 3,530 kg (7,780 lb) with 9,200 W power. The communications payload consists of 36 Ku band transponders consisting of 22 pieces of 33 MHz fixed beam transponders and 10 transponders of 36 MHz bandwidth with two additional steerable beams.
+
+
+--- [Eurasiasat 1 (Türksat 2A) - Gunter's Space Page] ---
+Eurasiasat 1 (T�rksat 2A) [Thales Alenia Space] The satellite Eurasiasat 1 (also known as T�rksat 2A) is positioned at 42�E, where it is co-located with T�rksat 1C. The satellite is operated by Eurasiasat SAM, Monaco. The 3535 kg spacecraft was built by Alcatel Space Industries using a Spacebus-3000B3 satellite bus. The satellite is equipped with 32 Ku-band transponders, and has an expected design life of 12 years. The satellite was retired in 2016 and was moved into a graveyard orbit above the geostationary belt. | Nation: | T�rkiye (Turkey) | |---|---| | Type / Application: | Communication | | Operator: | Eurasiasat SAM / T�rksat AS | | Contractors: | Aerospatiale | | Equipment: | 32 Ku-band transponders | | Configuration: | Spacebus-3000B3 | | Propulsion: | S400 | | Power: | 2 deployable solar arrays, batteries | | Lifetime: | 12 years | | Mass: | 3535 kg | | Orbit: | GEO | | Satellite | COSPAR | Date | LS | Launch Vehicle | Remarks | | |---|---|---|---|---|---|---| | Eurasiasat 1 (T�rksat 2A) | 2001-002A | 10.01.2001 | Ko ELA-2 | Ariane-44P H10-3 |
+
+
+--- [Türkiye to open new chapter in space with launch of 1st indigenous ...] ---
+No content
+
+
+--- [Türksat (satellite)] ---
+Türksat is the name of a series of Turkish communications satellites operated or projected by the state-owned Türksat A.Ş.
+Satellite telecommunication is provided by the Gölbaşı Ground Station in Ankara, Turkey.
+
+
+--- [Türkiye to open new chapter in space with launch of 1st indigenous ...] ---
+Türkiye to open new chapter in space with launch of 1st indigenous communications satellite Turksat 6A's launch in mid-July to mark new milestone in Türkiye's presence in space Türkiye in mid-July will launch the country's first indigenous communications satellite in line with its National Space Program. The launching of Turksat 6A will mark a new milestone in the country's efforts to enter the ranks of countries developing their own communications satellites. Türkiye now stands out as a country capable of manufacturing versatile technologies, ranging from defense to communication systems. Türkiye's efforts in space go back to Jan. 24, 1994, when the country's first communications satellite test was done, with the launch of Turksat 1A. The project was short-lived due to a malfunction which sent the craft back to earth. Its successor, Turksat 1B, was launched on Aug. 10, 1994, enabling Türkiye to enter the ranks of countries with satellites in space. Turksat 1C was launched in July 1996, covering Türkiye, Western Europe, and Central Asia, and it was decommissioned in 2010. In January 2001, Turksat 2A was launched to provide domestic and foreign networks and operated until September 2016. Turksat 3A, 4A, and 4B were launched in 2008, 2011, and 2015, respectively. In January 2021, Turksat 5A was launched to orbit to operate for 30 years, providing a wider coverage, ranging to North Africa, Central West Africa, and South Africa, in addition to Europe and the Middle East. Turksat 5B was launched that December, boosting Türkiye's satellite capacity more than 15 times. It was one of the country's most powerful satellites, providing a wide coverage area including the entire Middle East, Persian Gulf, Red Sea, Mediterranean, North and East Africa, Nigeria, South Africa, and neighboring countries. As for Turksat 6A, the craft was sent to the US on June 4, and it is scheduled to be launched to orbit in mid-July. The country's first indigenous communications satellite will provide services to Europe, North Africa, the Middle East and most of Asia. In addition to communications satellites, Türkiye boasts observation and intelligence satellites. Türkiye's first remote sensing satellite, Bilsat, was put into orbit in 2003, in collaboration with a UK-based firm. The country's first observation satellite was Rasat, launched in 2011, and the first indigenous observation satellite is Imece, launched in April 2023. The Gokturk-1 and Gokturk-2 satellites, used for high-resolution intelligence, were launched in 2012 and 2016, respectively. Advertisement

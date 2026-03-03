@@ -1,0 +1,44 @@
+=== SEARCH SNIPPETS ===
+
+[Census Bureau Data]
+Learn about America's People and Economy on the official United States Census Bureau data platform. Explore, customize, and download Census data tables, maps, charts, profiles, and microdata.
+URL: https://data.census.gov/
+
+[ACCORDING Definition & Meaning - Merriam-Webster]
+The meaning of ACCORD is to grant or give especially as appropriate, due, or earned. How to use accord in a sentence. Did you know? Synonym Discussion of Accord.
+URL: https://www.merriam-webster.com/dictionary/according
+
+[Weston, Ohio]
+Geography. According to the United States Census Bureau, the village has a total area of 1.13 square miles (2.93 km2), all land.
+URL: https://en.wikipedia.org/wiki/Weston,_Ohio
+
+[2020 Census Results]
+Aug 21, 2024 · Learn more about the data from the 2020 Census, including detailed demographic and housing data, apportionment counts, and redistricting data.
+URL: https://www.census.gov/programs-surveys/decennial-census/decade/2020/2020-census-results.html
+
+[ACCORDING | English meaning - Cambridge Dictionary]
+Phrasal verb accord with something (Definition of according from the Cambridge Advanced Learner's Dictionary & Thesaurus © Cambridge University Press)
+URL: https://dictionary.cambridge.org/dictionary/english/according
+
+
+=== FULL EXTRACTED CONTENT ===
+
+
+--- [Census Bureau Data] ---
+We're sorry but this website doesn't work properly without JavaScript enabled. Please enable it to continue.
+
+
+--- [ACCORDING Definition & Meaning - Merriam-Webster] ---
+accorded; according; accords 1 : to grant or give especially as appropriate, due, or earned The competitors should all be accorded equal respect. 2 : to bring into agreement : reconcile 1 : to be consistent or in harmony : agree —usually used with with a theory that accords with the known facts 2 archaic : to arrive at an agreement 3 obsolete : to give consent 1 a : agreement, conformity acted in accord with the company's policy 2 : voluntary or spontaneous impulse to act gave generously of their own accord 3 : balanced interrelationship : harmony 4 obsolete : assent Love words? Need even more definitions? Merriam-Webster unabridged
+
+
+--- [Weston, Ohio] ---
+Weston is a village in Wood County, Ohio, United States. The population was 1,455 at the 2020 census.  Weston is located just 10 miles west of Bowling Green, Ohio, a university town.
+
+
+--- [2020 Census Results] ---
+Learn about plans to release more detailed results on the About 2020 Census Data Products page. The 2020 Census has numerous quality checks built into data collection and data processing. After the data are released, we continue to do an even deeper dive to evaluate the quality of the census in two major ways: These products are the geographic framework that supports the official P.L. 94-171 Redistricting Data. These products include maps, geographic information system files (shapefiles), and tabular data.
+
+
+--- [ACCORDING | English meaning - Cambridge Dictionary] ---
+according In English, many past and present participles of verbs can be used as adjectives. Some of these examples may show the adjective use. For orders not pre-paid, postage and packing will be charged according to the weight of the book. Cost utility analysis permits the cost of treatment to be considered according to the amount of benefit afforded to the patients. The phonetic analysis further bolstered the hypothesis that he added -ed endings according to a pseudo-suffixation strategy. According to this definition - ideology-as-shorthand - it should have been no more difficult to assess a party's positions than to formulate one's own ideology. The probabilistic model ranks documents according to their probability of being relevant to a query - the ordering principle. According to this hypothesis, neither random errors nor morphologically and syntactically more complex structures would be expected. The hunter selects a velocity uniformly at random between 0 and 1 and proceeds in a clockwise direction according to this velocity. According to this report, although most married couples sired approximately six to seven children, only one or two survived. We can chop timber according to our needs. In a second step, codification tables were created and material was organized according to these themes. While the volume is not organized according to themes, a number of themes emerge. Data were categorized according to the themes included in the questionnaire and the interviews. The response variability of the simulated spike trains generated according to this model was then calculated in the same way as for the real data. Figure 2 shows the excitation trajectories optimized under constraints according to the criterion based on the determinant of the covariance matrix. The number of visits is given according to the abundance of trees, infested trees and mistletoes. These examples are from corpora and from sources on the web. Any opinions in the examples do not represent the opinion of the Cambridge Dictionary editors or of Cambridge University Press or its licensors.
