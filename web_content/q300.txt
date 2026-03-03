@@ -1,0 +1,46 @@
+=== SEARCH SNIPPETS ===
+
+[224 Oceana - Wikipedia]
+224 Oceana is an asteroid from the asteroid belt. It was discovered by Austrian astronomer Johann Palisa on 30 March 1882, in Vienna. It was named after the Pacific Ocean. Based upon its spectrum, it is classified as an M-type asteroid, but is not metallic. A light curve generated from photometric observations of this asteroid at Pulkovo Observatory show a rotation period of 9.401 ± 0.001 ...
+URL: https://en.wikipedia.org/wiki/224_Oceana
+
+[224 Oceana - Wikidata]
+instance of · asteroid. 1 reference · named after · Pacific Ocean. 2 references · follows · 223 Rosa. 1 reference · followed by · 225 Henrietta. 1 reference.
+URL: https://www.wikidata.org/wiki/Q148360
+
+[224 Oceana - Mark Andrew Holmes]
+Asteroid 224, Oceana, was discovered on March 30, 1882 by Johann Palisa at Vienna. It has a period of 4 years, 116 days and is 61.82 kilometers (about 38 2/5 miles) in diameter. It was named for the Pacific Ocean by the French governor of Tahiti in 1883.
+URL: https://www.markandrewholmes.com/oceana.html
+
+[224 Oceana Explained]
+Jul 31, 2016 · 224 Oceana is an asteroid from the asteroid belt. It was discovered by Austrian astronomer Johann Palisa on 30 March 1882, in Vienna. It was named after the Pacific Ocean. Based upon its spectrum, it is classified as an M-type asteroid, but is not metallic. A light curve generated from photometric observations of this asteroid at Pulkovo Observatory show a rotation period of 9.401 ± 0.001 ...
+URL: https://everything.explained.today/224_Oceana/
+
+[224 Oceana]
+It was named for the Pacific Ocean by the French governor of Tahiti in 1883. The meaning of asteroid Oceana seems to be (Henk Middelraad): huge area (Henk ...
+URL: http://markandrewholmes.com/oceana.html
+
+
+=== FULL EXTRACTED CONTENT ===
+
+
+--- [224 Oceana - Wikipedia] ---
+224 Oceana is an asteroid from the asteroid belt. It was discovered by Austrian astronomer Johann Palisa on 30 March 1882, in Vienna. It was named after the Pacific Ocean. Based upon its spectrum, it is classified as an M-type asteroid, but is not metallic.
+A light curve generated from photometric observations of this asteroid at Pulkovo Observatory show a rotation period of 9.401 ± 0.001 hours and a brightness variation of 0.09 ± 0.01 in magnitude.
+224 Oceana was one of five minor planets included in the 1993 study, Transition Comets -- UV Search for OH Emissions in Asteroids, which was research involving amateur astronomers who were permitted to make use of the Hubble Space Telescope.
+
+
+--- [224 Oceana - Wikidata] ---
+224 Oceana (Q148360) Appearance main-belt asteroid - (224) Oceana - Oceana | Language | Label | Description | Also known as | |---|---|---|---| | default for all languages | 224 Oceana | || | English | 224 Oceana | main-belt asteroid | | Statements 30 March 1882Gregorian 2.763426074157999±0.000000002646 astronomical unit 2.526724853673337±0.0000000053079 astronomical unit 281.7312752866358±0.0000030646 degree 0.04474375565343202±0.0000000016328 5.84482172130668±0.00000012659 degree 1,571.287035843881±0.0000022568 day 9.401 hour 2.645075463915668±0.0000000025327 astronomical unit 352.732734238183±0.0000013632 degree 62.92472469890856±0.0000031125 degree 0.166±0.019 58.236±0.822 kilometre 2,460,725.853321796±0.000013297 Julian day 1933 HO A899 EA A882 FA 224 Oceana 0 references Identifiers Sitelinks Wikipedia(42 entries) - arzwiki 224 Oceana (كويكب) - astwiki 224 Oceana - cawiki (224) Oceana - cewiki (224) Океана - dewiki (224) Oceana - elwiki 224 Ωκεάνα - enwiki 224 Oceana - eowiki 224 Oceano - eswiki (224) Oceana - euwiki 224 Ozeana - fawiki اوشیانا ۲۲۴ - fiwiki 224 Oceana - frwiki (224) Oceana - huwiki 224 Oceana - hywiki (224) Օկեանա - itwiki 224 Oceana - jawiki (224) オケアナ - kkwiki (224) Океана - lawiki 224 Oceana - ndswiki (224) Oceana - nnwiki 224 Oceana - nowiki 224 Oceana - ocwiki (224) Oceana - plwiki (224) Oceana - ptwiki 224 Oceana - rowiki 224 Oceana - ruwiki (224) Океана - shwiki 224 Oceana - skwiki 224 Oceana - slwiki 224 Oceana - srwiki 224 Oceana - svwiki 224 Oceana - thwiki 224 โอเชียนา - tlwiki 224 Oceana - trwiki 224 Oceana - ttwiki (224) Океана - ukwiki 224 Океана - viwiki 224 Oceana - yowiki 224 Oceana - zh_min_nanwiki 224 Oceana - zh_yuewiki 小行星224 - zhwiki 太平洋星 Wikibooks(0 entries) Wikinews(0 entries) Wikiquote(0 entries) Wikisource(0 entries) Wikiversity(0 entries) Wikivoyage(0 entries) Wiktionary(0 entries) Multilingual sites(1 entry) - commonswiki Category:224 Oceana
+
+
+--- [224 Oceana - Mark Andrew Holmes] ---
+Asteroid 224, Oceana, was discovered on March 30, 1882 by Johann Palisa at Vienna. It has a period of 4 years, 116 days and is 61.82 kilometers (about 38 2/5 miles) in diameter. It was named for the Pacific Ocean by the French governor of Tahiti in 1883. The meaning of asteroid Oceana seems to be (Henk Middelraad): huge area (Henk Middelraad); also (it has been said), having to do with the ocean.
+
+
+--- [224 Oceana Explained] ---
+No content
+
+
+--- [224 Oceana] ---
+Asteroid 224, Oceana, was discovered on March 30, 1882 by Johann Palisa at Vienna. It has a period of 4 years, 116 days and is 61.82 kilometers (about 38 2/5 miles) in diameter. It was named for the Pacific Ocean by the French governor of Tahiti in 1883. The meaning of asteroid Oceana seems to be (Henk Middelraad): huge area (Henk Middelraad); also (it has been said), having to do with the ocean.
