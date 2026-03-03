@@ -8151,3 +8151,80 @@
 
 [742/4326] What city was Richard Serra in when he created his work "To Lift"?
   → Searching web...
+  ✓ Search done (47973ms, 4 sources, 6096 chars context)
+  → Asking LLM...
+  ✓ LLM answered (1381ms): New York City (Manhattan)
+  → Judging answer...
+  ✓ Verdict: CORRECT [smart-match] (0ms)
+    Expected : New York
+    Got      : New York City (Manhattan)
+  📊 Progress: 742/4326 | Accuracy: 81.8%
+
+[743/4326] In what city was the first International Stroke Conference held?
+  → Searching web...
+  ✓ Search done (48587ms, 5 sources, 6046 chars context)
+  → Asking LLM...
+  ✓ LLM answered (1130ms): Dallas.
+  → Judging answer...
+  ✓ Verdict: CORRECT [smart-match] (0ms)
+    Expected : Dallas
+    Got      : Dallas.
+  📊 Progress: 743/4326 | Accuracy: 81.8%
+
+[744/4326] How many singles did Chip Fields-Hurd record for Buddah Records?
+  → Searching web...
+  ✓ Search done (11081ms, 5 sources, 6133 chars context)
+  → Asking LLM...
+  ✓ LLM answered (2102ms): 2
+  → Judging answer...
+  ✓ Verdict: CORRECT [llm-judge] (309ms)
+    Expected : Two.
+    Got      : 2
+  📊 Progress: 744/4326 | Accuracy: 81.9%
+
+[745/4326] What is the maximum depth of the Mediterranean Sea in meters?
+  → Searching web...
+  ✓ Search done (11894ms, 5 sources, 6108 chars context)
+  → Asking LLM...
+  ✓ LLM answered (1353ms): 5109 m.
+  → Judging answer...
+  ✓ Verdict: CORRECT [llm-judge] (315ms)
+    Expected : 5109 m
+    Got      : 5109 m.
+  📊 Progress: 745/4326 | Accuracy: 81.9%
+
+[746/4326] What is the name of the project that won the 2008 ACM Software System Award?
+  → Searching web...
+  ✓ Search done (13188ms, 5 sources, 6095 chars context)
+  → Asking LLM...
+  ✓ LLM answered (1498ms): Gamma Parallel Database System
+  → Judging answer...
+  ✓ Verdict: CORRECT [smart-match] (0ms)
+    Expected : Gamma Parallel Database System
+    Got      : Gamma Parallel Database System
+  📊 Progress: 746/4326 | Accuracy: 81.9%
+
+[747/4326] What was saxophonist "Buster" Smith's full birth name?
+  → Searching web...
+  ✓ Search done (6027ms, 5 sources, 6133 chars context)
+  → Asking LLM...
+  ✓ LLM answered (1311ms): Henry Franklin "Buster" Smith
+  → Judging answer...
+  ✓ Verdict: CORRECT [smart-match] (0ms)
+    Expected : Henry Franklin Smith
+    Got      : Henry Franklin "Buster" Smith
+  📊 Progress: 747/4326 | Accuracy: 81.9%
+
+[748/4326] What was the date, month, and year when "Selective Availability" was discontinue...
+  → Searching web...
+  ✓ Search done (8462ms, 5 sources, 6084 chars context)
+  → Asking LLM...
+  ✓ LLM answered (1195ms): May 2, 2000
+  → Judging answer...
+  ✓ Verdict: CORRECT [smart-match] (0ms)
+    Expected : 02-May-00
+    Got      : May 2, 2000
+  📊 Progress: 748/4326 | Accuracy: 82.0%
+
+[749/4326] What were the month, day, and year Whig politician James Vernon the Younger was ...
+  → Searching web...
