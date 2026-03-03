@@ -1,0 +1,49 @@
+=== SEARCH SNIPPETS ===
+
+[Parliament of Singapore]
+It convenes during sessions, with the first session commencing after a general election. A session ends when Parliament is prorogued or dissolved, and each ...
+URL: https://en.wikipedia.org/wiki/Parliament_of_Singapore
+
+[4th Parliament of Singapore - Wikipedia]
+The 4th Parliament of Singapore was a meeting of the Parliament of Singapore. Its first session commenced on 7 February 1977 and was prorogued on 2 October 1978. It commenced its second session on 26 December 1978 and was dissolved on 5 December 1980. [1] The members of the 4th Parliament were elected in the 1976 general election.
+URL: https://en.wikipedia.org/wiki/4th_Parliament_of_Singapore
+
+[Parliament of Singapore (PARL)]
+Parliament will be sitting from 4 March to 6 March 2026. Sitting on 4 March 2026 will commence at 10.00 am. On sitting days, the livestream of Parliament ...
+URL: https://www.parliament.gov.sg/
+
+[4th Parliament of Singapore explained]
+The 4th Parliament of Singapore was a meeting of the Parliament of Singapore. Its first session commenced on 7 February 1977 and was prorogued on 2 October 1978. It commenced its second session on 26 December 1978 and was dissolved on 5 December 1980. [1] The members of the 4th Parliament were elected in the 1976 general election.
+URL: https://everything.explained.today/4th_Parliament_of_Singapore/
+
+[Singapore separates from Malaysia and becomes independent]
+On 9 August 1965, Singapore separated from Malaysia to become an independent and sovereign state. The separation was the result of deep political and ...
+URL: https://www.nlb.gov.sg/main/article-detail?cmsuuid=dc1efe7a-8159-40b2-9244-cdb078755013
+
+
+=== FULL EXTRACTED CONTENT ===
+
+
+--- [Parliament of Singapore] ---
+The Parliament of Singapore is the unicameral legislature of the Republic of Singapore, which governs the country alongside the President of Singapore. Based on the Westminster system, it consists of elected Members of Parliament (MPs), Non-constituency MPs (NCMPs) and Nominated MPs (NMPs). Following the 2025 general election, 97 MPs from two political parties, the governing People's Action Party (PAP) and the opposition Workers' Party (WP), were elected to the 15th Parliament. 2 NCMPs from the latter were also appointed ("elected" in the language of Singaporean law). Nine NMPs are usually appointed by the president on a biennial basis.
+The Speaker of Parliament presides over sittings and oversees the administration of Parliament. The Leader of the House is appointed by the prime minister to manage government business and the legislative programme, while the Leader of the Opposition leads the largest political party not in government. Some work is carried out by select committees of MPs. Standing committees are permanent, while ad hoc committees are established to examine specific matters, including bills. Selected backbenchers of the PAP also serve on Government Parliamentary Committees (GPCs) to review policies, programmes and proposed legislation of government ministries.
+Parliament's main functions are lawmaking, managing the nation's finances and ensuring ministerial accountability. It convenes during sessions, with the first session commencing after a general election. A session ends when Parliament is prorogued or dissolved, and each Parliament has a maximum term of five years, after which a general election must be held within three months. The quorum for a sitting is one quarter of MPs, excluding the speaker. Debates begin when an MP moves a motion and delivers an opening speech, after which other MPs may participate. The mover may exercise a right of reply, and the speaker then puts the motion to a vote, with formal counting only if an MP requests a division.
+Since 1990, Parliament has comprised elected, non-constituency and nominated MPs. Parliamentary committees and structured debates are used to review legislation, examine government policies and facilitate parliamentary business. Parliament first convened at the Old Parliament House from 1965 to 1999, before moving to the current Parliament House on 6 September 1999.
+
+
+--- [4th Parliament of Singapore - Wikipedia] ---
+The 4th Parliament of Singapore was a meeting of the Parliament of Singapore. Its first session commenced on 7 February 1977 and was prorogued on 2 October 1978. It commenced its second session on 26 December 1978 and was dissolved on 5 December 1980.
+The members of the 4th Parliament were elected in the 1976 general election. Parliament was controlled by a People's Action Party majority, led by Prime Minister Lee Kuan Yew and his Cabinet. The Speaker was Dr Yeoh Ghim Seng.
+The fourth Parliament had eight changes throughout the term, with a series of four by-elections ensuing in 1977 and 1979, making it one of the largest change of Parliament's composition since the vacation of Barisan Sosialis during the first Parliament.
+
+
+--- [Parliament of Singapore (PARL)] ---
+Parliament will be sitting from 4 March to 6 March 2026. Sitting on 4 March 2026 will commence at 10.00 am. On sitting days, the livestream of Parliament proceedings can be viewed on MDDI's YouTube channel at this link. The list of MPs speaking will be available on Parliament of Singapore's official Facebook page.
+
+
+--- [4th Parliament of Singapore explained] ---
+No content
+
+
+--- [Singapore separates from Malaysia and becomes independent] ---
+History is littered with hundreds of conflicts over the future of a community, group, location or business that were "resolved" when one of the parties stepped ahead and destroyed what was there. With the original point of contention destroyed, the debates would fall to the wayside. Archive Team believes that by duplicated condemned data, the conversation and debate can continue, as well as the richness and insight gained by keeping the materials. Our projects have ranged in size from a single volunteer downloading the data to a small-but-critical site, to over 100 volunteers stepping forward to acquire terabytes of user-created data to save for future generations. The main site for Archive Team is at archiveteam.org and contains up to the date information on various projects, manifestos, plans and walkthroughs. This collection contains the output of many Archive Team projects, both ongoing and completed. Thanks to the generous providing of disk space by the Internet Archive, multi-terabyte datasets can be made available, as well as in use by the Wayback Machine, providing a path back to lost websites and work. Our collection has grown to the point of having sub-collections for the type of data we acquire. If you are seeking to browse the contents of these collections, the Wayback Machine is the best first stop. Otherwise, you are free to dig into the stacks to see what you may find. The Archive Team Panic Downloads are full pulldowns of currently extant websites, meant to serve as emergency backups for needed sites that are in danger of closing, or which will be missed dearly if suddenly lost due to hard drive crashes or server failures. To use ArchiveBot, drop by #archivebot on EFNet. To interact with ArchiveBot, you issue commands by typing it into the channel. Note you will need channel operator permissions in order to issue archiving jobs. The dashboard shows the sites being downloaded currently. There is a dashboard running for the archivebot process at http://www.archivebot.com. ArchiveBot's source code can be found at https://github.com/ArchiveTeam/ArchiveBot.

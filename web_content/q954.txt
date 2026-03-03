@@ -1,0 +1,134 @@
+=== SEARCH SNIPPETS ===
+
+[Subject Alternative Name not added to certificate]
+On the Subject tab in the Certificate Properties, enter a suitable Common name for the Subject, if required In the Alternative names section, select Type: DNS and add the FQDNs for the desired SANs. Options for key usage and so on should be preconfigured on the other tabs.
+URL: https://serverfault.com/questions/476413/subject-alternative-name-not-added-to-certificate
+
+[windows - Current date in the file name - Server Fault]
+Jun 1, 2009 · I have scheduled backup script that makes the database dump. How can I add the date timestamp to the file name? I am talking about Windows and CMD.
+URL: https://serverfault.com/questions/16706/current-date-in-the-file-name
+
+[windows - Resolve host name from IP address - Server Fault]
+Oct 13, 2009 · I'm looking for a command line tool which gets an IP address and returns the host name, for Windows.
+URL: https://serverfault.com/questions/74042/resolve-host-name-from-ip-address
+
+[How can I configure my DNS settings on Debian 12?]
+Oct 7, 2023 · I'm trying to change my DNS settings on my Debian 12 VPS, and by this I mean, I want to use a public resolver like 1.1.1.1 instead of my VPS host's resolver. I remember in Debian 11 I could just ed...
+URL: https://serverfault.com/questions/1145358/how-can-i-configure-my-dns-settings-on-debian-12
+
+[Find name of Active Directory domain controller - Server Fault]
+Oct 25, 2009 · How can I find out the name/IP address of the AD domain controller on my network?
+URL: https://serverfault.com/questions/78089/find-name-of-active-directory-domain-controller
+
+
+=== FULL EXTRACTED CONTENT ===
+
+
+--- [Subject Alternative Name not added to certificate] ---
+# Subject Alternative Name not added to certificate
+
+I'm trying to issue a new certificate using the additional attribues field within the  Windows CertSrv Web-Enrollment Client.
+
+I added the CSR, picked the template and entered this into the attributes field:
+
+SAN:dns=HOSTNAME&dns=HOSTNAME.DOMAIN.COM&ipaddress=IPADRESS
+
+
+The request is successful but when I check the signed certificate no "Alternative Names" attribute is added to it. Am I missing something? Maybe a issue with the Template? (used a default Win 2003 level webserver template copy with some custom settings).
+
+/edit
+Also I've tried to use 
+
+certreq -submit -attrib "CertificateTemplate:MYTEMPLATE" <Cert Request.req> -attrib "SAN:dns=HOSTNAME&dns=HOSTNAME2&ipaddress=IPADDRESS"
+
+
+resulting in the same problem: cert gets generated, but without any SAN attribute.
+
+/edit2 
+also I've set the CA to issue SAN certificates using
+
+certutil -setreg policy\EditFlags +EDITF_ATTRIBUTESUBJECTALTNAME2
+
+
+and restarting the CA service. Still: no SANs.
+
+Please note: using req. files and OpenSSL to generate the CSR i'm able to generate certifcates using the CA which have some SANs included. However this option is not valid in my current situation since I'm getting the CSR from an application and i'm not able to manually generate one for the application.
+
+/edit3
+I tried using the default webserver certificate WITHOUT any changes and suddenly it worked. So now the question is: what are the template requirements to enable SAN?
+
+
+
+--- [windows - Current date in the file name - Server Fault] ---
+# Current date in the file name
+
+I have scheduled backup script that makes the database dump.
+How can I add the date timestamp to the file name?
+
+I am talking about Windows and CMD.
+
+
+## Accepted Answer
+
+In the command prompt and batch files, you can use %date% and %time% to return the date and time respectively. Date works fine, but the time value returned contains colons, which are illegal for use in filenames, but there is a way to remove those.
+
+Use something like:
+
+COPY file.txt file_%time:~0,2%%time:~3,2%%time:~6,2%_%date:~-10,2%%date:~-7,2%%date:~-4,4%.txt
+
+
+This will produce a filename such as file_172215_01062009.txt
+
+Update: The comments below have interesting twists on this command as well as some potential problems you can avoid.
+
+
+
+--- [windows - Resolve host name from IP address - Server Fault] ---
+# Resolve host name from IP address
+
+I'm looking for a command line tool which gets an IP address and returns the host name, for Windows.
+
+
+## Accepted Answer
+
+The command you are looking for is called nslookup, works fine for reverse lookups IFF someone has configured a reverse zone file, which they don't always do.
+
+
+
+--- [How can I configure my DNS settings on Debian 12?] ---
+# How can I configure my DNS settings on Debian 12?
+
+I'm trying to change my DNS settings on my Debian 12 VPS, and by this I mean, I want to use a public resolver like 1.1.1.1 instead of my VPS host's resolver.
+I remember in Debian 11 I could just edit the /etc/resolv.conf file, and restart the resolvconf.service and everything would work fine.
+However, on Debian 12, when I go to edit the /etc/resolv.conf it has a big warning:
+# Dynamic resolv.conf(5) file for glibc resolver(3) generated by resolvconf(8)
+#     DO NOT EDIT THIS FILE BY HAND -- YOUR CHANGES WILL BE OVERWRITTEN
+# 127.0.0.53 is the systemd-resolved stub resolver.
+# run "resolvectl status" to see details about the actual nameservers.
+
+So if I can't edit this file, where can I configure my resolver?
+I tried reading man resolvconf and man resolv.conf but this confused me even further.
+Any ideas?
+
+
+
+--- [Find name of Active Directory domain controller - Server Fault] ---
+# Find name of Active Directory domain controller
+
+How can I find out the name/IP address of the AD domain controller on my network?
+
+
+## Accepted Answer
+
+On any computer, that has DNS configured to use AD's DNS server do:
+
+
+Start -> Run -> nslookup    
+
+set type=all
+_ldap._tcp.dc._msdcs.DOMAIN_NAME
+
+
+
+Replace DOMAIN_NAME with the actual domain name e.g. example.com. Read more here.
+
