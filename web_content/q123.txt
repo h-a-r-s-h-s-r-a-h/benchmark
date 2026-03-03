@@ -1,0 +1,74 @@
+=== SEARCH SNIPPETS ===
+
+[Belmira - Wikipedia, la enciclopedia libre]
+Sus orígenes datan del año 1659, pero se tiene como fecha de su fundación el año de 1757, fecha de la cual se conoce la llegada al lugar de familias de apellidos Posada, Gutiérrez, Londoño y Villa, en especial don Francisco de Villa. Al descubrir en el área grandes riquezas de oro, trajeron esclavos para explotar esta minería.
+URL: https://es.wikipedia.org/wiki/Belmira
+
+[What's the difference between 'a year' and 'the year'?]
+Jan 26, 2017 · 'A year' can be any year without any specification. But 'the year' means a particular/specified year or the one which is already mentioned and thereby known. E.g: In a year there are twelve months. (means any year or all years) I was born in the year 2000. (in that particular year) Grammatically 'a/an' is known as indefinite article and 'the' is definite article. The indefinite article (a/an ...
+URL: https://english.stackexchange.com/questions/370328/whats-the-difference-between-a-year-and-the-year
+
+[Wolfram|Alpha (Belmira, Antioquia, Colombia | founding dates)]
+Result: (data not available)
+URL: https://www.wolframalpha.com/input/?i=What+year+was+the+municipality+of+Belmira%2C+Antioquia%2C+Colombia%2C+founded%3F
+
+[Belmira celebró sus 206 años de historia » Antioquia Crítica]
+Belmira celebró sus 206 años de historia. Aunque se han encontrado registros desde el año 1659, su fecha de fundación oficial es el año 1757, fecha en la cual se conoce la llegada al lugar de familias de apellidos Posada, Gutiérrez, Londoño y Villa.
+URL: https://www.antioquiacritica.com/belmira-celebro-sus-206-anos-de-historia/
+
+['Year' or 'Years'? - English Language & Usage Stack Exchange]
+The second and final year gives the impression that you mean one specific year, which was at the same time your second, as well as your final year. For example: In the fifth and last year of the war, the motivation was dwindling. Of course, in your sentence, this interpretation is impossible because you use between, but I did get confused at first.
+URL: https://english.stackexchange.com/questions/173111/year-or-years
+
+
+=== FULL EXTRACTED CONTENT ===
+
+
+--- [Belmira - Wikipedia, la enciclopedia libre] ---
+Belmira es un municipio de Colombia, localizado en la subregión Norte del departamento de Antioquia. Limita por el norte con los municipios de San José de la Montaña y Santa Rosa de Osos, por el este con los municipios de Santa Rosa de Osos y Entrerríos, por el sur con los municipios de San Pedro de los Milagros y San Jerónimo y por el oeste con los municipios de Sopetrán, Olaya y Liborina.
+
+
+--- [What's the difference between 'a year' and 'the year'?] ---
+# What&#39;s the difference between &#39;a year&#39; and &#39;the year&#39;?
+
+When I should use "a year" and when I should use "the year."
+
+
+## Accepted Answer
+
+'A year' can be any year without any specification. But 'the year' means a particular/specified year or the one which is already mentioned and thereby known. 
+E.g: In a year there are twelve months. (means any year or all years)
+     I was born in the year 2000. (in that particular year)
+
+Grammatically 'a/an' is known as indefinite article and 'the' is definite article.
+
+The indefinite article(a/an) refers to things in general and the definite article(the) refers to a particular person or thing. This is the very basic rule pertaining to the use of articles. Actually, in English grammar, perhaps the uses of the articles are the most difficult/confusing topic.
+For details on this subject, it is better to consult a good grammar like 'PRACTICAL ENGLISH USAGE' by Michael Swan.
+
+'January is the first month of the year'- here 'the' is used in a sense of 'general plus known', as everybody knows what a year is and how many months are there in a year and what they are.
+Sometimes 'the' is used with a singular countable noun to talk about things in general.
+See a couple of examples from the above-mentioned grammar:
+E.g: 'Schools should pay less attention to examination success, and more attention to the child.' (means all school children, not a particular child)
+'The tiger is in danger of becoming extinct.'( means the whole tiger family, not any specific tiger.
+
+
+
+--- [Wolfram|Alpha (Belmira, Antioquia, Colombia | founding dates)] ---
+No content
+
+
+--- [Belmira celebró sus 206 años de historia » Antioquia Crítica] ---
+Belmira celebró sus 206 años de historia. Aunque se han encontrado registros desde el año 1659, su fecha de fundación oficial es el año 1757, fecha en la cual se conoce la llegada al lugar de familias de apellidos Posada, Gutiérrez, Londoño y Villa. Encontraron en el área grandes cantidades de oro y trajeron esclavos para explotar esta minería. La minería fue la actividad económica más determinante en una etapa inicial, hay datos aproximados de que, en 1755, en el Real Minas de Nuestra Señora del Rosario de Petacas —como era conocido Belmira antes —se explotaban 12 minas utilizando 255 esclavos. En el año 1890 había alrededor de 13 minas y en los últimos años aproximadamente unas 15. Cuando las minas se agotaron, la economía se trasladó a lo que es en la actualidad: lechera y agrícola. Su erección como municipio data de 1814. El vicario superintendente doctor Lucio de Villa decretó esto al construir la parroquia. En esa misma fecha, el poblado adquirió por mandato de la gobernación la categoría de distrito. El día de ayer, y a través de una transmisión por el canal local, la emisora y la página oficial de Facebook, la Administración Municipal celebró los más de 200 años de historia. Contaron que la erección como municipio se dio por solicitud de los pobladores e incluso hubo un criollo que decidió terminar sus días en esta localidad y ahora está enterrado en el cementerio municipal. Con una interpretación por parte de la Escuela de Música Rafael Antonio Rúa del himno colombiano, antioqueño y belmireño continuó la celebración. La Gobernación de Antioquia hizo extensa su felicitación y enviaron una carta al municipio. Además de unas palabras del párroco, el alcalde y el presidente del Concejo Municipal, hubo una muestra artística de danza por parte de la escuela Danzabel. Desde Antioquia Crítica le deseamos a Belmira un feliz cumpleaños. Que sean muchos más.
+
+
+--- ['Year' or 'Years'? - English Language & Usage Stack Exchange] ---
+# &#39;Year&#39; or &#39;Years&#39;?
+
+In the context of the following sentence:
+
+
+  "This report gives an overview of x, which took place between the second and final year of my degree from xmonth to ymonth."
+
+
+Should I be using the word year or years? I'm inclined to choose the latter, as I am referring to two years and not one.
+
