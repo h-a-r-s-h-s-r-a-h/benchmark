@@ -1,0 +1,96 @@
+=== SEARCH SNIPPETS ===
+
+[Bright Star Catalogue - Wikipedia]
+The abbreviation for the catalog as a whole is BS or YBS but all citations of stars it indexes use HR before the catalog number, a homage to the catalog's direct predecessor, published in 1908, named the Harvard Revised Photometry Catalogue.
+URL: https://en.wikipedia.org/wiki/Bright_Star_Catalogue
+
+[Subject Alternative Name not added to certificate]
+On the Subject tab in the Certificate Properties, enter a suitable Common name for the Subject, if required In the Alternative names section, select Type: DNS and add the FQDNs for the desired SANs. Options for key usage and so on should be preconfigured on the other tabs.
+URL: https://serverfault.com/questions/476413/subject-alternative-name-not-added-to-certificate
+
+[eSky: Bright Star Catalogue - Glyph Web]
+Bright Star Catalogue Yale Catalogue of Bright Stars BSC, HR (Harvard Revised)
+URL: https://www.glyphweb.com/esky/concepts/bsc.html
+
+[Yale Bright Star Catalog version 5]
+... Star Catalogue, also known as the Yale Catalogue of Bright ... catalog's direct predecessor, published in 1908, named the Harvard Revised Photometry Catalogue.
+URL: https://www.kaggle.com/datasets/alexanderbelopolsky/yale-bright-star-catalog-version-5
+
+[windows - Current date in the file name - Server Fault]
+Jun 1, 2009 · I have scheduled backup script that makes the database dump. How can I add the date timestamp to the file name? I am talking about Windows and CMD.
+URL: https://serverfault.com/questions/16706/current-date-in-the-file-name
+
+
+=== FULL EXTRACTED CONTENT ===
+
+
+--- [Bright Star Catalogue - Wikipedia] ---
+The Bright Star Catalogue, also known as the Yale Catalogue of Bright Stars, Yale Bright Star Catalogue, or just YBS, is a star catalogue that lists all stars of stellar magnitude 6.5 or brighter, which is roughly every star visible to the naked eye from Earth. The catalog lists 9,110 objects, of which 9,095 are stars, 11 are novae or supernovae (which were "bright stars" only at the time when they were at their peak), and four are non-stellar objects which are the globular clusters 47 Tucanae (designated HR 95) and NGC 2808 (HR 3671), and the open clusters NGC 2281 (HR 2496) and Messier 67 (HR 3515).
+The catalogue is fixed in number of entries, but its data is maintained, and it is appended with a comments section about the objects that has been steadily enhanced. The abbreviation for the catalog as a whole is BS or YBS but all citations of stars it indexes use HR before the catalog number, a homage to the catalog's direct predecessor, published in 1908, named the Harvard Revised Photometry Catalogue.
+
+
+--- [Subject Alternative Name not added to certificate] ---
+# Subject Alternative Name not added to certificate
+
+I'm trying to issue a new certificate using the additional attribues field within the  Windows CertSrv Web-Enrollment Client.
+
+I added the CSR, picked the template and entered this into the attributes field:
+
+SAN:dns=HOSTNAME&dns=HOSTNAME.DOMAIN.COM&ipaddress=IPADRESS
+
+
+The request is successful but when I check the signed certificate no "Alternative Names" attribute is added to it. Am I missing something? Maybe a issue with the Template? (used a default Win 2003 level webserver template copy with some custom settings).
+
+/edit
+Also I've tried to use 
+
+certreq -submit -attrib "CertificateTemplate:MYTEMPLATE" <Cert Request.req> -attrib "SAN:dns=HOSTNAME&dns=HOSTNAME2&ipaddress=IPADDRESS"
+
+
+resulting in the same problem: cert gets generated, but without any SAN attribute.
+
+/edit2 
+also I've set the CA to issue SAN certificates using
+
+certutil -setreg policy\EditFlags +EDITF_ATTRIBUTESUBJECTALTNAME2
+
+
+and restarting the CA service. Still: no SANs.
+
+Please note: using req. files and OpenSSL to generate the CSR i'm able to generate certifcates using the CA which have some SANs included. However this option is not valid in my current situation since I'm getting the CSR from an application and i'm not able to manually generate one for the application.
+
+/edit3
+I tried using the default webserver certificate WITHOUT any changes and suddenly it worked. So now the question is: what are the template requirements to enable SAN?
+
+
+
+--- [eSky: Bright Star Catalogue - Glyph Web] ---
+A star catalogue having its origins in the Harvard Photometry Survey of 1884, which was initially restricted to the northern hemisphere, and the Harvard Revised Photometry Survey of 1908, which incorporated both hemispheres of the sky. The BrightStar Catalogue lists starsbrighter than magnitude +6.50 (that is, the nearly ten thousand stars that would be visible to the naked eye under absolutely ideal conditions). A comprehensive catalogue of brightstars originating at Harvard College Observatory, and later expanded by astronomers at Yale University, and a system of stellar designation based on this catalogue. Stars, especially those lacking Bayer letters or Flamsteed numbers, are often identified by their BSC catalogue number, usually prefixed by 'HR', but with numbers sometimes listed with the prefixes 'BSC' or 'BS'. The catalogue is designed to list all the stars in the sky brighter than magnitude +6.50. This is the effective limit for naked-eye visibility under ideal conditions, so the catalogue lists every star that can be seen with the naked eye. In common with other similar catalogues, stars are numbered from west to east, starting at the celestial meridian. HR 1 is a faint star in Andromeda at right ascension 00h07, and the numbering continues around the sky following increasing right ascension until it reaches HR 9110 (or V567 Cassiopeiae) a variablestar in Cassiopeia. Catalogue numbers in the BrightStar Catalogue are assigned in ascending order of right ascension, counting eastward from the Celestial Meridian. The highlighted star in this image is HR 1 in Andromeda, the first star in the catalogue, which lies just six and a half arcminutes eastward of the meridian. Imagery provided by Aladin sky atlas The BrightStar Catalogue had its origins in the index Harvard Photometry published in 1884, which collated data for brightstars in the skies of the northern hemisphere. A revised edition, published in 1908, included stars from the southern sky to create a comprehensive catalogue. This Revised Harvard Photometry is the source of the 'HR' ('Harvard Revised') prefix that is usually applied to star numbers from the BrightStar Catalogue. The data for its standard list of stars has been extensively reviewed, extended and annotated since the original catalogue's publication, with the first Yale BrightStar Catalogue appearing in 1930, and being periodically updated since that time. While the focus of the BrightStar Catalogue is, naturally, brightstars, the catalogue does in fact list a few objects that are not bright, or are not stars. In the former category are a number of novae, stars that once shone brightly enough to be included but, after a brief flare in magnitude, have now faded far beyond naked-eye visibility. Also included are a small number of objects that are not single stars, but clusters. Two of these are prominent globular clusters (47 Tucanae and NGC 2808, or HR 95 and HR 3671), and two are open clusters (M67 and NGC 2281, or HR 3515 and HR 2496).
+
+
+--- [Yale Bright Star Catalog version 5] ---
+No content
+
+
+--- [windows - Current date in the file name - Server Fault] ---
+# Current date in the file name
+
+I have scheduled backup script that makes the database dump.
+How can I add the date timestamp to the file name?
+
+I am talking about Windows and CMD.
+
+
+## Accepted Answer
+
+In the command prompt and batch files, you can use %date% and %time% to return the date and time respectively. Date works fine, but the time value returned contains colons, which are illegal for use in filenames, but there is a way to remove those.
+
+Use something like:
+
+COPY file.txt file_%time:~0,2%%time:~3,2%%time:~6,2%_%date:~-10,2%%date:~-7,2%%date:~-4,4%.txt
+
+
+This will produce a filename such as file_172215_01062009.txt
+
+Update: The comments below have interesting twists on this command as well as some potential problems you can avoid.
+

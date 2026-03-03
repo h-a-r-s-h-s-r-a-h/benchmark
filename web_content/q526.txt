@@ -1,0 +1,69 @@
+=== SEARCH SNIPPETS ===
+
+[We was or We were which is correct? - English Language Learners...]
+We was is not standard English, it is used in some regional dialects: The verb 'to be' has two simple past forms in Standard English - I/he/she/it was and you/we/they were. Apart from the special case of you, the distinction is, therefore, between singular was and plural were In some regional dialects, however, this pattern is not observed. In some parts of the country, speakers use was ...
+URL: https://ell.stackexchange.com/questions/185313/we-was-or-we-were-which-is-correct
+
+[What is the difference between "were" and "have been"?]
+What is the difference between "were" and "have been", and are these sentences gramatically correct? 1) some of the best known writers of detective fiction in the twentieth century were women.
+URL: https://ell.stackexchange.com/questions/24017/what-is-the-difference-between-were-and-have-been
+
+[Breaking News Headlines Today | Ground News]
+47542 stories have been published about Social Media which Ground News has aggregated in the past 3 months. Cloudflare experienced a major global outage on Tuesday morning disrupting access to major websites including X ChatGPT and thousands of other services. F...
+URL: https://ground.news/interest/social-media
+
+[Blog | Disqus | Michael Gately (4)]
+The Long Goodbye to ThirdParty Cookies and What it Means for Publishers is an evolving saga that continues to keep advertisers and publishers on their digital toes. The phaseout of the legacy technology at the behest according to Google of consumers clamoring fo...
+URL: https://blog.disqus.com/author/michael-gately/page/4
+
+[Cloudflare Down: Major Internet Disruption Hits U.S. Users]
+A significant outage on the Cloudflare network caused widespread internet disruptions across the United States on Tuesday November 18 2025. Many popular websites and apps went down or became inaccessible for thousands of users. Disruption highlights how fragile ...
+URL: https://www.howtoisolve.com/cloudflare-down/
+
+
+=== FULL EXTRACTED CONTENT ===
+
+
+--- [We was or We were which is correct? - English Language Learners...] ---
+# We was or We were which is correct?
+
+I several times, particularly,while reading novels, encountered the sentence ' we was ....' .But as per my knowledge is concerned were is appropriate verb instaed of was. Please explain it. Thank you
+
+Usage examples: 
+
+From 
+The Life and Times of Ray Hicks: Keeper of the Jack Tales: 
+
+
+  We was hurryin' so as not to get caught in a blizzard storm. The northwest wind blowed over the mountain and was so strong ......The snow started a comin' down so fast, in short order we couldn't see where we was goin. ice was a freezin' on our faces. We turned to walk backwards, then forwards , ...
+
+
+From Tom Sawyer, Detective
+By Mark Twain:
+
+
+  What we was after was a couple of noble big di'monds as big as hazel-nuts, which everybody was running to see. We was dressed up fine, and ...
+
+
+
+
+--- [What is the difference between "were" and "have been"?] ---
+# What is the difference between &quot;were&quot; and &quot;have been&quot;?
+
+What is the difference between "were" and "have been", and are these sentences gramatically correct?
+
+1) some of the best known writers of detective fiction in the twentieth century were women.
+2) some of the best known writers of detective fiction in the twentieth century have been women.
+
+
+
+--- [Breaking News Headlines Today | Ground News] ---
+News about Social Media Stay current with all the latest and breaking news about Social Media, compare headlines and perspectives between news sources on stories happening today. In total, 47,004 stories have been published about Social Media which Ground News has aggregated in the past 3 months. Covered Most By Local News Publishers Suggest a source Looking for a source we don't already have? Suggest one here.
+
+
+--- [Blog | Disqus | Michael Gately (4)] ---
+Posts by Michael Gately The Long Goodbye to Third-Party Cookies and What it Means for Publishers February 04, 2022 | Michael Gately Google’s plans for third-party cookie deprecation have become an evolving saga that continues to keep both advertisers and publishers on their digital toes. The phaseout of the legacy technology – at the behest, according to Google, of consumers clamoring for more privacy – has big implications for how advertisers can target and track consumers across channels and devices and how publishers can monetize their audiences. Since Google’s initial announcement, both buy and sell sides have been trialing different solutions that will enable them to continue driving results and revenue in an era without third-party cookies. Read more » NFTs: digital fad or the next big thing for publishers? January 20, 2022 | Michael Gately Each month, it seems, there's a new Next Big Thing that everybody is talking or tweeting about—an idea or concept that seems poised to completely revolutionize the world (or the world of digital media at the very least). It seems like just yesterday that the concept of the metaverse was the talk of the internet, but look out—there's a new kid on the block. Read more » Well, it's just about time to close the books on 2021 and take stock of what has been another very complicated year. On one hand, we were forced to press on through another challenging 12 months of the COVID-19 pandemic, but on the other hand, there were causes for hope and optimism due to vaccines and the miraculous work of the medical industry. Read more » Unlock the full potential of online conversation—at scale—with Disqus for Business December 01, 2021 | Michael Gately Here at Disqus, we understand that larger organizations have more complex needs—and that these needs extend to the services they rely on to drive their business forward. That’s why we’re taking a moment to put the spotlight on Disqus for Business – our enterprise solution for companies that demand more adaptability and precision from the tools they use. Read more » The metaverse won't exist without creators like you November 09, 2021 | Michael Gately You've probably already heard all the buzz about Facebook recently rebranding as Meta. The corporate makeover was meant to signal that the company is looking to expand outwards from social media and into the so-called "metaverse." Read more » Helping to power some of the coolest websites on the internet is one of our very favorite things about what we do here at Disqus. Read more » One week after #FacebookDown—what did we learn? October 11, 2021 | Michael Gately Last Monday, the digital world was rocked as Facebook, Instagram, and WhatsApp all went down for an unprecedented amount of time (about 6 hours, but it felt like forever, didn't it?) due to a combination of factors involving human error as well as a code update that went awry and prevented Facebook from accessing its own data centers. Read more » Twitter announces Communities feature, but can it help publishers? September 30, 2021 | Michael Gately Twitter's newest feature, Communities, is set to take on Facebook Groups, Reddit, and Discord as a viable method of creating semi-exclusive, interest-based conversations. Read more » 12 cool badges that Disqus publishers have created September 22, 2021 | Michael Gately Here at Disqus, we’re always dreaming up tools that will help our publishers boost community engagement. A highly engaged community enjoys robust returning visitor traffic and time-on-site, two crucial performance metrics that can lead to higher ad revenue and better SEO positioning. Read more » Introducing Badges: Letting You Reward User Engagement September 07, 2021 | Michael Gately Introducing Badges—our brand-new feature that lets you bestow special badges onto commenters who make your community a lively and engaging place. Read more » In a move that directly impacts publishers and their ad revenue, Google has recently announced that they’ll be replacing their Scaled Partner Management (SPM) program with Multiple Customer Management (MCM). Read more » Should You Start Your Own Paid Newsletter? August 10, 2021 | Michael Gately When we think in broad terms about sending emails to our audience, the first concept that might come to mind involves traditional email marketing. There's certainly nothing wrong with an email marketing campaign, and in fact, your overall marketing strategy won't be successful unless you're utilizing one, but let's face it - there is absolutely more than one way to engage your audience via email. Read more » Subscribe to our blog Get the latest posts in your email
+
+
+--- [Cloudflare Down: Major Internet Disruption Hits U.S. Users] ---
+On Tuesday, November 18, 2025, a significant outage on the Cloudflare network caused widespread internet disruptions across the United States. Many popular websites and apps went down or became inaccessible for thousands of users. What Happened The outage emerged early in the morning Eastern Time when users reported error messages such as “500 Internal Server Error.” Platforms impacted included X (formerly Twitter), ChatGPT, and other major services. Cloudflare acknowledged an internal service degradation and began investigating around 6:40 a.m. ET. The company later pointed to an “unusual traffic spike” that began around 11:20 UTC and disrupted some of its routing and security systems. Service restoration efforts were underway, but some users continued experiencing elevated error rates throughout the morning. Impact in the U.S. The outage affected not only social and consumer platforms but also business services and public-sector portals relying on Cloudflare’s network infrastructure. Many users in the U.S. reported that they could not access familiar sites or apps for a period of time. Because Cloudflare handles a large portion of global web traffic, the disruption spotlighted how reliant the internet is on a small number of key infrastructure providers. Why it Matters Cloudflare is more than just a content delivery network. Its services include web security, DNS resolution, anti-DDoS protection, and performance optimization for millions of websites. When its systems fail, the ripple effect is immediate and broad. This incident serves as a reminder of how fragile modern online infrastructure can be—even when built for resilience. A failure at a single point in the network can take down services across industries and continents. Response and Recovery Cloudflare deployed updates to its network routing and told users they were seeing signs of recovery. At the same time, the company dragged into view the need for broader fault-tolerance planning by large online services. Users were advised to be patient, restart affected apps, and if possible switch networks or access local caches while recovery continued. What You Can Do as a User Here are a few proactive steps you can take when infrastructure-level outages occur: - Check whether a web service is down for everyone (use outage-tracking tools). - Switch to mobile data or another network if you’re on Wi-Fi and experiencing failures. - In business settings relying on major web services, consider identifying alternatives or redundancy plans. - For everyday users, use this as a cue to store offline access to critical information and avoid single-point dependence. Final Thoughts The November 18 outage emphasizes the interconnected nature of the internet and how disruptions can cascade from a technical glitch at one company to major service failures for end-users. Although Cloudflare is repairing the issue and systems are coming back online, the event underscores the importance of infrastructure resilience in our digital age. We’ll keep watching for further updates from Cloudflare and other infrastructure providers—especially on the root cause and how future disruptions can be prevented.

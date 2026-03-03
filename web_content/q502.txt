@@ -1,0 +1,72 @@
+=== SEARCH SNIPPETS ===
+
+[Ana Figuero - Wikipedia]
+Figuero was born in Santiago on 19 June 1907 as the daughter of Miguel Figueroa Rebolledo and Ana Gajardo Infante. [6] She studied at the University of Chile and graduated in 1928. [6]
+URL: https://en.wikipedia.org/wiki/Ana_Figuero
+
+[windows - Current date in the file name - Server Fault]
+Jun 1, 2009 · I have scheduled backup script that makes the database dump. How can I add the date timestamp to the file name? I am talking about Windows and CMD.
+URL: https://serverfault.com/questions/16706/current-date-in-the-file-name
+
+[Figueroa Gajardo, Ana (1907–1970) | Encyclopedia.com]
+Ana Figueroa Gajardo (b. 19 June 1907; d. 8 April 1970), Chilean career diplomat, journalist, women's rights activist. After graduating from the Instituto Pedagógico, Universidad de Chile, in 1928, Figueroa was a high-school teacher and principal.
+URL: https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/figueroa-gajardo-ana-1907-1970
+
+[Prelims | The Impact of Foreign Interventions on Democracy and ...]
+Ana Figueroa is a Postdoctoral Researcher at the Brazilian Center for Analysis and Planning in São Paulo, Brazil. She received her PhD in International ...
+URL: https://www.emerald.com/books/edited-volume/11575/chapter/81477125/Prelims
+
+[windows - Resolve host name from IP address - Server Fault]
+Oct 13, 2009 · I'm looking for a command line tool which gets an IP address and returns the host name, for Windows.
+URL: https://serverfault.com/questions/74042/resolve-host-name-from-ip-address
+
+
+=== FULL EXTRACTED CONTENT ===
+
+
+--- [Ana Figuero - Wikipedia] ---
+Ana Figueroa (June 19, 1907 - 1970) was a Chilean educator, feminist, political activist, and government official.
+
+
+--- [windows - Current date in the file name - Server Fault] ---
+# Current date in the file name
+
+I have scheduled backup script that makes the database dump.
+How can I add the date timestamp to the file name?
+
+I am talking about Windows and CMD.
+
+
+## Accepted Answer
+
+In the command prompt and batch files, you can use %date% and %time% to return the date and time respectively. Date works fine, but the time value returned contains colons, which are illegal for use in filenames, but there is a way to remove those.
+
+Use something like:
+
+COPY file.txt file_%time:~0,2%%time:~3,2%%time:~6,2%_%date:~-10,2%%date:~-7,2%%date:~-4,4%.txt
+
+
+This will produce a filename such as file_172215_01062009.txt
+
+Update: The comments below have interesting twists on this command as well as some potential problems you can avoid.
+
+
+
+--- [Figueroa Gajardo, Ana (1907–1970) | Encyclopedia.com] ---
+Figueroa Gajardo, Ana (1907–1970) Figueroa Gajardo, Ana (1907–1970) Ana Figueroa Gajardo (b. 19 June 1907; d. 8 April 1970), Chilean career diplomat, journalist, women's rights activist. After graduating from the Instituto Pedagógico, Universidad de Chile, in 1928, Figueroa was a high-school teacher and principal. In 1946 she attended Columbia University and a summer institute at Colorado State University. From 1947 to 1949, she was general supervisor of the Chilean high-school system. In 1948 she became president of the Federación Chilena de Instituciones Femeninas (FECHIF) and was appointed director of the Chilean Women's Bureau. In 1950 she served as Chilean delegate to the Inter-American Commission of Women; from 1950 to 1952 she was the Chilean minister plenipotentiary to the Third General Assembly of the United Nations; and from 1952 to 1959 she served on the Security Council, UNESCO, and the UN Commission on the Juridical and Social Condition of Women. From 1950 to 1967, Figueroa was the first woman to serve as director-general of the International Labor Organization. She was also on the board of directors of the international YWCA. See alsoFeminism and Feminist Organizations; United Nations. BIBLIOGRAPHY Inter-American Commission of Women, Libro de oro (1980). Additional Bibliography Hutchison, Elizabeth Quay. Labors Appropriate to Their Sex: Gender, Labor, and Politics in Urban Chile, 1900–1930. Durham, NC: Duke University Press, 2001. Corinne Antezana-Pernet Francesca Miller
+
+
+--- [Prelims | The Impact of Foreign Interventions on Democracy and ...] ---
+No content
+
+
+--- [windows - Resolve host name from IP address - Server Fault] ---
+# Resolve host name from IP address
+
+I'm looking for a command line tool which gets an IP address and returns the host name, for Windows.
+
+
+## Accepted Answer
+
+The command you are looking for is called nslookup, works fine for reverse lookups IFF someone has configured a reverse zone file, which they don't always do.
+

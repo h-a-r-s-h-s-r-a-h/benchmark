@@ -1,0 +1,44 @@
+=== SEARCH SNIPPETS ===
+
+[Mechanical Glove - Official Terraria Wiki]
+It increases melee damage only, despite being crafted from the Avenger Emblem, which increases all damage. The Mechanical Glove may be worse than the Warrior Emblem for melee weapons that do not benefit from speed boosts, as its 12% damage boost is lower than the emblem's 15%, but they do stack.
+URL: https://terraria.wiki.gg/wiki/Mechanical_Glove
+
+[Mechanical Glove - Terraria Wiki]
+The Mechanical Glove is a Hardmode accessory that doubles all melee weapons' knockback, and increases melee damage and speed by 12%. On the PC version, Console version, Mobile version, and tModLoader version, it enables autoswing for all melee weapons and whips and increases their size by 10%. It increases melee damage only, despite being crafted from the Avenger Emblem, which increases all ...
+URL: https://terraria.fandom.com/wiki/Mechanical_Glove
+
+["Terraria patch notes mechanical glove melee weapons damage ...]
+A quick patch of bug fixes, balancing and a QOL change: Bug Fixes *) Fixed a bug where upgrading weapon damage was resetting the weapon's damage to 0. A shoutout to streamer Zevraska for discovering ...
+URL: https://store.steampowered.com/news/search/?term=Terraria+patch+notes+mechanical+glove+melee+weapons+damage+buff+change
+
+[Weapons & Equip - Mechanical/fire glove should apply to whips as well]
+I have no idea, it uses an avenger emblem for its' crafting recipe but limits its usefulness to only melee, I was hoping to be able to use the mechanical glove's upgrade the fire glove so I could get fire damage on all of my future whips but it holds true to the original magma stone in its crafting recipie and only applies the fire to melee ...
+URL: https://forums.terraria.org/index.php?threads/mechanical-fire-glove-should-apply-to-whips-as-well.133283/
+
+[Privacy Policy | indie.io]
+This is the Legacy page whose information relates to the article Mechanical Glove.It applies only to the Old-gen console and 3DS versions of Terraria, detailing their differences from modern versions. On the Old-gen console version and Nintendo 3DS version, the Mechanical Glove does not increase weapon...
+URL: https://terraria.wiki.gg/wiki/Legacy:Mechanical_Glove
+
+
+=== FULL EXTRACTED CONTENT ===
+
+
+--- [Mechanical Glove - Official Terraria Wiki] ---
+No content
+
+
+--- [Mechanical Glove - Terraria Wiki] ---
+Mechanical Glove Statistics | Type | | |---|---| | Tooltip | Increases melee knockback 12% increased melee damage and speed Enables auto swing for melee weapons Increases the size of melee weapons | | Rarity | | | Sell | 5 | | Research | 1 required | - Internal Item ID: 936 The Mechanical Glove is a Hardmode accessory that doubles all melee weapons' knockback, and increases melee damage and speed by 12%. On the PC version, Console version, Mobile version, and tModLoader version, it enables autoswing for all melee weapons and whips and increases their size by 10%. Crafting[] Recipes[] | Result | Ingredients | Crafting station | |---|---|---| | Mechanical Glove | Tinkerer's Workshop | Used in[] | Result | Ingredients | Crafting station | |---|---|---| | Fire Gauntlet | | Tinkerer's Workshop | Notes[] - It increases melee damage only, despite being crafted from the Avenger Emblem, which increases all damage. - The Mechanical Glove increases knockback and speed for whips but not base damage. This is possibly because whips are used like melee weapons but deal summon damage. Tips[] Even though it is used in the Fire Gauntlet's crafting recipe, the Mechanical Glove is still regarded as better than the Fire Gauntlet, as it has better stats and is only missing the ability to inflict On Fire!. However, that perk is not worth it compared to the lost stats, making the Mechanical Glove widely considered to be a stronger accessory.- On the PC version, Console version, Mobile version, and tModLoader version, the Fire Gauntlet gives the same stat boost as the Mechanical Glove, and can be considered a direct upgrade. History[] - Desktop 1.4.1: Now increases the melee weapons size by 10%. - Desktop 1.4.0.1: Now gives autoswing to whips and all melee weapons. - Desktop 1.3.2: Sprites updated. - Desktop 1.2.4: Now only yields melee knockback instead of all types. - Desktop 1.2.3: Now only increases melee damage (previously also ranged and magic). Tooltip correctly listing 12% instead of 10%. - Desktop 1.2: Introduced. - Console 1.02: Introduced. - Mobile 1.2.6508: Introduced. - 3DS-Release: Introduced.
+
+
+--- ["Terraria patch notes mechanical glove melee weapons damage ...] ---
+Install Steam sign in | language 简体中文 (Simplified Chinese) 繁體中文 (Traditional Chinese) 日本語 (Japanese) 한국어 (Korean) ไทย (Thai) Български (Bulgarian) Čeština (Czech) Dansk (Danish) Deutsch (German) Español - España (Spanish - Spain) Español - Latinoamérica (Spanish - Latin America) Ελληνικά (Greek) Français (French) Italiano (Italian) Bahasa Indonesia (Indonesian) Magyar (Hungarian) Nederlands (Dutch) Norsk (Norwegian) Polski (Polish) Português (Portuguese - Portugal) Português - Brasil (Portuguese - Brazil) Română (Romanian) Русский (Russian) Suomi (Finnish) Svenska (Swedish) Türkçe (Turkish) Tiếng Việt (Vietnamese) Українська (Ukrainian) Report a translation problem
+
+
+--- [Weapons & Equip - Mechanical/fire glove should apply to whips as well] ---
+Flasholotl Retinazer I was playing through classic mode Terraria multiplayer on stream as a summoner and was kind of surprised when I realised that yes, the power glove applies to whips, increasing the whip size, increasing attack speed, and allowing for auto swing, and one of it's upgrades, the berserker glove, is still relevant to summoners and whips, but its other upgrade, the mechanical glove, does everything that the prior upgrade does but removes the whip compatibility. why is this? I have no idea, it uses an avenger emblem for its' crafting recipe but limits its usefulness to only melee, I was hoping to be able to use the mechanical glove's upgrade the fire glove so I could get fire damage on all of my future whips but it holds true to the original magma stone in its crafting recipie and only applies the fire to melee attacks, not whips. I just feel like for an item with a crafting tree that has compatibility with both melee and whips it shouldn't be limited as soon as you add an avenger emblem of all things, after all, it increases all damage by 12% but gets reverted back to a worse warrior emblem as soon as it gets added to a power glove to cut down the amount of accessory slots that you might need for that spare shark tooth necklace or something, it gets nerfed. why is this? I have no idea, it uses an avenger emblem for its' crafting recipe but limits its usefulness to only melee, I was hoping to be able to use the mechanical glove's upgrade the fire glove so I could get fire damage on all of my future whips but it holds true to the original magma stone in its crafting recipie and only applies the fire to melee attacks, not whips. I just feel like for an item with a crafting tree that has compatibility with both melee and whips it shouldn't be limited as soon as you add an avenger emblem of all things, after all, it increases all damage by 12% but gets reverted back to a worse warrior emblem as soon as it gets added to a power glove to cut down the amount of accessory slots that you might need for that spare shark tooth necklace or something, it gets nerfed.
+
+
+--- [Privacy Policy | indie.io] ---
+No content
