@@ -1,0 +1,46 @@
+=== SEARCH SNIPPETS ===
+
+[Robert Adams (October 5, 1917 — April 5, 1984), British ...]
+In April 1946 he exhibited fourteen of his early oil portraits in the Northampton Public Library. Between 23 November 1947 and 3 January 1948, he held his first one-man exhibition at Gimpel Fils Gallery, 84 Duke Street, London.
+URL: https://prabook.com/web/robert.adams/1914887
+
+[Robert Adams (sculptor)]
+... 1946 he exhibited fourteen of his early oil portraits in the Northampton Public Library. Between 23 November 1947 and 3 January 1948, he held his first ...
+URL: https://en.wikipedia.org/wiki/Robert_Adams_(sculptor)
+
+[Robert Adams (sculptor) explained]
+In April 1946 he exhibited fourteen of his early oil portraits in the Northampton Public Library. Between 23 November 1947 and 3 January 1948, he held his first one-man exhibition at Gimpel Fils Gallery, 84 Duke Street, London.
+URL: https://everything.explained.today/Robert_Adams_(sculptor_and_designer)/
+
+[Compare files - datasets/SimpleQA]
+How many of his early oil portraits did English sculptor Robert Adams exhibit in the Northampton Public Library in April 1946? 1 · 2 · 3 · 4 ...
+URL: https://www.oxen.ai/datasets/SimpleQA/compare/file/4eecd6b834e7dd92561b173244a2fa38..d634d44e7826259e4e5289ef2c6fe122/simple_qa_test_set.parquet?page=3
+
+[Robert Adams (sculptor) — Wikipedia Republished // WIKI 2]
+Nov 4, 2024 · Some of his first sculptures were exhibited in London between 1942 and 1944 as part of group shows by artists working for Civil Defence [5] In April 1946 he exhibited fourteen of his early oil portraits in the Northampton Public Library. [5]
+URL: https://wiki2.org/en/Robert_Adams_(sculptor)
+
+
+=== FULL EXTRACTED CONTENT ===
+
+
+--- [Robert Adams (October 5, 1917 — April 5, 1984), British ...] ---
+No content
+
+
+--- [Robert Adams (sculptor)] ---
+Robert Adams (5 October 1917 – 5 April 1984) was an English sculptor and designer. Whilst not widely known outside of artistic circles, he was nonetheless regarded as one of the foremost sculptors of his generation. In a critical review of a retrospective mounted by the Gimpel Fils gallery in London in 1993, Brian Glasser of Time Out magazine described Adams as "the neglected genius of post-war British sculpture", a sentiment echoed by Tim Hilton in the Sunday Independent, who ranked Adams' work above that of his contemporaries, Ken Armitage, Reg Butler, Lynn Chadwick and Bernard Meadows.
+
+
+
+
+--- [Robert Adams (sculptor) explained] ---
+No content
+
+
+--- [Compare files - datasets/SimpleQA] ---
+Home Repositories Models Docs Blog Pricing Login Sign up Repositories Models Blog Community Pricing Search Docs LOG IN SIGN UP datasets / SimpleQA Data Branches Evaluations Fine-tune simple_qa_test_set.parquet comparing changes between versions 4eecd6b834e7dd92561b173244a2fa38 d634d44e7826259e4e5289ef2c6fe122 Base Diff Head Schema 4 columns, 201-300 of 4326 rows 4326 total rows 4326 Row details Copyright © 2026 Oxen Labs, Inc., All Rights Reserved Careers Privacy Policy Terms and Conditions
+
+
+--- [Robert Adams (sculptor) — Wikipedia Republished // WIKI 2] ---
+No content
