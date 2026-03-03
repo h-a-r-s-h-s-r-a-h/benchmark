@@ -1,0 +1,47 @@
+=== SEARCH SNIPPETS ===
+
+[Address of the President Dr E. D. Adrian, O.M., at the ... - JSTOR]
+The Darwin Medal is awarded to Professor John Burdon Sanderson Haldane for his work on the analysis of the causes of variation and of the mechanism of selection.
+URL: https://www.jstor.org/stable/82622
+
+[Darwin Medal - Wikipedia]
+Darwin Medal ... The Darwin Medal is one of the medals awarded by the Royal Society for "distinction in evolution, biological diversity and developmental, population and organismal biology". [1] In 1885, the International Darwin Memorial Fund was transferred to the Royal Society.
+URL: https://en.wikipedia.org/wiki/Darwin_Medal
+
+[PDF 170-4336.indd - Nature]
+The DARWIN MEDAL is awarded to Prof. John Burdon Sanderson Haldane, Weldon professor of biometry in University College, London, for his work on the analysis of the causes of variation and of the ...
+URL: https://www.nature.com/articles/170946a0.pdf
+
+[Darwin Medal for Professor Haldane - Newspapers.com]
+DARWIN MEDAL FOR PROF. HALDANE Royal Society Awards The following awards of medals have been made by the president and the council of the Royal Society - Copley Medal: Professor P. A. M. Dirac ...
+URL: https://www.newspapers.com/article/the-guardian-darwin-medal-for-professor/94511135/
+
+[Darwin Medal - Royal Society]
+Dec 1, 2025 · The award The Darwin Medal is awarded for work of distinction in evolution, biological diversity and developmental, population and organismal biology. The Darwin Medal was created in memory of Charles Darwin FRS and was first awarded in 1890 to noted biologist and naturalist Alfred Russel Wallace FRS 'for his independent origination of the theory of the origin of species by natural selection ...
+URL: https://royalsociety.org/medals-and-prizes/darwin-medal/
+
+
+=== FULL EXTRACTED CONTENT ===
+
+
+--- [Address of the President Dr E. D. Adrian, O.M., at the ... - JSTOR] ---
+No content
+
+
+--- [Darwin Medal - Wikipedia] ---
+The Darwin Medal is one of the medals awarded by the Royal Society for "distinction in evolution, biological diversity and developmental, population and organismal biology".
+In 1885, the International Darwin Memorial Fund was transferred to the Royal Society. The fund was devoted for promotion of biological research, and was used to establish the Darwin Medal. The medal was first awarded to Alfred Russel Wallace in 1890 for "his independent origination of the theory of the origin of species by natural selection." The medal commemorates the work of English biologist Charles Darwin (1809–1882). Darwin, most famous for his 1859 book On the Origin of Species, was a fellow of the Royal Society, and had received the Royal Medal in 1853 and the Copley Medal in 1864.
+The diameter of the Darwin Medal is 2+1⁄4 inch (5.7 cm). It is made of silver. The obverse has Darwin's portrait, while the reverse has a wreath of plants with Darwin's name in Latin, "Carolus Darwin". It is surrounded by the years of his birth and death in Roman numerals (MDCCCIX and MDCCCLXXXII). The general design of the medal was by John Evans, the president of the Royal Numismatic Society.
+Since its creation the Darwin Medal has been awarded over 60 times. Among the recipients are Francis Darwin, Charles Darwin's son, and two married couples: Jack and Yolande Heslop-Harrison in 1982 and Peter and Rosemary Grant in 2002. Initially accompanied by a grant of £100, the medal is currently awarded with a grant of £2,000. All citizens who have been residents of the United Kingdom, Commonwealth of Nations, or the Republic of Ireland for more than three years are eligible for the medal. The medal was awarded biennially from 1890 until 2018; since then it is awarded annually.
+
+
+--- [PDF 170-4336.indd - Nature] ---
+This is a preview of subscription content, access via your institution Access options Subscribe to this journal Receive 51 print issues and online access 199,00 € per year only 3,90 € per issue Buy this article - Purchase on SpringerLink - Instant access to the full article PDF. 39,95 € Prices may be subject to local taxes which are calculated during checkout Rights and permissions About this article Cite this article ADRIAN, E. The Royal Society: Anniversary Address. Nature 170, 946–951 (1952). https://doi.org/10.1038/170946a0 Issue date: DOI: https://doi.org/10.1038/170946a0
+
+
+--- [Darwin Medal for Professor Haldane - Newspapers.com] ---
+History is littered with hundreds of conflicts over the future of a community, group, location or business that were "resolved" when one of the parties stepped ahead and destroyed what was there. With the original point of contention destroyed, the debates would fall to the wayside. Archive Team believes that by duplicated condemned data, the conversation and debate can continue, as well as the richness and insight gained by keeping the materials. Our projects have ranged in size from a single volunteer downloading the data to a small-but-critical site, to over 100 volunteers stepping forward to acquire terabytes of user-created data to save for future generations. The main site for Archive Team is at archiveteam.org and contains up to the date information on various projects, manifestos, plans and walkthroughs. This collection contains the output of many Archive Team projects, both ongoing and completed. Thanks to the generous providing of disk space by the Internet Archive, multi-terabyte datasets can be made available, as well as in use by the Wayback Machine, providing a path back to lost websites and work. Our collection has grown to the point of having sub-collections for the type of data we acquire. If you are seeking to browse the contents of these collections, the Wayback Machine is the best first stop. Otherwise, you are free to dig into the stacks to see what you may find. The Archive Team Panic Downloads are full pulldowns of currently extant websites, meant to serve as emergency backups for needed sites that are in danger of closing, or which will be missed dearly if suddenly lost due to hard drive crashes or server failures.
+
+
+--- [Darwin Medal - Royal Society] ---
+The award The Darwin Medal is awarded for work of distinction in evolution, biological diversity and developmental, population and organismal biology. The Darwin Medal was created in memory of Charles Darwin FRS and was first awarded in 1890 to noted biologist and naturalist Alfred Russel Wallace FRS 'for his independent origination of the theory of the origin of species by natural selection.' The medal is of silver gilt, was awarded biennially until 2018 and is now awarded annually, and is accompanied by a gift of £2,000. Eligibility The Darwin Medal is open to UK/Commonwealth/Republic of Ireland citizens or those who have been residents for three or more years. There are no restrictions on career stage and nominations will remain valid and shall be considered by the award selection committee throughout three nomination cycles. Teams or groups may now be nominated for this award. Nominations are closed Nominations are closed and will reopen on 30 November 2026. Spotlight on 2025 winner Professor Andrew Rambaut FRS was awarded the Darwin Medal in 2025. He is an evolutionary biologist at the School of Biological Sciences at the University of Edinburgh, where he holds the Chair of Molecular Evolution at the Institute of Ecology and Evolution. Professor Rambaut’s research has focused on the evolution, epidemiology and origins of RNA viruses. RNA viruses are characterised by their unrivalled rate of evolution. Andrew's work harnesses this feature to reconstruct the history of transmission and spread recorded in their genomes, through the accumulation of mutations. He has created some of the core analytical tools used in the field of genomic epidemiology, allowing rapid insights into newly discovered epidemics and, in the era of rapid genomic sequencing, the real-time tracking of their spread and evolution. He has also made fundamental contributions to our understanding of the origins of many of the major epidemics of the last 100 years.
