@@ -1,0 +1,44 @@
+=== SEARCH SNIPPETS ===
+
+[Julie Depardieu]
+Filmography ; 1996, Les liens du coeur, Sarah, Josée Dayan, TV movie ; 1996 · La passion du docteur Bergh, Valerie Letechin, Josée Dayan (2), TV movie.
+URL: https://en.wikipedia.org/wiki/Julie_Depardieu
+
+[La passion du docteur Bergh (TV Movie 1998) - Julie Depardieu ...]
+La passion du docteur Bergh (TV Movie 1998) - Julie Depardieu as Valerie Letechin
+URL: https://www.imdb.com/title/tt0172955/characters/nm0220017/
+
+[Josée Dayan]
+Filmography ; 1996, Les Liens du coeur [fr], Director ; 1996 · La passion du docteur Bergh, Director ; 1996 · L'Enfant du secret [fr], Director ; 1997, Les héritiers ...
+URL: https://en.wikipedia.org/wiki/Jos%C3%A9e_Dayan
+
+[La passion du docteur Bergh (TV Movie 1998) - IMDb]
+With Rüdiger Vogler, Evelyne Bouix, Pierre Arditi, Julie Depardieu.
+URL: https://www.imdb.com/title/tt0172955/
+
+[Compare files - datasets/SimpleQA]
+What character did Julie Depardieu play in the TV movie "La Passion du Docteur Bergh"? {'topic': 'TV shows', 'answer_type ...
+URL: https://www.oxen.ai/datasets/SimpleQA/compare/file/4eecd6b834e7dd92561b173244a2fa38..d634d44e7826259e4e5289ef2c6fe122/simple_qa_test_set.parquet?page=41
+
+
+=== FULL EXTRACTED CONTENT ===
+
+
+--- [Julie Depardieu] ---
+Julie Marion Depardieu (born 18 June 1973) is a French actress who has appeared in a number of successful films.
+
+
+--- [La passion du docteur Bergh (TV Movie 1998) - Julie Depardieu ...] ---
+It looks like we don't have any photos or quotes yet. Be the first to contribute.Add a photo.Add a quote.
+
+
+--- [Josée Dayan] ---
+Josée Dayan (born 6 October 1943 in Toulouse, France) is a French film director, screenwriter and producer.
+
+
+--- [La passion du docteur Bergh (TV Movie 1998) - IMDb] ---
+9 captures 17 Nov 2004 - 08 Jan 2023 Dec JAN Feb 08 2022 2023 2024 success fail About this capture COLLECTED BY Collection: Wikipedia Eventstream TIMESTAMPS The Wayback Machine - http://web.archive.org/web/20230108122122/https://www.imdb.com/title/tt0172955/ Menu All All Titles TV Episodes Celebs Companies Keywords Advanced Search Watchlist Sign In Sign In New Customer? Create account EN Fully supported English (United States) Partially supported Français (Canada) Français (France) Deutsch (Deutschland) हिंदी (भारत) Italiano (Italia) Português (Brasil) Español (España) Español (México) Cast & crew Trivia IMDbPro All topics La passion du docteur Bergh TV Movie 1998 1998 IMDb RATING 4.7 /10 11 YOUR RATING Rate Drama Add a plot in your language IMDb RATING 4.7 /10 11 YOUR RATING Rate Director Josée Dayan Writer Heinz G. Konsalik (novel) Stars Rüdiger Vogler Evelyne Bouix Pierre Arditi Director Josée Dayan Writer Heinz G. Konsalik (novel) Stars Rüdiger Vogler Evelyne Bouix Pierre Arditi See production, box office & company info See production, box office & company info See more at IMDbPro Photos Add photo Top cast Edit Rüdiger Vogler Dr. Werner Berg Evelyne Bouix Marie Letechin Pierre Arditi Bernard Letechin Julie Depardieu Valerie Letechin Catherine Wilkening Gabrielle Klaus Händl Thomas Simon de La Brosse Ange Orsini Maria Schell Madame Herstäl Sylvie Fennec Director Josée Dayan Writer Heinz G. Konsalik (novel) All cast & crew Production, box office & more at IMDbPro Storyline Edit Did you know Edit Trivia Final film of Maria Schell. User reviews Be the first to review Be the first to review Details Edit Release date October 16, 1998 (Germany) Countries of origin France Germany Language French Also known as Dr. Berg - Nur das Leben zählt Production company Gemini Film See more company credits at IMDbPro Related news Contribute to this page Suggest an edit or add missing content IMDb Answers: Help fill gaps in our data Learn more about contributing Edit page More to explore Back to top Recently viewed Please enable browser cookies to use this feature. Learn more.
+
+
+--- [Compare files - datasets/SimpleQA] ---
+Home Repositories Models Docs Blog Pricing Login Sign up Repositories Models Blog Community Pricing Search Docs LOG IN SIGN UP datasets / SimpleQA Data Branches Evaluations Fine-tune simple_qa_test_set.parquet comparing changes between versions 4eecd6b834e7dd92561b173244a2fa38 d634d44e7826259e4e5289ef2c6fe122 Base Diff Head Schema 4 columns, 4001-4100 of 4326 rows 4326 total rows 4326 Row details Copyright © 2026 Oxen Labs, Inc., All Rights Reserved Careers Privacy Policy Terms and Conditions

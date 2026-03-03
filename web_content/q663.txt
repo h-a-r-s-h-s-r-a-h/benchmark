@@ -1,0 +1,44 @@
+=== SEARCH SNIPPETS ===
+
+[Amanda Billing - Wikipedia]
+Amanda Billing (born 12 April 1976 in New Zealand) is a New Zealand actress best known for her role as Doctor Sarah Potts on New Zealand soap opera Shortland Street. [1][2] Billing grew up in Masterton, and spent her university years in Christchurch.
+URL: https://en.wikipedia.org/wiki/Amanda_Billing
+
+[教你如何关闭window 10的开机PIN码或密码-百度经验]
+Oct 11, 2019 · Windows 10的开机PIN码或密码可以为我们的账户和电脑安全增加一道屏障。但是，如果电脑只是在家中供家人使用或出于自身考虑，每次开机输入PIN码或密码也会显得很繁琐。那么，下面就教你如何关闭windows 10的开机PIN码或密码。
+URL: https://jingyan.baidu.com/article/f3e34a1279df73b5eb65358f.html
+
+[Amanda Billing - Biography - IMDb]
+Amanda Billing was born on 1 January 1976 in Masterton, New Zealand. She is an actress, known for A Minecraft Movie (2025), Power Rangers Ninja Steel (2017) and Shortland Street (1992).
+URL: https://www.imdb.com/name/nm1751245/bio/
+
+[放坡系数表中1：0.3是什么意思……各代表的什么-百度经验]
+1表示：槽或基坑的深度 ；0.3表示边坡底宽。 人工沟槽及基坑如果土层深度较深，土质较差，为了防止坍塌和保证安全，需要将沟槽或基坑边壁修成一定的倾斜坡度欠裹，称为放坡。 沟槽边坡坡度以挖沟槽或基坑的深度"H"与边坡底宽"B"之比表示，即:土方边坡坡度 (1:k)=H/ B，通常以"%"表示，式中k=B/H ...
+URL: https://jingyan.baidu.com/article/7f41ecec2c9407183c095c4d.html
+
+[Amanda Billing - The Movie Database (TMDB)]
+Amanda Billing (born 12 April 1976 in New Zealand) is a New Zealand actress best known for her role as Doctor Sarah Potts on New Zealand soap opera Shortland Street. Billing grew up in Masterton, and spent her university years in Christchurch.
+URL: https://www.themoviedb.org/person/1236969-amanda-billing
+
+
+=== FULL EXTRACTED CONTENT ===
+
+
+--- [Amanda Billing - Wikipedia] ---
+Amanda Billing (born 12 April 1976 in New Zealand) is a New Zealand actress best known for her role as Doctor Sarah Potts on New Zealand soap opera Shortland Street.
+
+
+--- [教你如何关闭window 10的开机PIN码或密码-百度经验] ---
+教你如何关闭window 10的开机PIN码或密码原创|浏览：186841|更新：2019-10-11 16:39|标签：WIN10 1234567分步阅读Windows 10的开机PIN码或密码可以为我们的账户和电脑安全增加一道屏障。但是，如果电脑只是在家中供家人使用或出于自身考虑，每次开机输入PIN码或密码也会显得很繁琐。那么，下面就教你如何关闭windows 10的开机PIN码或密码。工具/原料演示电脑：Windows 10系统、系统版本：Win10 专业版 Build 18995方法/步骤1进入“Windows设置”，选择【账户】。2切换到【登录选项】设置。3需要先删除PIN码。点击PIN码选项。4点击选择【删除】按钮。5再次点击【删除】进行确认。6验证当前账户的账户密码（非PIN码）。7最后将“使设备无密码”设置为开启状态即可。END总结11.进入“Windows设置”，选择【账户】。2.切换到【登录选项】设置。3.点击PIN码选项。4.点击选择【删除】按钮。5.再次点击【删除】进行确认。6.验证当前账户的账户密码（非PIN码）。7.最后将“使设备无密码”设置为开启状态即可。END注意事项Tips 1：如果当前登录的是Microsoft账户，并且电脑不支持人脸或指纹登录，设置无密码登录会使登录时必须验证账户密码。Tips 2：当你正在使用人脸或指纹识别时，删除PIN会使它们失效。经验内容仅供参考，如果您需解决具体问题(尤其法律、医学等领域)，建议您详细咨询相关领域专业人士。作者声明：本篇经验系本人依照真实经历原创，未经许可，谢绝转载。展开阅读全部
+
+
+--- [Amanda Billing - Biography - IMDb] ---
+Menu All All Watchlist Sign in EN Fully supported English (United States) Partially supported Français (Canada) Français (France) Deutsch (Deutschland) हिंदी (भारत) Italiano (Italia) Português (Brasil) Español (España) Español (México) Use app Back Biography Awards IMDbPro All topics Biography Amanda Billing Jump to Overview (2) Biography (1) Edit Overview Born January 1 , 1976 · Masterton, New Zealand Height 5′ 7¼″ (1.71 m) Biography Amanda Billing was born on January 1, 1976 in Masterton, New Zealand. She is an actress, known for A Minecraft Movie (2025) , Power Rangers Ninja Steel (2017) and Shortland Street (1992) . Contribute to this page Suggest an edit or add missing content Learn more about contributing Edit page More from this person View agent, publicist, legal and company contact details on IMDbPro More to explore Recently viewed You have no recently viewed pages Back to top
+
+
+--- [放坡系数表中1：0.3是什么意思……各代表的什么-百度经验] ---
+放坡系数表中1：0.3是什么意思……各代表的什么 - 浏览：9236 - | - 更新： 1表示：槽或基坑的深度 ；0.3表示边坡底宽。 人工沟槽及基坑如果土层深度较深，土质较差，为了防止坍塌和保证安全，需要将沟槽或基坑边壁修成一定的倾斜坡度，称为放坡。 沟槽边坡坡度以挖沟槽或基坑的深度"H"与边坡底宽"B"之比表示，即:土方边坡坡度(1:k)=H/ B，通常以"%"表示，式中k=B/H称为坡度系数。 扩展资料: 1.放坡系数 人工沟槽及基坑如果土层深度较深，土质较差，为了防止坍塌和保证安全，需要将沟槽或基坑边壁修成一定的倾斜坡度，称为放坡。沟槽边坡坡度为挖沟槽或基坑的深度“H”与边坡底宽“B”之比。即：土方边坡坡度K=H/B=1/（B/H）=1：m，式中：m=B/H，称为放坡系数（边坡坡角正切值）。 2.基本定义 土壁边坡坡度以基高h与底宽b之比表示。 边坡坡度k=h:b=1:m，m为放坡系数， m= b/h,即横直角边与竖直角边的比值为放坡系数。 3.举例 1米5为起点．0.33的系数． 例如基高是4米 补充一下，在建筑中，地基地坑放坡起点一般以基坑底为放坡起点。屋面保温层一般以屋面边沟边为放坡起点。 参考资料:百度百科——放坡系数 经验内容仅供参考，如果您需解决具体问题(尤其法律、医学等领域)，建议您详细咨询相关领域专业人士。 展开阅读全部
+
+
+--- [Amanda Billing - The Movie Database (TMDB)] ---
+Personal Info Known For Acting Known Credits 10 Gender Female Birthday April 12, 1976 (49 years old) Place of Birth Masterton, New Zealand Also Known As - Amanda Bridgid Billing Content Score 100 Yes! Looking good! Login to report an issue Biography From Wikipedia, the free encyclopedia Amanda Billing (born 12 April 1976 in New Zealand) is a New Zealand actress best known for her role as Doctor Sarah Potts on New Zealand soap opera Shortland Street. Billing grew up in Masterton, and spent her university years in Christchurch. After graduating with a Bachelor of Arts with 1st Class Honours in Geography from the University of Canterbury, she trained at the Christchurch College of Education and became a high school teacher. Billing was involved in drama throughout her teaching years and has acted in a few amateur stage productions including Cloud Nine and The Country Wife. She has worked at several schools throughout Auckland teaching Geography, English and Social Studies, most recently at Rangitoto College. From Wikipedia, the free encyclopedia Amanda Billing (born 12 April 1976 in New Zealand) is a New Zealand actress best known for her role as Doctor Sarah Potts on New Zealand soap opera Shortland Street. Billing grew up in Masterton, and spent her university years in Christchurch. After graduating with a Bachelor of Arts with 1st Class Honours in Geography from the University of Canterbury, she trained at the Christchurch College of Education and became a high school teacher. Billing was involved in drama throughout her teaching years and has acted in a few amateur stage productions including Cloud Nine and The Country Wife. She has worked at several schools throughout Auckland teaching Geography, English and Social Studies, most recently at Rangitoto College. Acting | ||||||||| | ||||||||| | ||||||||| | ||||||||| | ||||||||| | ||||||||| | ||||||||| | ||||||||| |

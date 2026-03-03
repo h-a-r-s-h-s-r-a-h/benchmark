@@ -1,0 +1,44 @@
+=== SEARCH SNIPPETS ===
+
+[Asteroid Vasnetsov | Space Reference]
+Vasnetsov's orbit is determined by observations dating back to March 14, 1969. It was last officially observed on July 1, 2023. The IAU Minor Planet Center records 3,432 observations used to determine its orbit. This asteroid is not considered a viable target for human exploration by the NHATS study.
+URL: https://www.spacereference.org/asteroid/3586-vasnetsov-1978-sw6
+
+[Wolfram|Alpha (3586 Vasnetsov (1978 SW6) | discovery date)]
+Result: 1978
+URL: https://www.wolframalpha.com/input/?i=In+what+year+was+the+minor+planet+3586+Vasnetsov+discovered%3F
+
+[(3586) Vasnetsov — Wikipédia]
+(3586) Vasnetsov est un astéroïde 1 de la ceinture principale. Il fut découvert le 26 septembre 1978 à Naoutchnyï par Lioudmila Jouravliova. Il présente une orbite caractérisée par un demi-grand axe de 2,46 UA, une excentricité de 0,12 et une inclinaison de 9,9° par rapport à l' écliptique 2.
+URL: https://fr.wikipedia.org/wiki/(3586)_Vasnetsov
+
+[Apollinary Vasnetsov - Academic Dictionaries and Encyclopedias]
+A minor planet 3586 Vasnetsov, discovered by Soviet astronomer Lyudmila Zhuravlyova in 1978 is named after Viktor Vasnetsov and Apollinary Vasnetsov. [cite book | last = Schmadel | first = Lutz D. | coauthors = | title = Dictionary of Minor Planet Names | pages = p. 301 | edition = 5th | year = 2003 | publisher = Springer Verlag | location ...
+URL: https://en-academic.com/dic.nsf/enwiki/2808037
+
+[3586 Vasnetsov - Wikidata]
+1 reference add value Minor Planet Center body ID 3586 edit 0 references add reference
+URL: https://www.wikidata.org/wiki/Q668801
+
+
+=== FULL EXTRACTED CONTENT ===
+
+
+--- [Asteroid Vasnetsov | Space Reference] ---
+Vasnetsov is a mid-sized asteroid orbiting between Mars and Jupiter in the main portion of the asteroid belt. NASA JPL has not classified Vasnetsov as potentially hazardous because its orbit does not bring it close to Earth. Vasnetsov orbits the sun every 1,410 days (3.86 years), coming as close as 2.18 AU and reaching as far as 2.74 AU from the sun. Vasnetsov is about 7.2 kilometers in diameter, making it larger than 99% of asteroids, comparable in size to the San Francisco Bay. The rotation of Vasnetsov has been observed. It completes a rotation on its axis every 4.05 hours. Vasnetsov's orbit is 1.19 AU from Earth's orbit at its closest point. This means that there is an extremely wide berth between this asteroid and Earth at all times. Orbital simulations conducted by NASA JPL's CNEOS do not show any close approaches to Earth. Vasnetsov's orbit is determined by observations dating back to March 14, 1969. It was last officially observed on July 1, 2023. The IAU Minor Planet Center records 3,432 observations used to determine its orbit. The position of Vasnetsov is indicated by a ◯ pink circle. Note that the object may not be in your current field of view. Use the controls below to adjust position, location, and time.
+
+
+--- [Wolfram|Alpha (3586 Vasnetsov (1978 SW6) | discovery date)] ---
+No content
+
+
+--- [(3586) Vasnetsov — Wikipédia] ---
+(3586) Vasnetsov Apparence (3586) Vasnetsov | Demi-grand axe (a) | 368,015 × 106 km[1] (2,46 ua) | |---|---| | Périhélie (q) | 326,128 × 106 km[1] (2,18 ua) | | Aphélie (Q) | 409,903 × 106 km[1] (2,74 ua) | | Excentricité (e) | 0,12[1] | | Période de révolution (Prév) | ~1 410 j (3,86 a) | | Inclinaison (i) | 9,9°[1] | | Longitude du nœud ascendant (Ω) | 6,7°[1] | | Argument du périhélie (ω) | 260,1°[1] | | Anomalie moyenne (M0) | 280,4°[1] | | Catégorie | Astéroïde de la ceinture principale[1],[2] | | Magnitude absolue (H) | 13,0[1],[2] | |---| | Date | le [1],[2] | |---|---| | Découvert par | Lioudmila Jouravliova[1],[2] | | Lieu | Naoutchnyï[1] | | Désignation | 1978 SW6[1],[2] | (3586) Vasnetsov est un astéroïde de la ceinture principale. Description [modifier | modifier le code](3586) Vasnetsov est un astéroïde[1] de la ceinture principale. Il fut découvert le à Naoutchnyï par Lioudmila Jouravliova. Il présente une orbite caractérisée par un demi-grand axe de 2,46 UA, une excentricité de 0,12 et une inclinaison de 9,9° par rapport à l'écliptique[2]. Compléments [modifier | modifier le code]Articles connexes [modifier | modifier le code]Références [modifier | modifier le code]- (en) « (3586) Vasnetsov = 1978 SW6 », sur le site du Centre des planètes mineures (consulté le ) - (en) « 3586 Vasnetsov (1978 SW6) » [html], sur ssd.jpl.nasa.gov, Jet Propulsion Laboratory (consulté le )
+
+
+--- [Apollinary Vasnetsov - Academic Dictionaries and Encyclopedias] ---
+- Apollinary Vasnetsov Apollinary Mikhailovich Vasnetsov ( _ru. Аполлинарий Михайлович Васнецов) ( July 25 (N.S.August 6 ), 1856, the village ofRiabovo ,Vyatka province -January 23 ,1933 ,Moscow ) was aRussia n painter and graphic artist whose elder brother was the more famousViktor Vasnetsov . He specialized in scenes from the medieval history ofMoscow .Vasnetsov was a painter and a graphic artist. He did not receive a formal artistic education. He studied under his older brother Viktor Vasnetsov , the famous Russian painter. From 1883, he and his brother lived and worked inAbramtsevo where he fell under the influence ofVasily Polenov . In 1898–1899, he traveled across Europe. In addition to epic landscapes of Russian nature, Apollinary Vasnetsov created his own genre of historical landscape reconstruction on the basis of historical and archaeological data. His paintings present a visual picture of medieval Moscow. He was a member of the Association of Traveling Art Exhibitions (Peredvizhniki) from 1899, and an academician from 1900. He became one of the founders and supervisors of theUnion of Russian Artists .In the beginning of 1920 Committee of Archeology (the predesseror of the Community of Saving of Art Monuments) invited Apollinary Vasnetsov and some other painters (among them was Vikentii Trofimov ) to draw old places of Voronezh.A minor planet 3586 Vasnetsov , discovered by Soviet astronomerLyudmila Zhuravlyova in 1978 is named afterViktor Vasnetsov and Apollinary Vasnetsov. [cite book | last = Schmadel | first = Lutz D. | coauthors = | title = Dictionary of Minor Planet Names | pages = p. 301 | edition = 5th | year = 2003 | publisher = Springer Verlag | location = New York | url = http://books.google.com/books?q=3575+Anyuta | id = ISBN 3540002383]Bibliography *"Apollinary Vasnetsov" by Vasnetsova, Yekaterina & Schmidt, Igor (eds.) Izobrazitelnoye Iskusstvo, Moscow, 1980, (Russian/English) Book ID V 1121 31 References External links * [http://www.virtualmuseum.ca/Exhibitions/Horizons/En/bio-505.html Short biography 1] * [http://www.artfact.com/features/viewArtist.cfm?artistRef=1QFQKYMCYG Short biography 2] Wikimedia Foundation. 2010.
+
+
+--- [3586 Vasnetsov - Wikidata] ---
+3586 Vasnetsov (Q668801) Appearance asteroid - Vasnetsov | Language | Label | Description | Also known as | |---|---|---|---| | default for all languages | 3586 Vasnetsov | || | English | 3586 Vasnetsov | asteroid | | Statements 26 September 1978 2.745 astronomical unit 2.743389177307526±0.00000000056977 astronomical unit 2.1742388 astronomical unit 2.178373169065759±0.0000000015599 astronomical unit 260.48701 degree 260.0396462380807±0.00000033402 degree 0.12 0.1159727 0.1147995308343387±0.00000000054446 9.85465 degree 9.852853137749884±0.000000039563 degree 3.86 year 1,410.049609048142±0.00000043928 day 4.0536 hour 2.4594703 astronomical unit 2.460881173186642±0.0000000005111 astronomical unit 6.67012 degree 6.587209453790977±0.00000019563 degree 277.71149 degree 171.3382740729489±0.00000040043 degree 0.216±0.022 7.185±0.163 kilometre 2,460,329.4014823013±0.0000014103 Julian day 1969 EZ1 1974 SR 1978 SW6 1981 KL1 1982 UE8 1982 VR6 3586 Vasnetsov 0 references Identifiers Sitelinks Wikipedia(25 entries) - arzwiki 3586 Vasnetsov (كويكب) - cewiki (3586) Васнецов - dewiki (3586) Vasnetsov - enwiki 3586 Vasnetsov - eowiki 3586 Vasnetsov - eswiki (3586) Vasnetsov - euwiki 3586 Vasnetsov - fawiki واسنتسوف ۳۵۸۶ - frwiki (3586) Vasnetsov - huwiki 3586 Vasnetsov - hywiki (3586) Վասնեցով - itwiki 3586 Vasnetsov - lawiki 3586 Vasnetsov - plwiki (3586) Vasnetsov - ptwiki 3586 Vasnetsov - rowiki 3586 Vasnetsov - ruwiki (3586) Васнецов - skwiki 3586 Vasnetsov - srwiki 3586 Васнецов - svwiki 3586 Vasnetsov - ttwiki (3586) Васнецов - ukwiki 3586 Васнецов - viwiki 3586 Vasnetsov - yowiki 3586 Vasnetsov - zhwiki 小行星3586 Wikibooks(0 entries) Wikinews(0 entries) Wikiquote(0 entries) Wikisource(0 entries) Wikiversity(0 entries) Wikivoyage(0 entries) Wiktionary(0 entries) Multilingual sites(1 entry) - commonswiki Category:3586 Vasnetsov
