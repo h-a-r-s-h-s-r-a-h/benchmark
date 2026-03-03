@@ -1,0 +1,93 @@
+=== SEARCH SNIPPETS ===
+
+[199 Whitby Abbey steps | A history of the 199 steps]
+Jul 12, 2019 · The first record of the Whitby Abbey steps comes from 1340, but they’re believed to be even older. The steps were originally made from wood. It was not until 1774 that the original wooden steps were replaced with stone from Sneaton.
+URL: https://www.visitwhitby.com/blog/199-whitby-abbey-steps/
+
+[Whitby 199 steps - Wikipedia]
+The Whitby 199 steps (also known as The Church Stairs and Jacob's Ladder), is a grade I listed structure between the Old Town and St Mary's Church, in Whitby, North Yorkshire, England. The 199 steps have been recorded since at least 1370, and until the 1770s, were made of wood.
+URL: https://en.wikipedia.org/wiki/Whitby_199_steps
+
+[Corner of Yorkshire: The arduous 199 steps to Whitby Abbey ...]
+Jul 22, 2024 · Officially the steps date from 1340, but local historians believe they go back even further. Originally constructed from timber, in 1774 they were replaced with stone quarried at nearby Sneaton.
+URL: https://www.yorkshirepost.co.uk/lifestyle/outdoors/corner-of-yorkshire-the-arduous-199-steps-to-whitby-abbey-are-worth-it-for-the-views-4708044
+
+[Find name of Active Directory domain controller - Server Fault]
+Oct 25, 2009 · How can I find out the name/IP address of the AD domain controller on my network?
+URL: https://serverfault.com/questions/78089/find-name-of-active-directory-domain-controller
+
+[Subject Alternative Name not added to certificate]
+On the Subject tab in the Certificate Properties, enter a suitable Common name for the Subject, if required In the Alternative names section, select Type: DNS and add the FQDNs for the desired SANs. Options for key usage and so on should be preconfigured on the other tabs.
+URL: https://serverfault.com/questions/476413/subject-alternative-name-not-added-to-certificate
+
+
+=== FULL EXTRACTED CONTENT ===
+
+
+--- [199 Whitby Abbey steps | A history of the 199 steps] ---
+The 199 Whitby Abbey steps are one challenge visitors to the town cannot resist. They’re one of our most famous attractions. But, how much do you know about the history of Whitby steps? History of the Whitby Abbey steps The first record of the Whitby Abbey steps comes from 1340, but they’re believed to be even older. The steps were originally made from wood. It was not until 1774 that the original wooden steps were replaced with stone from Sneaton. It is thought the 199 steps were used as a test of Christian faith to those who wished to worship in St Mary’s Church. Climbing the steps would prove that you were faithful. Anyone who has climbed them recently knows how testing they can be! Thank goodness for the “benches” As you’re climbing, we’re sure you’re grateful for the “benches” placed at intervals as you ascend. While that’s certainly what they’re used for today, these resting points were created with a different purpose in mind. Before the churchyard was closed to burials in the 19th century, coffins were regularly carried up the steps by grieving family and friends. Wooden planks were put in place to give the pall-bearers a respectful place to rest the coffin while they caught their breath. While a horse and carriage could carry the body to the graveyard via Green Lane, many people preferred to be carried up the steps to their final resting place. We can easily imagine what an impressive site that would have made. Why 199 steps? Nobody is entirely sure why there are 199 steps up to the church. In fact, there has been lots of debate whether there are in fact 199 at all! Some records state there are 198 steps, others 200. Local preacher John Wesley counted 191 steps in 1761 and other guides from the 1800s record only 194 steps. You’ll just have to climb them for yourself and keep your own count. Let us know how many steps you think there are by getting in touch on Facebook or Twitter. Are they worth the climb? Of course they are! You get some of the most spectacular views of Whitby from the top of the cliff and as you climb the steps. You can wander around the church yard, visit St Mary’s Church and spend time exploring the ruins of our famous Abbey. If you’re not able to take on the climb or fancy a gentler trip up to the top, you can hop on the Whitby tour bus instead.
+
+
+--- [Whitby 199 steps - Wikipedia] ---
+The Whitby 199 steps (also known as The Church Stairs and Jacob's Ladder), is a grade I listed structure between the Old Town and St Mary's Church, in Whitby, North Yorkshire, England. The 199 steps have been recorded since at least 1370, and until the 1770s, were made of wood. The flight of steps was viewed as a measure of the Christian determination of pilgrims up to Whitby Abbey (and later, the church), and have also served as a tourist attraction being mentioned in the book Dracula, by Bram Stoker.
+
+
+--- [Corner of Yorkshire: The arduous 199 steps to Whitby Abbey ...] ---
+Corner of Yorkshire: The arduous 199 steps to Whitby Abbey are worth it for the views The steps have long been a challenge to the town’s visitors, but the rewards for arriving at the top include a magnificent view across the river and harbour, an inspection of “Dracula’s graveyard” in front of St. Mary’s Church and, of course, a chance to look round the remains of the 12th century Benedictine monastery on the East Cliff. Officially the steps date from 1340, but local historians believe they go back even further. Originally constructed from timber, in 1774 they were replaced with stone quarried at nearby Sneaton. There has been some debate about whether there are 199 steps or 200, and the preacher John Wesley counted 191 back in 1761. Advertisement Hide AdAdvertisement Hide AdOne explanation for the steps’ construction is that climbing them was meant to be a test of Christian faith. A similar test awaits Christians visiting the church of Cité Religieuse above the French village of Rocamadour, where there are 216 steps. Henry II of England once proved his devotion by crawling up what has become known as the Grand Escalier (the pilgrim’s staircase) on his hands and knees. Several benches are placed at intervals on Whitby’s steps and they are gratefully used by many, but these were not originally intended to give weary visitors the chance of a rest. Until the churchyard was closed to burials in 1865, coffins were often carried up the steps, followed by mourners. Wooden planks were provided as places for the pall-bearers to rest coffins while they steeled themselves for the remainder of the climb.
+
+
+--- [Find name of Active Directory domain controller - Server Fault] ---
+# Find name of Active Directory domain controller
+
+How can I find out the name/IP address of the AD domain controller on my network?
+
+
+## Accepted Answer
+
+On any computer, that has DNS configured to use AD's DNS server do:
+
+
+Start -> Run -> nslookup    
+
+set type=all
+_ldap._tcp.dc._msdcs.DOMAIN_NAME
+
+
+
+Replace DOMAIN_NAME with the actual domain name e.g. example.com. Read more here.
+
+
+
+--- [Subject Alternative Name not added to certificate] ---
+# Subject Alternative Name not added to certificate
+
+I'm trying to issue a new certificate using the additional attribues field within the  Windows CertSrv Web-Enrollment Client.
+
+I added the CSR, picked the template and entered this into the attributes field:
+
+SAN:dns=HOSTNAME&dns=HOSTNAME.DOMAIN.COM&ipaddress=IPADRESS
+
+
+The request is successful but when I check the signed certificate no "Alternative Names" attribute is added to it. Am I missing something? Maybe a issue with the Template? (used a default Win 2003 level webserver template copy with some custom settings).
+
+/edit
+Also I've tried to use 
+
+certreq -submit -attrib "CertificateTemplate:MYTEMPLATE" <Cert Request.req> -attrib "SAN:dns=HOSTNAME&dns=HOSTNAME2&ipaddress=IPADDRESS"
+
+
+resulting in the same problem: cert gets generated, but without any SAN attribute.
+
+/edit2 
+also I've set the CA to issue SAN certificates using
+
+certutil -setreg policy\EditFlags +EDITF_ATTRIBUTESUBJECTALTNAME2
+
+
+and restarting the CA service. Still: no SANs.
+
+Please note: using req. files and OpenSSL to generate the CSR i'm able to generate certifcates using the CA which have some SANs included. However this option is not valid in my current situation since I'm getting the CSR from an application and i'm not able to manually generate one for the application.
+
+/edit3
+I tried using the default webserver certificate WITHOUT any changes and suddenly it worked. So now the question is: what are the template requirements to enable SAN?
+

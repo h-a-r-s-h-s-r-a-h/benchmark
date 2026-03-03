@@ -1,0 +1,46 @@
+=== SEARCH SNIPPETS ===
+
+[Marston Conder - Wikipedia]
+In 2011 he was awarded a James Cook Research Fellowship for research on symmetry of discrete structures. [8][9] In March 2021 it was announced that Conder has been awarded the 2020 Euler Medal by the Institute of Combinatorics and its Applications [10] for his "many distinguished contributions to combinatorics over the last 40 years."
+URL: https://en.wikipedia.org/wiki/Marston_Conder
+
+[ICA]
+Dr Marston Conder awarded the 2020 Euler Medal of ...
+URL: http://combinatoricsinstitute.blogspot.com/2021/06/
+
+[Dijen K. Ray-Chaudhuri - Wikipedia]
+Ray-Chaudhuri is the recipient of the Euler Medal by the Institute of Combinatorics and its Applications for his career contributions to combinatorics. In 2000, a festschrift appeared on the occasion of his 65th birthday.
+URL: https://en.wikipedia.org/wiki/Dijen_K._Ray-Chaudhuri
+
+[Euler Medal winner Curt Lindner]
+Forty-five years ago, Curt Lindner surprised the combinatorial community by finding a small embedding for partial Steiner triple syst...
+URL: http://combinatoricsinstitute.blogspot.com/2017/04/euler-medal-winner-curt-lindner.html
+
+[Scalable level-wise screening experiments using locating arrays: Journal of Quality Technology: Vol 55, No 5]
+He is the author of about 400 refereed journal papers focusing on combinatorial designs and graphs with applications in networking, computing, and communications. He was awarded the Euler Medal for Lifetime Research (2003) and the Stanton Medal for Lifetime Service (2020) by the Institute for Combinatorics and its Applications.
+URL: https://www.tandfonline.com/doi/abs/10.1080/00224065.2023.2220973
+
+
+=== FULL EXTRACTED CONTENT ===
+
+
+--- [Marston Conder - Wikipedia] ---
+Marston Donald Edward Conder  (born 9 September 1955) is a New Zealand mathematician, a Distinguished Professor of Mathematics at Auckland University, and the former co-director of the New Zealand Institute of Mathematics and its Applications. His main research interests are in combinatorial group theory, graph theory, and their connections with each other.
+
+
+--- [ICA] ---
+David Pike (Vice-President of ICA) was just elected as president-elect of the Canadian Mathematical Society (his two-year term as president will start one year from now). David was also named as one of seven new Fellows of the CMS: https://cms.math.ca/news-item/canadian-mathematical-societys-2021-class-of-fellows-announced/ CANADIAN MATHEMATICAL SOCIETY’S 2021 CLASS OF FELLOWS ANNOUNCED The Canadian Mathematical Society is pleased to announce the 2021 Class of Fellows consisting of 7 members from the Canadian mathematical community. The Fellowship recognises CMS members who have made excellent contributions to mathematical research, teaching, or exposition; as well as having distinguished themselves in service to Canada’s mathematical community. Induction to the 2021 Class of Fellows was based upon nominations, reception of the David Borwein Distinguished Career Award or the Graham Wright Award for Distinguished Service, or reception of any other CMS prize or award fo...
+
+
+--- [Dijen K. Ray-Chaudhuri - Wikipedia] ---
+Dwijendra Kumar Ray-Chaudhuri (born November 1, 1933) is an Indian-American mathematician and professor emeritus at Ohio State University. He and his student R. M. Wilson together solved the long-standing Kirkman's schoolgirl problem in 1968, which contributed to developments in design theory.
+He received his M.Sc. (1956) in mathematics from the famous Rajabazar Science College, University of Calcutta and Ph.D. in combinatorics (1959) from University of North Carolina at Chapel Hill. He served as consultant at Cornell Medicine and Sloan Kettering, a professor and chairman of the Department of Mathematics at Ohio State University, as well as a visiting professor of University of Göttingen and University of Erlangen in Germany, University of London, and Tata Institute of Fundamental Research in Mumbai.
+He is best known for his work in design theory and the theory of error-correcting codes, in which the class of BCH codes is partly named after him and his Ph.D. advisor Bose. Ray-Chaudhuri is the recipient of the Euler Medal by the Institute of Combinatorics and its Applications for his career contributions to combinatorics. In 2000, a festschrift appeared on the occasion of his 65th birthday. In 2012 he became a fellow of the American Mathematical Society.
+
+
+--- [Euler Medal winner Curt Lindner] ---
+Euler Medal winner Curt Lindner Forty-five years ago, Curt Lindner surprised the combinatorial community by finding a small embedding for partial Steiner triple systems, turning a complex mystery into a simple truth. Ever since, in over 200 refereed journal papers and through numerous invited and keynote lectures, he has made apparently complex problems much more approachable. His research began with embedding problems, but now encompasses a broad sweep across combinatorial design theory, especially cycle systems and graph designs. Curt has mentored more than 20 PhD students, and collaborated extensively with international colleagues. As his nominators say, “Curt is a catalyst” with his “captivating way of encouraging others to join him in mathematical exploration.”
+
+
+--- [Scalable level-wise screening experiments using locating arrays: Journal of Quality Technology: Vol 55, No 5] ---
+No content

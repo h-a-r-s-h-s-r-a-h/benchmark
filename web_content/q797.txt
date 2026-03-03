@@ -1,0 +1,72 @@
+=== SEARCH SNIPPETS ===
+
+[Google Chrome - Wikipedia]
+Despite this, on November 6, 2012, Google released a version of Chrome on Windows which added hardware-accelerated H.264 video decoding. [53] In October 2013, Cisco announced that it was open-sourcing its H.264 codecs, and it would cover all fees required.
+URL: https://en.wikipedia.org/wiki/Google_Chrome
+
+[We was or We were which is correct? - English Language Learners...]
+We was is not standard English, it is used in some regional dialects: The verb 'to be' has two simple past forms in Standard English - I/he/she/it was and you/we/they were. Apart from the special case of you, the distinction is, therefore, between singular was and plural were In some regional dialects, however, this pattern is not observed. In some parts of the country, speakers use was ...
+URL: https://ell.stackexchange.com/questions/185313/we-was-or-we-were-which-is-correct
+
+[Google Chrome - Wikiwand]
+Despite this, on November 6, 2012, Google released a version of Chrome on Windows which added hardware-accelerated H.264 video decoding. [53] In October 2013, Cisco announced that it was open-sourcing its H.264 codecs, and it would cover all fees required.
+URL: https://www.wikiwand.com/en/articles/Chrome_(browser)
+
+[Google Chrome v88 got hardware-accelerated decoding support : r/linux]
+On this day in 2008, the first non-beta version of Google Chrome was released. r/google - On this day in 2008, the first non- ...
+URL: https://www.reddit.com/r/linux/comments/k5s4n5/google_chrome_v88_got_hardwareaccelerated/
+
+[What is the difference between "were" and "have been"?]
+What is the difference between "were" and "have been", and are these sentences gramatically correct? 1) some of the best known writers of detective fiction in the twentieth century were women.
+URL: https://ell.stackexchange.com/questions/24017/what-is-the-difference-between-were-and-have-been
+
+
+=== FULL EXTRACTED CONTENT ===
+
+
+--- [Google Chrome - Wikipedia] ---
+Google Chrome is a cross-platform web browser developed by Google. It was launched in 2008 for Microsoft Windows and was built with free software components from Apple WebKit and Mozilla Firefox. Versions were later released for Linux, macOS, iOS, iPadOS, and Android, where it is currently the default browser. The browser is also the main component of ChromeOS, on which it serves as the platform for web applications.
+Most of Chrome's source code comes from Google's free and open-source software project known as Chromium, but Chrome is licensed as proprietary freeware. WebKit was the original rendering engine, but Google eventually forked it to create the Blink engine; every Chrome variant except iOS used Blink as of 2017.
+As of March 2026, StatCounter estimates that Chrome has a 75.23% worldwide browser market share on personal computers. It is the most-used browser on tablets (having far surpassed Safari), and is also dominant on smartphones. With a market share of 71.22% across all platforms combined as of December 2025, Chrome is the most used web browser in the world.
+Google chief executive Eric Schmidt was previously involved in the "browser wars" (a part of U.S. corporate history) and was against the expansion of the company into such a new area. However, Google co-founders, Sergey Brin and Larry Page, spearheaded a software demonstration that pushed Schmidt into making Chrome a core business priority, which resulted in it becoming a commercial success. Because of the proliferation of Chrome, Google has expanded the "Chrome" brand name to other products. This includes ChromeOS, Chromecast, Chromebook, Chromebit, Chromebox, and Chromebase.
+
+
+--- [We was or We were which is correct? - English Language Learners...] ---
+# We was or We were which is correct?
+
+I several times, particularly,while reading novels, encountered the sentence ' we was ....' .But as per my knowledge is concerned were is appropriate verb instaed of was. Please explain it. Thank you
+
+Usage examples: 
+
+From 
+The Life and Times of Ray Hicks: Keeper of the Jack Tales: 
+
+
+  We was hurryin' so as not to get caught in a blizzard storm. The northwest wind blowed over the mountain and was so strong ......The snow started a comin' down so fast, in short order we couldn't see where we was goin. ice was a freezin' on our faces. We turned to walk backwards, then forwards , ...
+
+
+From Tom Sawyer, Detective
+By Mark Twain:
+
+
+  What we was after was a couple of noble big di'monds as big as hazel-nuts, which everybody was running to see. We was dressed up fine, and ...
+
+
+
+
+--- [Google Chrome - Wikiwand] ---
+No content
+
+
+--- [Google Chrome v88 got hardware-accelerated decoding support : r/linux] ---
+You've been blocked by network security. To continue, log in to your Reddit account or use your developer token If you think you've been blocked by mistake, file a ticket below and we'll look into it. Log in File a ticket
+
+
+--- [What is the difference between "were" and "have been"?] ---
+# What is the difference between &quot;were&quot; and &quot;have been&quot;?
+
+What is the difference between "were" and "have been", and are these sentences gramatically correct?
+
+1) some of the best known writers of detective fiction in the twentieth century were women.
+2) some of the best known writers of detective fiction in the twentieth century have been women.
+

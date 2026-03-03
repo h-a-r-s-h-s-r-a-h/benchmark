@@ -1,0 +1,75 @@
+=== SEARCH SNIPPETS ===
+
+[Planting Ceremony / Ryuhoku Elementary School – Revive Time ...]
+Ryuhoku public elementary school is the first participants of project that planted “Bombed Kaki Tree Jr.” in their school in March 5th, 1999. Ms. Yuko Hatakeyama, a teacher who saw an article on the newspaper and 16 students of third grade wanted to raise a kaki tree.
+URL: https://kakitreeproject.com/english/?p=2031
+
+[Partnerships and Projects – larosadei4venti]
+Through the process, Miyajima had conceived an art project called “Revive Time: Kaki Tree Project” and launched the Executive Committee. In 1996, the first planting of the project took place at the former Ryuhoku Elementary School. Miyajima himself conducted a workshop at the tree-planting ceremony.
+URL: https://www.larosadei4venti.com/partnerships-and-projects/
+
+[Revive Time: Kaki Tree Project - An art project through which ...]
+Through the process, Miyajima had conceived an art project called "Revive Time: Kaki Tree Project" and launched the Executive Committee. In 1996, the first planting of the project took place at the former Ryuhoku Elementary School.
+URL: https://kakitreeproject.com/english/
+
+[Subject Alternative Name not added to certificate]
+On the Subject tab in the Certificate Properties, enter a suitable Common name for the Subject, if required In the Alternative names section, select Type: DNS and add the FQDNs for the desired SANs. Options for key usage and so on should be preconfigured on the other tabs.
+URL: https://serverfault.com/questions/476413/subject-alternative-name-not-added-to-certificate
+
+[10th Anniversary / Tohoku Seikatsu Bunka University High School]
+Oct 30, 2010 · On 27 February 2001, the kaki tree was planted at Mishima Gakuen Girls High School. The school has changed its name to Tohoku Seikatsu Bunka ...Missing: first | Show results with:first
+URL: https://kakitreeproject.com/english/?p=3453
+
+
+=== FULL EXTRACTED CONTENT ===
+
+
+--- [Planting Ceremony / Ryuhoku Elementary School – Revive Time ...] ---
+Ryuhoku public elementary school is the first participants of project that planted “Bombed Kaki Tree Jr.” in their school in March 5th, 1999. Ms. Yuko Hatakeyama, a teacher who saw an article on the newspaper and 16 students of third grade wanted to raise a kaki tree. Their wish was made come true when the tree-planting ceremony, “meet the KAKI”, was held. They named one kaki tree as “Kaki-Kaki-kun”, and the other as “Yume-Kaki-chan”. Kaki-Kaki-kun means bombed kaki tree and its junior. And they placed their hopes in Yume-Kaki chan. (Yume means dream in Japanese.) At the same time, Miyajima and students held a workshop to think about Kaki tree in 10years later. L.E.D. digits attached to drawings that Miyajima drew and each students signature on two of those. They adjusted speed of clock by their own, and promised they will adjust another when they will meet again someday. They kept in touch even after “Bombed Kaki Tree Jr.” was planted. They formed executive committee of Kaki tree project and continued until they graduated. They said “We would kept raising them and watch it.” or “When something bad happened, we remember Kaki Tree and got over it.” In August 19th 2006, 10th anniversary ceremony, “The Harvest of Kaki” was held. Miyajima, Dr. Ebinuma, teachers, 13students, and people who involved the project were reunited under the Kaki Trees. Finally, they completed the drawing by adjusting the speed of clock. They celebrate their growing and reunion with putting red L.E.D. lights on kaki trees as well. It was like A Christmas tree in midsummer. Unfortunately, the school was closed in March 2001. But kaki trees were moved to the park next to school. And their memory still with the kaki trees. 10th Anniversary /Former Ryuhoku Elementary School
+
+
+--- [Partnerships and Projects – larosadei4venti] ---
+The “Revive Time: Kaki Tree Project” On the 9th of August, 1945, an atomic bomb was dropped in Nagasaki. Tens of thousands of people died suffering from the intense blast and heat, and the city of Nagasaki was reduced to ashes. However, there was a kaki tree which miraculously survived while more than half of the trunk was burnt black, and barely standing and about to die at any moment. In 1994, Masayuki Ebinuma, an arborist, started to treat the fragile tree and restored its health as to be able to produce “seedlings” from the bombed tree. Then Ebinuma started to hand out the “saplings” from the survivor tree to children who visited Nagasaki as a symbol of peace. After contemporary artist Tatsuo Miyajima learned Ebinuma’s activity, he wanted to support Ebinuma as an artist. So then he displayed the saplings and recruited foster parents at an art exhibition in 1995. They received ten applications and selected the former Ryuhoku Elementary School in Taito-ku, Tokyo as a planting site. Through the process, Miyajima had conceived an art project called “Revive Time: Kaki Tree Project” and launched the Executive Committee. In 1996, the first planting of the project took place at the former Ryuhoku Elementary School. Miyajima himself conducted a workshop at the tree-planting ceremony. The “Revive Time: Kaki Tree Project” is an art project through which people can learn about peace and the importance of life. The purpose is to hand out saplings from the mother tree to children around the world and encourage them to express themselves through art with a theme of a kaki tree as they grow the saplings. Art cultivates the imagination to help us feel others’ pain and creativity to build a new world. It goes beyond borders, religion, race and even language. Kaki Tree Families Spread Around the World The Project has been carried out around the globe for 20 years, and planted the seeds of art, the seeds of peace into the hearts of 30,000 children who have taken part. They are in U.S.A., France, U.K., Italy, Korea and African countries.
+
+
+--- [Revive Time: Kaki Tree Project - An art project through which ...] ---
+The "Revive Time: Kaki Tree Project" is an art project through which people can learn about peace and the importance of life. kaki tree in Nagasaki miraculously survived the atomic bombing in 1945. The purpose of our project is to hand out saplings from the mother tree to children around the world and encourage them to express themselves through art with a theme of a kaki tree as they grow the saplings. Art cultivates the imagination to help us feel others' pain and creativity to build a new world. It goes beyond borders, religion, race and even language, and helps us feel sympathy for each other. We have been carrying out the project around the globe for 25 years, and planted the seeds of art, the seeds of peace into the hearts of 30,000 children who have taken part.
+
+
+--- [Subject Alternative Name not added to certificate] ---
+# Subject Alternative Name not added to certificate
+
+I'm trying to issue a new certificate using the additional attribues field within the  Windows CertSrv Web-Enrollment Client.
+
+I added the CSR, picked the template and entered this into the attributes field:
+
+SAN:dns=HOSTNAME&dns=HOSTNAME.DOMAIN.COM&ipaddress=IPADRESS
+
+
+The request is successful but when I check the signed certificate no "Alternative Names" attribute is added to it. Am I missing something? Maybe a issue with the Template? (used a default Win 2003 level webserver template copy with some custom settings).
+
+/edit
+Also I've tried to use 
+
+certreq -submit -attrib "CertificateTemplate:MYTEMPLATE" <Cert Request.req> -attrib "SAN:dns=HOSTNAME&dns=HOSTNAME2&ipaddress=IPADDRESS"
+
+
+resulting in the same problem: cert gets generated, but without any SAN attribute.
+
+/edit2 
+also I've set the CA to issue SAN certificates using
+
+certutil -setreg policy\EditFlags +EDITF_ATTRIBUTESUBJECTALTNAME2
+
+
+and restarting the CA service. Still: no SANs.
+
+Please note: using req. files and OpenSSL to generate the CSR i'm able to generate certifcates using the CA which have some SANs included. However this option is not valid in my current situation since I'm getting the CSR from an application and i'm not able to manually generate one for the application.
+
+/edit3
+I tried using the default webserver certificate WITHOUT any changes and suddenly it worked. So now the question is: what are the template requirements to enable SAN?
+
+
+
+--- [10th Anniversary / Tohoku Seikatsu Bunka University High School] ---
+On 27 February 2001, the kaki tree was planted at Mishima Gakuen Girls High School. The school has changed its name to Tohoku Seikatsu Bunka University High School in the last decade and has changed a lot – it is now a coed school and the number of students has also greatly increased. The tree planting ceremony was held on 30 October 2010, which was also the 110th anniversary of the former Mishima Gakuen. The “Revive Time” Kaki Tree Project in SEIBUN – The Harvest of KAKI consisted of three parts. The part 1 was the 10th anniversary ceremony held at the Kaki Tree Square and members of the student council, alumni representatives and the former students who were there when the planting took place 10 years earlier attended. After messages from Principal Tadashi Mitsui and Tatsuo Miyajima, the then-president and the current president of the student council delivered messages as well. Everyone participated in a silent prayer and then collected kaki fruit from the tree, and the participants enjoyed the taste of the fruit of “the seedling of the bombed kaki tree.” The astringency of tannins contained in the fruit was removed beforehand. Then they dug up the time capsule that they buried 10 years earlier. There were messages of the then-students rolled up inside the bottle. Everyone joined the group photo at the end. Then they moved to the school gymnasium. During the event held at the Kaki Tree Square, all the rest of the students watched the Kaki Tree Project DVD there. The students were informed of the progress of the project in the past 10 years and the 10-year-scroll which was produced every year during the decade was also shown to the students. Tatsuo Miyajima, founder of the Kaki Tree Project, delivered a commemorative speech on the “Progress of the Kaki Tree in the Last 10 Years” in the part 2, and had talks with Teacher Yuya Kuramoto, Teacher Sumiko Ito and the former president of the student council on Miyajima’s works, the projects so far and the Kaki Tree Project in the last decade. At the end, The Harvest choir (consisted of 81 students in the second and third years in child care course) performed “Bell of HEIWA (Peace Bell).” The 110th anniversary event of the school was held in the part 3. Tohoku Seikatsu Bunka University High School regarded 27 February as the “Day to Think of Peace” and has carried out various activities on the day for the last 10 years including writing messages, putting up a kaki tree map near the entrance of the school, inviting Tree Doctor Nobuo Koike and Freelance Journalist Rei Shiba for a lecture and held Singer-songwriter Yasuyuki Ono’s concert. This year they produced the kaki tree clear folders and cotton cloths to commemorate the 10th anniversary of the planting. The kaki tree planted on the same day 10 years ago at Nijino-oka Community Center has also grown well and healthy.

@@ -1,0 +1,48 @@
+=== SEARCH SNIPPETS ===
+
+[Honda CL125]
+86 mm (3.38 inches). Wheelbase, 1,270 mm (50.0 inches). Dimensions, L : 1,930 mm (76.0 inches) W : 830 mm (32.7 inches) H : 1,040 mm (41 inches). Seat height ...
+URL: https://en.wikipedia.org/wiki/Honda_CL125
+
+[Honda CL125 Dimensions]
+Honda CL125 Length: 1930 mm. Axle to axle: 1270 mm. Seat length: n/a. Width: 810 mm. Indicator distance front: 295 mm. Indicator distance back: 300 mm
+URL: https://4-stroke.net/815-honda/honda-cl125/information/865-honda-cl125-dimensions-2
+
+[1967 Honda CL125 Scrambler (since 1967) specs review]
+Wheelbase: mm / in. Fuel capacity: 9.4 liter / 2.5 U.S. gal / 2.1 imp ... 1967 Honda CL125 Scrambler specs ( Honda Motor Company) · Honda catalogue · 1966 ...
+URL: https://www.motorbikecatalog.com/moto/1967/177950/honda_cl125_scrambler.html
+
+[2014 Honda CB125 CL Technical Specifications]
+Honda CB125 CL Dimensions, Aerodynamics and weight. Frame type, -. Seat details, -. Wheelbase, 1,310 mm (51.6 inches). Length, 2,050 mm (80.7 inches).
+URL: https://www.ultimatespecs.com/motorcycles-specs/honda/honda-cb125-cl-2014
+
+[What Is the Wheelbase of the Honda CL125 in Millimeters? ...]
+What is the wheelbase of the Honda CL125 in millimeters? The answer is 1270 mm, impacting engine swaps and camshaft fitting by ensuring frame compatibility ...
+URL: https://www.aliexpress.com/p/wiki/article.html?keywords=what-is-the-wheelbase-of-the-honda-cl125-in-millimeters_33009941904
+
+
+=== FULL EXTRACTED CONTENT ===
+
+
+--- [Honda CL125] ---
+The Honda CL125 was a scrambler motorcycle made by Honda from 1967 to 1974.  Two different engines were used through the models life: 1967-1969: CL125A 124cc 2 cylinder 4-stroke, 1973-1974: CL125S 122cc 1 cylinder 4-stroke.
+The CL125A was produced from 1967 to 1969 with a 124 cc 4-stroke engine and four-speed transmission.  It was the smallest OHC twin cylinder four-stroke that Honda made, and was the smaller sibling to the 160, 175, 350 & 450 models.
+In 1970, Honda released its venerable, light weight, 99 cc OHC single 2-valve upright engine. This was a direct challenge to the off-road market which was, at this time, dominated by the two-strokes. A sea wave of change was to quickly follow many of its CB, CL and SL based models.
+
+In 1973, the first CL125S was manufactured using this new motor in its design, with a larger 122 cc piston (which produced more low-end torque but little gain in power) and a slightly larger piston/rod connecting pin. That helped push the dry weight of the bike down to 196 pounds (89 kg). This motorcycle was almost identical to the 1970 to 1973 CL100, that was really only a slight modification of the CB series produced at the same time. The modifications included; lower rear sprocket gearing, slightly more aggressive tires, shorter front fender, braced handlebar, high mount exhaust system and elimination of both the tachometer and center stand.
+
+
+--- [Honda CL125 Dimensions] ---
+Honda CL125 Length: 1930 mm Axle to axle: 1270 mm Seat length: n/a Width: 810 mm Indicator distance front: 295 mm Indicator distance back: 300 mm Height: 1035 mm Ground to center headlight: 830 mm Ground to top headlight: n/a Ground to center tail light: 760 mm Ground to center indicators front: 830 mm Ground to center indicators rear: 650 mm Ground to mirror: n/a Seat height: n/a Ground clearance: 150 mm Note: There also seems to be a second version, which you can find here. Feel free to enter the missing data in the comments! It will be greatly appreciated!
+
+
+--- [1967 Honda CL125 Scrambler (since 1967) specs review] ---
+No content
+
+
+--- [2014 Honda CB125 CL Technical Specifications] ---
+Honda CB125 CL Specs (2014)Key Specs Single cylinder, four-stroke 8.48 PS 8 HP / 6 kW 8 HP / 6 kW 4-speed Honda CB125 CL General Information | | | Brand | Honda | | Model | Honda CB125 CL | | Start year | 2014 | | Year | 2014 | | Category | Sport | | Factory Warranty (Years / miles) | - | Honda CB125 CL Dimensions, Aerodynamics and weight | | | Frame type | - | | Seat details | - | | Wheelbase | 1,310 mm (51.6 inches) | | Length | 2,050 mm (80.7 inches) | | Width | 751 mm (29.6 inches) | | Height | 1,056 mm (41.6 inches) | | Seat Height | 795 mm (31.3 inches) If adjustable, lowest setting. | | Alternate Seat Height | - | | Ground Clearance | 156 mm (6.1 inches) | | Trail size | - | | Wheels details | - | | Front Tyres - Rims dimensions | 80/100-18 | | Rear Tyres - Rims dimensions | 90/90-18 | | Front brakes | Expanding brake (drum brake) | | Rear brakes | Expanding brake (drum brake) | | Front Brakes Dimensions - Disc Dimensions | - | | Rear Brakes Dimensions - Disc Dimensions | - | | Curb Weight (including fluids) | - | | Dry Weight | 103.0 kg (227.1 pounds) | | Front Percentage of Weight | - | | Rear Percentage of Weight | - | | Weight-Power Output Ratio : | 0.0823 HP/kg | | Fuel Tank Capacity | 10.00 litres (2.64 gallons) | | Reserve Fuel Capacity | 2.50 litres (0.66 gallons) | | Carrying Details and Capacity | - | | Front Suspension | Telescopic fork | | Front Suspension Travel | 118 mm (4.6 inches) | | Rear Suspension | Swingarm | | Rear Suspension Travel | 70 mm (2.8 inches) | Honda CB125 CL Engine and Transmission Technical Data | | | Engine type - Number of cylinders | Single cylinder, four-stroke | | Engine details | - | | Fuel system | Carburettor | | Engine size - Displacement - Engine capacity | 124.80 ccm (7.62 cubic inches) | | Bore x Stroke | 52.4 x 57.9 mm (2.1 x 2.3 inches) | | Compression Ratio | 9.0:1 | | Number of valves per cylinder | - | | Camshaft Valvetrain Configuration | Overhead Cams (OHC) | | Maximum power - Output - Horsepower | 8.48 HP (6.2 kW)) @ 8590 RPM | | Maximum torque | 10.12 Nm (1.0 kgf-m or 7.5 ft.lbs) | | Engine Maximum RPM | - | | Cooling system | Air | | Lubrication system | - | | Engine oil capacity | 1.00 litres (1.06 quarts) | | Exhaust system | - | | Gearbox | 4-speed | | Transmission type, final drive ratio | Chain | | Clutch type | - | | Driveline | - | Honda CB125 CL Performance | | | Top Speed | - | | Acceleration 0 to 100 km/h (0 to 62 mph) | - | | Acceleration 0 to 400m (1/4 mile) | - | | Recuperation 60 to 140 km/h in highest gear | - | | Fuel Consumption - MPG - Economy - Efficiency | - | | CO2 emissions | - | | Emissions | - | Honda CB125 CL Electrical Systems, Ignition and Equipment | | | Ignition Type | DC-CDI | | Electrical Details | - | | Starter Type | Electric & kick | | Instruments | - | | Lights | - | How much horsepower does a Honda CB125 CL has? The Honda CB125 CL has 8.48 HP (6.2 kW)) @ 8590 RPM. How much does a Honda CB125 CL weighs? The Honda CB125 CL weighs 103.0 kg (227.1 pounds). How tall (seat height) is a Honda CB125 CL? The Honda CB125 CL seat height is 795 mm (31.3 inches) If adjustable, lowest setting. How many gears does a Honda CB125 CL has? The Honda CB125 CL has 4 gears. The Honda CB125 CL has 8.48 HP (6.2 kW)) @ 8590 RPM. How much does a Honda CB125 CL weighs? The Honda CB125 CL weighs 103.0 kg (227.1 pounds). How tall (seat height) is a Honda CB125 CL? The Honda CB125 CL seat height is 795 mm (31.3 inches) If adjustable, lowest setting. How many gears does a Honda CB125 CL has? The Honda CB125 CL has 4 gears.
+
+
+--- [What Is the Wheelbase of the Honda CL125 in Millimeters? ...] ---
+No content

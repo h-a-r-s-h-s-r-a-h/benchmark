@@ -1,0 +1,45 @@
+=== SEARCH SNIPPETS ===
+
+[Rohini Satellite 1 - Wikipedia]
+18 July 1980, 8:04 AM IST (2:34 AM GST) · Satellite Launch Vehicle, SLV-3 · Satish Dhawan Space Centre · Indian Space Research Organisation.
+URL: https://en.wikipedia.org/wiki/Rohini_Satellite_1
+
+[OTD in Space – July 18: India Launches its 1st Indigenous Satellite - YouTube]
+Jul 18, 2018·This made India the seventh nation to launch an indigenously built satellite. The Rohini RS-1 satellite lifted off from the Satish Dhawan Space ...Missing:day,month,Centre
+URL: https://www.youtube.com/watch?v=cNZnBTZFNVE
+
+[Rohini RS-1 | SLV-3 - Next Spaceflight]
+Jul 17, 1980·A SLV-3 rocket launched with Rohini RS-1 from SLV LP at Satish Dhawan Space Centre, India on Friday July Fr, 1980 at 02:33 UTC.Missing:day,launched
+URL: https://nextspaceflight.com/launches/details/2114/
+
+[OTD In Space - July 18: India Launches Its 1st Indigenous Satellite - video Dailymotion]
+Jul 18, 2025·This made India the seventh nation to launch an indigenously built satellite. The Rohini RS-1 satellite lifted off from the Satish Dhawan Space ...Missing:Centre| Show results with:Centre
+URL: https://www.dailymotion.com/video/x9n72ae
+
+[Rohini Satellite RS-1 - ISRO]
+Sep 15, 2023·Launch date, July 18,1980 ; Launch site, SHAR Centre, Sriharikota, India ; Launch vehicle, SLV-3 ; Orbit, 305 x 919 km ; Inclination, 44.7 deg.Missing:day,| Show results with:day,
+URL: https://www.isro.gov.in/RohiniSatellite_RS_1.html
+
+
+=== FULL EXTRACTED CONTENT ===
+
+
+--- [Rohini Satellite 1 - Wikipedia] ---
+Rohini Satellite 1 or RS-1 is the first satellite successfully launched by India using indigenously developed rockets. After the launch on 18 July 1980 by a SLV rocket, India became the 7th country to have rocket launching capability.
+The satellite was spin-stabilised and provided data regarding the fourth stage of SLV rocket.
+
+
+--- [OTD in Space – July 18: India Launches its 1st Indigenous Satellite - YouTube] ---
+About Press Copyright Contact us Creators Advertise Developers Impressum Cancel Memberships Terms Privacy Policy & Safety How YouTube works Test new features © 2026 Google LLC
+
+
+--- [Rohini RS-1 | SLV-3 - Next Spaceflight] ---
+No content
+
+
+--- [OTD In Space - July 18: India Launches Its 1st Indigenous Satellite - video Dailymotion] ---
+Skip to player Skip to main content Watch fullscreen Space.com OTD In Space - July 18: India Launches Its 1st Indigenous Satellite
+
+
+--- [Rohini Satellite RS-1 - ISRO] ---
+Rohini Satellite RS-1 Home / Activities / Missions accomplished Jul 18,1980 Back to ISRO Timeline RS-1 was a 35 kg experimental spin stabilized satellite designed with a power handling capability of 16W. It was successfully launched onboard SLV-3 from SHAR Centre on July 18, 1980 into an orbit of 305 x 919 km with an inclination of 44.7°. All the fourth stage parameters of SLV-3 were successfully telemetered to the ground stations by RS-1 during the launch phase. The satellite had an orbital life of 9 months. The satellite carried Digital sun sensor, Magnetometer and temperature sensors. The structure was made of Aluminium Alloy. More Details प्रमोचन भार / Launch Mass: 35 kg मिशन कालावधि / Mission Life : 1.2 years शक्ति / Power: 16 Watts प्रमोचक राकेट / Launch Vehicle: SLV-3E2 उपग्रह का प्रकार / Type of Satellite: Experimental निर्माता / Manufacturer: ISRO स्वामी / Owner: ISRO
