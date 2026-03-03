@@ -1,0 +1,79 @@
+=== SEARCH SNIPPETS ===
+
+[Machine Girl - Phantom Tracks Lyrics and Tracklist | Genius]
+Phantom Tracks is a compilation record by Machine Girl released on their band camp on February 21st, 2015. Listed in the band camp's description, this project is filled with demos, unreleased ...
+URL: https://genius.com/albums/Machine-girl/Phantom-tracks
+
+[compilation - Is it possible to compile a program written in...]
+I am new to the Python programming language. I was wondering if it is possible to compile a program to written in Python. Is it possible to convert Python scripts to some lower level programming
+URL: https://stackoverflow.com/questions/1957054/is-it-possible-to-compile-a-program-written-in-python
+
+[[2015] Machine Girl - Phantom Tracks (FULL ALBUM) - YouTube]
+[2015] Machine Girl - Phantom Tracks (FULL ALBUM) MG Archive 2.0 7.21K subscribers 715
+URL: https://www.youtube.com/watch?v=NOyGKOdd4gI
+
+[mvn clean install not working: Compilation failure - Stack...]
+Sep 24, 2022 · Welcome to StackOverflow, vitoriac! If org.apache.maven.plugins:maven-compiler-plugin:3.8.1:compile (default-compile) reports Compilation failure on project accounts, I'd assume that the issue was in your code.
+URL: https://stackoverflow.com/questions/73838352/mvn-clean-install-not-working-compilation-failure
+
+[Machine Girl - Phantom Tracks - 14 x File (320 kbps, MP3, Album ...]
+View credits, reviews, tracks and shop for the 2015 File release of "Phantom Tracks" on Discogs.
+URL: https://www.discogs.com/release/8825092-Machine-Girl-Phantom-Tracks
+
+
+=== FULL EXTRACTED CONTENT ===
+
+
+--- [Machine Girl - Phantom Tracks Lyrics and Tracklist | Genius] ---
+Phantom Tracks is a compilation record by Machine Girl released on their band camp on February 21st, 2015. Listed in the band camp’s description, this project is filled with demos, unreleased material, and Sound Cloud exclusive material.
+
+
+--- [compilation - Is it possible to compile a program written in...] ---
+# Is it possible to compile a program written in Python?
+
+I am new to the Python programming language. I was wondering if it is possible to compile a program to written in Python.
+
+Is it possible to convert Python scripts to some lower level programming languages which then can be compiled to binary code?
+
+A developer who is considering to code in Python might want to keep the possibility open to be able to go for binary distribution later. 
+
+
+
+--- [[2015] Machine Girl - Phantom Tracks (FULL ALBUM) - YouTube] ---
+About Press Copyright Contact us Creators Advertise Developers Impressum Cancel Memberships Terms Privacy Policy & Safety How YouTube works Test new features © 2026 Google LLC
+
+
+--- [mvn clean install not working: Compilation failure - Stack...] ---
+# mvn clean install not working: Compilation failure
+
+I've been having this error since the first time I tried do run the command mvn clean install:
+[INFO] BUILD FAILURE
+[INFO] ------------------------------------------------------------------------ 
+[INFO] Total time:  41.009 s 
+[INFO] Finished at: 2022-09-24T11:12:43-03:00 
+[INFO] ------------------------------------------------------------------------ 
+[ERROR] Failed to execute goal org.apache.maven.plugins:maven-compiler-plugin:3.8.1:compile (default-compile) on project accounts: Compilation failure -> [Help 1] 
+[ERROR] 
+[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch. 
+[ERROR] Re-run Maven using the -X switch to enable full debug logging. 
+[ERROR] 
+[ERROR] For more information about the errors and possible solutions, please read the following articles: 
+[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException
+
+picture:   [1]: https://i.sstatic.net/FKUbm.png
+My mvn version and my java version (I'll put them in text because the stackoverflow is not letting me add another picture):
+$ mvn -version
+
+Apache Maven 3.8.6 (84538c9988a25aec085021c365c560670ad80f63) Maven home: C:\apache-maven\apache-maven-3.8.6 Java version: 17.0.4.1, vendor: Azul Systems, Inc., runtime: C:\Java\zulu17.36.17-ca-jdk17.0.4.1-win_x64\zulu17.36.17-ca-jdk17.0.4.1-win_x64 Default locale: pt_BR, platform encoding: Cp1252 OS name: "windows 10", version: "10.0", arch: "amd64", family: "windows"
+
+$ java --version
+
+openjdk 17.0.4.1 2022-08-12 LTS OpenJDK Runtime Environment Zulu17.36+17-CA (build 17.0.4.1+1-LTS) OpenJDK 64-Bit Server VM Zulu17.36+17-CA (build 17.0.4.1+1-LTS, mixed mode, sharing)
+
+MY POM.XML FILE: https://github.com/vitoriaacarvalho/mvn-clean-install-error-description/blob/main/pom.xml
+I've already tried so many things, and if you want any more details they are probably here: https://github.com/vitoriaacarvalho/mvn-clean-install-error-description I put together this repository to show all of the things I've tried to do, add more pictures, and even the pom.xml code!
+
+
+
+--- [Machine Girl - Phantom Tracks - 14 x File (320 kbps, MP3, Album ...] ---
+Machine Girl (2) – Phantom Tracks Label: | Not On Label (Machine Girl (2) Self-released) – none | |---|---| Format: | | Country: | US | Released: | | Genre: | Electronic | Style: | Juke, Jungle, Breakcore, Experimental | Tracklist | 1 | Instrumental V1 | 4:48 | | | 2 | MG14 | 3:41 | | | 3 | Wlfgrl Luv <3 | 4:10 | | | 4 | Baby I Got Your Money (Machine Girl Mix) | 2:57 | | | 5 | Mg(arage)13 | 2:05 | | | 6 | Drakecore | 3:36 | | | 7 | H2WL (For Real) | 5:25 | | | 8 | Wlfgrl Acid | 2:16 | | | 9 | Gossip Folks (SSJ2 Mix) | 2:15 | | | 10 | Cymbenird | 4:52 | | | 11 | Acid Punk G | 2:45 | | | 12 | Phantazee | 4:17 | | | 13 | Krystle (3rd Impact Mix) | 9:19 | | | 14 | Acid Giga V2 | 2:51 | Notes Collection of tracks that were either from Machine Girl's SoundCloud page or previously unreleased. Reviews - the dred collective features are cool! there is no one good song, i think all of them are amazing. i tend to repeat Cymbenird though - This album is cool, but the way it's mixed hurts my ears, i don't know whats with the high-end but on certain tracks like drakecore it really irritates my ears - If this were pressed on vinyl, I would actually lose my sh*t. This just might be my favorite collection of Machine Girl songs ever released, constantly coursing through my veins. Release Edit Release New Submission New Submission Loading...

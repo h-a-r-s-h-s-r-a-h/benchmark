@@ -1,0 +1,44 @@
+=== SEARCH SNIPPETS ===
+
+[Multiplication of EEG Samples through Replicating, Biasing, and Overlapping]
+This issue is investigated through the use of techniques such as i) replication, ii) biasing, and iii) overlapping. A dataset with 4 motor imagery tasks (BCI Competition III dataset IIIa) is used.
+URL: https://www.researchgate.net/publication/230754283_Multiplication_of_EEG_Samples_through_Replicating_Biasing_and_Overlapping
+
+[Multiplication of EEG Samples through Replicating, Biasing, and Overlapping]
+EEG recording is a time consuming operation during which the subject is expected to stay still for a long time performing tasks. It is reasonable to expect some fluctuation in the level of focus toward the performed task during the task period. This study is focused...
+URL: https://link.springer.com/chapter/10.1007/978-3-642-35139-6_20
+
+[Multiplication of EEG samples through replicating, biasing, and overlapping]
+A dataset with 4 motor imagery tasks (BCI Competition III dataset IIIa) is used. The results illustrate the existing variations within the potential of different segments of the task period and the feasibility of techniques that focus the training samples toward such regions.
+URL: https://dl.acm.org/doi/10.1007/978-3-642-35139-6_20
+
+[Multiplication of EEG samples through Replicating, Biasing, and Overlapping]
+This issue is investigated through the use of techniques such as i) replication, ii) biasing, and iii) overlapping. A dataset with 4 motor imagery tasks (BCI Competition III dataset IIIa) is used.
+URL: https://www.researchgate.net/publication/264124447_Multiplication_of_EEG_samples_through_Replicating_Biasing_and_Overlapping
+
+[PDFMultiplication of EEG samples through Replicating, Biasing, and Overlapping]
+Theimpact of Segmentation and Replication on Non-Overlapping windows: An EEG study, The Second International Conference on Information Science and Technology (ICIST2012), China, pp. 668{674 ...
+URL: https://www.researchgate.net/profile/Adham-Atyabi/publication/230754283_Multiplication_of_EEG_Samples_through_Replicating_Biasing_and_Overlapping/links/0fcfd5081096a4f00f000000/Multiplication-of-EEG-Samples-through-Replicating-Biasing-and-Overlapping.pdf
+
+
+=== FULL EXTRACTED CONTENT ===
+
+
+--- [Multiplication of EEG Samples through Replicating, Biasing, and Overlapping] ---
+No content
+
+
+--- [Multiplication of EEG Samples through Replicating, Biasing, and Overlapping] ---
+Abstract EEG recording is a time consuming operation during which the subject is expected to stay still for a long time performing tasks. It is reasonable to expect some fluctuation in the level of focus toward the performed task during the task period. This study is focused on investigating various approaches for emphasizing regions of interest during the task period. Dividing the task period into three segments of beginning, middle and end, is expectable to improve the overall classification performance by changing the concentration of the training samples toward regions in which subject had better concentration toward the performed tasks. This issue is investigated through the use of techniques such as i) replication, ii) biasing, and iii) overlapping. A dataset with 4 motor imagery tasks (BCI Competition III dataset IIIa) is used. The results illustrate the existing variations within the potential of different segments of the task period and the feasibility of techniques that focus the training samples toward such regions. Chapter PDF Similar content being viewed by others References Atyabi, A., Fitzgibbon, S.P., Powers, D.M.W.: Multiplying the Mileage of Your Dataset with Subwindowing. In: Hu, B., Liu, J., Chen, L., Zhong, N. (eds.) BI 2011. LNCS, vol. 6889, pp. 173–184. Springer, Heidelberg (2011) Atyabi, A., Fitzgibbon, S.P., Powers, D.M.W.: Biasing the Overlapping and Non-Overlapping Sub-Windows of EEG recording. In: IEEE International Joint Conference on Neural Networks (IJCNN 2012), The 2012 IEEE World Congress on Computational Intelligence (IEEE WCCI 2012), pp. 741–746 (2012) Atyabi, A., Powers, D.M.W.: The impact of Segmentation and Replication on Non-Overlapping windows: An EEG study. In: The Second International Conference on Information Science and Technology (ICIST 2012), China, pp. 668–674 (2012) Blankertz, B., Müller, K.-R., Krusienski, D.J., Schalk, G., Wolpaw, J.R., Schlögl, A., Pfurtscheller, G., del R. Millán, J., Schröder, M., Birbaumer, N.: The BCI competition III:Validating alternative approaches to actual BCI problems. Neural Syst. Rehabil. Eng. 14(2), 153–159 (2006) Powers, D.M.W.: Recall and Precision versus the Bookmaker. In: International Conference on Cognitive Science (ICSC 2003), pp. 529–534 (2003) Powers, D.M.W.: Evaluation: From Precision, Recall and F-Measure to ROC., Informedness, Markedness & Correlation. Journal of Machine Learning Technologies 2(1), 37–63 (2011) Powers, D.M.W.: The Problem of Kappa. In: 13th Conference of the European Chapter of the Association for Computational Linguistics, Avignon, France (April 2012) Author information Authors and Affiliations Editor information Editors and Affiliations Rights and permissions Copyright information © 2012 Springer-Verlag Berlin Heidelberg About this paper Cite this paper Atyabi, A., Fitzgibbon, S.P., Powers, D.M.W. (2012). Multiplication of EEG Samples through Replicating, Biasing, and Overlapping. In: Zanzotto, F.M., Tsumoto, S., Taatgen, N., Yao, Y. (eds) Brain Informatics. BI 2012. Lecture Notes in Computer Science(), vol 7670. Springer, Berlin, Heidelberg. https://doi.org/10.1007/978-3-642-35139-6_20 Download citation DOI: https://doi.org/10.1007/978-3-642-35139-6_20 Publisher Name: Springer, Berlin, Heidelberg Print ISBN: 978-3-642-35138-9 Online ISBN: 978-3-642-35139-6 eBook Packages: Computer ScienceComputer Science (R0)Springer Nature Proceedings Computer Science
+
+
+--- [Multiplication of EEG samples through replicating, biasing, and overlapping] ---
+No content
+
+
+--- [Multiplication of EEG samples through Replicating, Biasing, and Overlapping] ---
+No content
+
+
+--- [PDFMultiplication of EEG samples through Replicating, Biasing, and Overlapping] ---
+No content
