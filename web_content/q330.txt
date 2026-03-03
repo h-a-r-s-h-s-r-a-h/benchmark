@@ -1,0 +1,100 @@
+=== SEARCH SNIPPETS ===
+
+[Heat capacity of The Elements Table Chart - Engineers Edge]
+This table gives the specific heat capacity (cp) in J/g K and the molar heat capacity (Cp) in J/mol K at a temperature of 25°C and a pressure of 100 kPa (1 bar or 0.987 standard atmospheres) for all The elements for which reliable data are available.
+URL: https://www.engineersedge.com/heat_transfer/heat_capacity_of_the_elements_13260.htm
+
+[WebElements Periodic Table » Selenium » thermochemistry and ...]
+Enthalpies Enthalpy of fusion: 5.4 kJ mol -1 Enthalpy of vaporisation: 26 kJ mol -1 Enthalpy of atomisation: 227 kJ mol -1 Thermodynamic data This table gives a few thermodynamic data for selenium. Most values are those given in the NBS technical notes (reference 1) after conversion from the units used within those notes. Values labelled with an asterisk (*) are Committee on Data for Science ...
+URL: https://www.webelements.com/selenium/thermochemistry.html
+
+[Table of specific heat capacities - Wikipedia]
+The table of specific heat capacities gives the volumetric heat capacity as well as the specific heat capacity of some substances and engineering materials, and (when applicable) the molar heat capacity. Generally, the most notable constant parameter is the volumetric heat capacity (at least for solids) which is around the value of 3 megajoule per cubic meter per kelvin: [1] ρ c p ≃ 3 MJ ...
+URL: https://en.wikipedia.org/wiki/Table_of_specific_heat_capacities
+
+[Selenium]
+Heat of fusion, gray: 6.69 kJ/mol · Heat of vaporization, 95.48 kJ/mol. Molar heat capacity, 25.363 J/(mol·K). Specific heat capacity, 321.169 J/(kg·K). Vapor ...
+URL: https://en.wikipedia.org/wiki/Selenium
+
+[Molar (tooth) - Wikipedia]
+Molar (tooth) ... The molars or molar teeth are large, flat teeth at the back of the mouth. They are more developed in mammals. They are used primarily to grind food during chewing. The name molar derives from Latin, molaris dens, meaning "millstone tooth", from mola, millstone and dens, tooth.
+URL: https://en.m.wikipedia.org/wiki/Molar_(tooth)
+
+
+=== FULL EXTRACTED CONTENT ===
+
+
+--- [Heat capacity of The Elements Table Chart - Engineers Edge] ---
+Related Resources: heat transfer Heat capacity of The Elements Table Chart Heat capacity of The Elements at 25° C This table gives the specific heat capacity (cp) in J/g K and the molar heat capacity (Cp) in J/mol K at a temperature of 25°C and a pressure of 100 kPa (1 bar or 0.987 standard atmospheres) for all The elements for which reliable data are available. | Name | cp J/g K | Cp J/mol K | | Actinium | 0.120 | 27.2 | | Aluminum | 0.897 | 24.200 | | Antimony | 0.207 | 25.23 | | Argon | 0.520 | 20.786 | | Arsenic | 0.329 | 24.64 | | Barium | 0.204 | 28.07 | | Beryllium | 1.825 | 16.443 | | BismuTD | 0.122 | 25.52 | | Boron | 1.026 | 11.087 | | Bromine (Br2) | 0.226 | 36.057 | | Cadmium | 0.232 | 26.020 | | Calcium | 0.647 | 25.929 | | Carbon (graphite) | 0.709 | 8.517 | | Cerium | 0.192 | 26.94 | | Cesium | 0.242 | 32.210 | | Chlorine (Cl2) | 0.479 | 33.949 | | Chromium | 0.449 | 23.35 | | Cobalt | 0.421 | 24.81 | | Copper | 0.385 | 24.440 | | Dysprosium | 0.170 | 27.7 | | Erbium | 0.168 | 28.12 | | Europium | 0.182 | 27.66 | | Fluorine (F2) | 0.824 | 31.304 | | Gadolinium | 0.236 | 37.03 | | Gallium | 0.371 | 25.86 | | Germanium | 0.320 | 23.222 | | Gold | 0.129 | 25.418 | | Hafnium | 0.144 | 25.73 | | Helium | 5.193 | 20.786 | | Holmium | 0.165 | 27.15 | | Hydrogen (H2) | 14.304 | 28.836 | | Indium | 0.233 | 26.74 | | Iodine (I2) | 0.145 | 36.888 | | Iridium | 0.131 | 25.10 | | Iron | 0.449 | 25.10 | | Krypton | 0.248 | 20.786 | | Lead | 0.129 | 26.650 | | Lutetium | 0.154 | 26.86 | | Magnesium | 1.023 | 24.869 | | Manganese | 0.479 | 26.32 | | Mercury | 0.140 | 27.983 | | Name | cp J/g K | Cp J/mol K | | Molybdenum | 0.251 | 24.06 | | Neodymium | 0.190 | 27.45 | | Neon | 1.030 | 20.786 | | Nickel | 0.444 | 26.07 | | Niobium | 0.265 | 24.60 | | Nitrogen (N2) | 1.040 | 29.124 | | Osmium | 0.130 | 24.7 | | Oxygen (O2) | 0.918 | 29.378 | | Palladium | 0.246 | 25.98 | | Phosphorous (white) | 0.769 | 23.824 | | Platinum | 0.133 | 25.86 | | Potassium | 0.757 | 29.600 | | Praseodymium | 0.193 | 27.20 | | Radon | 0.094 | 20.786 | | Rhenium | 0.137 | 25.48 | | Rhodium | 0.243 | 24.98 | | Rubidium | 0.363 | 31.060 | | RuTDenium | 0.238 | 24.06 | | Samarium | 0.197 | 29.54 | | Scandium | 0.568 | 25.52 | | Selenium | 0.321 | 25.363 | | Silicon | 0.705 | 19.789 | | Silver | 0.235 | 25.350 | | Sodium | 1.228 | 28.230 | | Strontium | 0.301 | 26.4 | | Sulfur (rhombic) | 0.710 | 22.75 | | Tantalum | 0.140 | 25.36 | | Tellurium | 0.202 | 25.73 | | Terbium | 0.182 | 28.91 | | TDallium | 0.129 | 26.32 | | TDorium | 0.113 | 26.230 | | TDulium | 0.160 | 27.03 | | Tin (white) | 0.228 | 27.112 | | Titanium | 0.523 | 25.060 | | Tungsten | 0.132 | 24.27 | | Uranium | 0.116 | 27.665 | | Vanadium | 0.489 | 24.89 | | Xenon | 0.158 | 20.786 | | Ytterbium | 0.155 | 26.74 | | Yttrium | 0.298 | 26.53 | | Zinc | 0.388 | 25.390 | | Zirconium | 0.278 | 25.36 | | | | | Related: - Specific Heat Capacity of Metals Table Chart - Thermal Conductivity Conversions - Thermal Conductivity of Gases - Thermal Conductivity of Common Metals and Alloys - Thermal Conductivity Common Liquids - Insulation Material Thermal Conductivity Chart - Heat Losses From Bare and Insulated Pipe - Heat Loss from Pipe Outdoors - Heat Loss from a Pipe Calculator - Heat Loss Insulated Pipe Equation and Calculator - Thermal Electrical Properties Table Chart Iron per BS2789
+
+
+--- [WebElements Periodic Table » Selenium » thermochemistry and ...] ---
+Selenium - 34Se: thermochemistry and thermodynamics Temperatures - Melting point: 494 [221 °C (430 °F)] K - Boiling point: 958 [685 °C (1265 °F)] K - Liquid range: 464 K - Critical temperature: 1766 [1493 °C (2719 °F)] K - Superconduction temperature: (no data) K Enthalpies - Enthalpy of fusion: 5.4 kJ mol-1 - Enthalpy of vaporisation: 26 kJ mol-1 - Enthalpy of atomisation: 227 kJ mol-1 Thermodynamic data This table gives a few thermodynamic data for selenium. Most values are those given in the NBS technical notes (reference 1) after conversion from the units used within those notes. Values labelled with an asterisk (*) are Committee on Data for Science and Technology (CODATA) agreed values for the thermodynamic properties of key chemical substances (reference 2). These values are published in a number of places including the WWW (reference 3). | State | ΔfH° | ΔfG° | S° | CpH | H°298.15‑H°0 | |---|---|---|---|---|---| | Units | kJ mol‑1 | kJ mol‑1 | J K‑1 mol‑1 | J K‑1 mol‑1 | kJ mol‑1 | | Solid (hexagonal | 0 | 0 | 42.44 | 25.36 | 5.52 | | Solid (monoclinic | 7 | |||| | Gas | 227.1 | 187.1 | 176.6 | 20.83 | 6.199 | | Gas (Se2) | 146 | 96 | 252 | 35.4 | 9.52 | Notes This tables gives a few thermodynamic data. Most values are those given in the NBS technical notes (reference 1) after conversion from the units used within those notes. Values labelled with an asterisk (*) are Committee on Data for Science and Technology (CODATA) agreed values for the thermodynamic properties of key chemical substances (reference 2). These values are published in a number of places including the WWW (reference 3). References - R.H. Schumm, D.D. Wagman, S. Bailey, W.H. Evans, and V.B. Parker in National Bureau of Standards (USA) Technical Notes 270-1 to 270-8, 1973. - http://www.codata.info/resources/databases/key1.html - J.D. Cox, DD., Wagman, and V.A. Medvedev, CODATA Key Values for Thermodynamics, Hemisphere Publishing Corp., New York, USA, 1989.
+
+
+--- [Table of specific heat capacities - Wikipedia] ---
+The table of specific heat capacities gives the volumetric heat capacity as well as the specific heat capacity of some substances and engineering materials, and (when applicable) the molar heat capacity.
+Generally, the most notable constant parameter is the volumetric heat capacity (at least for solids) which is around the value of 3 megajoule per cubic meter per kelvin:
+
+  
+    
+      
+        ρ
+        
+          c
+          
+            p
+          
+        
+        ≃
+        3
+        
+        
+          MJ
+        
+        
+          /
+        
+        (
+        
+          
+            m
+          
+          
+            3
+          
+        
+        
+          ⋅
+        
+        
+          K
+        
+        )
+        
+        
+          (solid)
+        
+      
+    
+    {\displaystyle \rho c_{p}\simeq 3\,{\text{MJ}}/({\text{m}}^{3}{\cdot }{\text{K}})\quad {\text{(solid)}}}
+  
+
+Note that the especially high molar values, as for paraffin, gasoline, water and ammonia, result from calculating specific heats in terms of moles of molecules. If specific heat is expressed per mole of atoms for these substances, none of the constant-volume values exceed, to any large extent, the theoretical Dulong–Petit limit of 25 J⋅mol−1⋅K−1 = 3 R per mole of atoms (see the last column of this table).  For example, Paraffin has very large molecules and thus a high heat capacity per mole, but as a substance it does not have remarkable heat capacity in terms of volume, mass, or atom-mol (which is just 1.41 R per mole of atoms, or less than half of most solids, in terms of heat capacity per atom). The Dulong–Petit limit also explains why dense substances, such as lead, which have very heavy atoms, rank very low in mass heat capacity.
+In the last column, major departures of solids at standard temperatures from the Dulong–Petit law value of 3 R, are usually due to low atomic weight plus high bond strength (as in diamond) causing some vibration modes to have too much energy to be available to store thermal energy at the measured temperature. For gases, departure from 3 R per mole of atoms is generally due to two factors: (1) failure of the higher quantum-energy-spaced vibration modes in gas molecules to be excited at room temperature, and (2) loss of potential energy degree of freedom for small gas molecules, simply because most of their atoms are not bonded maximally in space to other atoms, as happens in many solids.
+
+A Assuming an altitude of 194 metres above mean sea level (the worldwide median altitude of human habitation), an indoor temperature of 23 °C, a dewpoint of 9 °C  (40.85% relative humidity), and 760 mmHg sea level–corrected barometric pressure (molar water vapor content = 1.16%).
+B Calculated values
+
+ *Derived data by calculation. This is for water-rich tissues such as brain. The whole-body average figure for mammals is approximately 2.9 J⋅cm−3⋅K−1
+
+
+--- [Selenium] ---
+Selenium is a chemical element; it has symbol Se and atomic number 34. It has various physical appearances, including a brick-red powder, a vitreous black solid, and a grey metallic-looking form. It seldom occurs in this elemental state or as pure ore compounds in Earth's crust. Selenium (from σελήνη 'moon') was discovered in 1817 by Jöns Jacob Berzelius, who noted the similarity of the new element to the previously discovered tellurium (named for the Earth).
+Selenium is found in metal sulfide ores, where it substitutes for sulfur. Commercially, selenium is produced as a byproduct in the refining of these ores. Minerals that are pure selenide or selenate compounds are rare. The chief commercial uses for selenium today are glassmaking and pigments. Selenium is a semiconductor and is used in photocells. Applications in electronics, once important, have been mostly replaced with silicon semiconductor devices. Selenium is still used in a few types of DC power surge protectors and one type of fluorescent quantum dot.
+Although trace amounts of selenium are necessary for cellular function in many animals, including humans, both elemental selenium and (especially) selenium salts are toxic in even small doses, causing selenosis. Symptoms include (in decreasing order of frequency): diarrhea, fatigue, hair loss, joint pain, nail brittleness or discoloration, nausea, headache, tingling, vomiting, and fever.
+Selenium is listed as an ingredient in many multivitamins and other dietary supplements, as well as in infant formula, and is a component of the antioxidant enzymes glutathione peroxidase and thioredoxin reductase (which indirectly reduce certain oxidized molecules in animals and some plants) as well as in three deiodinase enzymes. Selenium requirements in plants differ by species, with some plants requiring relatively large amounts and others apparently not requiring any.
+
+
+--- [Molar (tooth) - Wikipedia] ---
+The molars or molar teeth are large, flat teeth at the back of the mouth. They are more developed in mammals. They are used primarily to grind food during chewing. The name molar derives from Latin, molaris dens, meaning "millstone tooth", from mola, millstone and dens, tooth. Molars show a great deal of diversity in size and shape across the mammal groups. The third molar of humans is sometimes vestigial.
