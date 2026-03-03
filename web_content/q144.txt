@@ -1,0 +1,78 @@
+=== SEARCH SNIPPETS ===
+
+[Accessing Windows file server by alias name]
+Mar 26, 2023 · What could be the possible problems with accessing a Windows file server shares using a DNS CNAME instead of the actual computer name? The file server is joined to an Active Directory domain, but i...
+URL: https://serverfault.com/questions/1127178/accessing-windows-file-server-by-alias-name
+
+[Supreme x Undercover Fall Collection 2016- Houston, Tx]
+Sep 19, 2016 — Supreme x Undercover have teamed up to make a fall collection for 2016. The new collection will be made available in-store and online in select ...
+URL: https://sneakersummit.com/supreme-x-undercover-fall-collection/
+
+[Undercover Fall 2016 Menswear Collection | Vogue]
+There's a great pair of shoes in Jun Takahashi's Fall Undercover collection. The left is printed with the word "Chaos," the right, "Balance." The shoes themselves—like the collection ...
+URL: https://www.vogue.com/fashion-shows/fall-2016-menswear/undercover
+
+[How can I configure my DNS settings on Debian 12?]
+Oct 7, 2023 · I'm trying to change my DNS settings on my Debian 12 VPS, and by this I mean, I want to use a public resolver like 1.1.1.1 instead of my VPS host's resolver. I remember in Debian 11 I could just ed...
+URL: https://serverfault.com/questions/1145358/how-can-i-configure-my-dns-settings-on-debian-12
+
+[2016ss｜MENS｜COLLECTIONS｜UNDERCOVER OFFICIAL ONLINE STORE]
+【2016ss｜MENS｜COLLECTIONS｜UNDERCOVER OFFICIAL ONLINE STORE】デザイナー高橋盾によるUNDERCOVER オンラインストア. MENS、WOMENS、the Shepherd 通販はこちら
+URL: https://undercoverism.com/collections/seasons/mens/2016ss
+
+
+=== FULL EXTRACTED CONTENT ===
+
+
+--- [Accessing Windows file server by alias name] ---
+# Accessing Windows file server by alias name
+
+What could be the possible problems with accessing a Windows file server shares using a DNS CNAME instead of the actual computer name? The file server is joined to an Active Directory domain, but is not a Domain Controller.
+E.g. let's assume there is a file server with computer name SERVER1 joined to Active Directory domain branch.company.com. And there is a DNS CNAME record files.company.com that points to server1.branch.company.com.
+What could be the potential problems when connecting to \\files.company.com\sharename ?
+Things currently known to me (but no yet verified):
+
+Need to add the alias name to HKLM\SYSTEM\CurrentControlSet\Services\LanmanServer\Parameters\SrvAllowedServerNames REG_MULTI_SZ registry value, if the "Microsoft network server: Server SPN target name validation level" Group Policy setting is not Off (HKLM\SYSTEM\CurrentControlSet\Services\LanmanServer\Parameters\SmbServerNameHardeningLevel registry value if not 0).
+Need to add the alias name to HKLM\SYSTEM\CurrentControlSet\Control\Lsa\MSV1_0\BackConnectionHostNames REG_MULTI_SZ registry value (for the connections to the alias name from the server itself to work).
+SPN might need to be added in Active Directory using a command like setspn -A host/files.company.com SERVER1 (I am not sure whether/when this is needed and whether authentication will be downgraded from Kerberos to NTLM without this).
+
+
+
+## Accepted Answer
+
+Looks like the 3 things mentioned in the OP/question were the important ones.
+Some more info about the Kerberos SPN (point 3.):
+3.1. Looks like if no SPN exists accessing the file share will still work (at least in many cases/configurations), but will fall back to using NTLM authentication.
+3.2. If there exists another SPN that associates the alias name with another AD (computer) account, then the alias name will not be accessible.
+I.e. If in the OP example the files.company.com would have been the name of an old & decommissioned file server and AD computer account (with default SPNs) of that file server would still exist, then despite of DNS CNAME record files.company.com pointing to server1.branch.company.com, the \\files.company.com\sharename would not be accessible, because clients would try to use Kerberos authentication with the old SPN (associating files.company.com with the decommissioned file server's AD account) and fail.
+3.3. For creating SPNs setspn -S host/files.company.com SERVER1 should be used instead of setspn -A host/files.company.com SERVER1, because -S checks that no duplicate SPN exists (on current and future versions of Windows -A option likely either works as -S option or is removed altogether).
+
+
+
+--- [Supreme x Undercover Fall Collection 2016- Houston, Tx] ---
+Supreme x Undercover New Collection Supreme x Undercover have teamed up to make a fall collection for 2016. The new collection will be made available in-store and online in select locations. The new autumn clothing includes: reversible bomber jackets, wool/ cashmere sweaters, sweatshirts, hoodies, shirts, high-tops and low tops of Dr. Martens, and a pouch. The collection has fashionable and comfortable clothing. The collab has colors that go hand in hand with the fall scenery. The dope new collaboration becomes available on September 22nd in NY, LA, London, and Paris. After that, it will be made available on September 24th in Japan.
+
+
+--- [Undercover Fall 2016 Menswear Collection | Vogue] ---
+There’s a great pair of shoes in Jun Takahashi’s Fall Undercover collection. The left is printed with the word “Chaos,” the right, “Balance.” The shoes themselves—like the collection itself—sit between those two notions. The title of this collection was “Instant Calm,” according to the grave disciple of Takahashi, who talked me through it all—Takahashi doesn’t stage his menswear as a runway show, which allows you instead to inspect the quiet subversion of the pieces, like the expletive-riddled Patti Smith lyrics to “Babelogue” hidden on the collar stand of a jacket. The lack of a hectic headlong rush into a show space to see a hectic headlong rush of product is, in its way, instantly calming. But Takahashi was more interested in the illusion of relaxation, cutting his tailoring looser, including printed pajama styles and easier trousers and sportswear pieces like varsity cardigans. The cool, calm, eerily collected work of Belgian artist Michaël Borremans—whose paintings resemble sedate Renaissance Flemish masterpieces, but with tweaks that push them into the realm of the grotesque and alarming—were an inspiration. Takahashi used Borremans’s work for his Fall 2015 womenswear collection: The plastic face masks that deformed models’ features referenced a Borremans’s painting from 2007, and other paintings were printed on dresses. Here, they appeared on knitwear and sporty outerwear in various guises. They were still disquieting. An embroidered motif elsewhere in the collection extolled observers to “Have a Weird Weekend.” It was a weird thing to see on a Saturday morning. Takahashi likes creeping people out. His overblown chintzes were infected with maggots and bugs; his backpacks sprouted batwings. Even his hats had horns. Apparently, this collection was supposed to feel a little more mature—so the horns were magnetic, therefore detachable. It’s not about destroying the devil inside, but maybe sometimes you don’t want him to be visible to the naked eye.
+
+
+--- [How can I configure my DNS settings on Debian 12?] ---
+# How can I configure my DNS settings on Debian 12?
+
+I'm trying to change my DNS settings on my Debian 12 VPS, and by this I mean, I want to use a public resolver like 1.1.1.1 instead of my VPS host's resolver.
+I remember in Debian 11 I could just edit the /etc/resolv.conf file, and restart the resolvconf.service and everything would work fine.
+However, on Debian 12, when I go to edit the /etc/resolv.conf it has a big warning:
+# Dynamic resolv.conf(5) file for glibc resolver(3) generated by resolvconf(8)
+#     DO NOT EDIT THIS FILE BY HAND -- YOUR CHANGES WILL BE OVERWRITTEN
+# 127.0.0.53 is the systemd-resolved stub resolver.
+# run "resolvectl status" to see details about the actual nameservers.
+
+So if I can't edit this file, where can I configure my resolver?
+I tried reading man resolvconf and man resolv.conf but this confused me even further.
+Any ideas?
+
+
+
+--- [2016ss｜MENS｜COLLECTIONS｜UNDERCOVER OFFICIAL ONLINE STORE] ---
+14 captures 22 Feb 2024 - 01 Mar 2026 Feb MAR Apr 01 2025 2026 2027 success fail About this capture COLLECTED BY Collection: Save Page Now Outlinks TIMESTAMPS The Wayback Machine - http://web.archive.org/web/20260301004140/https://undercoverism.com/collections/seasons/mens/2016ss

@@ -1,0 +1,44 @@
+=== SEARCH SNIPPETS ===
+
+[The chess games of Berthold Suhle]
+Mar-28-05 Gypsy: But <Adolf Anderssen beat Berthold Suhle 6 to 5, with 3 draws.* Based on games present in our database; may not be complete.> With such a ...
+URL: https://www.chessgames.com/perl/chessplayer?pid=16005
+
+[Bio: Adolf Anderssen]
+In 1864, Anderssen played a match against Berthold Suhle (+3,=2,-3) which ended up being drawn. In 1866, Anderssen played a match against Wilhelm Steinitz in which he lost (+6,=0,-8) (see Anderssen - Steinitz (1866) for games and more info). This made Steinitz the world's leading player.
+URL: https://www.chessgames.com/perl/chesscollection?cid=1020500
+
+[MANY Definition & Meaning - Merriam-Webster]
+The meaning of MANY is consisting of or amounting to a large but indefinite number. How to use many in a sentence.
+URL: https://www.merriam-webster.com/dictionary/many
+
+[Anderssen vs Suhle 1864 Match Losses | PDF | Chess]
+Jan 26, 2025 — Having the #1 player earns the tournament 4 pose of rating a player's peak strength. points and having the #2 earns it another 4 This book is ...
+URL: https://www.scribd.com/document/828197036/Cullen-Chess-Rivals-of-the-19th-Century-2021
+
+[Edo Ratings, Suhle, C.F.B. - Anderssen, K.E.A. 1864]
+The final result, +3-3=2 is given in the Nov. 1864 issue of the Chess Player's Magazine, as well as the Era of 30 Oct. 1864 (p.14).
+URL: http://www.edochess.ca/matches/m582.html
+
+
+=== FULL EXTRACTED CONTENT ===
+
+
+--- [The chess games of Berthold Suhle] ---
+Due to an overwhelming amount of malicious activity, we are no longer allowing VPN, Tor nodes, proxies. You may Login or Register for limited access. We apologize for this inconvenience.
+
+
+--- [Bio: Adolf Anderssen] ---
+Due to an overwhelming amount of malicious activity, we are no longer allowing VPN, Tor nodes, proxies. You may Login or Register for limited access. We apologize for this inconvenience.
+
+
+--- [MANY Definition & Meaning - Merriam-Webster] ---
+1 : consisting of or amounting to a large but indefinite number worked for many years the many advantages of an education 2 : being one of a large but indefinite number many a man many another student see also: plural in construction 1 : a large but indefinite number a good many of them 2 : the great majority of people the many Love words? Need even more definitions? Merriam-Webster unabridged
+
+
+--- [Anderssen vs Suhle 1864 Match Losses | PDF | Chess] ---
+Anderssen vs Suhle 1864 Match Losses The book 'Chess Rivals of the 19th Century' by Tony Cullen provides an overview of competitive chess during the 19th century, featuring 300 annotated games and biographies of 50 chess masters. It emphasizes the rivalry among elite players while also highlighting contributions from lesser-known masters. The content is based on seven years of research and includes historical context, match results, and tournament classifications. Anderssen vs Suhle 1864 Match Losses
+
+
+--- [Edo Ratings, Suhle, C.F.B. - Anderssen, K.E.A. 1864] ---
+| Event table notes | | Event data | | Place: Berlin | | Start date: 17 July 1864 | | End date: 27 July 1864 | | | | Notes: | | Sunnucks gives date as 1862; Kingston and Russell, La Grande Storia degli Scacchi, the Berliner Schachverband website, and Zavatarelli (in his biography of Kolisch) give it as 1864; Di Felice gives July 1864. The Chess Player's Magazine of Sept. 1864 gives a report on a partial result of 7 games (+3-2=2 for Suhle) played from 17 - 23 July 1864 but says it is unclear whether these were part of a bona fide match. The final result, +3-3=2 is given in the Nov. 1864 issue of the Chess Player's Magazine, as well as the Era of 30 Oct. 1864 (p.14). Renette and Zavatarelli cite primary German sources, including the Neue Berliner Schachzeitung of Aug. 1864 (pp.242-243) saying that Anderssen's visit to Berlin was from 17 to 27 July 1864 and indicating that it was called a 'match', even though Anderssen was playing daily from 10:00 a.m. to 11:00 p.m. against many players. Renette and Zavatarelli thus list this as a formal match, as do I. They give the dates of all the games, the first played on the 17th, and the last on the 27th. | | | | | References | | Books | | Di Felice, Chess Results, 1747-1900, page 40 | | Renette and Zavatarelli, Neumann, Hirschfeld and Suhle, page 66, 67 | | Sunnucks, Encyclopaedia of Chess, page 27 | | Zavatarelli, Ignatz Kolisch, page 43 | | Periodicals | | [CPM], vol. 2, no. 9, Sep. 1864, page 272 | | [CPM], vol. 2, no. 11, Nov. 1864, page 351 | | [Era], vol. 27, no. 1362, 30 Oct. 1864, page 14 | | [NBSZ], vol. 1, no. 8, Aug. 1864, page 242 | | [NBSZ], vol. 1, no. 9, Sep. 1864, page 268 | | [PDEB], 19 Nov. 1864 | | Web | | Hoppe, Frank. [Chronik des Jahres 1864] | | Kingston, Taylor and Russell, Hanon. [Erlandsson Wins the Sixth Annual ChessCafe Holiday Quiz], page 11 | | Sericano, C. [I grandi matches 1850 - 1864] | | |
