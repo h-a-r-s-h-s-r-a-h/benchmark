@@ -1,0 +1,75 @@
+=== SEARCH SNIPPETS ===
+
+[Shepard Alonzo Mount - Wikipedia]
+Shepard Alonzo Mount (1804-1868) was a National Academy of Design -trained American artist during the mid-nineteenth century that painted favorable genres of realism during the time such as still-life and landscapes.
+URL: https://en.wikipedia.org/wiki/Shepard_Alonzo_Mount
+
+[Shepard Alonzo Mount; essay by Deborah J. Johnson - tfaoi.org]
+At age seventeen, his mother apprenticed him to the New Haven, Connecticut, carriage builder James Brewster. In Brewster's shop, Mount was trained in carriage trimming, a specialized.branch of carriage decoration involving the selection of fabrics and materials to provide upholstered comfort for the passenger and pleasing adornment to the carriage.
+URL: https://tfaoi.org/aa/6aa/6aa189.htm
+
+[Shepard Alonzo Mount - National Academicians - National Academy of Design]
+Shepard Mount began studying art while apprenticed to the New Haven coach maker, James Brewster. In 1826 he moved to New York to join his brothers Henry Smith and William Sidney. In 1829, after studying at the National Academy's antique school, Mount began exhibiting his paintings at its annual exhibitions. During the following years he worked in a variety of genres but found his greatest ...
+URL: https://nationalacademy.emuseum.com/people/1093/shepard-alonzo-mount
+
+[James Brewster (August 6, 1788 — January 26, 1866), American ...]
+James Brewster was an American carriage-builder, railway-promoter, philanthropist, and civic leader. James Brewster was one of businessmen who started the first railroad for the area of Connecticut, running between New Haven and Hartford. He also established Brewster & Company, specialized in the manufacture of fine carriages.
+URL: https://prabook.com/web/james.brewster/3768796
+
+[Subject Alternative Name not added to certificate]
+On the Subject tab in the Certificate Properties, enter a suitable Common name for the Subject, if required In the Alternative names section, select Type: DNS and add the FQDNs for the desired SANs. Options for key usage and so on should be preconfigured on the other tabs.
+URL: https://serverfault.com/questions/476413/subject-alternative-name-not-added-to-certificate
+
+
+=== FULL EXTRACTED CONTENT ===
+
+
+--- [Shepard Alonzo Mount - Wikipedia] ---
+Shepard Alonzo Mount (1804-1868) was a National Academy of Design-trained American artist during the mid-nineteenth century that painted favorable genres of realism during the time such as still-life and landscapes. He found inspiration from subjects and themes found in local areas around him. He was best known for portraiture. Mount was highly regarded for his ability to capture a meticulously rendered likeness and personality of his portrait subjects.
+
+
+--- [Shepard Alonzo Mount; essay by Deborah J. Johnson - tfaoi.org] ---
+Editor's note: The following essay was reprinted, without illustrations, in Resource Library on December 9, 2005 with the permission of the author and the Long Island Museum of American Art, History and Carriages. If you have questions or comments regarding the essay, please contact the Long Island Museum of American Art, History and Carriages directly through either this phone number or web address: Shepard Alonzo Mount by Deborah J. Johnson Shepard Alonro Mount was one of three brothers from Stony Brook, New York to achieve success as a painter during the nineteenth century. His eldest sibling, Henry Smith Mount, was a sign and still-life painter in New York City, and his early career perhaps served as impetus for his two younger brothers. William Sidney Mount, the artist's younger brother and most famous of the three, was an internationally recognized genre painter. In choosing a niche apart from his brothers, Shepard decided to pursue a career in portraiture and, in his lifetime, became respected as an accomplished portrait painter, and, to a lesser extent, an artist of landscapes, stilllifes, and genre pictures. Shepard was born on July 17, 1804 in Setauket, a small village located on the north shore of Long Island, New York. His parents, Julia Ann (Hawkins) and Thomas Shepard Mount, operated an inn and farm in Setauket until the death of Thomas in 1814. After settling her husband's estate, Julia moved with her five children back to the homestead of her parents, Ruth (Mills) and Jonas Hawkins, which was located several miles away in the neighboring village of Stony Brook. Shepard did not initially intend to pursue art as a profession. At age seventeen, his mother apprenticed him to the New Haven, Connecticut, carriage builder James Brewster. In Brewster's shop, Mount was trained in carriage trimming, a specialized.branch of carriage decoration involving the selection of fabrics and materials to provide upholstered comfort for the passenger and pleasing adornment to the carriage. Mastery of the trimming craft sharpened his mind and eye for the concerns of unified style, application of color theory, and the arrangement of harmonious colors. Shepard remained in New Haven until 1827, when Brewster opened a branch of his carriage manufacturing firm in New York City. The transfer reunited Shepard with his brothers Henry and William. The three brothers practiced drawing together at Henry's home during the evenings and, for their reference portfolios, collected European drawing manuals featuring anatomical models copied from works by the French artist Charles LeBrun and other masters. Both William and Shepard began painting in 1828. Although William experienced success as a painter, exhibiting at the National Academy, Shepard remained unsure of his abilities and of his future prospects as a painter. His brother, Robert, wrote to him in June 1828, encouraging him to make a choice between painting and carriage trimming. Shepard finally came to a decision and in the fall of 1828, he left Brewster's shop and enrolled in the National Academy of Design's drawing classes. The first picture Shepard exhibited, in 1829, was Still Life; Composition. The significant word in the title is "Composition," which reveals an awareness of the hierarchy of painting; by titling his still life, Mount declared that the picture was not a mere copy of objects, but had been composed from a number of "correct" sources, coupled with artistic imagination to form an ideal assemblage elevated above a "common" rendering. Shepard often tended to surround his still-life objects with vague or suggested environments that lend a mysterious and atmospheric quality to his compositions. This background treatment is evident in his earlier known still life, Squirrel, painted in October 1829, and in later works such as Rose of Sharon: "Remember Me." In 1829, Shepard turned to portraiture, opening a portrait studio with his brother William at 15 Cherry Street in New York. Competition among portrait painters was exceedingly high during this period, and the young artists did not succeed in obtaining a steady clientele. Within a year the brothers closed their studio and Shepard left New York for Athens, Pennsylvania, to live with his maternal aunt and uncle, Deborah and John Shepard. Their home provided Mount with an opportunity to paint numerous portraits of his relatives, as well as landscapes of the sprawling Pennsylvania countryside. In 1831 Shepard traveled to Long Island where he painted eight or more portraits of his distant paternal relatives, the "Tangier" Smith family, at their ancestral home, the Manor of St. George, located on the Great South Bay. Mount's rendering of William Smith is a representative example of his early approach to formal portraiture. He painted his subject in a shallow space between the picture plane and a uniformly colored wall, using the diagonal placement of a red chair, which supports the sitter, to indicate figural volume and recessive space. To the left of Smith, Mount included a window with a landscape view, which provides a spatial relief from the pictorial confines of the interior setting. The landscape vista, composed of rugged, mountainous scenery and a stormy sky, is a romanticized scene in the vain of the Italian landscape painter Salvator Rosa, whose work was known to American artists and appears to have been included to underscore Smith's dour, brooding expression. Between the years 1832 and 1833, Shepard underwent a marked transformation in his formal portrait style, perhaps as a result of spending time with New York City's leading portrait painter, Henry Inman. The portrait of John Bedell, dating from 1833, exemplifies Shepard's newly developed abilities. In this portrait, Mount proficiently captures a feeling for the sitter's personality without depending upon supplemental devices such as the inclusion of the landscape in the portrait of Smith. The viewer is drawn to Bedell's face, and especially to his penetrating deep blue eyes. This work was the first portrait the artist publicly exhibited. Probably on the merits of this work, he was elected an associate member of the National Academy of Design in 1833. Among Mount's loveliest portraits is one of his wife, Elizabeth, painted in 1838. The oval format of the picture is echoed in the graceful lines of Elizabeth's face, neckline and torso. In her hand she holds a portfolio and stylus; a colored engraving lies on the table. These objects refer to her skill in needlework, in which engravings frequently served as design sources. Elizabeth's head is turned toward the left to display, in her hair, two rosebuds -- symbols of fidelity, love and beauty." [1] This portrait marked a turning point in Mount's career. He exhibited it at the National Academy of Design in 1838, where it was well-received by the Academy members and also by the press. Shepard's familial obligations increased with the birth of his children -- William Shepard, in 1838; Ruth, nicknamed "Tutie," in 1842; Joshua in 1845; and much later, Robert, in 1853. Though he longed to paint landscapes rather than portraits, Shepard said "the love of those who depend on me for the comforts of life, point out the path I must tread." [2] This is page 1 Visit the Table of Contents for Resource Library for thousands of articles and essays on American art. Copyright 2005 Traditional Fine Arts Organization, Inc., an Arizona nonprofit corporation. All rights reserved.
+
+
+--- [Shepard Alonzo Mount - National Academicians - National Academy of Design] ---
+No Image Available for Shepard Alonzo Mount 1804 - 1868 Shepard Mount began studying art while apprenticed to the New Haven coach maker, James Brewster. In 1826 he moved to New York to join his brothers Henry Smith and William Sidney. In 1829, after studying at the National Academy's antique school, Mount began exhibiting his paintings at its annual exhibitions. During the following years he worked in a variety of genres but found his greatest proficiency as a portrait painter. In 1837, after establishing a promising reputation, Mount married Elizabeth Hempstead Elliott, sister of the renowned portraitist Charles Loring Elliott. In 1841 Mount and his wife returned to Long Island and settled in Stony Brook. During the following years he received commissions to paint portraits of many of Long Island's leading citizens. Although he found financial regard as a portraitist, Mount continued to paint game pieces, genre scenes, and landscapes throughout his life, and his works were frequently included in the Academy's annual exhibitions. Mount's success as an artist has largely been overshadowed by the career of his brother William, yet during his life he enjoyed a healthy reputation as an artist. In 1841 Mount and his wife returned to Long Island and settled in Stony Brook. During the following years he received commissions to paint portraits of many of Long Island's leading citizens. Although he found financial regard as a portraitist, Mount continued to paint game pieces, genre scenes, and landscapes throughout his life, and his works were frequently included in the Academy's annual exhibitions. Mount's success as an artist has largely been overshadowed by the career of his brother William, yet during his life he enjoyed a healthy reputation as an artist.
+
+
+--- [James Brewster (August 6, 1788 — January 26, 1866), American ...] ---
+No content
+
+
+--- [Subject Alternative Name not added to certificate] ---
+# Subject Alternative Name not added to certificate
+
+I'm trying to issue a new certificate using the additional attribues field within the  Windows CertSrv Web-Enrollment Client.
+
+I added the CSR, picked the template and entered this into the attributes field:
+
+SAN:dns=HOSTNAME&dns=HOSTNAME.DOMAIN.COM&ipaddress=IPADRESS
+
+
+The request is successful but when I check the signed certificate no "Alternative Names" attribute is added to it. Am I missing something? Maybe a issue with the Template? (used a default Win 2003 level webserver template copy with some custom settings).
+
+/edit
+Also I've tried to use 
+
+certreq -submit -attrib "CertificateTemplate:MYTEMPLATE" <Cert Request.req> -attrib "SAN:dns=HOSTNAME&dns=HOSTNAME2&ipaddress=IPADDRESS"
+
+
+resulting in the same problem: cert gets generated, but without any SAN attribute.
+
+/edit2 
+also I've set the CA to issue SAN certificates using
+
+certutil -setreg policy\EditFlags +EDITF_ATTRIBUTESUBJECTALTNAME2
+
+
+and restarting the CA service. Still: no SANs.
+
+Please note: using req. files and OpenSSL to generate the CSR i'm able to generate certifcates using the CA which have some SANs included. However this option is not valid in my current situation since I'm getting the CSR from an application and i'm not able to manually generate one for the application.
+
+/edit3
+I tried using the default webserver certificate WITHOUT any changes and suddenly it worked. So now the question is: what are the template requirements to enable SAN?
+

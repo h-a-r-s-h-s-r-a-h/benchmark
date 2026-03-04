@@ -1,0 +1,47 @@
+=== SEARCH SNIPPETS ===
+
+[SS Olympia - Wikipedia]
+On 10 December 1910, Olympia ran aground on Bligh Reef off Alaska′s Prince William Sound and sank without loss of life. Following the sinking, steamboat inspectors accused Captain Daniels, in command of Olympia when she ran aground, of "unskillful navigation."
+URL: https://en.wikipedia.org/wiki/SS_Olympia
+
+[SS Olympia | Military Wiki | Fandom]
+The SS Olympia was a steamship laid down as the SS Doune Castle and upon purchase named the SS Dunbar Castle that served the northwest United States and Alaska during the Klondike Gold Rush. It was built in 1883 by Barclay, Curle and Co. of Glasgow, Scotland, for the Union-Castle Line. In 1895, the SS Dunbar Castle was sold to Fairfield Ship Building and Engineering Co. and renamed the SS Olympia.
+URL: https://military-history.fandom.com/wiki/SS_Olympia
+
+[SS Olympia - Wikiwand]
+On 10 December 1910, Olympia ran aground on Bligh Reef off Alaska′s Prince William Sound and sank without loss of life. Following the sinking, steamboat inspectors accused Captain Daniels, in command of Olympia when she ran aground, of "unskillful navigation."
+URL: https://www.wikiwand.com/en/articles/SS_Olympia
+
+[SS Olympia - Alchetron, The Free Social Encyclopedia]
+Dec 27, 2024 · On December 10, 1910, Olympia ran aground on Bligh Reef off Alaska′s Prince William Sound and sank without loss of life. Following the sinking, steamboat inspectors accused Captain Daniels, in command of Olympia when she ran aground, of "unskillful navigation."
+URL: https://alchetron.com/SS-Olympia
+
+[About: SS Olympia - DBpedia Association]
+Ocean liner (1883–1910)
+URL: https://dbpedia.org/page/SS_Olympia
+
+
+=== FULL EXTRACTED CONTENT ===
+
+
+--- [SS Olympia - Wikipedia] ---
+SS Olympia was a steamship that served the northwest United States and Alaska during the Klondike Gold Rush. She was wrecked in 1910.
+Olympia was laid down as SS Doune Castle but launched as SS Dunbar Castle in 1883 by Barclay, Curle and Co. of Glasgow, Scotland, for the Castle Mail Packet Company. In 1895, Dunbar Castle was sold to Fairfield Ship Building and Engineering Co. and renamed SS Olympia.
+In 1897, the Scottish American Steamship Company bought her, and later that year she was bought by the Northern Pacific Steamship Line. In 1898, she operated with the North America Mail Steamship Company of Tacoma, Washington. In 1903, she operated under the North Western Steam Ship Company of Seattle, Washington, which sold her to the Alaska Steam Ship Company in 1904. That year, lifeboats were installed.
+On 10 December 1910, Olympia ran aground on Bligh Reef off Alaska′s Prince William Sound and sank without loss of life. Following the sinking, steamboat inspectors accused Captain Daniels, in command of Olympia when she ran aground, of "unskillful navigation."
+
+
+--- [SS Olympia | Military Wiki | Fandom] ---
+No content
+
+
+--- [SS Olympia - Wikiwand] ---
+No content
+
+
+--- [SS Olympia - Alchetron, The Free Social Encyclopedia] ---
+Completed 1883 Beam 38 ft (12 m) Builder Barclay Curle | Tonnage 2,837 (gross) Length 102 m | | Name SS Dunbar Castle (1883-1895)SS Olympia (1895-1910) Operator Castle Mail Packet Company (1883-1895)Fairfield Shipbuilding and Engineering Company (1895-1897)Scottish American Steam Ship Co. (1897)Northern Pacific Steamship Line (1897-1898)North America Mail Steam Ship Co. (1898-1903)North Western Steam Ship Co. (1903-1904)Alaska Steam Ship Co. (1904-1910) Fate Wrecked December 10, 1910 | Uss olympia warship a tall ship SS Olympia was a steamship that served the northwest United States and Alaska during the Klondike Gold Rush. She was wrecked in 1910. Contents - Uss olympia warship a tall ship - World of warships know your ship 31 uss olympia fixed audio - References Olympia was built as SS Doune Castle in 1883 by Barclay, Curle and Co. of Glasgow, Scotland, for the Castle Mail Packet Company. In 1895, Dunbar Castle was sold to Fairfield Ship Building and Engineering Co. and renamed SS Olympia. In 1897, the Scottish American Steam Ship Company bought her, and later that year she was bought by the Northern Pacific Steamship Line. In 1898, she operated with the North America Mail Steam Ship Company of Tacoma, Washington. In 1903, she operated under the North Western Steam Ship Company of Seattle, Washington, which sold her to the Alaska Steam Ship Company in 1904. That year, lifeboats were installed. On December 10, 1910, Olympia ran aground on Bligh Reef off Alaska′s Prince William Sound and sank without loss of life. Following the sinking, steamboat inspectors accused Captain Daniels, in command of Olympia when she ran aground, of "unskillful navigation."
+
+
+--- [About: SS Olympia - DBpedia Association] ---
+| dbo:MeanOfTransportation/length | - 102108.0 (dbd:millimetre) | | dbo:builder | | | dbo:description | - Ocean liner (1883–1910) (en) | | dbo:length | | | dbo:operator | | | dbo:shipBeam | | | dbo:shipLaunch | | | dbo:status | | | dbo:thumbnail | | | dbo:wikiPageWikiLink | | | dbp:shipBuilder | | | dbp:shipCompleted | | | dbp:shipFate | - 0001-12-10 (xsd:gMonthDay) | | dbp:shipFlag | | | dbp:shipLaunched | | | dbp:shipName | - *SS Dunbar Castle *SS Olympia (en) | | dbp:shipOperator | - *border|20px Castle Mail Packet Company *Fairfield Shipbuilding and Engineering Company *Scottish American Steam Ship Co. *Northern Pacific Steamship Line *North America Mail Steam Ship Co. *North Western Steam Ship Co. *Alaska Steam Ship Co. (en) | | dbp:shipTonnage | | | dbp:wikiPageUsesTemplate | | | dct:subject | | | gold:hypernym | | | georss:point | | | rdf:type | | | rdfs:label | | | owl:sameAs | | | geo:geometry | - POINT(-146.8800201416 60.840530395508) | | geo:lat | | | geo:long | | | prov:wasDerivedFrom | | | foaf:depiction | | | foaf:isPrimaryTopicOf | | | foaf:name | - *SS Dunbar Castle (1883-1895) (en) - *SS Olympia (1895-1910) (en) | | is dbo:wikiPageRedirects of | | | is dbo:wikiPageWikiLink of | | | is foaf:primaryTopic of | |

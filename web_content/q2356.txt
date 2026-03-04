@@ -1,0 +1,80 @@
+=== SEARCH SNIPPETS ===
+
+[Habba Khatoon: The Neglected Legacy of Kashmir's Nightingale]
+Efforts to commemorate Habba Khatoon's legacy have been sporadic. An underpass in Mughalpura, Lahore, and an Indian Coast Guard ship named CGS Habba Khatoon reflect attempts to honor her contributions. Additionally, the Indian television film "Habba Khatoon" (1978) and the series "Noorjahan" (2000-2001) depicted her life, though these representations have not translated into tangible ...
+URL: https://www.dailygoodmorningkashmir.com/habba-khatoon-the-neglected-legacy-of-kashmirs-nightingale/
+
+[Habba Khatoon - Wikipedia]
+Tradition links a spot near Tsoorawan in Gurez with the poet and it is known even now as the 'hillock of Habba Khatoon'. They take their stand on a legend that Habba Khatoon was born to a petty chieftain in Gurez who passed her on to a Kashmiri trader Hayaband in lieu of the liquidation of his debts.
+URL: https://en.wikipedia.org/wiki/Habba_Khatoon
+
+[Habba Khatoon - Bharatpedia]
+She was born in a small village in Pampore, Pulwama in Jammu and Kashmir. Her real name was Zoon or Zun (Kashmiri : زوٗن : The Moon), a common Kashmiri first name. According to the oral tradition, she was called Zoon because of her great beauty. Although a peasant, she learnt how to read and write from the village moulvi. According to legend, one d...
+URL: https://en.bharatpedia.org/wiki/Habba_Khatoon
+
+[Habba Khatoon - anhducwiki4.blogspot.com]
+An underpass in Mughalpura, Lahore has been named after Habba Khatoon. Indian Coast Guard named a ship as CGS Habba Khatoon after her. Habba Khatoon (1978) is an Indian Kashmiri -language television film directed by Bashir Badgami for Doordarshan. It starred Rita Razdan in the titular role of the queen.
+URL: https://anhducwiki4.blogspot.com/2021/10/habba-khatoon.html
+
+[Subject Alternative Name not added to certificate]
+On the Subject tab in the Certificate Properties, enter a suitable Common name for the Subject, if required In the Alternative names section, select Type: DNS and add the FQDNs for the desired SANs. Options for key usage and so on should be preconfigured on the other tabs.
+URL: https://serverfault.com/questions/476413/subject-alternative-name-not-added-to-certificate
+
+
+=== FULL EXTRACTED CONTENT ===
+
+
+--- [Habba Khatoon: The Neglected Legacy of Kashmir's Nightingale] ---
+Habba Khatoon, the revered 16th-century Kashmiri poetess, remains a monumental figure in Kashmiri literature, yet her final resting place tells a story of neglect. Born in Zoon village of Chandhara, Kashmir, her early life was marked by both beauty and hardship. Renowned for her lyrical poetry and melodious voice, Habba Khatoon, also known as “The Nightingale of Kashmir,” composed poignant songs that resonated with themes of love, and separation. Zoon’s beauty and artistic talent attracted the attention of Yousuf Shah Chak, the last independent ruler of Kashmir. Their love story, however, faced tragic turns. Following their marriage, Yousuf Shah Chak ascended to power but was later imprisoned by the Mughal Emperor Akbar in 1579. Separated from her beloved husband, Habba Khatoon dedicated her life to wandering the Valley, singing her melancholic songs. Despite the uncertainty surrounding some aspects of her life, her poetry, including the “loal” or lyrical form, has become a cornerstone of Kashmiri’s cultural heritage. Yet, the physical remnants of her life are in disrepair. Habba Khatoon’s tomb, situated near Athwajan on the Jammu-Srinagar national highway, is a stark symbol of neglect. The tomb remains dilapidated. Born to a poor peasant family, Zoon’s early life was challenging. After a tumultuous first marriage, she found solace and fame in her poetic talents. Her union with Yusuf Shah Chak, though initially filled with happiness, was soon marred by political upheaval. The Mughal conquest of Kashmir led to Yusuf Shah Chak’s imprisonment and the couple’s separation. Habba Khatoon’s songs, filled with sorrow and longing, captured the emotional essence of her experiences. The neglect of Habba Khatoon’s tomb is indicative of a larger trend in preserving Kashmir’s cultural heritage. The tomb, now a dilapidated structure, is situated in a deserted area with minimal upkeep. Locals are aware of its significance, but the site’s condition has deteriorated over time. The presence of a junk shop nearby and the use of the tomb by security forces as a military post further contributes to its state of disrepair. The neglect extends to other literary figures as well. The tomb of another prominent Kashmiri poet, Mehjoor, also lies in a state of neglect. Mehjoor’s grandson, Abdal Mehjoor, has expressed disappointment over the lack of governmental effort to maintain these important sites. Efforts to commemorate Habba Khatoon’s legacy have been sporadic. An underpass in Mughalpura, Lahore, and an Indian Coast Guard ship named CGS Habba Khatoon reflect attempts to honor her contributions. Additionally, the Indian television film “Habba Khatoon” (1978) and the series “Noorjahan” (2000-2001) depicted her life, though these representations have not translated into tangible preservation efforts. For her contributions to Kashmiri literature, Habba Khatoon deserves recognition and respect that transcends mere commemorations. Without active preservation and acknowledgment, the physical remnants of her life and legacy risk being forgotten, erasing a crucial chapter in Kashmir’s rich cultural tapestry. In conclusion, while Habba Khatoon’s songs continue to be celebrated in Kashmir, the neglect of her tomb and other historical sites underscores a pressing need for renewed efforts to honor and preserve the legacy of Kashmir’s literary giants. The story of Habba Khatoon is not just a tale of a poetess but a reflection of the broader challenges faced in safeguarding cultural heritage amidst neglect. Syed Amjad Hussain is an Author and Independent Research scholar on Sufism. He can be mailed at isyedamjad90@gmail.com
+
+
+--- [Habba Khatoon - Wikipedia] ---
+Habba Khatoon (Kashmiri pronunciation: [habɨ xoːt̪uːn]; born Zoon Rather (Kashmiri pronunciation: [zuːn]) ; sometimes spelt Khatun), also known by the honorary title The Nightingale of Kashmir, was a Kashmiri Muslim poet and ascetic in the 16th century. 
+According to Kashmiri oral tradition, Habba Khatoon is believed to have married Yusuf Shah Chak, the last ruler of the Chak dynasty, after he was captivated by her poetic talent. This account portrays her as his queen and links her later poetry to the political upheaval following the Mughal annexation of Kashmir in 1586. 
+However, several modern historians have noted that contemporary Persian chronicles and Mughal court sources do not provide clear evidence of this marriage. As a result, while the association between Habba Khatoon and Yusuf Shah Chak remains deeply embedded in Kashmiri cultural memory, some scholars regard the narrative as shaped by later literary and folkloric embellishment rather than firmly established historical documentation.
+Habba Khatoon's music pushed her poetry gradually into learned circles and those who had fled on the works of immortals like Firdausi, Omar and Hafez were bound to raise their eyebrows at first. This wobbling of Habba Khatoon under her peculiar compulsions and with her own limitations created the symphony of romantic words running side by side with mystic poetry till it over stripped and outshone it.
+
+
+
+
+--- [Habba Khatoon - Bharatpedia] ---
+No content
+
+
+--- [Habba Khatoon - anhducwiki4.blogspot.com] ---
+Habba Khatoon Habba Khatoon | Habba Khatoon | | |---|---| | The Nightingale of Kashmir | | | Empress Consort of Kashmir | | | Tenure | 1579 – 1586 | | Born | Zoon 1554 Chandhur, Pampore, Kashmir | | Died | 1609 (aged 54–55) Kashmir | | Burial | Athwajan, Jammu-Srinagar National Highway, Kashmir | | Spouse | | | Issue | At least 1 (daughter) | | House | Chak Dynasty | | Father | Abdi Rather | | Mother | Janam | | Writing career | | | Occupation | Poet | | Language | Kashmiri | | Subject | Poems and songs about loss and separation | | Notable works | Loal | | Years active | c. 1570 – 1609 | Habba Khatoon (born Zoon; 1554 – 1609; sometimes spelled Khatun), also known by the honorary title The Nightingale of Kashmir, was a Kashmiri Muslim poet and ascetic. She was the wife of Yousuf Shah Chak, the last Emperor of Kashmir. Biography[edit] She was born in a small village in Pampore, Pulwama in Jammu and Kashmir. Her real name was Zoon or Zun (Kashmiri: زوٗن, romanized: zūn, lit. 'Moon'), a common Kashmiri first name.[1] According to the oral tradition, she was called Zoon because of her great beauty. Although a peasant, she learnt how to read and write from the village moulvi. According to legend, one day Yousuf Shah Chak was out hunting on horseback. He heard Zoon singing under the shade of a chinar tree, and the couple met and fell in love. The oral tradition describes Zoon as Yousuf Shah Chak's queen consort, although there is scholarly debate about whether she was in fact a lower status mistress or member of his harem.[2] She entered the palace in about 1570, and at some point changed her name to become Habba Khatoon (Kashmiri: حَبہٕ خوتوٗن). The couple were reportedly very content, and Yousuf Shah became the ruler of Kashmir. However, they were separated in 1579 after the Mughal emperor Akbar had Yousuf Shah arrested and imprisoned in Bihar, never to return. After this, Habba Khatoon became an ascetic,[3][4] and spent the rest of her life wandering across the valley singing her songs. Habba Khatun composed songs in Kashmiri. It is claimed that she introduced "loal" to Kashmiri poetry, "Loal" is more or less equivalent to the English 'lyric'. It conveys one brief thought. Braj Kachru states that Habba Khatun and Arnimal "perfected the loal form of Kashmiri poetry".[1] There is some dispute about the historical accuracy of Habba Khatun's biography, however the songs associated with her (including Mea ha keir tsei kith and Tse Kamiu Soni Meani) are widely popular across Kashmir. Her songs are frequently mournful and full of the sorrow of separation. Her tomb lies near Athwajan (English connotation: Handful of Rings) on the Jammu-Srinagar national highway.[3] She has a profound presence in the oral tradition and is hailed as the last independent poet queen of Kashmir. Legacy[edit] An underpass in Mughalpura, Lahore has been named after Habba Khatoon. Indian Coast Guard named a ship as CGS Habba Khatoon after her. Habba Khatoon (1978) is an Indian Kashmiri-language television film directed by Bashir Badgami for Doordarshan. It starred Rita Razdan in the titular role of the queen.[5][6] Doordarshan also aired Habba Khatoon, another television show in Hindi on DD National about the poetess.[7] Mrinal Kulkarni portrayed her role in the Indian television series Noorjahan, which aired on DD National from 2000-2001. Zooni is an unreleased Indian Hindi-language film by Muzaffar Ali that was supposed to release in 1990 but was eventually shelved. Earlier unsuccessful attempts in Indian cinema to portray her life on screen included one by Mehboob Khan in the 1960s and in the 80s by B. R. Chopra.[5] See also[edit] References[edit] - ^ a b Kachru, Braj Behari (1981). Kashmiri literature. Harrassowitz. ISBN 3447021292. OCLC 1014524295. - ^ Sadhu, S. L. (1983). Haba Khatoon. ISBN 9788126019540. OCLC 1007839629. - ^ a b "A grave mistake". The Tribune. 3 June 2000. Retrieved 10 March 2013. - ^ Kalla, Krishan Lal (1985). "19. Nightingale of Kashmr". The Literary Heritage of Kashmir. Mittal Publications. p. 21. - ^ a b Bali, Karan (30 June 2017). "Incomplete Films: Zooni". Upperstall.com. - ^ "Current breed of film-makers lack passion: Bashir Budgami". Tribune India. 20 April 2016. - ^ "Habba Khatoon - Episode 01". Prasar Bharati Archives. 29 August 2017. Sources[edit] Further reading[edit] - Wakhlu, S. N. (1994). Habba Khatoon: the nightingale of Kashmir. South Asia Publications. ISBN 8174330054.
+
+
+--- [Subject Alternative Name not added to certificate] ---
+# Subject Alternative Name not added to certificate
+
+I'm trying to issue a new certificate using the additional attribues field within the  Windows CertSrv Web-Enrollment Client.
+
+I added the CSR, picked the template and entered this into the attributes field:
+
+SAN:dns=HOSTNAME&dns=HOSTNAME.DOMAIN.COM&ipaddress=IPADRESS
+
+
+The request is successful but when I check the signed certificate no "Alternative Names" attribute is added to it. Am I missing something? Maybe a issue with the Template? (used a default Win 2003 level webserver template copy with some custom settings).
+
+/edit
+Also I've tried to use 
+
+certreq -submit -attrib "CertificateTemplate:MYTEMPLATE" <Cert Request.req> -attrib "SAN:dns=HOSTNAME&dns=HOSTNAME2&ipaddress=IPADDRESS"
+
+
+resulting in the same problem: cert gets generated, but without any SAN attribute.
+
+/edit2 
+also I've set the CA to issue SAN certificates using
+
+certutil -setreg policy\EditFlags +EDITF_ATTRIBUTESUBJECTALTNAME2
+
+
+and restarting the CA service. Still: no SANs.
+
+Please note: using req. files and OpenSSL to generate the CSR i'm able to generate certifcates using the CA which have some SANs included. However this option is not valid in my current situation since I'm getting the CSR from an application and i'm not able to manually generate one for the application.
+
+/edit3
+I tried using the default webserver certificate WITHOUT any changes and suddenly it worked. So now the question is: what are the template requirements to enable SAN?
+

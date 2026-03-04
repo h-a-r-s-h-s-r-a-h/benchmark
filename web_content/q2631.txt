@@ -1,0 +1,44 @@
+=== SEARCH SNIPPETS ===
+
+[Conalia melanops - Wikipedia]
+Conalia melanops is a species of tumbling flower beetle in the family Mordellidae, found in North America. Conalia melanops.
+URL: https://en.wikipedia.org/wiki/Conalia_melanops
+
+[Conalia melanops]
+Conalia melanops is a beetle in the Conalia genus, which is in the Mordellidae family. It was described in 1946 by Ray.
+URL: https://www.inaturalist.org/taxa/217489-Conalia-melanops
+
+[Conalia melanops Ray, 1946 - GBIF]
+Species Accepted Conalia melanops Ray, 1946 source: Checklist of Beetles (Coleoptera) of Canada and Alaska. Second Edition.
+URL: https://www.gbif.org/species/1045997
+
+[Conalia melanops]
+Apr 17, 2025 — Conalia melanops is a beetle in the genus Conalia of the family Mordellidae. It was described in 1946 by Ray.
+URL: https://justapedia.org/wiki/Conalia_melanops
+
+[IRMNG - Conalia melanops Ray, 1946]
+Rank Species Parent Conalia Mulsant & Rey, 1858 Environment marine, brackish Fossil range
+URL: https://www.irmng.org/aphia.php?p=taxdetails&id=11602890
+
+
+=== FULL EXTRACTED CONTENT ===
+
+
+--- [Conalia melanops - Wikipedia] ---
+Conalia melanops is a species of tumbling flower beetle in the family Mordellidae, found in North America.
+
+
+--- [Conalia melanops] ---
+Search Explore Community People Projects Journal Posts Forum More Taxa Info Guides Places Site Stats Help Getting Started Understanding Projects Educator's Guide Video Tutorials Curator Guide Explore Community People Projects Journal Posts Forum More Taxa Info Guides Places Site Stats Help Getting Started Understanding Projects Educator's Guide Video Tutorials Curator Guide Donate Donate Log In or Sign Up Loading... About Help Forum Press Jobs Our Blog Community Guidelines Terms of Use Privacy DONATE STORE Instagram English Toggle Dropdown Breton Català Dansk Deutsch Eesti English English (UK) Español Español (Argentina) Español (Colombia) Español (Costa Rica) Español (México) Esperanto Euskara Français Français (Canada) Galego Georgian Hrvatski Indonesia Italiano Latviešu Lietuvių Lëtzebuergesch Magyar Malayalam Nederlands Norsk Bokmål Occitan Polski Portuguese Português (Brasil) Santali Shqip Slovenský Slovenščina Srpski Suomi Svenska Te reo Māori Türkçe Česky Ελληνικά Беларуская Български Македонски Русский Українська Қазақша עברית العربية मराठी தமிழ் ಕನ್ನಡ ภาษาไทย 日本語 简体中文 繁體中文 한국어 Help Translate!
+
+
+--- [Conalia melanops Ray, 1946 - GBIF] ---
+Conalia melanops Ray, 1946 - Dataset - GBIF Backbone Taxonomy - Rank - SPECIES Classification - kingdom - Animalia - phylum - Arthropoda - class - Insecta - order - Coleoptera - family - Mordellidae - genus - Conalia - species - Conalia melanops Name - Homonyms - Conalia melanops Ray, 1946 Bibliographic References - Bright, Donald E., 1986: Family: Mordellidae. A Catalog of the Coleoptera of America North of Mexico. viii + 22.
+
+
+--- [Conalia melanops] ---
+No content
+
+
+--- [IRMNG - Conalia melanops Ray, 1946] ---
+IRMNG taxon details basis of record Hallan, J. (2000-2017). Biology Catalog (2012 version), http://bug.tamu.edu/research/collection/hallan/ (as at 2012). [details] current name source Hallan, J. (2000-2017). Biology Catalog (2012 version), http://bug.tamu.edu/research/collection/hallan/ (as at 2012). [details] extant flag source as per genus [details] habitat flag source as per genus [details] Unreviewed Descriptive info Hallan comment: [Quebec] [details] |

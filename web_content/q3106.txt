@@ -1,0 +1,48 @@
+=== SEARCH SNIPPETS ===
+
+[Republic of Nauru National Report on Population and Housing - Census 2011]
+Jan 26, 2022 · Republic of Nauru National Report on Population and Housing - Census 2011 Based on the 2011 census, the total population at the time of the census was 10,084 (5,105 males and 4,979 females). This compares with 9,233 people in 2006 – an increase of 9% or 851 people.
+URL: https://nauru-data.sprep.org/resource/republic-nauru-national-report-population-and-housing-census-2011
+
+[Demographics of Nauru - Wikipedia]
+The Nauruan language is the official language of Nauru, but English is often used in the country. Nauruan is declared as the primary language of 95.3% of the population. The 2011 census revealed that 66.0% of the population spoke English and 11.9% another language.
+URL: https://en.wikipedia.org/wiki/Demographics_of_Nauru
+
+[Republic of Nauru national report on population and housing: census 2011]
+Republic of Nauru national report on population and housing: census 2011. Noumea, New Caledonia: Pacific Community. 217 p.
+URL: https://sdd.spc.int/digital_library/republic-nauru-national-report-population-and-housing-census-2011
+
+[Nauru Population and Housing Census 2011 | GHDx]
+The Nauru 2011 Census was conducted in October of 2011. The aim of the census was to provide detailed information regarding housing conditions and other socioeconomic indicators of the population. The total population at the time of the census was 10,084, including 5,105 males and 4,979 females, a 9% increase from 2006. The questionnaire was based on the 1992 census form, and included both a ...
+URL: https://ghdx.healthdata.org/record/nauru-population-and-housing-census-2011
+
+[Wolfram|Alpha (Nauru | population | 2011)]
+Result: 10098 people (world rank: 231st) (2011 estimate)
+URL: https://www.wolframalpha.com/input/?i=What+was+the+population+count+in+the+2011+census+of+the+Republic+of+Nauru%3F
+
+
+=== FULL EXTRACTED CONTENT ===
+
+
+--- [Republic of Nauru National Report on Population and Housing - Census 2011] ---
+Primary tabs Republic of Nauru National Report on Population and Housing - Census 2011 Based on the 2011 census, the total population at the time of the census was 10,084 (5,105 males and 4,979 females). This compares with 9,233 people in 2006 – an increase of 9% or 851 people. This population increase represents an average annual growth rate of 1.8% which is equivalent to 170 people per year for the period 2006-2011. However, currently the population growth is much higher than 1.8% as Nauru‘s fertility is increasing, and should be around 2.9% which translates into an annual increase of about 300 people per year. With this current high level of growth, the population will double its current size, and will reach 20,000 people in the year 2038. Nauru_2011_Census_Report_FINAL (3).pdf (6.71 MB) Additonal Information | Field | Value | |---|---| | mimetype | application/pdf | | filesize | 6.71 MB | | timestamp | Wed, 01/26/2022 - 00:16 |
+
+
+--- [Demographics of Nauru - Wikipedia] ---
+The demographics of Nauru, an island country in the Pacific Ocean, are known through national censuses, which have been analysed by various statistical bureaus since the 1920s. The Nauru Bureau of Statistics have conducted this task since 1977—the first census since Nauru gained independence in 1968. The most recent census of Nauru was on 30 October 2021, when population had reached 11,680 people. The population density is 554 inhabitants per square kilometre (1,430 inhabitants/mi2), and the overall life expectancy is 63.9 years. The population rose steadily from the 1960s until 2006 when the Government of Nauru repatriated thousands of Tuvaluan and I-Kiribati workers from the country. Since 1992, Nauru's birth rate has exceeded its death rate; the natural growth rate is positive. In terms of age structure, the population is dominated by the 15–59-year-old segment (57%). The median age of the population is 21.6, and the estimated gender ratio of the population is 101.8 males per 100 females.
+Nauru is inhabited mostly by Nauruans (92.1%), while minorities include those from Kiribati (2.4%), Fiji (2.2%), Australia (1.2%) and other (2.1%). The demographic history of Nauru is marked by several migrations: the area was first inhabited by Micronesian people about 3,000 years ago. The first European to find the island was John Fearn in 1798. Then, the country was annexed by Germany in 1888. The next major population change was when Japanese occupied the island during World War II in 1942. During this time, the Japanese deported several thousands of Nauruans to other islands. In the 1960s, the country gained independence, where the percentage of Nauruans started to increase. The most recent demographic switch was in the 2000s, when the government repatriated several groups of non-Nauruans from the country.
+The Nauruan language is the official language of Nauru, but English is often used in the country. Nauruan is declared as the primary language of 95.3% of the population. The 2011 census revealed that 66.0% of the population spoke English and 11.9% another language. The main religions of Nauru are Nauru Congregational Church (35.71%) and Roman Catholic (32.96%). The literacy rate in Nauru is 96.5%. The proportion of the country's population aged 15 and over attaining academic degrees is one of the lowest in the world, reaching 7.9% in 2011. An estimated 10.7% of the gross domestic product (GDP) is spent on education. Nauru has a universal health care system, and in 2012, an estimated 7.5% of its GDP was spent on healthcare. Nauru has the highest obesity ranking in the world; 97 per cent of men and 93 per cent of women are obese. In 2006, the average net monthly income was A$2,597 (A$3848 in 2014). The most significant sources of employment are phosphate mining, banking industries, and various coconut products. In 2011, the unemployment rate was 23%. The 2011 census enumerated 1,647 total households, averaging 6.0 persons per house. Average urbanisation rate in Nauru is 100%.
+
+
+
+
+--- [Republic of Nauru national report on population and housing: census 2011] ---
+Republic of Nauru national report on population and housing: census 2011 Year 2012 Reference Republic of Nauru national report on population and housing: census 2011. Noumea, New Caledonia: Pacific Community. 217 p. https://www.spc.int/digitallibrary/get/dnums
+
+
+--- [Nauru Population and Housing Census 2011 | GHDx] ---
+NavGeneral InfoEmail Print Original or alternative title National Report on Population and Housing Census 2011 Provider Nauru Bureau of StatisticsTabulations only Geography Nauru (NRU) Coverage type Country Time period covered 10/2011 - 10/2011 Data type Census: De factoHouseholdIndividualInterviewNationally representativeSubnationally representative Summary The Nauru 2011 Census was conducted in October of 2011. The aim of the census was to provide detailed information regarding housing conditions and other socioeconomic indicators of the population. The total population at the time of the census was 10,084, including 5,105 males and 4,979 females, a 9% increase from 2006. The questionnaire was based on the 1992 census form, and included both a household and individual module. Keywords Adult mortality, Assets, Birth place, Child mortality, Cooking fuels, Crops, Disability, Education, Education degrees, Electricity, Employment, Employment benefits, Family composition, Family size, Fishing, Hearing loss, Household air pollution, Household deaths, Housing conditions, Housing materials, Infant mortality, Internet, Languages, Lighting, Summary birth history, Limited mobility, Literacy, Live births, Livestock, Marital status, Mass media, Maternal mortality, Mortality, Population, Refrigeration, Religion, Sanitation, School enrollment, Telephones, Training programs, Transportation, Vision loss, Waste disposal, Water supply Citation Contributors Nauru Bureau of Statistics Secretariat of the Pacific Community (SPC) Funders Australian Agency for International Development (AusAID) United Nations Population Fund (UNFPA) Suggested citation Nauru Bureau of Statistics, Secretariat of the Pacific Community (SPC). Nauru Population and Housing Census 2011. GHDx Entry last modified on: Feb 4, 2026
+
+
+--- [Wolfram|Alpha (Nauru | population | 2011)] ---
+No content

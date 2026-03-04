@@ -1,0 +1,78 @@
+=== SEARCH SNIPPETS ===
+
+[Ralph Flanders]
+Ralph Edward Flanders (September 28, 1880 – February 19, 1970) was an American mechanical engineer, industrialist and politician who served as a Republican US ...
+URL: https://en.wikipedia.org/wiki/Ralph_Flanders
+
+[Grokipedia: Ralph Flanders]
+Learn more about Ralph Flanders on Grokipedia.
+URL: https://grokipedia.com/page/Ralph_Flanders
+
+[Ralph N. Flanders | Obituaries | rutlandherald.com]
+Apr 9, 2010 — Born on February 23, 1919, in Rochester, N.Y., Ralph grew up in Springfield, Vt., and was the son of engineer and designer Ernest V. Flanders ...
+URL: https://www.rutlandherald.com/obituaries/ralph-n-flanders/article_489dca1a-9914-5007-b2b3-716b61c849df.html
+
+[Subject Alternative Name not added to certificate]
+On the Subject tab in the Certificate Properties, enter a suitable Common name for the Subject, if required In the Alternative names section, select Type: DNS and add the FQDNs for the desired SANs. Options for key usage and so on should be preconfigured on the other tabs.
+URL: https://serverfault.com/questions/476413/subject-alternative-name-not-added-to-certificate
+
+[Flanders family of Vermont]
+Ralph Edward Flanders (1880-1970) — also known as · Ralph E. Flanders — of Springfield, Windsor County, Vt. Born in Barnet, Caledonia County, Vt., September 28, ...
+URL: https://politicalgraveyard.com/families/10001-0176.html
+
+
+=== FULL EXTRACTED CONTENT ===
+
+
+--- [Ralph Flanders] ---
+Ralph Edward Flanders (September 28, 1880 – February 19, 1970) was an American mechanical engineer, industrialist and politician who served as a Republican U.S. Senator from the state of Vermont. He grew up on subsistence farms in Vermont and Rhode Island and was an apprentice machinist and draftsman before training as a mechanical engineer. He spent five years in New York City as an editor for a machine tool magazine. After moving back to Vermont, he managed and then became president of a successful machine tool company. Flanders used his experience as an industrialist to advise state and national commissions in Vermont, New England and Washington, D.C., on industrial and economic policy. He was president of the Boston Federal Reserve Bank for two years before being elected U.S. Senator from Vermont.
+Flanders was noted for introducing a 1954 motion in the Senate to censure Senator Joseph McCarthy. McCarthy had made sensational claims that there were large numbers of Communists and Soviet spies and sympathizers inside the federal government and elsewhere. He used his Senate committee as a nationally televised forum for attacks on individuals whom he accused. Flanders felt that McCarthy's attacks distracted the nation from a much greater threat of Communist successes elsewhere in the world and that they created division and confusion within the United States, to the advantage of its enemies. Ultimately, McCarthy's tactics and his inability to substantiate his claims led to his being discredited and censured by the United States Senate.
+
+
+
+
+--- [Grokipedia: Ralph Flanders] ---
+No content
+
+
+--- [Ralph N. Flanders | Obituaries | rutlandherald.com] ---
+EAST MONTPELIER — Ralph Norris Flanders, 91, of East Montpelier, died on April 6, 2010, at Rowan Court, after an extended illness. Born on February 23, 1919, in Rochester, N.Y., Ralph grew up in Springfield, Vt., and was the son of engineer and designer Ernest V. Flanders and nephew of Senator Ralph E. Flanders. Predeceased by his beloved wife, Anne C. Flanders, with whom he fathered nine children, he is survived by Jonathan E. Flanders and wife Nancy and their children Rhys and Darrel of Troy, N.Y., Mark G. Flanders and partner Roger Loeb of Detroit, Mich., Naomi A. Flanders and daughter Esther Nemethy of East Montpelier, Deborah C. Flanders and fiancé Timothy Foley of Burlington, Elizabeth H.F. Bissell and her husband Richard Bissell and their children Isaac and Mary Clare of Putney, Eunice M. Flanders and daughter Brittany A. Wells of Ashland, Mass., Lois E. Flanders of East Montpelier, James W. Flanders of Plainfield, N.J., as well as grandson Neil T.S. Flanders of East Montpelier, son of second-born and predeceased son, Timothy E. Flanders. Ralph studied sociology, philosophy and engineering at Middlebury College, then served during WWII in the 10th Mountaineering Division 85th Regiment in Italy. Upon his return on March 2, 1946, he married Anne Christine Lawson of Dundee, N.Y. He finished his course work at the University of Vermont. Ralph studied math and physics and wrote his philosophy thesis titled "Martin Buber's Conception of the Religious" while at Boston University where he received a Master of Arts degree in 1966. Ralph briefly taught physics and math at Chelsea High School and then at Vermont Technical College. Ralph edited and wrote for "The Vanguard," a small nonprofit advocacy publication where he served on the board of directors. Ralph received an award for his advocacy and work collecting all laws related to the handicapped, abstracting and indexing them. Upon his death, Ralph, a devoted Christian and religious seeker, was a member of St. Augustine's in Montpelier, Vt. A passionate lover of God and the Church, Ralph passed on to his children his appreciation for music, art, literature, hiking, gardening, swimming and involvement with community. Funeral arrangement handled by Barber & Lanier's at 139 Main St., Montpelier, Vt. Wake hours are 5 p.m. followed by a funeral at 8 p.m. Sunday, April 11. The burial is at 10 a.m. on Monday, April 12, in Plain-Mont Cemetery in Plainfield, Vt. View the guest book at www.rutlandherald.com/ obits.
+
+
+--- [Subject Alternative Name not added to certificate] ---
+# Subject Alternative Name not added to certificate
+
+I'm trying to issue a new certificate using the additional attribues field within the  Windows CertSrv Web-Enrollment Client.
+
+I added the CSR, picked the template and entered this into the attributes field:
+
+SAN:dns=HOSTNAME&dns=HOSTNAME.DOMAIN.COM&ipaddress=IPADRESS
+
+
+The request is successful but when I check the signed certificate no "Alternative Names" attribute is added to it. Am I missing something? Maybe a issue with the Template? (used a default Win 2003 level webserver template copy with some custom settings).
+
+/edit
+Also I've tried to use 
+
+certreq -submit -attrib "CertificateTemplate:MYTEMPLATE" <Cert Request.req> -attrib "SAN:dns=HOSTNAME&dns=HOSTNAME2&ipaddress=IPADDRESS"
+
+
+resulting in the same problem: cert gets generated, but without any SAN attribute.
+
+/edit2 
+also I've set the CA to issue SAN certificates using
+
+certutil -setreg policy\EditFlags +EDITF_ATTRIBUTESUBJECTALTNAME2
+
+
+and restarting the CA service. Still: no SANs.
+
+Please note: using req. files and OpenSSL to generate the CSR i'm able to generate certifcates using the CA which have some SANs included. However this option is not valid in my current situation since I'm getting the CSR from an application and i'm not able to manually generate one for the application.
+
+/edit3
+I tried using the default webserver certificate WITHOUT any changes and suddenly it worked. So now the question is: what are the template requirements to enable SAN?
+
+
+
+--- [Flanders family of Vermont] ---
+PoliticalGraveyard.com Flanders family of Vermont | Note: This is just one of 1,164 family groupings listed on The Political Graveyard web site. These families each have three or more politician members, all linked together by blood, marriage or adoption. This specific family group is a subset of the much larger Four Thousand Related Politicians group. An individual may be listed with more than one subset. These groupings — even the names of the groupings, and the areas of main activity — are the result of a computer algorithm working with the data I have, not the choices of any historian or genealogist. | | "Enjoy the hospitable entertainment of a political graveyard." Henry L. Clinton, Apollo Hall, New York City, February 3, 1872 | | The Political Graveyard is a web site about U.S. political history and cemeteries. Founded in 1996, it is the Internet's most comprehensive free source for American political biography, listing 320,919 politicians, living and dead. | || | The coverage of this site includes (1) the President, Vice President, members of Congress, elected state and territorial officeholders in all fifty states, the District of Columbia, and U.S. territories; and the chief elected official, typically the mayor, of qualifying municipalities; (2) candidates at election, including primaries, for any of the above; (3) all federal judges and all state appellate judges; (4) certain federal officials, including the federal cabinet, diplomatic chiefs of mission, consuls, U.S. district attorneys, collectors of customs and internal revenue, members of major federal commissions; and political appointee (pre-1969) postmasters of qualifying communities; (5) state and national political party officials, including delegates, alternate delegates, and other participants in national party nominating conventions; (6) Americans who served as "honorary" consuls for other nations before 1950. Note: municipalities or communities "qualify", for Political Graveyard purposes, if they have at least half a million person-years of history, inclusive of predecessor, successor, and merged entities. | || | The listings are incomplete; development of the database is a continually ongoing project. | || | Information on this page — and on all other pages of this site — is believed to be accurate, but is not guaranteed. Users are advised to check with other sources before relying on any information here. | || | The official URL for this page is: https://politicalgraveyard.com/families/10001-0176.html. | || | Links to this or any other Political Graveyard page are welcome, but specific page addresses may sometimes change as the site develops. | || | If you are searching for a specific named individual, try the alphabetical index of politicians. | || | Copyright notices: (1) Facts are not subject to copyright; see Feist v. Rural Telephone. (2) Politician portraits displayed on this site are 70-pixel-wide monochrome thumbnail images, which I believe to constitute fair use under applicable copyright law. Where possible, each image is linked to its online source. However, requests from owners of copyrighted images to delete them from this site are honored. (3) Original material, programming, selection and arrangement are © 1996-2023 Lawrence Kestenbaum. (4) This work is also licensed for free non-commercial re-use, with attribution, under a Creative Commons License. | || | Site information: The Political Graveyard is created and maintained by Lawrence Kestenbaum, who is solely responsible for its structure and content. — The mailing address is The Political Graveyard, P.O. Box 2563, Ann Arbor MI 48106. — This site is hosted by HDL. — The Political Graveyard opened on July 1, 1996; the last full revision was done on March 8, 2023. |

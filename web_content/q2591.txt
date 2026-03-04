@@ -1,0 +1,67 @@
+=== SEARCH SNIPPETS ===
+
+[Computer History Museum - Wikipedia]
+The Computer History Museum (CHM) is a computer museum in Mountain View, California. The museum presents stories and artifacts of Silicon Valley and the Information Age, and explores the computing revolution and its impact on society.
+URL: https://en.wikipedia.org/wiki/Computer_History_Museum
+
+[Computer History Museum Explained]
+History The museum's origins date to 1968 when Gordon Bell began a quest for a historical collection and, at that same time, others were looking to preserve the Whirlwind computer. The resulting Museum Project had its first exhibit in 1975, located in a converted coat closet in a DEC lobby. In 1978, the museum, now The Digital Computer Museum (TDCM), moved to a larger DEC lobby in Marlborough ...
+URL: https://everything.explained.today/Computer_History_Museum/
+
+[Tech Time Warp: The history of the Computer History Museum]
+In 1979, they opened the Digital Computer Museum inside the DEC office in Marlborough, Massachusetts. Its opening exhibit included the Whirlwind and calculators, among approximately 225 artifacts. By 1984, the museum had evolved into the Computer Museum in downtown Boston's Museum Wharf. From Boston to Silicon Valley: The evolution of a tech ...
+URL: https://smartermsp.com/tech-time-warp-the-history-of-the-computer-history-museum/
+
+[What's the difference between 'a year' and 'the year'?]
+Jan 26, 2017 · 'A year' can be any year without any specification. But 'the year' means a particular/specified year or the one which is already mentioned and thereby known. E.g: In a year there are twelve months. (means any year or all years) I was born in the year 2000. (in that particular year) Grammatically 'a/an' is known as indefinite article and 'the' is definite article. The indefinite article (a/an ...
+URL: https://english.stackexchange.com/questions/370328/whats-the-difference-between-a-year-and-the-year
+
+[Computer History Museum - Wikiwand]
+The museum's origins date to 1968 when Gordon Bell began a quest for a historical collection and, at that same time, others were looking to preserve the Whirlwind computer. The resulting Museum Project had its first exhibit in 1975, located in a converted coat closet in a DEC lobby.
+URL: https://www.wikiwand.com/en/articles/Computer_History_Museum
+
+
+=== FULL EXTRACTED CONTENT ===
+
+
+--- [Computer History Museum - Wikipedia] ---
+The Computer History Museum (CHM) is a computer museum in Mountain View, California. The museum presents stories and artifacts of Silicon Valley and the Information Age, and explores the computing revolution and its impact on society.
+
+
+
+
+--- [Computer History Museum Explained] ---
+| Computer History Museum | | | Former Names: | The Computer Museum | | Location: | Mountain View, California, US | | Type: | History and Technology Museum | | Collection Size: | Over 1 million objects | | Ceo: | Dan'l Lewin | The Computer History Museum (CHM) is a museum of computer history, located in Mountain View, California. The museum presents stories and artifacts of Silicon Valley and the Information Age, and explores the computing revolution and its impact on society. The museum's origins date to 1968 when Gordon Bell began a quest for a historical collection and, at that same time, others were looking to preserve the Whirlwind computer. The resulting Museum Project had its first exhibit in 1975, located in a converted coat closet in a DEC lobby. In 1978, the museum, now The Digital Computer Museum (TDCM), moved to a larger DEC lobby in Marlborough, Massachusetts. Maurice Wilkes presented the first lecture at TDCM in 1979 – the presentation of such lectures has continued to the present time. TDCM incorporated as The Computer Museum (TCM) in 1982. In 1984, TCM moved to Boston, locating on Museum Wharf. In 1996/1997, the TCM History Center (TCMHC) was established; a site at Moffett Field was provided by NASA (an old building that was previously the Naval Base furniture store) and a large number of artifacts were shipped there from TCM. In 1999, TCMHC incorporated and TCM ceased operation, shipping its remaining artifacts to TCMHC in 2000. The name TCM had been retained by the Boston Museum of Science so, in 2000, the name TCMHC was changed to Computer History Museum (CHM). In 2002, CHM opened its new building, previously occupied by Silicon Graphics, at 1401 N. Shoreline Blvd in Mountain View, California, to the public.[1] [2] The facility was later heavily renovated and underwent a two-year $19 million makeover before reopening in January 2011.[3] John Hollar, a former media executive, was appointed CEO in July 2008.[4] Dan'l Lewin, a former technology executive, replaced Hollar as CEO in March 2018.[5] The Computer History Museum hosts regular public programs (currently under the "CHM Live" banner) with notable leaders (past and present) from Silicon Valley and the global tech sector, including past speakers such as Mark Zuckerberg, Reid Hoffman, Elon Musk, and Eric Schmidt, as well as academics, historians, and others on the impact of technology. The Museum also produces special events marking key anniversaries, such as the 40th Anniversary of the Apple Macintosh and the 50th Anniversary of Ethernet, featuring panels reflecting on the history and impact of key computing technologies. Recordings of the Museum's past events are viewable on its YouTube channel. The Museum also hosts TechFest events for families. The Computer History Museum claims to house the largest and most significant collection of computing artifacts in the world. This includes many rare or one-of-a-kind objects such as a Cray-1 supercomputer as well as a Cray-2, Cray-3, the Utah teapot, the 1969 Neiman Marcus Kitchen Computer, an Apple I, and an example of the first generation of Google's racks of custom-designed web servers.[6] The collection comprises nearly 90,000 objects, photographs and films, as well as of cataloged documentation and several hundred gigabytes of software. The CHM oral history program conducts video interviews around the history of computing, this includes computer systems, networking, data-processing, memory, and data-storage. There are over 1,000 interviews recorded as of 2021, including panel discussions on the origins of the IBM PC and the hard disk drive, and individual interviews with Joanna Hoffman, Steve Chen, Dame Stephanie Shirley, and Donald Knuth.[7] The museum's exhibit "Revolution: The First 2000 Years of Computing", opened to the public on January 13, 2011. It covers the history of computing in 20 galleries, from the abacus to the Internet. The entire exhibition is also available online.[8] [9] [10] On January 28, 2017, the Museum launched a 6000square feet exhibit "Make Software: Change the World!" The exhibit covers how people's lives are transformed by software. Designed for middle schoolers and up, it features multimedia and touchscreen interactives, including a software lab where visitors can explore coding hands-on.[11] Other exhibits include a restoration of an historic PDP-1 minicomputer, two restored IBM 1401 computers, and a restored IBM Ramac 350 disk drive.[12] An operating difference engine designed by Charles Babbage in the 1840s and constructed by the Science Museum of London was on display until January 31, 2016. It had been on loan since 2008 from its owner, Nathan Myhrvold, a former Microsoft executive.[13] The CHM is also home to an extensive collection of software, curated by Al Kossow, a veteran of Apple Computer whom the museum hired in 2006. Kossow is responsible for preservation and accession of software in the museum, as well as for developing CHM's software-themed exhibitions. Kossow was a contributor to the museum long before being hired full-time and is the proprietor of Bitsavers, a large online repository of historical computer manuals and archived software and firmware acquired from his own collection and through donations from his peers.[14] [15] [16] In 2010 the museum began with the collection of source code of important software, beginning with Apple's MacPaint 1.3, written in a combination of assembly language and Pascal and available as download for the public.[17] [18] Many other accessions have followed over the years. APL programming language was received in 2012.[19] Adobe donated the Photoshop 1.0.1 source code in 2013,[20] [21] and Postscript in 2022.[22] Microsoft followed with the source code donation of SCP MS-DOS 1.25 and a mixture of Altos MS-DOS 2.11 and TeleVideo PC DOS 2.11 as well as Word for Windows 1.1a under their own license.[23] [24] On October 21, 2014, Xerox Alto's source code was released.[25] On January 19, 2023, the Apple Lisa source code was released to the public.[26] On June 23, 1990, the Walk-Through Computer exhibit opened to help visitors learn how computers work.[27] The interactive exhibit included a desktop computer, a giant monitor, a 25feet keyboard, and a 40inches diameter trackball (initially planned to be a "bumper-car sized mouse") used by visitors to control the World Traveler program. In the Software Theater, animation and hardware video is used alongside a video feed of the World Traveler Program to show how computer programs work.[28] This exhibit was closed on August 5, 1995, and re-opened as the Walk-Through Computer 2000 on October 21, 1995, to include an updated monitor, 3D graphics, and more interactive features. One of these features allowed visitors to change the pits imprinted on a giant CD-ROM, and the changes are seen on a monitor.[29] In 2016, the museum had a Liquid Galaxy in the "Going Places: A History of Silicon Valley" exhibit. The exhibit had 20 preselected locations that visitors can fly to on the Liquid Galaxy.[30] An exhibit on the history of autonomous vehicles, from torpedoes to self-driving cars was also on display. The CHM Fellow Awards Program honors distinguished technology pioneers for their outstanding merits and significant contributions to the advancement of computing and the evolution of the digital age. The CHM Fellows are men and women 'whose ideas have changed the world [and] affected nearly every human alive today'. The first fellow was Rear Admiral Grace Hopper in 1987. The fellows program has grown to 100 members as of 2024.[31] Fellow nominations are open to the public and are accepted year round.[32] ] .
+
+
+--- [Tech Time Warp: The history of the Computer History Museum] ---
+No content
+
+
+--- [What's the difference between 'a year' and 'the year'?] ---
+# What&#39;s the difference between &#39;a year&#39; and &#39;the year&#39;?
+
+When I should use "a year" and when I should use "the year."
+
+
+## Accepted Answer
+
+'A year' can be any year without any specification. But 'the year' means a particular/specified year or the one which is already mentioned and thereby known. 
+E.g: In a year there are twelve months. (means any year or all years)
+     I was born in the year 2000. (in that particular year)
+
+Grammatically 'a/an' is known as indefinite article and 'the' is definite article.
+
+The indefinite article(a/an) refers to things in general and the definite article(the) refers to a particular person or thing. This is the very basic rule pertaining to the use of articles. Actually, in English grammar, perhaps the uses of the articles are the most difficult/confusing topic.
+For details on this subject, it is better to consult a good grammar like 'PRACTICAL ENGLISH USAGE' by Michael Swan.
+
+'January is the first month of the year'- here 'the' is used in a sense of 'general plus known', as everybody knows what a year is and how many months are there in a year and what they are.
+Sometimes 'the' is used with a singular countable noun to talk about things in general.
+See a couple of examples from the above-mentioned grammar:
+E.g: 'Schools should pay less attention to examination success, and more attention to the child.' (means all school children, not a particular child)
+'The tiger is in danger of becoming extinct.'( means the whole tiger family, not any specific tiger.
+
+
+
+--- [Computer History Museum - Wikiwand] ---
+English Sign in Top Qs Timeline Chat Perspective All Articles Dictionary Quotes Map Remove ads Loading article...

@@ -1,0 +1,47 @@
+=== SEARCH SNIPPETS ===
+
+[Vincent Boury - Wikipedia]
+Vincent Boury (born 21 June 1969 [1] in Colmar [2]) is a French table tennis player. He represented France at the 2008 Summer Paralympics, in class 2, and beat fellow French competitor Stéphane Molliens to win gold.
+URL: https://en.wikipedia.org/wiki/Vincent_Boury
+
+[Vincent Boury - Table Tennis | Paralympic Athlete Profile]
+Atlanta 1996 Paralympic Games (Atlanta, United States of America). Event, Medal, Unit, Date, Rank. Men's Singles 2, Group C, 2. Men's Singles 2, Group C, 3.
+URL: https://www.paralympic.org/vincent-boury
+
+[Vincent Boury - Encyclopédie Wikimonde]
+Vincent Boury, né le 21 juin 1969 à Colmar [1], est un pongiste handisport français. Il représenta la France aux Jeux paralympiques d'été de 2008, en classe 2, et remporta la finale dans sa catégorie, battant le Français Stéphane Molliens [2].
+URL: https://wikimonde.com/article/Vincent_Boury
+
+[Compare files - datasets/SimpleQA]
+On what day, month, and year was Vincent Boury, the French table tennis player who won gold at the 2008 Summer Paralympics, born? {'topic': 'Sports ...
+URL: https://www.oxen.ai/datasets/SimpleQA/compare/file/4eecd6b834e7dd92561b173244a2fa38..d634d44e7826259e4e5289ef2c6fe122/simple_qa_test_set.parquet?page=37
+
+[France's Vincent Boury wins Men's Individual Class 2 gold]
+Sep 12, 2008 — Vincent Boury of France won gold by a 3-0 ... Beijing Paralympic Table Tennis event at Peking University Gymnasium on September 11, 2008.
+URL: http://www.china.org.cn/paralympics/2008-09/12/content_16438661.htm
+
+
+=== FULL EXTRACTED CONTENT ===
+
+
+--- [Vincent Boury - Wikipedia] ---
+Vincent Boury (born 21 June 1969 in Colmar) is a French table tennis player.
+He represented France at the 2008 Summer Paralympics, in class 2, and beat fellow French competitor Stéphane Molliens to win gold.
+He had previously won a silver medal at the 1996 Summer Paralympics, and a bronze at the 2000 Games. He has also been vice-world champion in 1998, 2002 and 2006, and won the team event at the 2002 World Cup.
+Boury works as a security engineer.
+
+
+--- [Vincent Boury - Table Tennis | Paralympic Athlete Profile] ---
+Results | Unit | Date | Rank | |---| | Event | Medal | Unit | Date | Rank | |---|---|---|---|---| | Men's Singles 2 | Group C | 2 | || | Men's Singles 2 | Group C | 3 | || | Men's Singles 2 | Quarterfinal | 303 | || | Men's Singles 2 | Semifinal | 202 | || | Men's Singles 2 | Final | 101 | || | Men's Open 1-5 | 1/64th final | 709 | || | Men's Teams 3 | Group B | 1 | || | Men's Teams 3 | Group B | 5 | || | Men's Teams 3 | Group B | 6 | || | Men's Teams 3 | Group B | 7 | | Event | Medal | Unit | Date | Rank | |---|---|---|---|---| | Men's Singles 2 | Group A | 4 | || | Men's Singles 2 | Group A | 5 | || | Men's Singles 2 | Quarterfinal | 303 | || | Men's Teams 1-2 | Group A | 1 | || | Men's Teams 1-2 | Group A | 2 | || | Men's Teams 1-2 | Semifinal | 201 | || | Men's Teams 1-2 | Bronze Medal Match | 102 | || | Men's Singles 2 | Group A | 1 | | Event | Medal | Unit | Date | Rank | |---|---|---|---|---| | Men's Singles 2 | Group C | 1 | || | Men's Singles 2 | Group C | 2 | || | Men's Singles 2 | Group C | 3 | || | Men's Singles 2 | Semifinal | 202 | || | Men's Singles 2 | Final | 101 | || | Men's Teams 1-2 | Quarterfinal | 303 | || | Men's Teams 1-2 | Semifinal | 202 | || | Men's Teams 1-2 | Final | 101 | | Event | Medal | Unit | Date | Rank | |---|---|---|---|---| | Men's Teams 1-2 | Bronze Medal Match | 102 | || | Men's Teams 1-2 | Semifinal | 202 | || | Men's Teams 1-2 | Group B | 2 | || | Men's Teams 1-2 | Group B | 1 | || | Men's Singles 2 | Quarterfinal | 304 | || | Men's Singles 2 | Group B | 2 | || | Men's Singles 2 | Group B | 1 | | Event | Medal | Unit | Date | Rank | |---|---|---|---|---| | Men's Singles Class 2 | Group D | 2012-08-30 | 2 | | | Men's Singles Class 2 | Group D | 2012-08-31 | 1 | | | Men's Singles Class 2 | Quarterfinal | 2012-09-01 | 301 | | | Men's Teams Classes 1-2 | Quarterfinal | 2012-09-05 | 301 | | | Men's Teams Classes 1-2 | Semifinal | 2012-09-06 | 201 | | | Men's Teams Classes 1-2 | Final | 2012-09-07 | 101 |
+
+
+--- [Vincent Boury - Encyclopédie Wikimonde] ---
+Vincent Boury Crédit image: licence CC BY-SA 3.0 🛈 | ||||||||||||||||| | Contexte général | ||||||||||||||||| |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---| | Sport | Tennis de table | |||||||||||||||| | Biographie | ||||||||||||||||| | Nationalité sportive | Française | |||||||||||||||| | Nationalité | France | |||||||||||||||| | Naissance | ||||||||||||||||| | Lieu de naissance | Colmar | |||||||||||||||| | Surnom | Vince | |||||||||||||||| | Palmarès | ||||||||||||||||| | ||||||||||||||||| Vincent Boury, né le à Colmar[1], est un pongiste handisport français. Il représenta la France aux Jeux paralympiques d'été de 2008, en classe 2, et remporta la finale dans sa catégorie, battant le Français Stéphane Molliens[2]. Outre son titre de champion paralympique, il avait précédemment remporté une médaille d'argent aux Jeux paralympiques de 1996, et une médaille de bronze aux Jeux de 2000. Il fut vice-champion du monde à trois reprises, en 1998, en 2002 et en 2006. Il remporta la Coupe du Monde par équipe en 2002[3]. Sa devise, "A donf"[4], reflète bien son état d'esprit. Palmarès Jeux paralympiques - Médaille d'argent par équipes aux Jeux paralympiques d'été de 2012 à Londres - Médaille d'or en simple aux Jeux paralympiques d'été de 2008 à Pékin - Médaille d'argent par équipes aux Jeux paralympiques d'été de 2008 à Pékin - Médaille de bronze aux Jeux paralympiques d'été de 2000 à Sydney - Médaille d'argent aux Jeux paralympiques d'été de 1996 à Atlanta Championnats du monde - Médaille d'argent aux championnats du Monde 2010 en Corée - Médaille d'argent aux championnats du Monde 2006 à Montreux en Suisse - Médaille d'argent aux championnats du Monde 2002 à Taïwan - Médaille de bronze aux championnats du Monde 1998 à Paris Championnats d'Europe - Médaille d'argent aux championnats d'Europe 2009 en Italie - Médaille d'argent aux championnats d'Europe 2005 à Jesolo - Médaille d'or aux championnats d'Europe 2003 en Croatie - Médaille d'or aux championnats d'Europe 2001 en Allemagne - Médaille d'or aux championnats d'Europe 1999 en Slovaquie Autres compétitions - Médaille d'or au Tetra Open of Cologne (Allemagne, 2006) - Médaille d'or au Top tétra mondial (Cologne, 2004) - Vainqueur de la Coupe du Monde par équipe (Hollande, 2002) - Vainqueur du "Top 12 Européen" (Belgique, 1997) - Champion de France depuis 1990 Classements - Numéro 2 mondial () - Numéro 3 français Distinctions - Chevalier de la Légion d'honneur[5] - Officier de l’Ordre national du Mérite[6] - Médaille d’or avec cravate de commandeur de l’AFBAC (Association franco-britannique des anciens combattants) - Médaille d’argent Jeunesse et Sports Voir Liens externes Références - ↑ "Paralympiques - Tennis de table - Boury : "Je suis saoul de bonheur et gavé de plaisir !", Le Dauphiné, 12 septembre 2008 - ↑ "Jeux Paralympiques : les pongistes français font le plein de médailles", RTL, 11 septembre 2008 - ↑ "Quand le rêve olympique surpasse le handicap", Le Dauphiné, 6 septembre 2008 - ↑ « Page accueil - La vie Adonf », sur La vie Adonf (consulté le ). - ↑ Décret du 14 novembre 2008 publié au JORF n°0266 du 15 novembre 2008, page 17473 texte n° 1. - ↑ Liste des sportifs médaillés lors des Jeux paralympiques de Sydney promus officiers. Liens externes - Ressources relatives au sport : Catégories : - Pongiste handisport français - Champion paralympique français - Champion paralympique de tennis de table - Médaillé d'argent paralympique français - Médaillé de bronze paralympique français - Pongiste (homme) aux Jeux paralympiques d'été de 1996 - Pongiste (homme) aux Jeux paralympiques d'été de 2000 - Pongiste (homme) aux Jeux paralympiques d'été de 2004 - Pongiste (homme) aux Jeux paralympiques d'été de 2008 - Pongiste (homme) aux Jeux paralympiques d'été de 2012 - Chevalier de la Légion d'honneur décoré en 2008 - Titulaire de la médaille de la jeunesse, des sports et de l'engagement associatif - Officier de l'ordre national du Mérite - Naissance en juin 1969 - Naissance à Colmar
+
+
+--- [Compare files - datasets/SimpleQA] ---
+Home Repositories Models Docs Blog Pricing Login Sign up Repositories Models Blog Community Pricing Search Docs LOG IN SIGN UP datasets / SimpleQA Data Branches Evaluations Fine-tune simple_qa_test_set.parquet comparing changes between versions 4eecd6b834e7dd92561b173244a2fa38 d634d44e7826259e4e5289ef2c6fe122 Base Diff Head Schema 4 columns, 3601-3700 of 4326 rows 4326 total rows 4326 Row details Copyright © 2026 Oxen Labs, Inc., All Rights Reserved Careers Privacy Policy Terms and Conditions
+
+
+--- [France's Vincent Boury wins Men's Individual Class 2 gold] ---
+| | Vincent Boury returns the ball. [Xinhua] | | | Bronze medalist Kim Kyung-mook of the Republic of Korea attends the medal ceremony. [Xinhua] | Vincent Boury of France won gold by a 3-0 victory over his teammate Stephane Molliens during the Men's Individual Class 2 of the Beijing Paralympic Table Tennis event at Peking University Gymnasium on September 11, 2008. | | Vincent Boury and Stephane Molliens pose for photos. [Xinhua] | (BOCOG September 11, 2008)

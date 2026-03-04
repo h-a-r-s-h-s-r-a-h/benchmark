@@ -1,0 +1,45 @@
+=== SEARCH SNIPPETS ===
+
+[Elizabeth Belding - Wikipedia]
+Elizabeth Michelle Belding is a computer scientist specializing in mobile computing and wireless networks. She is a professor of computer science at the University of California, Santa Barbara.
+URL: https://en.wikipedia.org/wiki/Elizabeth_Belding
+
+[Elizabeth Belding - Wikiwand]
+She has been a member of the computer science faculty at the University of California, Santa Barbara since 2000. [1] Belding was named Fellow of the Institute of Electrical and Electronics Engineers (IEEE) in 2014 for "contributions to mobile and wireless networking and communication protocols". [4]
+URL: https://www.wikiwand.com/en/articles/Elizabeth_Belding
+
+[Elizabeth Belding Facts for Kids]
+Elizabeth Michelle Belding is a smart computer scientist. She works with mobile phones and wireless internet. She is a professor at the University of California, Santa Barbara. This means she teaches and does research there.
+URL: https://kids.kiddle.co/Elizabeth_Belding
+
+[Elizabeth M. Belding | UCSB Computer Science]
+Bio Elizabeth M. Belding is a Professor in the Department of Computer Science at the University of California, Santa Barbara. Prof. Belding's research focuses on mobile and wireless networking, including network performance analysis, and information and communication technologies for development (ICTD).
+URL: https://cs.ucsb.edu/people/faculty/elizabeth-m-belding
+
+[2026 Elizabeth Belding - Computer Science]
+Research.com Recognitions · 2019 - Fellow of the American Association for the Advancement of Science (AAAS) · 2018 - ACM Fellow For contributions to communication ...
+URL: https://research.com/u/elizabeth-belding
+
+
+=== FULL EXTRACTED CONTENT ===
+
+
+--- [Elizabeth Belding - Wikipedia] ---
+Elizabeth Michelle Belding is a computer scientist specializing in mobile computing and wireless networks.
+She is a professor of computer science at the University of California, Santa Barbara.
+
+
+--- [Elizabeth Belding - Wikiwand] ---
+No content
+
+
+--- [Elizabeth Belding Facts for Kids] ---
+Elizabeth Belding facts for kids Elizabeth Michelle Belding is a smart computer scientist. She works with mobile phones and wireless internet. She is a professor at the University of California, Santa Barbara. This means she teaches and does research there. Quick facts for kids Elizabeth Belding | | |---|---| | Alma mater | Florida State University University of California, Santa Barbara | | Awards | Fellow of the Institute of Electrical and Electronics Engineers | | Scientific career | | | Fields | Mobile computing and wireless networks | | Institutions | University of California, Santa Barbara. | | Thesis | (2000) | Contents Becoming a Computer Scientist Early Studies and Degrees Elizabeth Belding went to Florida State University. She graduated in 1996. She earned two degrees at the same time. One was in computer science. The other was in applied mathematics. She finished both with very high honors. Advanced Studies and Research After Florida State, she went to the University of California, Santa Barbara. She received a special scholarship. It was called a National Science Foundation Graduate Fellowship. She earned her Ph.D. in electrical and computer engineering in 2000. Her big research project was about how mobile networks send information. It was called Routing in Ad hoc Mobile Networks: On-Demand and Hierarchical Strategies. Teaching and Research Career Since 2000, Dr. Belding has been a professor. She teaches computer science at the University of California, Santa Barbara. She continues to do important research there. Awards and Special Recognition IEEE and ACM Fellowships Dr. Belding has received many important awards. In 2014, she became a Fellow of the Institute of Electrical and Electronics Engineers (IEEE). This award recognized her work on mobile and wireless networks. It also honored her contributions to communication rules. In 2018, she was also chosen as an ACM Fellow. This award was for her work on mobile networks. It also recognized her efforts to bring these networks to developing areas. Top Research Award One of her research papers won a special award in 2018. It was the SIGMOBILE Test of Time Award. This award is given to papers that have been very important over time. Her paper was about a way to send information in mobile networks. It was called Ad hoc On-Demand Distance Vector Routing.
+
+
+--- [Elizabeth M. Belding | UCSB Computer Science] ---
+Elizabeth M. Belding Professor She/Her/Hers (805)893-3411 5107 Harold Frank Hall Education Ph.D., Electrical and Computer Engineering, UC Santa Barbara, 2000 M.S., Electrical and Computer Engineering, UC Santa Barbara, 1997 Campus Affiliations Center for Information Technology and Society (CITS), Associate Director Institute for Energy Efficiency, Member Awards NCWIT Harrold and Notkin Research and Graduate Mentoring Award, 2015 IEEE Fellow, 2014 UCSB Outstanding Graduate Mentor Award, 2012 ACM Distinguished Scientist, 2011 MIT Technology Review TR100, 2002 ACM Fellow, 2018 Research Areas Networking
+
+
+--- [2026 Elizabeth Belding - Computer Science] ---
+Elizabeth Belding is affiliated with the University of California, Santa Barbara in the United States. Their research primarily spans the fields of Engineering and Computer Science, with a focus on specialized subfields such as Electrical and Electronic Engineering, Computer Networks and Communications, Media Technology, Computer Vision and Pattern Recognition, and Transportation. The main topics covered in Belding's work include: The recent academic papers featuring Belding's research are: Belding has frequently collaborated with several co-authors. Notable frequent collaborators include: The scientist's articles frequently appear in publication venues such as: Elizabeth Belding has been recognized with several awards during their career, including: K. N. Ramachandran;E. M. Belding;K. C. Almeroth;M. M. Buddhikot Tony Sun;Andrew Gaut;Shirlyn Tang;Yuxin Huang S. Singh;F. Ziliotto;U. Madhow;E. Belding Amit P. Jardosh;Konstantina Papagiannaki;Elizabeth M. Belding;Kevin C. Almeroth Mai ElSherief;Vivek Kulkarni;Dana Nguyen;William Yang Wang Ashish Sharma;Vishnu Navda;Ramachandran Ramjee;Venkata N. Padmanabhan Jing Qian;Anna Bethke;Yinyin Liu;Elizabeth M. Belding Lara Deek;Eduard Garcia-Villegas;Elizabeth Belding;Sung-Ju Lee Krishna Ramachandran;Irfan Sheriff;Elizabeth Belding;Kevin Almeroth Mai ElSherief;Shirin Nilizadeh;Dana Nguyen;Giovanni Vigna P.A.K. Acharya;A. Sharma;E.M. Belding;K.C. Almeroth Lara Deek;Eduard Garcia-Villegas;Elizabeth Belding;Sung-Ju Lee S. Singh;F. Ziliotto;U. Madhow;E.M. Belding Ashish Sharma;Elizabeth M. Belding Abhinav Anand;Veljko Pejovic;Elizabeth M. Belding;David L. Johnson Kevin Almeroth;Elizabeth Belding;Milind Buddhikot;Girish Chandranmenon Amit P. Jardosh;Kimaya Mittal;Krishna N. Ramachandran;Elizabeth M. Belding David L. Johnson;Veljko Pejovic;Elizabeth M. Belding;Gertjan van Stam Kimaya Mittal;Elizabeth M. Belding;Subhash Suri Jing Qian;Mai ElSherief;Elizabeth M. Belding;William Yang Wang If you think any of the details on this page are incorrect, let us know. With the rising demand for tech-based expertise, Computer Science graduates have access to a wide range of flexible online study options and interdisciplinary career opportunities. Many students are exploring online education for greater convenience and affordability. For those interested in a quicker route, check out accelerated computer science degree online programs to fast-track your qualifications. Computer Science blends well with other high-demand fields. For example, combining tech skills with sustainability can open doors in environmental sectors. Curious about career outcomes in this space? Visit what can you do with an environmental science degree for insights into specialized roles. Engineering is another popular pathway for computer science learners considering specialized online programs. Explore options like online environmental engineering degree and see how applied computing is transforming industries. If cost is a top concern, take a look at the cheapest online master's mechanical engineering programs for budget-friendly study choices. University of British Columbia University of Arizona Flinders University University of Edinburgh Boise State University Chonnam National University Goddard Space Flight Center University of Connecticut Helmholtz Centre for Environmental Research University of Washington The University of Texas at Austin Stanford University University of Florida University of California, San Diego Monash University University of Bath

@@ -1,0 +1,44 @@
+=== SEARCH SNIPPETS ===
+
+[Rachid Lousteque - Wikipedia]
+In December 2019, following the sacking of Rachid Taoussi, Lousteque was named as interim manager of Olympique de Khouribga after previously working as an assistant coach under Taoussi. [1] On 5 July 2022, Lousteque was appointed as manager of Somalia. [2]
+URL: https://en.wikipedia.org/wiki/Rachid_Lousteque
+
+[Rachid Lousteque Explained]
+Rachid Lousteque is a Moroccan professional football manager, who is the current head coach of the Somalia national team. Managerial career In December 2019, following the sacking of Rachid Taoussi, Lousteque was named as interim manager of Olympique de Khouribga after previously working as an assistant coach under Taoussi. [1]
+URL: https://everything.explained.today/Rachid_Lousteque/
+
+[Compare files - datasets/SimpleQA]
+On what day, month, and year was Petra Văideanu (retired Romanian heptathlete) born? ... In what month and year was Rachid Lousteque named interim manager of ...
+URL: https://www.oxen.ai/datasets/SimpleQA/compare/file/4eecd6b834e7dd92561b173244a2fa38..d634d44e7826259e4e5289ef2c6fe122/simple_qa_test_set.parquet?page=37
+
+[Rachid Lousteque - Manager profile | Transfermarkt]
+This is the profile site of the manager Rachid Lousteque. The site lists all clubs he coached and all clubs he played for.
+URL: https://www.transfermarkt.com/rachid-lousteque/profil/trainer/75042
+
+[Morocco - R. Lousteque - Profile with news, career statistics and ...]
+Passport First name Rachid Last name Lousteque Nationality Morocco Country of birth Morocco
+URL: https://ca.soccerway.com/coaches/rachid-loustik/645841/
+
+
+=== FULL EXTRACTED CONTENT ===
+
+
+--- [Rachid Lousteque - Wikipedia] ---
+Rachid Lousteque is a Moroccan professional football manager, who was last the head coach of the Somalia national team.
+
+
+--- [Rachid Lousteque Explained] ---
+No content
+
+
+--- [Compare files - datasets/SimpleQA] ---
+Home Repositories Models Docs Blog Pricing Login Sign up Repositories Models Blog Community Pricing Search Docs LOG IN SIGN UP datasets / SimpleQA Data Branches Evaluations Fine-tune simple_qa_test_set.parquet comparing changes between versions 4eecd6b834e7dd92561b173244a2fa38 d634d44e7826259e4e5289ef2c6fe122 Base Diff Head Schema 4 columns, 3601-3700 of 4326 rows 4326 total rows 4326 Row details Copyright © 2026 Oxen Labs, Inc., All Rights Reserved Careers Privacy Policy Terms and Conditions
+
+
+--- [Rachid Lousteque - Manager profile | Transfermarkt] ---
+| Name in Home Country / Full Name: | رشيد لوستيك | |---|---| | Citizenship: | Morocco | | Avg. term as coach: | 0.88 Years | | Coaching Licence: | A Licence | | Preferred formation: | 5-4-1 | Rachid Lousteque - Citizenship: Morocco - Coaching Licence : A Licence - Avg. term as coach : 0.88 Years - Preferred formation : 5-4-1 Personal Details Stats No information available. History This is an overview of the career of a manager. | wappen | Club & role | Appointed | In charge until | Matches | PPM | | |---|---|---|---|---|---|---| | Somalia Manager | 22/23 (05/07/2022) | - | 8 | 0.13 | || | Wydad Serghini Manager | 21/22 (25/03/2021) | 21/22 (01/08/2021) | - | 0.00 | || | O. Khouribga Caretaker Manager | 19/20 (30/11/2019) | 19/20 (17/12/2019) | 2 | 0.50 | || | O. Khouribga Assistant Manager | 18/19 (11/02/2019) | 19/20 (29/11/2019) | - | 0.00 | || | Assistant Manager of: Rachid Taoussi (19 Games) | |||||| | US Salé Manager | 18/19 (01/07/2018) | - | - | 0.00 | || | El-Mansour Conditioning Coach | 17/18 (01/03/2017) | 18/19 (01/07/2017) | - | 0.00 | || | Union Touarga Manager | 12/13 (01/01/2013) | 14/15 (01/07/2014) | - | 0.00 | || | RS Berkane Assistant Manager | 12/13 | 12/13 (01/01/2013) | - | 0.00 | || | Stade Marocain Manager | 11/12 (01/01/2012) | 12/13 (20/03/2012) | - | 0.00 |
+
+
+--- [Morocco - R. Lousteque - Profile with news, career statistics and ...] ---
+Live Soccer Scores, Fixtures, Results & Tables Favourites Matches Premier League LaLiga MLS Canadian Premier League Serie A Bundesliga Champions League Soccer Loading...

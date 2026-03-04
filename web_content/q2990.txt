@@ -1,0 +1,46 @@
+=== SEARCH SNIPPETS ===
+
+[Nyholm Prize for Education - Wikipedia]
+The Nyholm Prize for Education commemorates the life and work of Australian-born chemist Sir Ronald Nyholm, who - alongside his research in coordination chemistry - passionately campaigned for the improvement of science education. He acted as president of the Royal Society of Chemistry from 1968 to 1970. [1] The prize, which was first awarded in 1973, is awarded biennially by the Royal ...
+URL: https://en.wikipedia.org/wiki/Nyholm_Prize_for_Education
+
+[Nyholm Prize for Education explained]
+The Nyholm Prize for Education commemorates the life and work of Australian-born chemist Sir Ronald Nyholm, who - alongside his research in coordination chemistry - passionately campaigned for the improvement of science education. He acted as president of the Royal Society of Chemistry from 1968 to 1970. [1] The prize, which was first awarded in 1973, is awarded biennially by the Royal ...
+URL: https://everything.explained.today/Nyholm_Prize_for_Education/
+
+[Nyholm Prize for Education - Alchetron, the free social ...]
+Dec 24, 2024 · The prize, which was first awarded in 1973, is awarded biennally by the Royal Society of Chemistry. It recognises outstanding achievements by those working in chemical science education, specifically major contributions to national or international research or innovation. Before 2008, the prize was known as the Sir Ronald Nyholm Lectureship (Education Division). The recipient receives £5,000 ...
+URL: https://alchetron.com/Nyholm-Prize-for-Education
+
+[Compare files - datasets/SimpleQA]
+What was the surname of the recipient of the Nyholm Prize for Education in 1973-74? ... What is the surname of the individual who won the Perkin Prize for Organic ...
+URL: https://www.oxen.ai/datasets/SimpleQA/compare/file/4eecd6b834e7dd92561b173244a2fa38..d634d44e7826259e4e5289ef2c6fe122/simple_qa_test_set.parquet?page=35
+
+[Nyholm Prize for Education - reference.org]
+The Nyholm Prize for Education commemorates the life and work of Australian-born chemist Sir Ronald Nyholm, who - alongside his research in coordination chemistry - passionately campaigned for the improvement of science education. He acted as president of the Royal Society of Chemistry from 1968 to 1970.
+URL: https://reference.org/facts/Nyholm_Prize_for_Education/FN72bGVu
+
+
+=== FULL EXTRACTED CONTENT ===
+
+
+--- [Nyholm Prize for Education - Wikipedia] ---
+The Nyholm Prize for Education commemorates the life and work of Australian-born chemist Sir Ronald Nyholm, who – alongside his research in coordination chemistry – passionately campaigned for the improvement of science education. He acted as president of the Royal Society of Chemistry from 1968 to 1970.
+The prize, which was first awarded in 1973, is awarded biennially by the Royal Society of Chemistry. It recognises outstanding achievements by those working in chemical science education, specifically major contributions to national or international research or innovation.
+Before 2008, the prize was known as the Sir Ronald Nyholm Lectureship (Education Division). The recipient receives £5,000, a medal and a certificate.
+
+
+--- [Nyholm Prize for Education explained] ---
+No content
+
+
+--- [Nyholm Prize for Education - Alchetron, the free social ...] ---
+The Nyholm Prize for Education commemorates the life and work of Australian-born chemist Sir Ronald Nyholm, who - alongside his research in coordination chemistry - passionately campaigned for the improvement of science education. He acted as President of the Royal Society of Chemistry from 1968 to 1970. The prize, which was first awarded in 1973, is awarded biennally by the Royal Society of Chemistry. It recognises outstanding achievements by those working in chemical science education, specifically major contributions to national or international research or innovation. Before 2008, the prize was known as the Sir Ronald Nyholm Lectureship (Education Division). The recipient receives £5,000, a medal and a certificate. Recipients The recipients are: References Nyholm Prize for Education Wikipedia(Text) CC BY-SA
+
+
+--- [Compare files - datasets/SimpleQA] ---
+Home Repositories Models Docs Blog Pricing Login Sign up Repositories Models Blog Community Pricing Search Docs LOG IN SIGN UP datasets / SimpleQA Data Branches Evaluations Fine-tune simple_qa_test_set.parquet comparing changes between versions 4eecd6b834e7dd92561b173244a2fa38 d634d44e7826259e4e5289ef2c6fe122 Base Diff Head Schema 4 columns, 3401-3500 of 4326 rows 4326 total rows 4326 Row details Copyright © 2026 Oxen Labs, Inc., All Rights Reserved Careers Privacy Policy Terms and Conditions
+
+
+--- [Nyholm Prize for Education - reference.org] ---
+No content

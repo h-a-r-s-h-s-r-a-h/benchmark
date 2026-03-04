@@ -1,0 +1,44 @@
+=== SEARCH SNIPPETS ===
+
+[Filip Hašek - Wikipedia]
+Filip Hašek (born 20 March 1997) is a Czech professional footballer who plays as a midfielder for Latvian Higher League club Jelgava.
+URL: https://en.wikipedia.org/wiki/Filip_Ha%C5%A1ek
+
+[Filip Hašek | Chance Liga]
+#12 Filip Hašek midfielder | 20/03/1997 | 28 years | 66 kg | 176 cm League titles: 0 League debut: Bohemians Praha 1905 22.07.2018 (vs FCS) In last club since: 27/07/2020 Tweet
+URL: http://en.fortunaliga.cz/hrac/3651-filip-hasek
+
+[Filip Hašek - Wikiwand]
+Mar 20, 1997 · Filip Hašek is a Czech professional footballer who plays as a midfielder for Latvian Higher League club Jelgava.
+URL: https://www.wikiwand.com/en/articles/Filip_Ha%C5%A1ek
+
+[Filip Hašek | Chance Liga]
+*Kumulované žluté karty: V případě spáchání disciplinárního přečinu Vyloučení pro druhé napomenutí podle § 46 Disciplinárního řádu FAČR se nebude žádné z těchto napomenutí evidovat pro účely evidence napomínání podle ustanovení § 47 Disciplinárního řádu FAČR, tj. pro účely trestání za opakované napomínání v příslušném soutěžním ročníku ...
+URL: https://www.chanceliga.cz/hrac/3651-filip-hasek
+
+[Filip Hasek - Stats and titles won - 2025]
+30/06/25 >, Jelgava. 18/07/23 > 05/02/24, Bayern Hof. 26/10/22 > 18/07/23, Krieschow, Free. 10/02/22 > 01/07/22, Pohronie. 27/07/21 > 10/02/22, Volos.
+URL: https://www.footballdatabase.eu/en/player/details/278957-filip-hasek
+
+
+=== FULL EXTRACTED CONTENT ===
+
+
+--- [Filip Hašek - Wikipedia] ---
+Filip Hašek (born 20 March 1997) is a Czech professional footballer who plays as a midfielder for Latvian Higher League club Jelgava.
+
+
+--- [Filip Hašek | Chance Liga] ---
+Bohemians Praha 1905 | Last 5 games | Squad | M | G | A | B | KP | EP | P | P% | D | D% | YC | RC | | |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---| | 08/12/2020 | FKJ2:1BOH | SS | 55 | 0 | 0 | 0 | 0 | 0 | 17 | 76.5% | 2 | 50.0% | 0 | 0 | | 05/12/2020 | BOH1:1PCE | SB | 9 | 0 | 0 | 0 | 0 | 0 | 3 | 66.7% | 0 | 0 | 0 | 0 | | 11/09/2020 | SIG3:0BOH | SB | 5 | 0 | 0 | 0 | 0 | 0 | 2 | 50.0% | 0 | 0 | 0 | 0 | | 25/05/2019 | BOH1:1OPA | SS | 15 | 0 | 0 | 0 | 0 | 0 | 8 | 37.5% | 1 | 100.0% | 0 | 0 | | 14/05/2019 | BOH1:4PRI | SS | 17 | 0 | 0 | 0 | 0 | 0 | 7 | 85.7% | 2 | 100.0% | 0 | 0 | | Career | Club | GP | M | G | A | B | KP | EP | P | P% | D | D% | YC | RC | PG | |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---| | 2020/2021 | BOH | 3 | 69 | 0 | 0 | 0 | 0 | 0 | 22 | 72.7% | 2 | 50.0% | 0 | 0 | 0 | | 2018/2019 | BOH | 24 | 1684 | 1 | 1 | 2 | 3 | 4 | 630 | 83.3% | 66 | 69.7% | 4 | 0 | 0 | | Total | 27 | 1753 | 1 | 1 | 2 | 3 | 4 | 652 | 83.0% | 68 | 69.1% | 4 | 0 | 0 | | | League ranking | 1715th | 1612nd | 1849th | 1770th | 1788th | 891st | 909th | 785th | 210th | 545th | 277th | 1689th | - | - |
+
+
+--- [Filip Hašek - Wikiwand] ---
+No content
+
+
+--- [Filip Hašek | Chance Liga] ---
+Bohemians Praha 1905 | Posledních 5 zápasů | Hrál | M | G | A | B | xG | xA | PG | P | P% | D | D% | ŽK | ČK | HU | | |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---| | 08/12/2020 | FKJ2:1BOH | ZS | 55 | 0 | 0 | 0 | 0 | 0 | 0 | 17 | 76,5% | 2 | 50,0% | 0 | 0 | 0 | | 05/12/2020 | BOH1:1PCE | ST | 9 | 0 | 0 | 0 | 0 | 0 | 0 | 3 | 66,7% | 0 | 0 | 0 | 0 | 0 | | 11/09/2020 | SIG3:0BOH | ST | 5 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 50,0% | 0 | 0 | 0 | 0 | 0 | | 25/05/2019 | BOH1:1OPA | ZS | 15 | 0 | 0 | 0 | 0 | 0 | 0 | 8 | 37,5% | 1 | 100,0% | 0 | 0 | 0 | | 14/05/2019 | BOH1:4PRI | ZS | 17 | 0 | 0 | 0 | 0 | 0 | 0 | 7 | 85,7% | 2 | 100,0% | 0 | 0 | 0 | | Kariéra | Klub | Z | M | G | A | B | xG | xA | PG | P | P% | D | D% | ŽK | ČK | HU | |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---| | 2020/2021 | BOH | 3 | 69 | 0 | 0 | 0 | 0 | 0 | 0 | 22 | 72,7% | 2 | 50,0% | 0 | 0 | 0 | | 2018/2019 | BOH | 24 | 1684 | 1 | 1 | 2 | 0 | 0 | 3 | 630 | 83,3% | 66 | 69,7% | 4 | 0 | 0 | | Celkem | 27 | 1753 | 1 | 1 | 2 | 0 | 0 | 3 | 652 | 83,0% | 68 | 69,1% | 4 | 0 | 0 | | | Pořadí v lize | 1715. | 1612. | 1849. | 1770. | 1788. | 3069. | 3085. | 891. | 785. | 210. | 545. | 277. | 1689. | - | - | *Kumulované žluté karty: V případě spáchání disciplinárního přečinu Vyloučení pro druhé napomenutí podle § 46 Disciplinárního řádu FAČR se nebude žádné z těchto napomenutí evidovat pro účely evidence napomínání podle ustanovení § 47 Disciplinárního řádu FAČR, tj. pro účely trestání za opakované napomínání v příslušném soutěžním ročníku. * Rozšířené ligové statistiky poskytované společností InStat jsou k dispozici až od sezóny 2013/14. Barážové zápasy se nezapočítávají do celkových statistik ligy
+
+
+--- [Filip Hasek - Stats and titles won - 2025] ---
+History is littered with hundreds of conflicts over the future of a community, group, location or business that were "resolved" when one of the parties stepped ahead and destroyed what was there. With the original point of contention destroyed, the debates would fall to the wayside. Archive Team believes that by duplicated condemned data, the conversation and debate can continue, as well as the richness and insight gained by keeping the materials. Our projects have ranged in size from a single volunteer downloading the data to a small-but-critical site, to over 100 volunteers stepping forward to acquire terabytes of user-created data to save for future generations. The main site for Archive Team is at archiveteam.org and contains up to the date information on various projects, manifestos, plans and walkthroughs. This collection contains the output of many Archive Team projects, both ongoing and completed. Thanks to the generous providing of disk space by the Internet Archive, multi-terabyte datasets can be made available, as well as in use by the Wayback Machine, providing a path back to lost websites and work. Our collection has grown to the point of having sub-collections for the type of data we acquire. If you are seeking to browse the contents of these collections, the Wayback Machine is the best first stop. Otherwise, you are free to dig into the stacks to see what you may find. The Archive Team Panic Downloads are full pulldowns of currently extant websites, meant to serve as emergency backups for needed sites that are in danger of closing, or which will be missed dearly if suddenly lost due to hard drive crashes or server failures.

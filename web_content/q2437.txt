@@ -1,0 +1,44 @@
+=== SEARCH SNIPPETS ===
+
+[Nokia 3208c - Full phone specifications - GSMArena.com]
+Nokia 3208c phone. Announced Aug 2009. Features 2.4″ display, 2 MP primary camera, 1020 mAh battery, 13 MB storage.
+URL: https://www.gsmarena.com/nokia_3208c-2920.php
+
+[Nokia 3208 classic 3208c technical specifications :: GSMchoice.com]
+Aug 9, 2015 · Nokia 3208 classic doesn’t have the option for inductive charging. It is only possible to charge using a traditional charger. If you are interested in this feature, please use our .
+URL: https://www.gsmchoice.com/en/catalogue/nokia/3208classic/
+
+[Nokia 3208c - Design Specifications Review - rfsafe.com]
+Nokia 3208c - Design Specs: Dimensions 108.5 x 48.6 x 13.2 mm, 62.3 cc Weight 90 g Colors Pearl White, Graphite Black
+URL: https://www.rfsafe.com/phone-specs/nokia-3208c/design/
+
+[Nokia 3208c - Price in India, Full Specifications- Mobiles Duniya]
+Specification: Nokia 3208c Brand Nokia 2G TRUE 3G FALSE 4G FALSE 5G FALSE Announced Released Discontinued Dimension 108.5 x 48.6 x 13.2 mm, 62.3 cc (4.27 x 1.91 x 0.52 in) Weight 90 g (3.17 oz) Build Sim Mini-SIM Body (Other) Display Type TFT resistive touchscreen, 256K colors Display Size 2.4 inches, 17.8 cm2 (~33.8% screen-to-body ratio ...
+URL: https://mobilesduniya.com/product/nokia-3208c-2/
+
+[Nokia 3208c Design and Display - helpmax.net]
+The Nokia 3208c has compact dimensions of 108.5 x 48.6 x 13.2 mm and weighs only 90 grams, making it lightweight and easy to handle. It's built with a robust plastic body available in two colors: Pearl White and Graphite Black.
+URL: http://www.helpmax.net/en/nokia/nokia-3208c-design-and-display
+
+
+=== FULL EXTRACTED CONTENT ===
+
+
+--- [Nokia 3208c - Full phone specifications - GSMArena.com] ---
+For China | Network | Technology | GSM | |---|---|---| | 2G bands | GSM 900 / 1800 / 1900 | | | GPRS | Class 32 | | | EDGE | Class 32 | | Launch | Announced | 2009, August. Released 2009, Q4 | |---|---|---| | Status | Discontinued | | Body | Dimensions | 108.5 x 48.6 x 13.2 mm, 62.3 cc (4.27 x 1.91 x 0.52 in) | |---|---|---| | Weight | 90 g (3.17 oz) | | | SIM | Mini-SIM | | Display | Type | TFT resistive touchscreen, 256K colors | |---|---|---| | Size | 2.4 inches, 17.8 cm2 (~33.8% screen-to-body ratio) | | | Resolution | 240 x 320 pixels, 4:3 ratio (~167 ppi density) | | | Handwriting recognition | | Memory | Card slot | microSDHC (dedicated slot), 1 GB included | |---|---|---| | Phonebook | 1000 entries, Photocall | | | Call records | 20 dialed, 20 received, 20 missed calls | | | Internal | 13MB | | Main Camera | Single | 2 MP | |---|---|---| | Video | QCIF@10fps | | Selfie camera | No | |---| | Sound | Loudspeaker | Yes | |---|---|---| | 3.5mm jack | Yes | | Comms | WLAN | No | |---|---|---| | Bluetooth | 2.0, A2DP | | | Positioning | No | | | Radio | Stereo FM radio, RDS | | | USB | microUSB 2.0 | | Features | Sensors | | |---|---|---| | Messaging | SMS, MMS, Email, IM | | | Browser | WAP 2.0/xHTML | | | Games | 2 + Downloadable | | | Java | Yes, MIDP 2.1 | | | MP3/AAC/eAAC player Voice memo Organizer | | Battery | Type | Removable Li-Ion 1020 mAh battery (BL-5C) | |---|---|---| | Stand-by | Up to 350 h | | | Talk time | Up to 7 h | | | Music play | Up to 11 h | | Misc | Colors | Pearl White, Graphite Black | |---|---|---| | SAR | 0.99 W/kg (head) 0.27 W/kg (body) | | | SAR EU | 1.08 W/kg (head) | Disclaimer. We can not guarantee that the information on this page is 100% correct. Read more Please if you want to browse.1Go to settings in menu.2select configuration 3change use preferred access point from yes to no 4select personal configuration 5press options and choose add new 5choose network 6choose acess point and enter "internet...
+
+
+--- [Nokia 3208 classic 3208c technical specifications :: GSMchoice.com] ---
+No content
+
+
+--- [Nokia 3208c - Design Specifications Review - rfsafe.com] ---
+Nokia 3208c Design Specifications | Dimensions | 108.5 x 48.6 x 13.2 mm, 62.3 cc | |---|---| | Weight | 90 g | | Colors | Pearl White, Graphite Black | More Cell Phones From Nokia | Quick Compare Design Specs: | | Select a phone to compare Nokia 3208c Design Specs to other popular phones | |
+
+
+--- [Nokia 3208c - Price in India, Full Specifications- Mobiles Duniya] ---
+No content
+
+
+--- [Nokia 3208c Design and Display - helpmax.net] ---
+Design and Display The Nokia 3208c has compact dimensions of 108.5 x 48.6 x 13.2 mm and weighs only 90 grams, making it lightweight and easy to handle. It's built with a robust plastic body available in two colors: Pearl White and Graphite Black. The phone features a 2.4-inch TFT resistive touchscreen, a choice that was part of the transitional phase from traditional keypads to touch interfaces. The display supports 256K colors with a resolution of 240 x 320 pixels, offering a modest visual experience. One unique aspect at the time of its release was its handwriting recognition capability, appealing to users interested in exploring touch input on the go. - ⬤ Nokia 3208c Introduction - ⬤ Nokia 3208c Design and Display - ⬤ Nokia 3208c Performance and Storage

@@ -1,0 +1,44 @@
+=== SEARCH SNIPPETS ===
+
+[Lillicoa - Wikipedia]
+Lillicoa ... Lillicoa is a genus of fungi in the family Stictidaceae. It has four species. [1] The genus was circumscribed by mycologist Martha Sherwood in 1977, with Lillicoa palicoureae assigned as the type species. [2]
+URL: https://en.wikipedia.org/wiki/Lillicoa
+
+[Stictidaceae - Wikipedia]
+Members of the Stictidaceae are diverse in their lifestyles, ranging from saprotrophic (feeding on decaying matter) and parasitic to lichen -forming organisms, and rare occurrences as lichen dwellers. Some species within this group show facultative lichenisation: they have the ability to switch between lifestyles, forming lichens when growing on bark, or living as saprotrophs, depending on ...
+URL: https://en.wikipedia.org/wiki/Stictidaceae
+
+[WikiRoulette — Random Wikipedia Pages]
+Lillicoa ... Lillicoa is a genus of fungi in the family Stictidaceae. It has four species. [1] The genus was circumscribed by mycologist Martha Sherwood in 1977, with Lillicoa palicoureae assigned as the type species. [2]
+URL: https://wikiroulette.co/?p=Lillicoa
+
+[Lillicoa of Biology Topics - Question AI]
+Related Lillicoa Haplomitriaceae Haplomitriaceae Temporal range: Early Permian–Recent PreЄ Є O S D C P T J K Pg N Scientific classification Kingdom: Plantae Division: Marchantiophyta Class: Haplomitriopsida Cercyon lineolatus Cercyon lineolatus Scientific classification Domain: Eukaryota Kingdom: Animalia Phylum: Arthropoda Class: Insecta Order: Coleoptera Family: Hydrophilidae Genus ...
+URL: https://www.questionai.com/knowledge/kZ2fKuX7E1-lillicoa
+
+[Index Fungorum - Names Record]
+Lillicoa palicoureae (Seaver & Whetzel) Sherwood 1977 Page Image for Protologue Position in classification: Stictidaceae, Ostropales, Ostropomycetidae, Lecanoromycetes, Pezizomycotina, Ascomycota, Fungi Index Fungorum Registration Identifier 2865; click here to update this record Index Fungorum UUID: {EA56AE0B-766A-41BC-AA96-17ED233C20DA}
+URL: https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=2865
+
+
+=== FULL EXTRACTED CONTENT ===
+
+
+--- [Lillicoa - Wikipedia] ---
+Lillicoa is a genus of fungi in the family Stictidaceae. It has four species. The genus was circumscribed by mycologist Martha Sherwood in 1977, with Lillicoa palicoureae assigned as the type species.
+
+
+--- [Stictidaceae - Wikipedia] ---
+The Stictidaceae are a family of fungi in the order Ostropales. It has 30 genera and about 240 species.
+
+
+--- [WikiRoulette — Random Wikipedia Pages] ---
+Install the Chrome ExtensionAbout WikiRoulette Use the left and right arrows to move forward and back left right Made by @minouye
+
+
+--- [Lillicoa of Biology Topics - Question AI] ---
+Lillicoa 3867 137 196 11 <div id="mw-content-wrapper"><div id="mw-content"><div id="content" class="mw-body" role="main"><div id="bodyContentOuter"><div class="mw-body-content" id="bodyContent"><div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="en" dir="ltr"><div class="mw-parser-output"><p class="mw-empty-elt"> </p><table class="infobox biota"> <tbody><tr> <th colspan="2" style="text-align: center; background-color: rgb(145,250,250)"><i>Lillicoa</i> </th></tr> <tr> <th colspan="2" style="min-width:15em; text-align: center; background-color: rgb(145,250,250)"><span title="Biology:Taxonomy">Scientific classification</span> </th></tr> <tr> <td>Domain: </td> <td><span title="Biology:Eukaryote">Eukaryota</span> </td></tr> <tr> <td>Kingdom: </td> <td><span title="Biology:Fungus">Fungi</span> </td></tr> <tr> <td>Division: </td> <td><span title="Biology:Ascomycota">Ascomycota</span> </td></tr> <tr> <td>Class: </td> <td><span title="Biology:Lecanoromycetes">Lecanoromycetes</span> </td></tr> <tr> <td>Order: </td> <td><span title="Biology:Ostropales">Ostropales</span> </td></tr> <tr> <td>Family: </td> <td><span title="Biology:Stictidaceae">Stictidaceae</span> </td></tr> <tr> <td>Genus: </td> <td><span class="mw-selflink selflink"><i>Lillicoa</i></span><br/><small>Sherwood (1977)</small> </td></tr> <tr> <th colspan="2" style="text-align: center; background-color: rgb(145,250,250)"><span title="Biology:Type species">Type species</span> </th></tr> <tr> <td colspan="2" style="text-align: center"><i>Lillicoa palicoureae</i><br/><div style="font-size: 85%;">(Seaver & Whetzel) Sherwood (1977)</div> </td></tr> <tr> <th colspan="2" style="text-align: center; background-color: rgb(145,250,250)">Species </th></tr> <tr> <td colspan="2" style="text-align: left"> <p><i>L. bicolor</i><br/> <i>L. palicoureae</i><br/> <i>L. speciosa</i><br/> <i>L. thaxteri</i> </p> </td></tr> </tbody></table><p><i><b>Lillicoa</b></i> is a <span title="Biology:Genus">genus</span> of <span class="mw-redirect" title="Biology:Fungi">fungi</span> in the family <span title="Biology:Stictidaceae">Stictidaceae</span>. It has four species.<sup id="cite_ref-Wijayawardene_et_al._2022_1-0" class="reference"><span></span></sup> The genus was <span title="Philosophy:Circumscription (taxonomy)">circumscribed</span> by mycologist Martha Sherwood in 1977, with <i>Lillicoa palicoureae</i> assigned as the <span title="Biology:Type species">type species</span>.<sup id="cite_ref-Sherwood_1977_2-0" class="reference"><span></span></sup> </p><h2 id="qai_title_1"><span class="mw-headline" id="Species">Species</span></h2><ul><li><i>Lillicoa bicolor</i> <span style="font-size:85%;">(Pat.) Sherwood (1978)</span></li><li><i>Lillicoa palicoureae</i> <span style="font-size:85%;">(Seaver & Whetzel) Sherwood (1977)</span></li><li><i>Lillicoa speciosa</i> <span style="font-size:85%;">Sherwood (1978)</span></li><li><i>Lillicoa thaxteri</i> <span style="font-size:85%;">Sherwood (1978)</span></li></ul></div></div></div></div></div></div></div>
+
+
+--- [Index Fungorum - Names Record] ---
+Lillicoa Sherwood, Mycotaxon 5(1): 57 (1977) Typification Details: Lillicoa palicoureae (Seaver & Whetzel) Sherwood 1977 Lillicoa palicoureae (Seaver & Whetzel) Sherwood 1977 Position in classification: Stictidaceae, Ostropales, Ostropomycetidae, Lecanoromycetes, Pezizomycotina, Ascomycota, Fungi Current name: Lillicoa Sherwood, Mycotaxon 5(1): 57 (1977) Index Fungorum Registration Identifier: 2865 Index Fungorum UUID: {EA56AE0B-766A-41BC-AA96-17ED233C20DA}

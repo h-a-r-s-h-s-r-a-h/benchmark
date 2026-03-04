@@ -1,0 +1,47 @@
+=== SEARCH SNIPPETS ===
+
+[Motavita - Wikipedia]
+Motavita is a town and municipality in the Colombian Department of Boyacá, part of the subregion of the Central Boyacá Province. It covers approximately 62 square kilometres (24 sq mi).
+URL: https://en.wikipedia.org/wiki/Motavita
+
+[Motavita - Wikidata]
+Municipality and town in Boyacá Department, Colombia Statements instance of municipality of Colombia 0 references inception 23 December 1816 1 reference image Motavita plaza.JPG 2,592 × 1,944; 1.4 MB 1 reference official name Motavita(Spanish) 1 reference native label Motavita(Spanish) 1 reference country Colombia 1 reference located in the administrative territorial entity Central Boyacá ...
+URL: https://www.wikidata.org/wiki/Q1577790
+
+[RESEÑA HISTORICA DE NUESTRO MUNICIPIO MOTAVITA]
+Fundación: 23 de diciembre de 1816. Fundador: Juan Nepomuceno Martínez. Alcalde: Orlando Suárez Quintero. Ubicación: se encuentra en la provincia Centro en el departamento de Boyacá. Límites: Limita por el Norte con Arcabuco y Cómbita, por el Sur y el Este con Tunja y por el Oeste con Sora y Chíquiza. Extensión Territorial: 61 Km2. Altura: 2690 metros sobre el nivel del mar. Latitud ...
+URL: https://redjuntosmunicipiomotavita.blogspot.com/2010/08/resena-historica-de-nuestro-municipio.html
+
+[Motavita, Centro, Boyacá, Colombia Genealogy - FamilySearch]
+Guide to Municipality of Motavita ancestry, family history and genealogy: birth records, marriage records, death records, church records, parish registers, and civil registration.
+URL: https://www.familysearch.org/en/wiki/Motavita,_Centro,_Boyac%C3%A1,_Colombia_Genealogy
+
+[Boyacá Department]
+In 1824 Gran Colombia created the Boyacá Department (Gran Colombia). After the creation of the Granadine Confederation by 1858 the territory of now Boyaca ...
+URL: https://en.wikipedia.org/wiki/Boyac%C3%A1_Department
+
+
+=== FULL EXTRACTED CONTENT ===
+
+
+--- [Motavita - Wikipedia] ---
+Motavita is a town and municipality in the Colombian Department of Boyacá, part of the subregion of the Central Boyacá Province. It covers approximately 62 square kilometres (24 sq mi).
+
+
+--- [Motavita - Wikidata] ---
+Motavita (Q1577790) Appearance Municipality and town in Boyacá Department, Colombia | Language | Label | Description | Also known as | |---|---|---|---| | default for all languages | Motavita | || | English | Motavita | Municipality and town in Boyacá Department, Colombia | Statements 23 December 1816Gregorian Motavita (Spanish) Motavita (Spanish) 62 square kilometre Motavita 0 references Identifiers 1 reference Sitelinks Wikipedia(22 entries) - avkwiki Motavita - cebwiki Motavita (munisipyo) - enwiki Motavita - eswiki Motavita - fawiki موتاویتا - frwiki Motavita - glwiki Motavita - itwiki Motavita - kawiki მოტავიტა - mswiki Motavita - nlwiki Motavita - plwiki Motavita - ptwiki Motavita - ruwiki Мотавита - svwiki Motavita (kommun) - tlwiki Motavita - ukwiki Мотавіта - uzwiki Motavita - viwiki Motavita - warwiki Motavita - zh_min_nanwiki Motavita - zhwiki 莫塔維塔 Wikibooks(0 entries) Wikinews(0 entries) Wikiquote(0 entries) Wikisource(0 entries) Wikiversity(0 entries) Wikivoyage(0 entries) Wiktionary(0 entries) Multilingual sites(1 entry) - commonswiki Category:Motavita
+
+
+--- [RESEÑA HISTORICA DE NUESTRO MUNICIPIO MOTAVITA] ---
+Fundación: 23 de diciembre de 1816. Fundador: Juan Nepomuceno Martínez. Alcalde: Orlando Suárez Quintero. Ubicación: se encuentra en la provincia Centro en el departamento de Boyacá. Límites: Limita por el Norte con Arcabuco y Cómbita, por el Sur y el Este con Tunja y por el Oeste con Sora y Chíquiza. Extensión Territorial: 61 Km2. Altura: 2690 metros sobre el nivel del mar. Latitud: La cabecera municipal se encuentra situada astronómicamente a los 5º 37’ de latitud norte; a los 73o 22’ de longitud al Oeste del meridiano de Greenwich; a los 0o 41’ 40’’ de Longitud Este con relación al Meridiano de Bogotá. Distancia de Referencia: 8.5 Km2 a Tunja. Temperatura media: 14.7º Cº. Población: 4113 habitantes. Gentilicio: motavitense.
+
+
+--- [Motavita, Centro, Boyacá, Colombia Genealogy - FamilySearch] ---
+No content
+
+
+--- [Boyacá Department] ---
+Boyacá (Spanish pronunciation: [boʝaˈka]) is one of the thirty-two departments of Colombia, and the remnant of Boyacá State, one of the original nine states of the "United States of Colombia".
+Boyacá is centrally located within Colombia, almost entirely within the mountains of the Eastern Cordillera to the border with Venezuela, although the western end of the department extends to the Magdalena River at the town of Puerto Boyacá. Boyacá borders to the north with the Department of Santander, to the northeast with the Bolivarian Republic of Venezuela and Norte de Santander, to the east with the departments of Arauca and Casanare. To the south, Boyacá borders the department of Cundinamarca and to the west with the Department of Antioquia covering a total area of 23,189 square kilometres (8,953 sq mi). The capital of Boyacá is the city of Tunja.
+Boyacá is known as "The Land of Freedom" because this region was the scene of a series of battles which led to Colombia's independence from Spain. The first one took place on 25 July 1819 in the Pantano de Vargas and the final and decisive battle known as the Battle of Boyacá was fought on 7 August 1819 at Puente de Boyacá.
+Boyacá is home to three universities: the Universidad Pedagógica y Tecnológica de Colombia (UPTC), the Universidad de Boyacá (UNIBOYACA), and the Saint Thomas Aquinas University.

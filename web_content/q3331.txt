@@ -1,0 +1,44 @@
+=== SEARCH SNIPPETS ===
+
+[Endurance - Dark Souls 2 Wiki]
+Endurance is an Attribute in Dark Souls 2. Endurance determines your character's stamina, physical defence, and poise. Attributes can be increased by assigning points into them when Leveling Up. Endurance Information An attribute that determines your overall Stamina. Raises stamina: +2 stamina per point (0-20), +1 stamina per point (21-99). Raises physical defense: (see Strength for physical ...
+URL: https://darksouls2.wiki.fextralife.com/Endurance
+
+[Cleric - Dark Souls II Wiki]
+Despite the above, there is generally very little you can do with Cleric that would not be equal or greater efficiency on Knight. Starts with 85 AGL, or 8 iframes during a roll. See the Agility page for more information on how this value is calculated, as multiple classes start with 85 agility but have different amounts of iframes. Starting ...
+URL: https://darksouls2.wiki.gg/wiki/Cleric
+
+[Cleric - Dark Souls II Guide - IGN]
+Cleric's have the highest starting level at 14. Heal gives the cleric the ability to go further and take bigger risks. Vigor: 10 Endurance: 3 Vitality: 8 Attunement: 10 Strength: 11 Dexterity: 5 ...
+URL: https://www.ign.com/wikis/dark-souls-2/Cleric
+
+[Cleric (Dark Souls II) | Dark Souls Wiki | Fandom]
+The Cleric is one of the classes in Dark Souls 2. The Cleric is a Faith -based starting class with decent Vigor, Attunement, and Strength, making it a good base for any Faith-focused build, such as a pure Miracles and Lightning build, or a more mixed Hexes build that wants to start with some extra healing spells.
+URL: https://darksouls.fandom.com/wiki/Cleric_(Dark_Souls_II)
+
+[Cleric - DarkSouls II Wiki]
+The Cleric's low Agility means they initially have only 5 invincibility frames at the start of their roll vs. 13 i-frames on a Dark Souls 1/3 fast roll. It is recommended to raise Adaptability (3X gains to Agility) and/or Attunement (1X gains to Agility) as soon as possible to 86 Agility where it jumps to 8 i-frames.
+URL: http://darksouls2.wikidot.com/cleric
+
+
+=== FULL EXTRACTED CONTENT ===
+
+
+--- [Endurance - Dark Souls 2 Wiki] ---
+No content
+
+
+--- [Cleric - Dark Souls II Wiki] ---
+No content
+
+
+--- [Cleric - Dark Souls II Guide - IGN] ---
+Checklists How creative can you get with your first free checklist? Cleric \ Cleric's have the highest starting level at 14. Heal gives the cleric the ability to go further and take bigger risks. Vigor: 10 Endurance: 3 Vitality: 8 Attunement: 10 Strength: 11 Dexterity: 5 Adaptability: 4 Intelligence: 4 Faith: 12
+
+
+--- [Cleric (Dark Souls II) | Dark Souls Wiki | Fandom] ---
+No content
+
+
+--- [Cleric - DarkSouls II Wiki] ---
+Description "Cleric on pilgrimage. High faith and miracles guide the way." This class is intended for players who intend to use miracles and weapons with high faith requirements. The Cleric comes with enough Attunement and Faith for basic Miracles and also has decent Strength and Vigor for melee encounters. You will need to raise the Cleric's Dexterity if you want to use most weapons. The low Endurance can also make blocking and attacking a bit challenging. Consider raising Dexterity and Endurance early on. Starting with a Cleric's Sacred Chime is not a big deal because one can be found in Majula for free. Starting with the Heal Miracle is very nice, but try to find a shield quickly. Consider the Crimson Parma in Majula, or buying a shield from Maughlin The Armourer. The Cleric's low Agility means they initially have only 5 invincibility frames at the start of their roll vs. 13 i-frames on a Dark Souls 1/3 fast roll. It is recommended to raise Adaptability (3X gains to Agility) and/or Attunement (1X gains to Agility) as soon as possible to 86 Agility where it jumps to 8 i-frames. Starting Equipment - Weapons - No Shield - Incomplete Archdrake Set - Magic - Other - Lifegem (x10) Starting Stats | Level | Vigor | Endurance | Vitality | Attunement | Strength | Dexterity | Adaptability | Intelligence | Faith | Total Points | |---|---|---|---|---|---|---|---|---|---|---| | 14 | 10 | 3 | 8 | 10 | 11 | 5 | 4 | 4 | 12 | 67 | Total level costs Total is the total amount of souls required to become that level. See level for per level requirements.

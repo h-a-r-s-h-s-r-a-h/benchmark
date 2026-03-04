@@ -1,0 +1,44 @@
+=== SEARCH SNIPPETS ===
+
+[Paraconalia brasiliensis Ermisch, 1968 - GBIF]
+Species Accepted Paraconalia brasiliensis Ermisch, 1968 In: GBIF Backbone Taxonomy 4 occurrences Overview
+URL: https://www.gbif.org/species/7003729
+
+[Paraconalia - Wikipedia]
+Paraconalia is a genus of tumbling flower beetles in the family Mordellidae. This genus has a single species, Paraconalia brasiliensis, found in South America. [1][2]
+URL: https://en.wikipedia.org/wiki/Paraconalia
+
+[IRMNG - Paraconalia brasiliensis Ermisch, 1968]
+Rank Species Parent Paraconalia Ermisch, 1968 Environment marine, brackish Fossil range
+URL: https://www.irmng.org/aphia.php?p=taxdetails&id=11602897
+
+[Biology:Paraconalia brasiliensis - HandWiki]
+Paraconalia brasiliensis is a beetle in the genus Paraconalia of the family Mordellidae. It was described in 1968 by Ermisch.
+URL: https://handwiki.org/wiki/Biology:Paraconalia_brasiliensis
+
+[Paraconalia brasiliensis]
+Paraconalia brasiliensis is a beetle in the Paraconalia genus, which is in the Mordellidae family. It was described in 1968 by Ermisch.
+URL: https://worldspecies.org/ntaxa/3790659/Rhipidura-leucophrys
+
+
+=== FULL EXTRACTED CONTENT ===
+
+
+--- [Paraconalia brasiliensis Ermisch, 1968 - GBIF] ---
+No content
+
+
+--- [Paraconalia - Wikipedia] ---
+Paraconalia is a genus of tumbling flower beetles in the family Mordellidae. This genus has a single species, Paraconalia brasiliensis, found in South America.
+
+
+--- [IRMNG - Paraconalia brasiliensis Ermisch, 1968] ---
+IRMNG taxon details basis of record Hallan, J. (2000-2017). Biology Catalog (2012 version), http://bug.tamu.edu/research/collection/hallan/ (as at 2012). [details] current name source Hallan, J. (2000-2017). Biology Catalog (2012 version), http://bug.tamu.edu/research/collection/hallan/ (as at 2012). [details] extant flag source as per genus [details] habitat flag source as per genus [details] Unreviewed Descriptive info Hallan comment: [Brazil] [details] |
+
+
+--- [Biology:Paraconalia brasiliensis - HandWiki] ---
+Biology:Paraconalia brasiliensis From HandWiki Short description: Species of beetle | Paraconalia brasiliensis | | |---|---| | Scientific classification | | | Kingdom: | Animalia | | Phylum: | Arthropoda | | Class: | Insecta | | Order: | Coleoptera | | Infraorder: | Cucujiformia | | Family: | Mordellidae | | Genus: | Paraconalia | | Species: | P. brasiliensis | | Binomial name | | | Paraconalia brasiliensis Ermisch, 1968 | Paraconalia brasiliensis is a beetle in the genus Paraconalia of the family Mordellidae. It was described in 1968 by Ermisch.[1] References - ↑ Mordellidae Species List at Joel Hallan’s Biology Catalog. Texas A&M University, archived from the original on 7 October 2014, https://web.archive.org/web/20141007081109/https://insects.tamu.edu/research/collection/hallan/Arthropoda/Insects/Coleoptera/Family/Mordellidae.txt, retrieved 8 August 2015 Wikidata ☰ Q2358659 entry
+
+
+--- [Paraconalia brasiliensis] ---
+| Animalia > Arthropoda > Insecta > Coleoptera > Mordellidae > Paraconalia > Paraconalia brasiliensis Paraconalia brasiliensis | | Animalia > Arthropoda > Insecta > Coleoptera > Mordellidae > Paraconalia > Paraconalia brasiliensis Paraconalia brasiliensis |

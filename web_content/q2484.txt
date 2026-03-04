@@ -1,0 +1,44 @@
+=== SEARCH SNIPPETS ===
+
+[1971 Swiss federal election - Wikipedia]
+Federal elections were held in Switzerland on 31 October 1971. [1] Although the Social Democratic Party received the most votes, the Free Democratic Party emerged as the largest party in the National Council, winning 49 of the 200 seats. [2] They were the first federal elections in which women were allowed to vote, following a referendum earlier in the year that introduced universal suffrage ...
+URL: https://en.wikipedia.org/wiki/1971_Swiss_federal_election
+
+[Élections au Conseil national 1971: Force des partis, participation et ...]
+Jan 9, 2013 · Thème Politique Télécharger Élections au Conseil national 1971: Force des partis, participation et électeurs fictifs, par canton XLSX32 kB
+URL: https://www.bfs.admin.ch/asset/fr/258987
+
+[Election Statistics, 1920 to Present | US House of Representatives ...]
+Election Statistics, 1920 to Present Since 1920, the Clerk of the House has collected and published the official vote counts for federal elections from the official sources among the various states and territories.
+URL: https://history.house.gov/Institution/Election-Statistics/Election-Statistics/
+
+[Voter Turnout Database | International IDEA]
+Jan 30, 2023 · About this database The Voter Turnout Database is the best resource for a wide array of statistics on voter turnout from around the world. It contains the most comprehensive global collection of voter turnout statistics from presidential and parliamentary elections since 1945. Always growing, the database also includes European Parliament elections, as presented by country using both the ...
+URL: https://www.idea.int/data-tools/data/voter-turnout-database
+
+[Historical Reported Voting Rates - Census.gov]
+Apr 24, 2025 · The historical time series tables present estimates alongside various demographic characteristics for each national level election between 1964 and the present.
+URL: https://www.census.gov/data/tables/time-series/demo/voting-and-registration/voting-historical-time-series.html
+
+
+=== FULL EXTRACTED CONTENT ===
+
+
+--- [1971 Swiss federal election - Wikipedia] ---
+Federal elections were held in Switzerland on 31 October 1971. Although the Social Democratic Party received the most votes, the Free Democratic Party emerged as the largest party in the National Council, winning 49 of the 200 seats. They were the first federal elections in which women were allowed to vote, following a referendum earlier in the year that introduced universal suffrage for federal elections.
+
+
+--- [Élections au Conseil national 1971: Force des partis, participation et ...] ---
+Utilisation libre. Obligation d’indiquer la source. Utilisation commerciale uniquement avec l’autorisation du fournisseur des données. Utilisation libre. Obligation d’indiquer la source. Utilisation commerciale uniquement avec l’autorisation du fournisseur des données.
+
+
+--- [Election Statistics, 1920 to Present | US House of Representatives ...] ---
+Election Statistics, 1920 to Present Since 1920, the Clerk of the House has collected and published the official vote counts for federal elections from the official sources among the various states and territories. | Presidential Election | Non-Presidential Election | |---|---| | 1920 Election Statistics [pdf] | 1922 Election Statistics [pdf] | | 1924 Election Statistics [pdf] | 1926 Election Statistics [pdf] | | 1928 Election Statistics [pdf] | 1930 Election Statistics [pdf] | | 1932 Election Statistics [pdf] | 1934 Election Statistics [pdf] | | 1936 Election Statistics [pdf] | 1938 Election Statistics [pdf] | | 1940 Election Statistics [pdf] | 1942 Election Statistics [pdf] | | 1944 Election Statistics [pdf] | 1946 Election Statistics [pdf] | | 1948 Election Statistics [pdf] | 1950 Election Statistics [pdf] | | 1952 Election Statistics [pdf] | 1954 Election Statistics [pdf] | | 1956 Election Statistics [pdf] | 1958 Election Statistics [pdf] | | 1960 Election Statistics [pdf] | 1962 Election Statistics [pdf] | | 1964 Election Statistics [pdf] | 1966 Election Statistics [pdf] | | 1968 Election Statistics [pdf] | 1970 Election Statistics [pdf] | | 1972 Election Statistics [pdf] | 1974 Election Statistics [pdf] | | 1976 Election Statistics [pdf] | 1978 Election Statistics [pdf] | | 1980 Election Statistics [pdf] | 1982 Election Statistics [pdf] | | 1984 Election Statistics [pdf] | 1986 Election Statistics [pdf] | | 1988 Election Statistics [pdf] | 1990 Election Statistics [pdf] | | 1992 Election Statistics [pdf] | 1994 Election Statistics [pdf] | | 1996 Election Statistics [pdf] | 1998 Election Statistics [pdf] | | 2000 Election Statistics [pdf] | 2002 Election Statistics [pdf] | | 2004 Election Statistics [pdf] | 2006 Election Statistics [pdf] | | 2008 Election Statistics [pdf] | 2010 Election Statistics [pdf] | | 2012 Election Statistics [pdf] | 2014 Election Statistics [pdf] | | 2016 Election Statistics [pdf] | 2018 Election Statistics [pdf] | | 2020 Election Statistics [pdf] | 2022 Election Statistics [pdf] | | 2024 Election Statistics [pdf] |
+
+
+--- [Voter Turnout Database | International IDEA] ---
+In this database we use the Voting Age Population (VAP), as well as the number of Registered Voters (REG) as indicators of political participation. The VAP figure includes an estimated number of all those citizens over the legal voting age, while the registration rate comprises the actual number of people on the voters’ roll. The users of the database will notice that in some instances the registration rate (REG) for a country actually exceeds the estimated number of eligible voters (VAP). The explanation for this apparent anomaly usually lies either in the inaccuracy of the electoral roll, or in the estimated number of eligible voters (VAP). In some countries, the roll is extremely difficult to keep up to date, and deaths or movements of electors from one district to another are not reflected in the roll, something which is a common problem facing electoral administrators around the world. It is important to emphasize that the registration figures are, in most cases, more recently updated than population figures. The VAP is based on the most recent population census figure available. Although not an exact figure, it is a reflection of the demographic trend and estimated population growth of a country.
+
+
+--- [Historical Reported Voting Rates - Census.gov] ---
+| Jan | FEB | Mar | | 14 | || | 2025 | 2026 | 2027 | The U.S. Census Bureau has reviewed this data product to ensure appropriate access, use, and disclosure avoidance protection of the confidential source data used to produce this product (Data Management System (DMS) number: P-7534375; Disclosure Review Board (DRB) approval number: CBDRB-FY25-SEHSD003-047) Share Related Information Top

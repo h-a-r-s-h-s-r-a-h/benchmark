@@ -1,0 +1,47 @@
+=== SEARCH SNIPPETS ===
+
+[435 Ella - Wikipedia]
+435 Ella is a typical Main belt asteroid. It was discovered by Max Wolf and A. Schwassmann on 11 September 1898 in Heidelberg. This is the eponymous member of a proposed asteroid family with at least 15 members. [2] Photometric observations during 1995 show a rotation period of 4.264 hours. 435 Ella is classified as a DCX-type asteroid. [3]
+URL: https://en.wikipedia.org/wiki/435_Ella
+
+[435 Ella - EncycloReader]
+435 Ella is a typical Main belt asteroid. It was discovered by Max Wolf and A. Schwassmann on 11 September 1898 in Heidelberg. This is the eponymous member of a proposed asteroid family with at least 15 members. [2] Photometric observations during 1995 show a rotation period of 4.264 hours. 435 Ella is classified as a DCX-type asteroid. [3]
+URL: https://encycloreader.org/r/wikipedia.php?q=435_Ella
+
+[Astronomy:435 Ella - HandWiki]
+Ella (minor planet designation: 435 Ella) is a typical Main belt asteroid. It was discovered by Max Wolf and A. Schwassmann on 11 September 1898 in Heidelberg. This is the eponymous member of a proposed asteroid family with at least 15 members. [2] Photometric observations during 1995 show a rotation period of 4.264 hours. 435 Ella is classified as a DCX-type asteroid. [3]
+URL: https://handwiki.org/wiki/Astronomy:435_Ella
+
+[Max Wolf]
+German astronomers Christian Wolf and Ulrich Wolff (amateur from Berlin), as well as American astronomer Chris Wolfe have also discovered minor planets.
+URL: https://en.wikipedia.org/wiki/Max_Wolf
+
+[435 Ella - TheInfoList]
+435 Ella is a typical Main belt asteroid. It was discovered by Max Wolf Maximilian Franz Joseph Cornelius Wolf (21 June 1863 - 3 October 1932) was a German astronomer and a pioneer in the field of astrophotography. He was the chairman of astronomy at the University of Heidelberg and director of the Heidelberg-K ...
+URL: https://www.theinfolist.com/html/ALL/s/4/435_Ella.html
+
+
+=== FULL EXTRACTED CONTENT ===
+
+
+--- [435 Ella - Wikipedia] ---
+435 Ella is a typical Main belt asteroid. It was discovered by Max Wolf and A. Schwassmann on 11 September 1898 in Heidelberg. This is the eponymous member of a proposed asteroid family with at least 15 members.
+Photometric observations during 1995 show a rotation period of 4.264 hours. 435 Ella is classified as a DCX-type asteroid.
+
+
+--- [435 Ella - EncycloReader] ---
+| Discovery | | |---|---| | Discovered by | M. F. Wolf A. Schwassmann | | Discovery date | 11 September 1898 | | Designations | | | (435) Ella | | | 1898 DS | | | Main belt | | | Orbital characteristics[1] | | | Epoch 31 July 2016 (JD 2457600.5) | | | Uncertainty parameter 0 | | | Observation arc | 117.60 yr (42955 d) | | Aphelion | 2.8297 AU (423.32 Gm) | | Perihelion | 2.0688 AU (309.49 Gm) | | 2.4492 AU (366.40 Gm) | | | Eccentricity | 0.15533 | | 3.83 yr (1400.1 d) | | | 265.450° | | | 0° 15m 25.668s / day | | | Inclination | 1.8168° | | 23.192° | | | 333.682° | | | Physical characteristics | | | Dimensions | 41.49±1.5 km | | 4.623 h (0.1926 d) | | | 0.0831±0.006 | | | 10.23 | | 435 Ella is a typical Main belt asteroid. It was discovered by Max Wolf and A. Schwassmann on 11 September 1898 in Heidelberg. This is the eponymous member of a proposed asteroid family with at least 15 members.[2] Photometric observations during 1995 show a rotation period of 4.264 hours. 435 Ella is classified as a DCX-type asteroid.[3]
+
+
+--- [Astronomy:435 Ella - HandWiki] ---
+Astronomy:435 Ella From HandWiki Short description: Main-belt asteroid A three-dimensional model of 435 Ella based on its light curve | | | Discovery | | |---|---| | Discovered by | M. F. Wolf A. Schwassmann | | Discovery date | 11 September 1898 | | Designations | | | (435) Ella | | | 1898 DS | | | Minor planet category | Main belt | | Orbital characteristics[1] | | | Epoch 31 July 2016 (JD 2457600.5) | | | Uncertainty parameter 0 | | | Observation arc | 117.60 yr (42955 d) | | |{{{apsis}}}|helion}} | 2.8297 astronomical unit|AU (423.32 Gm) | | |{{{apsis}}}|helion}} | 2.0688 AU (309.49 Gm) | | 2.4492 AU (366.40 Gm) | | | Eccentricity | 0.15533 | | Orbital period | 3.83 yr (1400.1 d) | | Mean anomaly | 265.450° | | Mean motion | 0° 15m 25.668s / day | | Inclination | 1.8168° | | Longitude of ascending node | 23.192° | | 333.682° | | | Physical characteristics | | | Dimensions | 41.49±1.5 km | | Rotation period | 4.623 h (0.1926 d) | | Geometric albedo | 0.0831±0.006 | | Absolute magnitude (H) | 10.23 | Ella (minor planet designation: 435 Ella) is a typical Main belt asteroid. It was discovered by Max Wolf and A. Schwassmann on 11 September 1898 in Heidelberg. This is the eponymous member of a proposed asteroid family with at least 15 members.[2] Photometric observations during 1995 show a rotation period of 4.264 hours. 435 Ella is classified as a DCX-type asteroid.[3] References - ↑ "435 Ella (1898 DS)". JPL Small-Body Database. NASA/Jet Propulsion Laboratory. https://ssd.jpl.nasa.gov/sbdb.cgi?sstr=435;cad=1. - ↑ Bendjoya, P. (November 1993), "A Classification of 6479 Asteroids Into Families by Means of the Wavelet Clustering Method", Astronomy and Astrophysics Supplement 102 (1): 25, Bibcode: 1993A&AS..102...25B. - ↑ Piironen, J. et al. (March 1998), "Physical studies of asteroids. XXXII. Rotation periods and UBVRI-colours for selected asteroids", Astronomy and Astrophysics Supplement 128 (3): 525–540, doi:10.1051/aas:1998393, Bibcode: 1998A&AS..128..525P. External links - 435 Ella at AstDyS-2, Asteroids—Dynamic Site - 435 Ella at the JPL Small-Body Database Original source: https://en.wikipedia.org/wiki/435 Ella. Read more |
+
+
+--- [Max Wolf] ---
+Maximilian Franz Joseph Cornelius Wolf (21 June 1863 – 3 October 1932) was a German astronomer and a pioneer in the field of astrophotography. He was the chairman of astronomy at the University of Heidelberg and director of the Heidelberg-Königstuhl State Observatory from 1902 until his death in 1932.
+
+
+
+
+--- [435 Ella - TheInfoList] ---
+No content

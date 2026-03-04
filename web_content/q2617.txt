@@ -1,0 +1,47 @@
+=== SEARCH SNIPPETS ===
+
+[John McCarthy (computer scientist) - Wikipedia]
+Benjamin Franklin Medal in Computer and Cognitive Science from the Franklin Institute (2003) Inducted into IEEE Intelligent Systems ' AI's Hall of Fame (2011), for the "significant contributions to the field of AI and intelligent systems" [49] Named as one of the 2012 Stanford Engineering Heroes [50]
+URL: https://en.wikipedia.org/wiki/John_McCarthy_(computer_scientist)
+
+[John McCarthy | The Franklin Institute]
+John McCarthy is universally recognized as one of the fathers of "artificial intelligence," (AI) a phrase he coined to denote the field of research he significantly helped to define. He believes that "intelligence can, in principle, be so precisely described that a machine can be made to simulate ...
+URL: https://fi.edu/en/awards/laureates/john-mccarthy
+
+[The 2003 Benjamin Franklin Medal in computer and cognitive science ...]
+May 1, 2004 · The 2003 Benjamin Franklin Medal in computer and cognitive science presented to John McCarthy (Stanford California). John McCarthy's multiple contributions to the foundations of artificial intelligence and computer science
+URL: https://www.sciencedirect.com/science/article/pii/S0016003203001066
+
+[Franklin Institute Awards - Wikipedia]
+The focus annually rotates through seven disciplines: chemistry, civil and mechanical engineering, computer and cognitive science, earth and environmental science, electrical engineering, life science, and physics. Recipients are presented with a crystal award a cash honorarium. ... Frank P. Brown Medal ... George R. Henderson Medal · Howard N. Potts Medal ... The following table lists laureates of the Benjamin Franklin Medal (including the Bower Prizewinners), from 1998 onwards.
+URL: https://en.wikipedia.org/wiki/Franklin_Institute_Awards
+
+[The 2003 Benjamin Franklin Medal in computer and cognitive science presented to John McCarthy (Stanford California). John McCarthy's multiple contributions to the foundations of artificial intelligence and computer science | Request PDF]
+Request PDF | The 2003 Benjamin Franklin Medal in computer and cognitive science presented to John McCarthy (Stanford California). John McCarthy's multiple contributions to the foundations of artificial intelligence and computer science | Since ...
+URL: https://www.researchgate.net/publication/245185010_The_2003_Benjamin_Franklin_Medal_in_computer_and_cognitive_science_presented_to_John_McCarthy_Stanford_California_John_McCarthy's_multiple_contributions_to_the_foundations_of_artificial_intelligence_a
+
+
+=== FULL EXTRACTED CONTENT ===
+
+
+--- [John McCarthy (computer scientist) - Wikipedia] ---
+John McCarthy (September 4, 1927 – October 24, 2011) was an American computer scientist and cognitive scientist. He was one of the founders of the discipline of artificial intelligence, and part of just a small group of artificial intelligence researchers in the 1950s and 1960s. He co-authored the proposal for the Dartmouth workshop which coined the term "artificial intelligence" (AI), led the development of the symbolic programming language family Lisp and had a large influence in the language ALGOL, popularized time-sharing, and created garbage collection.
+McCarthy spent most of his career at Stanford University. He received many accolades and honors, such as the 1971 Turing Award for his contributions to the topic of AI, the United States National Medal of Science, and the Kyoto Prize.
+
+
+
+
+--- [John McCarthy | The Franklin Institute] ---
+John McCarthy is universally recognized as one of the fathers of "artificial intelligence," (AI) a phrase he coined to denote the field of research he significantly helped to define. He believes that "intelligence can, in principle, be so precisely described that a machine can be made to simulate it." His research focused on teaching a computer to do a variety of tasks, which necessitated developing a computer language that would manipulate symbols for objects, rather than perform arithmetic on numbers. LISP, the language he then developed, is the language used in most expert systems and natural language programs today. McCarthy was one of the first to propose and design time-sharing computer systems, and he pioneered the application of mathematical logic to prove the correctness of computer programs. The mathematician is a member of the National Academy of Sciences, the National Academy of Engineering, and the American Academy of Arts and Sciences. McCarthy received the Association for Computing Machinery's prestigious Turing Award, the National Medal of Science, and the Kyoto Prize, and he won the first research excellence award of the International Conference on Artificial Intelligence. McCarthy earned his B.S. in mathematics from the California Institute of Technology in 1948 and his Ph.D. from Princeton in 1951. He has won numerous awards including the Kyoto Prize and the National Medal of Science. He is a member of the American Academy of Arts and Sciences, the National Academy of Engineering and the National Academy of Sciences. Dr. McCarthy realized that computer users do not monopolize a computer's processing ability, leading to his development of time-sharing programming. Instead of trying to simulate the brain's complicated pathways, Dr. McCarthy applied a system of logic to computers to develop artificial intelligence. In 1958, Dr. McCarthy developed LISP, a programming language for early computers, at a time when other languages could only manipulate numbers. Information as of April 2003
+
+
+--- [The 2003 Benjamin Franklin Medal in computer and cognitive science ...] ---
+No content
+
+
+--- [Franklin Institute Awards - Wikipedia] ---
+The Franklin Institute Awards (or Benjamin Franklin Medal) is an American science and engineering award presented by the Franklin Institute, a science museum in Philadelphia. The Franklin Institute awards comprises the Benjamin Franklin Medals in seven areas of science and engineering, the Bower Awards and Prize for Achievement in Science, and the Bower Award for Business Leadership. Since 1824, the institute has recognized "world-changing scientists, engineers, inventors, and industrialists—all of whom reflect Benjamin Franklin's spirit of curiosity, ingenuity, and innovation". Some of the noted past laureates include Nikola Tesla, Thomas Edison, Marie Curie, Max Planck, Albert Einstein, Stephen Hawking.  Some of the 21st century laureates of the institute awards are Bill Gates, James P. Allison, Indra Nooyi, Jane Goodall, Elizabeth Blackburn, George Church, Robert S. Langer, and Alex Gorsky.
+
+
+--- [The 2003 Benjamin Franklin Medal in computer and cognitive science presented to John McCarthy (Stanford California). John McCarthy's multiple contributions to the foundations of artificial intelligence and computer science | Request PDF] ---
+No content
