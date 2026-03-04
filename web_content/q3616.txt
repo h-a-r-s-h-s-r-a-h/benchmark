@@ -1,0 +1,48 @@
+=== SEARCH SNIPPETS ===
+
+[Thomas Chrowder Chamberlin - Wikipedia]
+There are buildings named for him on the Beloit College and University of Wisconsin-Madison campuses as well as a house in Burton-Judson Courts at The University of Chicago. [17] The lunar crater Chamberlin and a crater on Mars [18] are named in his honor. He is the namesake of Mount Chamberlin in California.
+URL: https://en.wikipedia.org/wiki/Thomas_Chrowder_Chamberlin
+
+[Mount Chamberlin (California) - Wikipedia]
+Mount Chamberlin is a 13,169-foot-elevation (4,014-meter) mountain summit located west of the crest of the Sierra Nevada mountain range in Tulare County, California. [3] It is situated in Sequoia National Park, and is 3.2 miles (5.1 km) south-southwest of Mount Whitney, 1.5 miles (2.4 km) south of Mount Hitchcock, and 3.5 miles west of Mount Corcoran. Topographic relief is significant as it ...
+URL: https://en.wikipedia.org/wiki/Mount_Chamberlin_(California)
+
+[Mount Chamberlin (California) Explained]
+Mount Chamberlin is a 13169feet mountain summit located west of the crest of the Sierra Nevada mountain range in Tulare County, California. [3] It is situated in Sequoia National Park, and is 3.2miles south-southwest of Mount Whitney, 1.5miles south of Mount Hitchcock, and 3.5 miles west of Mount Corcoran.
+URL: https://everything.explained.today/Mount_Chamberlin_(California)/
+
+[Thomas Chrowder Chamberlin - Wikiwand]
+He is the namesake of Mount Chamberlin in California. A 42 ton rock, a Precambrian glacial erratic, called the Chamberlin Rock sat on Observatory Hill at the University of Wisconsin Madison campus for over 100 years, until 2021 when it was moved to a university property on Lake Kegonsa, a glacial lake. 19
+URL: https://www.wikiwand.com/en/articles/Thomas_Crowder_Chamberlain
+
+[PeakVisor]
+Topographic relief is significant as it rises approximately 1,830 feet (560 meters) above Crabtree Lakes in one-half mile. Mt. Chamberlin ranks as the 119th highest summit in California. This mountain's name was officially adopted in 1940 by the U.S. Board on Geographic Names to honor American geologist Thomas Chrowder Chamberlin (1843-1928).
+URL: https://peakvisor.com/data/peak/mount-chamberlin-united-states
+
+
+=== FULL EXTRACTED CONTENT ===
+
+
+--- [Thomas Chrowder Chamberlin - Wikipedia] ---
+Thomas Chrowder Chamberlin (; September 25, 1843 – November 15, 1928) was an American geologist and educator. In 1893 he founded the Journal of Geology, of which he was editor for many years.
+
+
+
+
+--- [Mount Chamberlin (California) - Wikipedia] ---
+Mount Chamberlin is a 13,169-foot-elevation (4,014-meter) mountain summit located west of the crest of the Sierra Nevada mountain range in Tulare County, California. It is situated in Sequoia National Park, and is 3.2 miles (5.1 km) south-southwest of Mount Whitney, 1.5 miles (2.4 km) south of Mount Hitchcock, and 3.5 miles west of Mount Corcoran. Topographic relief is significant as it rises approximately 1,830 feet (560 meters) above Crabtree Lakes in one-half mile. Mt. Chamberlin ranks as the 119th highest summit in California. This mountain's name was officially adopted in 1940 by the U.S. Board on Geographic Names to honor American geologist Thomas Chrowder Chamberlin (1843–1928). The first ascent of the summit was made by Sierra Club member J. H. Czock, date unknown.
+
+
+
+
+--- [Mount Chamberlin (California) Explained] ---
+No content
+
+
+--- [Thomas Chrowder Chamberlin - Wikiwand] ---
+No content
+
+
+--- [PeakVisor] ---
+{"ranges":[{"title":"Sierra Nevada","canonical":"sierra-nevada","link":"/range/sierra-nevada.html"}],"parks":[{"title":"Sequoia National Park","canonical":"sequoia-national-park","link":"/park/sequoia-national-park.html"}],"districts":[{"country":{"code":"us","name":"USA"},"regions":[{"level":2,"id":"usa","name":"USA","link":"/adm/usa.html"},{"level":4,"id":"california","name":"California","link":"/adm/california.html"},{"level":6,"id":"tulare-county","name":"Tulare County","link":"/adm/tulare-county.html"}]}],"countries":[{"code":"US","name":"USA","link":"/adm/usa.html"}],"routes":[],"gettingHere":[],"tags":{"osm_version":"3","ele":"4011","gnis_feature_id":"258188","name":"Mount Chamberlin","natural":"peak","wikidata":"Q49052278","description":"Mount Chamberlin is a 13,169-foot-elevation (4,014-meter) mountain summit located west of the crest of the Sierra Nevada mountain range in Tulare County, California. It is situated in Sequoia National Park, and is 3.2 miles (5.1 km) south-southwest of Mount Whitney, 1.5 miles (2.4 km) south of Mount Hitchcock, and 3.5 miles west of Mount Corcoran. Topographic relief is significant as it rises approximately 1,830 feet (560 meters) above Crabtree Lakes in one-half mile. Mt. Chamberlin ranks as the 119th highest summit in California. This mountain's name was officially adopted in 1940 by the U.S. Board on Geographic Names to honor American geologist Thomas Chrowder Chamberlin (1843–1928). The first ascent of the summit was made by Sierra Club member J. H. Czock, date unknown.","wikipedia":"https://en.wikipedia.org/wiki/Mount_Chamberlin_(California)"},"skitours":[],"id":358797232,"data":{"_id":"358797232","elevation":[{"id":"sequoia-national-park","nid":"2000000175060","name":"Sequoia National Park","type":"NP","level":1,"index":46,"total":120},{"id":"tulare-county","nid":"2000000396459","name":"Tulare County","type":"ADM","level":6,"index":57,"total":349}],"prominence":[{"id":"sequoia-national-park","nid":"2000000175060","name":"Sequoia National Park","type":"NP","level":1,"index":65,"total":120}]},"canonicalUrl":"mount-chamberlin-united-states","type":1,"description":"Mount Chamberlin is a 13,169-foot-elevation (4,014-meter) mountain summit located west of the crest of the Sierra Nevada mountain range in Tulare County, California. It is situated in Sequoia National Park, and is 3.2 miles (5.1 km) south-southwest of Mount Whitney, 1.5 miles (2.4 km) south of Mount Hitchcock, and 3.5 miles west of Mount Corcoran. Topographic relief is significant as it rises approximately 1,830 feet (560 meters) above Crabtree Lakes in one-half mile. Mt. Chamberlin ranks as the 119th highest summit in California. This mountain's name was officially adopted in 1940 by the U.S. Board on Geographic Names to honor American geologist Thomas Chrowder Chamberlin (1843–1928). The first ascent of the summit was made by Sierra Club member J. H. Czock, date unknown.By elevation Mount Chamberlin is By prominence Mount Chamberlin is ","wikipedia":"https://en.wikipedia.org/wiki/Mount_Chamberlin_(California)","images":[{"url":"https://wikimedia-commons.fra1.cdn.digitaloceanspaces.com/SD/Sunrise_on_Mt._Chamberlin.jpg","id":"Sunrise_on_Mt._Chamberlin","options":["SD"],"location":{"type":"Point","coordinates":[-118.291586,36.55923]},"author":{"url":"https://commons.wikimedia.org/wiki/File%3ASunrise_on_Mt._Chamberlin.jpg","nickname":"Ken Lund","license":"CC BY-SA 2.0"}}],"name":"Mount Chamberlin","distance":null,"prominence":"134","eprom":{"parent":{"name":"Mount Pickering","location":{"coordinates":[-118.290867,36.527205]},"elevation":"4107","prominence":"267","canonicalUrl":"mount-pickering-5pjna3vs"},"parDist":1920.7113909504626,"nhn":{"name":"Mount Newcomb","location":{"coordinates":[-118.293451,36.53988]},"elevation":"4091","prominence":"187","canonicalUrl":"mount-newcomb"},"nhnDist":1713.781133053877,"keycol":{"lat":36.535,"lng":-118.304444,"dist":599.6736829202537,"name":null},"isolation":1254.8401585137938,"ilp":{"lat":36.538056,"lng":-118.298056},"proportionalProminence":"1066"},"categories":[{"code":"13er","name":"13er","sortingWeight":6,"desc":"Thirteeners are mountains higher than 13 000 ft / 3 962 m having at least 300 ft / 91 m of topographic prominence.","listLink":null}],"alt":4011,"lat":36.533472,"lng":-118.310873,"formattedCoordinates":"36°32′0″N 118°18′39″W","isVolcano":false}

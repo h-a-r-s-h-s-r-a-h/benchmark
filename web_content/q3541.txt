@@ -1,0 +1,44 @@
+=== SEARCH SNIPPETS ===
+
+[SIMCOMP Search Result]
+KEGG ID : D01108 Magnesium sulfate (Same as: C12505). All, Top20. Select ... D02052 Barium sulfate 1.0000. D03613 Cupric sulfate 1.0000. D04172 Ferrous ...
+URL: https://www.kegg.jp/kegg-bin/simcomp_list?id=D01108
+
+[ADReCS]
+Drug Name, Barium sulfate. Drug ID, BADD_D00213. Description, Barium sulfate is an inorganic compound with the chemical formula BaSO4 [L1957].
+URL: https://www.bio-add.org/ADReCS/drugSummary.jsp?drug_id=BADD_D00213&uname=2be957c0-32cd-48e9-9c51-6011465fd0eb
+
+[T3DB: Barium sulfate - Exposome-Explorer - IARC]
+Barium sulfate (T3D1122) ; belongs to the class of inorganic compounds known as alkaline earth metal sulfates.
+URL: https://exposome-explorer.iarc.fr/toxins/T3D1122
+
+[ZFIN ChEBI: barium sulfate]
+Term ID: CHEBI:133326 ; Synonyms. barite; Baritop ; Definition: A metal sulfate with formula BaO4S. Virtually insoluble in water at room temperature, it is mostly ...
+URL: https://zfin.org/CHEBI:133326
+
+[ADReCS]
+Drug Name, Barium sulfate. Drug ID, BADD_D00213. Description, Barium sulfate is an inorganic compound with the chemical formula BaSO4 [L1957].
+URL: https://bioinf.xmu.edu.cn/ADReCS/drugSummary.jsp?drug_id=BADD_D00213&uname=3e7901e8-3816-412b-8f4b-2933d130f92d
+
+
+=== FULL EXTRACTED CONTENT ===
+
+
+--- [SIMCOMP Search Result] ---
+Entry score ------------------------------------------------------------------------------- --------- C00059 Sulfate 1.0000 C12505 Magnesium sulfate 1.0000 C13192 Potassium sulfate 1.0000 C13194 Calcium sulfate 1.0000 C13199 Sodium sulfate 1.0000 C17383 Cobaltous sulfate 1.0000 C18567 Thallium sulfate 1.0000 C18713 Copper sulfate 1.0000 C19215 Cobalt sulfate 1.0000 D01081 Zinc sulfate hydrate 1.0000 D01725 Ferrous sulfate 1.0000 D01726 Potassium sulfate 1.0000 D01732 Anhydous sodium sulfate 1.0000 D02052 Barium sulfate 1.0000 D03613 Cupric sulfate 1.0000 D04172 Ferrous sulfate, dried 1.0000 D04173 Ferrous sulfate Fe 59 1.0000 D04854 Manganese sulfate 1.0000 D05877 Sodium sulfate 1.0000 D05878 Sodium sulfate S 35 1.0000 D05963 Sulfuric acid 1.0000 D06371 Zinc sulfate 1.0000 D08137 Lithium sulfate 1.0000 D08853 Ammonium sulfate 1.0000 D09201 Calcium sulfate 1.0000
+
+
+--- [ADReCS] ---
+| Drug Name | Barium sulfate | | Drug ID | BADD_D00213 | | Description | Barium sulfate is an inorganic compound with the chemical formula BaSO4 [L1957]. Barium sulfate occurs in nature as the mineral _barite_. It is also used in various manufacturing applications and mixed into heavy concrete to serve as a radiation shield [L1957]. This drug is used as a contrast agent in diagnostic x-ray procedures. Therapeutic advantages of barium sulfate in diagnostic procedures include both its low water solubility and high level of clearance from the body [FDA label]. Barium sulfate is ingested by mouth or administered rectally and combined with granules of effervescent bicarbonate to enhance distension of the GI tract, allowing for enhanced gastrointestinal tract visualization [L1957], [L1959]. | | Indications and Usage | Barium sulfate is a radiographic contrast agent indicated for use in computed tomography (CT) of the abdomen to delineate the gastrointestinal (GI) tract in adult and pediatric patients [FDA label]. | | Marketing Status | approved | | ATC Code | Not Available | | DrugBank ID | DB11150 | | KEGG ID | D02052 | | MeSH ID | D001466 | | PubChem ID | 24414 | | TTD Drug ID | D0T5DE | | NDC Product Code | 32909-187; 32909-770; 32909-122; 32909-741; 32909-927; 32909-167; 10361-778; 32909-814; 32909-146; 32909-746; 32909-764; 32909-105; 32909-744; 75855-3471; 32909-116; 32909-747; 75855-3470; 32909-125; 32909-121; 32909-742; 32909-750 | | UNII | 25BB7EKE2E | | Synonyms | Barium Sulfate | Sulfate, Barium | Micropaque Oral | Barium Sulfate (2:1) | E-Z-CAT | E Z CAT | EZCAT | Barite | Baritop |
+
+
+--- [T3DB: Barium sulfate - Exposome-Explorer - IARC] ---
+No content
+
+
+--- [ZFIN ChEBI: barium sulfate] ---
+Search Ontology: ChEBI barium sulfate - Term ID - CHEBI:133326 - Synonyms - - barite - Baritop - barium sulfate - Barosperse - Barotrast - BaSO4 - blanc fixe - E-Z-Paque - Enamel White - EneCat - EneMark - EntroBar - Esophotrast - Liquipake - Macropaque - Micropaque - Microtrast - Pigment White 22 - Radiobaryt - Radiopaque - Readi-CAT - sulfuric acid, barium salt (1:1) - Definition - A metal sulfate with formula BaO4S. Virtually insoluble in water at room temperature, it is mostly used as a component in oil well drilling fluid it occurs naturally as the mineral barite. - References - - CAS:7727-43-7 - KEGG:D02052 - PMID:22831859 - PMID:25710096 - PMID:26903568 - Reaxys:11343139 - Wikipedia:Barium_sulfate - Ontology - ChEBI ( EBI ) - Resources - CTD Phenotype Phenotype resulting from barium sulfate Phenotype where environments contain barium sulfate Phenotype modified by environments containing barium sulfate Phenotype affecting barium sulfate Human Disease Model
+
+
+--- [ADReCS] ---
+No content

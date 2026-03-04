@@ -1,0 +1,44 @@
+=== SEARCH SNIPPETS ===
+
+[Aralle-Tabulahan language - Wikipedia]
+Aralle-Tabulahan has three major dialects: Aralle, Tabulahan, and Mambi. The Mambi dialect is often regarded as the most divergent of the three dialects and is seen as at the centre of spectrum between the Aralle and Tabulahan dialects and the related Bambam language. [3]
+URL: https://en.wikipedia.org/wiki/Aralle-Tabulahan_language
+
+[Glottolog 5.2 - Aralle-Tabulahan]
+Spoken L1 Language: Aralle-Tabulahan · Dakka · ▽Matangnga-Aralle-Tabulahan (3). ▽Aralle-Tabulahan · Aralle · Mambi · Tabulahan. ▻Bambam · Bambam Hulu · Bumal.
+URL: https://glottolog.org/resource/languoid/id/aral1243
+
+[WALS Online - Language Aralle-Tabulahan]
+WALS code: atb Fid Value Feature Reference Area Glottocode: aral1243 ISO 639-3: atq Coordinates WGS84 2°45'S, 119°15'E-2.75, 119.25 Spoken in: Indonesia
+URL: https://walsmpcdf.clld.org/languoid/lect/wals_code_atb
+
+[Aralle-Tabulahan - Wikidata]
+Ethnologue.com language code atq 1 reference reference URL Freebase ID /m/02hwpbg 0 references Glottolog code aral1243 2 references stated in reference URL 2 November 2017 IETF language tag atq start time 29 July 2009 1 reference stated in IANA language subtag registry retrieved 8 February 2019 publication date 29 July 2009 title Aralle ...
+URL: https://www.wikidata.org/wiki/Q4783889
+
+[Aralle-Tabulahan language - Detailed Pedia]
+Aralle-Tabulahan is an Austronesian language that belongs to the South Sulawesi subgroup. It is spoken in Mamasa Regency, West Sulawesi, Indonesia. [2] Aralle-Tabulahan has three major dialects: Aralle, Tabulahan and Mambi. The Mambi dialect is often regarded as the most divergent of the three dialects and is seen as at the centre of spectrum between the Aralle and Tabulahan dialects and the ...
+URL: https://www.detailedpedia.com/wiki-Aralle-Tabulahan_language
+
+
+=== FULL EXTRACTED CONTENT ===
+
+
+--- [Aralle-Tabulahan language - Wikipedia] ---
+Aralle-Tabulahan is an Austronesian language that belongs to the South Sulawesi subgroup. It is spoken in Mamasa Regency, West Sulawesi, Indonesia.
+
+
+--- [Glottolog 5.2 - Aralle-Tabulahan] ---
+Glottolog Languages Families Language Search References Reference Search GlottoScope About html JSON RDF serialized as n3 Newick format RDF serialized as nt PhyloXML RDF serialized as xml SVG Classification Tree RDF serialized as turtle Spoken L1 Language: Aralle-Tabulahan Classification open Aralle-Tabulahan expand all collapse all Comments on subclassification Smith, Beverly Kean 1993 Grimes, Charles E. and Grimes, Barbara D. 1987 Endangerment AES status: not endangered Source: David M. Eberhard and Gary F. Simons and Charles D. Fennig 2025 Comment: Aralle-Tabulahan (atq-atq) = 5 (Developing). Glottocode: aral1243 ISO 639-3: atq show big map Links [atq] at ISO 639-3 [atq] at OLAC [atq] at IMTVault Wikidata Wikipedia Aralle-Tabulahan at WALS Alternative names lexvo: Aralle-Tabulahan [en] wals: Aralle-Tabulahan Countries Indonesia [ID] References ⇫ Details Name Title Any field ca Year Pages Doctype ca Provider da --any-- unknown bibliographical ethnographic overview dialectology socling minimal comparative wordlist new_testament text phonology specific_feature dictionary grammar_sketch grammar --any-- anla asjp2010 bahasa benjamins bibliolux bowern cldf degruyter eballiso2009 elpub evobib fabreall2009ann gilbertese gj glossa goba guldemann haspelmath hedvig-tirailleur hh iso6393 jocp langsci lapolla-tibeto-burman ldh lewinmanx ludger-paschen-germanic marctang mpieva ofdn otomanguean ozbib phoible sala schikowski_chintang seifart sil16 silpng sn stampe weball zorcpapers zurich ×
+
+
+--- [WALS Online - Language Aralle-Tabulahan] ---
+Home Features Chapters Languages References Authors Family: Austronesian / Genus: South Sulawesi Language Aralle-Tabulahan WALS code: atb Fid Value Feature Reference Area Glottocode: aral1243 ISO 639-3: atq Coordinates WGS84 2°45'S, 119°15'E -2.75, 119.25 Spoken in: Indonesia Alternative names Ethnologue: Aralle-Tabulahan Sources McKenzie 1991 Phonology of Aralle-Tabulahan ×
+
+
+--- [Aralle-Tabulahan - Wikidata] ---
+Aralle-Tabulahan (Q4783889) Appearance language - Aralle-Tabulahan language | Language | Label | Description | Also known as | |---|---|---|---| | default for all languages | No label defined | || | English | Aralle-Tabulahan | language | | Statements 1 reference ScriptSource - Indonesia (English) 21 August 2023 1 reference Identifiers atq 29 July 2009 1 reference 8 February 2019 29 July 2009 Aralle-Tabulahan (English) Sitelinks Wikipedia(12 entries) - bclwiki Tataramon na Aralle-Tabulahan - dewiki Aralle-Tabulahan - enwiki Aralle-Tabulahan language - hawiki Harshen Aralle-Tabulahan - hrwiki Aralle-Tabulahan jezik - idwiki Bahasa Aralle-Tabulahan - igwiki Asụsụ Aralle-Tabulahan - ilowiki Pagsasao nga Aralle-Tabulahan - plwiki Język aralle-tabulahan - pmswiki Lenga aralle-tabulahan - ruwiki Аралле-табулахан - swwiki Kiaralle-Tabulahan
+
+
+--- [Aralle-Tabulahan language - Detailed Pedia] ---
+No content

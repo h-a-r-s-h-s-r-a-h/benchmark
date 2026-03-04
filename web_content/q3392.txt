@@ -1,0 +1,46 @@
+=== SEARCH SNIPPETS ===
+
+[PubChemLite - Rimegepant (C28H28F2N6O3)]
+CID 51049968 Rimegepant Structural Information Molecular Formula C28H28F2N6O3 SMILES C1C [C@H] (C2=C (C=CC=N2) [C@H] ( [C@@H]1C3=C (C (=CC=C3)F)F)N)OC (=O)N4CCC (CC4)N5C6=C (NC5=O)N=CC=C6 InChI
+URL: https://pubchemlite.lcsb.uni.lu/e/compound/51049968
+
+[Rimegepant | C28H28F2N6O3 | CID 51049968 - PubChem]
+Rimegepant is an orally available, small molecule inhibitor of the calcitonin gene-related peptide (CGRP) receptor that blocks the action of CGRP, a potent vasodilator believed to play a role in migraine headaches. Rimegepant is approved for both treatment and prevention of acute migraine attacks.
+URL: https://pubchem.ncbi.nlm.nih.gov/compound/rimegepant
+
+[Rimegepant | C28H28F2N6O3 | CID 51049968 - PubChem - NIH]
+Rimegepant | C28H28F2N6O3 | CID 51049968 - structure, chemical names, physical and chemical properties, classification, patents, literature, ...
+URL: https://pubchem.ncbi.nlm.nih.gov/compound/Rimegepant
+
+[Rimegepant - Wikipedia]
+Rimegepant, sold under the brand name Nurtec ODT among others, is a medication used for the acute treatment of migraine with or without aura in adults and the prophylactic treatment of episodic migraine in adults. [8][10] It is taken by mouth to dissolve on or under the tongue. [8]
+URL: https://en.wikipedia.org/wiki/Rimegepant
+
+[rimegepant - PubChem - NIH]
+rimegepant ; Status. Live ; Related Compounds. PubChem CID. CID 51049968 (Rimegepant) ; Dates. Deposit: 2020-03-14. Modify: 2025-12-10. Available: 2020-03-14.
+URL: https://pubchem.ncbi.nlm.nih.gov/substance/404859151
+
+
+=== FULL EXTRACTED CONTENT ===
+
+
+--- [PubChemLite - Rimegepant (C28H28F2N6O3)] ---
+CID 51049968 Rimegepant Structural Information - Molecular Formula - C28H28F2N6O3 - SMILES - C1C[C@H](C2=C(C=CC=N2)[C@H]([C@@H]1C3=C(C(=CC=C3)F)F)N)OC(=O)N4CCC(CC4)N5C6=C(NC5=O)N=CC=C6 - InChI - InChI=1S/C28H28F2N6O3/c29-20-6-1-4-17(23(20)30)18-8-9-22(25-19(24(18)31)5-2-12-32-25)39-28(38)35-14-10-16(11-15-35)36-21-7-3-13-33-26(21)34-27(36)37/h1-7,12-13,16,18,22,24H,8-11,14-15,31H2,(H,33,34,37)/t18-,22+,24-/m0/s1 - InChIKey - KRNAOFGYEFKHPB-ANJVHQHFSA-N - Compound name - [(5S,6S,9R)-5-amino-6-(2,3-difluorophenyl)-6,7,8,9-tetrahydro-5H-cyclohepta[b]pyridin-9-yl] 4-(2-oxo-3H-imidazo[4,5-b]pyridin-1-yl)piperidine-1-carboxylate - Related CIDs 2D Structure Profile Predicted Collision Cross Section | Adduct | m/z | Predicted CCS (Å²) | |---|---|---| | [M+H]+ | 535.22638 | 230.6 | | [M+Na]+ | 557.20832 | 237.6 | | [M-H]- | 533.21182 | 236.2 | | [M+NH4]+ | 552.25292 | 231.4 | | [M+K]+ | 573.18226 | 232.7 | | [M+H-H2O]+ | 517.21636 | 214.8 | | [M+HCOO]- | 579.21730 | 237.1 | | [M+CH3COO]- | 593.23295 | 234.3 | | [M+Na-2H]- | 555.19377 | 226.2 | | [M]+ | 534.21855 | 222.3 | | [M]- | 534.21965 | 222.3 |
+
+
+--- [Rimegepant | C28H28F2N6O3 | CID 51049968 - PubChem] ---
+History is littered with hundreds of conflicts over the future of a community, group, location or business that were "resolved" when one of the parties stepped ahead and destroyed what was there. With the original point of contention destroyed, the debates would fall to the wayside. Archive Team believes that by duplicated condemned data, the conversation and debate can continue, as well as the richness and insight gained by keeping the materials. Our projects have ranged in size from a single volunteer downloading the data to a small-but-critical site, to over 100 volunteers stepping forward to acquire terabytes of user-created data to save for future generations. The main site for Archive Team is at archiveteam.org and contains up to the date information on various projects, manifestos, plans and walkthroughs. This collection contains the output of many Archive Team projects, both ongoing and completed. Thanks to the generous providing of disk space by the Internet Archive, multi-terabyte datasets can be made available, as well as in use by the Wayback Machine, providing a path back to lost websites and work. Our collection has grown to the point of having sub-collections for the type of data we acquire. If you are seeking to browse the contents of these collections, the Wayback Machine is the best first stop. Otherwise, you are free to dig into the stacks to see what you may find. The Archive Team Panic Downloads are full pulldowns of currently extant websites, meant to serve as emergency backups for needed sites that are in danger of closing, or which will be missed dearly if suddenly lost due to hard drive crashes or server failures.
+
+
+--- [Rimegepant | C28H28F2N6O3 | CID 51049968 - PubChem - NIH] ---
+History is littered with hundreds of conflicts over the future of a community, group, location or business that were "resolved" when one of the parties stepped ahead and destroyed what was there. With the original point of contention destroyed, the debates would fall to the wayside. Archive Team believes that by duplicated condemned data, the conversation and debate can continue, as well as the richness and insight gained by keeping the materials. Our projects have ranged in size from a single volunteer downloading the data to a small-but-critical site, to over 100 volunteers stepping forward to acquire terabytes of user-created data to save for future generations. The main site for Archive Team is at archiveteam.org and contains up to the date information on various projects, manifestos, plans and walkthroughs. This collection contains the output of many Archive Team projects, both ongoing and completed. Thanks to the generous providing of disk space by the Internet Archive, multi-terabyte datasets can be made available, as well as in use by the Wayback Machine, providing a path back to lost websites and work. Our collection has grown to the point of having sub-collections for the type of data we acquire. If you are seeking to browse the contents of these collections, the Wayback Machine is the best first stop. Otherwise, you are free to dig into the stacks to see what you may find. The Archive Team Panic Downloads are full pulldowns of currently extant websites, meant to serve as emergency backups for needed sites that are in danger of closing, or which will be missed dearly if suddenly lost due to hard drive crashes or server failures.
+
+
+--- [Rimegepant - Wikipedia] ---
+Rimegepant, sold under the brand name Nurtec ODT among others, is a medication used for the acute treatment of migraine with or without aura in adults and the prophylactic treatment of episodic migraine in adults. It is taken by mouth to dissolve on or under the tongue. It works by blocking CGRP receptors.
+In the United States, rimegepant was approved for treating acute migraine in February 2020, and its approval was extended to preventing episodic migraine in June 2021. It is produced and marketed by Pfizer. In March 2021, rimegepant was approved for medical use in the United Arab Emirates and in Israel. It was approved for medical use in Canada in December 2023. In the United Kingdom, rimegepant is approved by NICE for the prophylaxis and treatment of acute migraine in adults. In 2023, it was the 206th most commonly prescribed medication in the United States, with more than 2 million prescriptions
+.
+
+
+--- [rimegepant - PubChem - NIH] ---
+No content

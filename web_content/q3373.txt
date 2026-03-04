@@ -1,0 +1,44 @@
+=== SEARCH SNIPPETS ===
+
+[Teotihuacan Ocelot - Wikipedia]
+The Teotihuacan Ocelot or Teotihuacán Ocelot is the name of an alabaster sculpture of a feline found at the ancient Mesoamerican site of Teotihuacan, central Mexico.
+URL: https://en.wikipedia.org/wiki/Teotihuacan_Ocelot
+
+[Teotihuacan Ocelot Facts for Kids]
+The Teotihuacan Ocelot is a cool sculpture of a big cat, like a jaguar or a puma. It was found in an ancient city called Teotihuacan in Mexico. This special artwork is made from a shiny stone called alabaster. It was discovered a long time ago, in the late 1800s. Today, you can see it at the British Museum in London.
+URL: https://kids.kiddle.co/Teotihuacan_Ocelot
+
+[Teotihuacan Ocelot — Wikipedia Republished // WIKI 2]
+The Teotihuacan Ocelot or Teotihuacán Ocelot is the name of an alabaster sculpture of a feline found at the ancient Mesoamerican site of Teotihuacan, central Mexico. Discovered in the late nineteenth century, it was purchased by the British Museum in 1926.
+URL: https://wiki2.org/en/Teotihuacan_Ocelot
+
+[About: Teotihuacan Ocelot - DBpedia Association]
+About: Teotihuacan Ocelot ; dbo:description. قطع أثرية (ar); alabaster sculpture found at Teotihuacan, Mexico (en) ; dbo:thumbnail · wiki-commons:Special:FilePath ...
+URL: https://dbpedia.org/page/Teotihuacan_Ocelot
+
+[Teotihuacan Ocelot - Art in the United Kingdom - Trek Zone]
+The Teotihuacan Ocelot is a captivating alabaster sculpture unearthed at the ancient site of Teotihuacan in central Mexico. This artwork, also referred to as the Teotihuacán Ocelot, portrays a feline, specifically an ocelot, meticulously carved from a single piece of premium alabaster. Depicted in a reclining position, the ocelot is believed to have functioned as an offering vessel. The ...
+URL: https://trek.zone/en/united-kingdom/art/teotihuacan-ocelot
+
+
+=== FULL EXTRACTED CONTENT ===
+
+
+--- [Teotihuacan Ocelot - Wikipedia] ---
+The Teotihuacan Ocelot or Teotihuacán Ocelot is the name of an alabaster sculpture of a feline found at the ancient Mesoamerican site of Teotihuacan, central Mexico. Discovered in the late nineteenth century, it was purchased by the British Museum in 1926.
+
+
+--- [Teotihuacan Ocelot Facts for Kids] ---
+Teotihuacan Ocelot facts for kids Quick facts for kids Teotihuacan Ocelot | | |---|---| | Teotihuacan Ocelot on display in the British Museum | | | Material | Calcite onyx | | Size | Height 16 cm, Length 33.5cm | | Created | 400-600 AD | | Discovered | Teotihuacan, Mexico | | Present location | British Museum, London | | Registration | Am1926-22 | The Teotihuacan Ocelot is a cool sculpture of a big cat, like a jaguar or a puma. It was found in an ancient city called Teotihuacan in Mexico. This special artwork is made from a shiny stone called alabaster. It was discovered a long time ago, in the late 1800s. Today, you can see it at the British Museum in London. Contents What is the Teotihuacan Ocelot? This amazing sculpture is shaped like an ocelot (a type of wild cat) that is lying down. It was used as a special bowl for offerings. People in ancient Teotihuacan would place gifts inside it for their gods. How was the Ocelot Sculpture Made? The artists carved this sculpture from a single piece of beautiful alabaster. This stone was very valuable back then. The sculpture's style matches other art from Teotihuacan. This includes the masks and buildings from that time. Details of the Teotihuacan Ocelot The eyes of the ocelot were once filled with shiny shells or precious stones. This would have made them sparkle! There is a dip on the cat's back. This hollow part was where the offerings were placed. Where Was the Teotihuacan Ocelot Found? A worker found this cat sculpture in 1889. It was discovered near the bottom of the huge Pyramid of the Sun in Teotihuacan. Journey to the British Museum The sculpture was first offered to a museum in Mexico. But they did not buy it. So, it was sold to an English traveler instead. Later, in 1926, the British Museum bought the sculpture. They got help from a special fund called the Christy Fund. Other Similar Discoveries Only one other similar cat statue has been found at Teotihuacan. That one is made of calcite. It is now kept in Mexico's national collection.
+
+
+--- [Teotihuacan Ocelot — Wikipedia Republished // WIKI 2] ---
+No content
+
+
+--- [About: Teotihuacan Ocelot - DBpedia Association] ---
+Browse using OpenLink Faceted Browser OpenLink Structured Data Editor LodLive Browser Formats RDF: N-Triples N3 Turtle JSON XML OData: Atom JSON Microdata: JSON HTML Embedded: JSON Turtle Other: CSV JSON-LD Faceted Browser Sparql Endpoint About: Teotihuacan Ocelot An Entity of Type: Thing , from Named Graph: http://dbpedia.org , within Data Space: dbpedia.org Alabaster sculpture found at Teotihuacan, Mexico Property Value dbo: description قطع أثرية (ar) alabaster sculpture found at Teotihuacan, Mexico (en) dbo: thumbnail wiki-commons :Special:FilePath/British_Museum_Teotihuacan_jaguar.jpg?width=300 dbo: wikiPageWikiLink dbr :Heart dbr :London dbr :Mexico dbr :British_Museum dbr :Felidae dbr :Ocelot dbr :Pyramid_of_the_Sun dbr :Teotihuacan dbr :Cuauhxicalli dbr :Jaguar dbr :Alabaster dbc :Artefacts_from_Africa,_Oceania_and_the_Americas_in_the_British_Museum dbc :Mesoamerican_artifacts dbc :Mexico–United_Kingdom_relations dbc :Ethnographic_objects_in_the_British_Museum dbc :Teotihuacan dbc :1889_archaeological_discoveries dbr :Geometric dbr :Mesoamerican dbr :Museo_Nacional_de_Antropología dbr :Ritual_sacrifice dbc :Sculptures_of_the_British_Museum dbr :File:British_Museum_Teotihuacan_jaguar.jpg dbp: created 400 (xsd:integer) dbp: discovered Teotihuacan, Mexico (en) dbp: imageCaption Teotihuacan Ocelot on display in the British Museum (en) dbp: location dbr :London dbr :British_Museum dbp: material Calcite onyx (en) dbp: name Teotihuacan Ocelot (en) dbp: registration Am1926-22 (en) dbp: size Height 16 cm, Length 33.5cm (en) dbp: wikiPageUsesTemplate dbt :Infobox_artefact dbt :Reflist dbt :Short_description dct: subject dbc :Artefacts_from_Africa,_Oceania_and_the_Americas_in_the_British_Museum dbc :Mesoamerican_artifacts dbc :Mexico–United_Kingdom_relations dbc :Ethnographic_objects_in_the_British_Museum dbc :Teotihuacan dbc :1889_archaeological_discoveries dbc :Sculptures_in_the_British_Museum gold: hypernym dbr :Sculpture rdfs: label Teotihuacan Ocelot (en) owl: sameAs freebase :Teotihuacan Ocelot yago-res :Teotihuacan Ocelot wikidata :Teotihuacan Ocelot dbpedia-global :Teotihuacan Ocelot prov: wasDerivedFrom wikipedia-en :Teotihuacan_Ocelot?oldid=1170163663&ns=0 foaf: depiction wiki-commons :Special:FilePath/British_Museum_Teotihuacan_jaguar.jpg foaf: isPrimaryTopicOf wikipedia-en :Teotihuacan_Ocelot is dbo: wikiPageWikiLink of dbr :British_Museum dbr :Pyramid_of_the_Sun dbr :Teotihuacan is foaf: primaryTopic of wikipedia-en :Teotihuacan_Ocelot This content was extracted from Wikipedia and is licensed under the Creative Commons Attribution-ShareAlike 4.0 International
+
+
+--- [Teotihuacan Ocelot - Art in the United Kingdom - Trek Zone] ---
+Facts About Teotihuacan Ocelot The Teotihuacan Ocelot is a captivating alabaster sculpture unearthed at the ancient site of Teotihuacan in central Mexico. This artwork, also referred to as the Teotihuacán Ocelot, portrays a feline, specifically an ocelot, meticulously carved from a single piece of premium alabaster. Depicted in a reclining position, the ocelot is believed to have functioned as an offering vessel. The sculpture features geometric patterns and designs that echo the funerary masks and architectural motifs characteristic of Teotihuacan. Originally, the eyes of the ocelot would have been inlaid with shells or precious stones, and a hollow depression on its back was likely intended to hold temple offerings. It is speculated that these offerings could have included human hearts used in ritual sacrifices. Discovered in 1889 by a laborer at the base of the Pyramid of the Sun in Teotihuacan, the sculpture was initially offered to the Museo Nacional but was not acquired. Subsequently, it was sold to an English traveler and ultimately made its way to the British Museum in 1926, courtesy of the Christy Fund. Interestingly, a similar sculpture made of calcite, depicting a jaguar, was also found at the site and is now part of Mexico's national collection.

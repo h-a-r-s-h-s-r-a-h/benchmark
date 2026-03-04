@@ -1,0 +1,29 @@
+
+╔══════════════════════════════════════════╗
+║      SimpleQA Benchmark Runner           ║
+╚══════════════════════════════════════════╝
+  Input CSV   : /home/harsh/Desktop/benchmark/simpleqa_full_dataset.csv
+  Output CSV  : /home/harsh/Desktop/benchmark/benchmark_results_1772648701359.csv
+  Log File    : /home/harsh/Desktop/benchmark/benchmark_results_1772648701359_log.txt
+  Content Dir : /home/harsh/Desktop/benchmark/web_content
+  Limit       : ALL
+  Start From  : 3649
+  Search Top N: 5
+
+📂 Reading dataset...
+   Total questions in dataset: 4326
+   Processing questions 3650 to 4326
+
+[3650/4326] At what place in Kashmir is the Habba Khatoon peak situated?
+  → Searching web...
+  ✓ Search done (9367ms, 5 sources, 6108 chars context)
+  → Asking LLM...
+  ✓ LLM answered (4760ms): Gurez Valley.
+  → Judging answer...
+  ✓ Verdict: CORRECT [smart-match] (0ms)
+    Expected : Gurez
+    Got      : Gurez Valley.
+  📊 Progress: 1/677 | Accuracy: 100.0%
+
+[3651/4326] What were the names of Ghulam Nabi Azad's (an Indian politician) father and moth...
+  → Searching web...

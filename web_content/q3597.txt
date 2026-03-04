@@ -1,0 +1,46 @@
+=== SEARCH SNIPPETS ===
+
+[454 Mathesis - Wikipedia]
+454 Mathesis is a main-belt asteroid that was discovered by German astronomer Friedrich Karl Arnold Schwassmann on March 28, 1900. Its provisional name was 1900 FC.
+URL: https://en.wikipedia.org/wiki/454_Mathesis
+
+[Friedrich Karl Arnold Schwassmann - Wikipedia]
+Friedrich Karl Arnold Schwassmann (25 March 1870 - 19 January 1964) was a German astronomer and a discoverer of 22 minor planets and 4 comets, who worked at AOP in Potsdam and at Bergedorf Observatory in Hamburg.
+URL: https://en.wikipedia.org/wiki/Friedrich_Karl_Arnold_Schwassmann
+
+[454 Mathesis - Mark Andrew Holmes]
+Asteroid 454, Mathesis, was discovered on March 28, 1900 by Arnold Schwassmann at Heidelberg, Germany. It has a period of 4 years, 96 days and is a little less than 51 miles in diameter. Its name is the Greek word for science; it was named in honor of the founding of the Mathematische Gesselschaft (Mathematical Society) in Hamburg, Germany in 1901.
+URL: https://www.markandrewholmes.com/mathesis.html
+
+[Astronomy:454 Mathesis - HandWiki]
+Mathesis (minor planet designation: 454 Mathesis) is a main-belt asteroid that was discovered by German astronomer Friedrich Karl Arnold Schwassmann on March 28, 1900. Its provisional name was 1900 FC. Photometric observations of this asteroid at the Altimira Observatory in 2004 gave a light curve with a period of 8.37784 ± 0.00003 hours and a brightness variation of 0.32 in magnitude. This ...
+URL: https://handwiki.org/wiki/Astronomy:454_Mathesis
+
+[454 Mathesis - Academic Dictionaries and Encyclopedias]
+454 Mathesis is an asteroid. It was discovered by Friedrich Karl Arnold Schwassmann on March 28, 1900. Its provisional name was 1900 FC.
+URL: https://en-academic.com/dic.nsf/enwiki/1337293
+
+
+=== FULL EXTRACTED CONTENT ===
+
+
+--- [454 Mathesis - Wikipedia] ---
+454 Mathesis is a main-belt asteroid that was discovered by German astronomer Friedrich Karl Arnold Schwassmann on March 28, 1900.  Its provisional name was 1900 FC.
+Photometric observations of this asteroid at the Altimira Observatory in 2004 gave a light curve with a period of 8.37784 ± 0.00003 hours and a brightness variation of 0.32 in magnitude. This differs from periods of 7.075 hours reported in 1994 and 7.745 hours in 1998.
+
+
+--- [Friedrich Karl Arnold Schwassmann - Wikipedia] ---
+Friedrich Karl Arnold Schwassmann (25 March 1870 – 19 January 1964) was a German astronomer and a discoverer of 22 minor planets and 4 comets, who worked at AOP in Potsdam and at Bergedorf Observatory in Hamburg.
+He was co-discoverer with Arno Arthur Wachmann of the periodic comets 29P/Schwassmann–Wachmann, 31P/Schwassmann–Wachmann and 73P/Schwassmann–Wachmann, and with Arno Arthur Wachmann and Leslie Peltier of the non-periodic comet C/1930 D1 (Peltier–Schwassmann–Wachmann). The main-belt asteroid 989 Schwassmannia, discovered by himself in 1922, was later named in his honor (H 94).
+
+
+--- [454 Mathesis - Mark Andrew Holmes] ---
+Asteroid 454, Mathesis, was discovered on March 28, 1900 by Arnold Schwassmann at Heidelberg, Germany. It has a period of 4 years, 96 days and is a little less than 51 miles in diameter. Its name is the Greek word for science; it was named in honor of the founding of the Mathematische Gesselschaft (Mathematical Society) in Hamburg, Germany in 1901. Asteroid Mathesis seems to indicate science or the scientific method.
+
+
+--- [Astronomy:454 Mathesis - HandWiki] ---
+Astronomy:454 Mathesis From HandWiki Short description: Main-belt asteroid | Discovery | | |---|---| | Discovered by | Friedrich Karl Arnold Schwassmann | | Discovery site | Heidelberg (024) | | Discovery date | 28 March 1900 | | Designations | | | (454) Mathesis | | | Pronunciation | /məˈθiːsɪs/[1] | | Named after | mathematics | | 1900 FC | | | Minor planet category | main belt | | Orbital characteristics[2] | | | Epoch 31 July 2016 (JD 2457600.5) | | | Uncertainty parameter 0 | | | Observation arc | 116.05 yr (42387 d) | | |{{{apsis}}}|helion}} | 2.9158 astronomical unit|AU (436.20 Gm) | | |{{{apsis}}}|helion}} | 2.3409 AU (350.19 Gm) | | 2.6284 AU (393.20 Gm) | | | Eccentricity | 0.10937 | | Orbital period | 4.26 yr (1556.4 d) | | Mean anomaly | 98.12293° | | Mean motion | 0° 13m 52.679s / day | | Inclination | 6.29209869841666° | | Longitude of ascending node | 32.29958° | | 177.3387° | | | Physical characteristics | | | Dimensions | 81.57±3.2 km | | Rotation period | 8.378 h (0.3491 d) | | Geometric albedo | 0.0555±0.005 | | Absolute magnitude (H) | 9.20 | Mathesis (minor planet designation: 454 Mathesis) is a main-belt asteroid that was discovered by German astronomer Friedrich Karl Arnold Schwassmann on March 28, 1900. Its provisional name was 1900 FC. Photometric observations of this asteroid at the Altimira Observatory in 2004 gave a light curve with a period of 8.37784 ± 0.00003 hours and a brightness variation of 0.32 in magnitude. This differs from periods of 7.075 hours reported in 1994 and 7.745 hours in 1998.[3] References - ↑ mathesis (3rd ed.), Oxford University Press, September 2005, http://oed.com/search?searchType=dictionary&q=mathesis (Subscription or UK public library membership required.) - ↑ Yeomans, Donald K., "454 Mathesis", JPL Small-Body Database Browser (NASA Jet Propulsion Laboratory), https://ssd.jpl.nasa.gov/sbdb.cgi?sstr=454, retrieved 10 May 2016. - ↑ Buchheim, Robert K. (June 2006), "Photometry of asteroids 133 Cyrene, 454 Mathesis, 477 Italia, and 2264 Sabrina", Astronomy and Astrophysics Supplement Series 33 (2): pp. 29–30, Bibcode: 2006MPBu...33...29B. External links - 454 Mathesis at AstDyS-2, Asteroids—Dynamic Site - 454 Mathesis at the JPL Small-Body Database Original source: https://en.wikipedia.org/wiki/454 Mathesis. Read more |
+
+
+--- [454 Mathesis - Academic Dictionaries and Encyclopedias] ---
+(454) mathesis — 454 Mathesis pas de photo Caractéristiques orbitales Époque 18 août 2005 (JJ 2453600.5) Demi grand axe 393,027 Gm (2,627 ua) Aphélie … Wikipédia en Français 454 Mathesis — (454) Mathesis 454 Mathesis pas de photo Caractéristiques orbitales Époque 18 août 2005 (JJ 2453600.5) Demi grand axe 393,027 Gm (2,627 ua) Aphélie … Wikipédia en Français (454) Mathesis — Caractéristiques orbitales Époque 18 août 2005 (JJ 2453600.5) Demi grand axe 393,027×106 km (2,627 ua) Aphélie 436,727×106 km (2,919 ua) Périhélie … Wikipédia en Français (454) Mathesis — Descubrimiento Descubridor A. Schwassmann Fecha 28 de marzo, 1900 Nombre Provisional 1900 FC … Wikipedia Español (454) Mathesis — Asteroid (454) Mathesis Eigenschaften des Orbits (Animation) Orbittyp Mittlerer Hauptgürtel Große Halbachse 2,628 AE … Deutsch Wikipedia Mathesis (Asteroid) — Asteroid (454) Mathesis Eigenschaften des Orbits (Simulation) Orbittyp Hauptgürtelasteroid Große Halbachse 2,6273 … Deutsch Wikipedia Liste der Asteroiden – Hauptgürtel 1–500 — Die nachfolgende Tabelle enthält eine Teilliste der Asteroidenübersicht. Die in der ersten Spalte aufgeführten Ziffern geben die Reihenfolge ihrer endgültigen Katalogisierung an, dienen als Identifikationsnummer und gelten als Bestandteil des… … Deutsch Wikipedia Arnold Schwassmann — Friedrich Karl Arnold Schwassmann (* 25. März 1870 in Hamburg; † 19. Januar 1964) war ein deutscher Astronom. Schwassmann promovierte nach dem Studium in Leipzig und Berlin 1891 in Göttingen. Er ging 1897 an die neue Heidelberger Sternwarte auf… … Deutsch Wikipedia Schwassmann — Friedrich Karl Arnold Schwassmann (* 25. März 1870 in Hamburg; † 19. Januar 1964) war ein deutscher Astronom. Schwassmann promovierte nach dem Studium in Leipzig und Berlin 1891 in Göttingen. Er ging 1897 an die neue Heidelberger Sternwarte auf… … Deutsch Wikipedia Астероиды — I (планетоиды, малые планеты) суть тела, обращающиеся около солнца, подобно большим планетам, и находящиеся в промежутке между Марсом и Юпитером. Открытие А. представляет чрезвычайно любопытный факт в истории астрономии, так как существование… … Энциклопедический словарь Ф.А. Брокгауза и И.А. Ефрона

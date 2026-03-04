@@ -1,0 +1,44 @@
+=== SEARCH SNIPPETS ===
+
+[2017 IEEE Honors: IEEE Spectrum Technology in the Service of Society ...]
+May 31, 2017 · Following the Honors Ceremony introductions with 2017 IEEE President Karen Bartleson and 2017 President-Elect Jim Jeffries, the IIT-M (Indian Institute of Technology Madras) accepts the Spectrum Technology in the Service of Society Award for bringing solar powered micro-grid access to about one thousand homes without electricity in three cities and multiple villages in India.
+URL: https://ieeetv.ieee.org/ieeetv-specials/indian-institute-of-technology-madras-accepts-the-spectrum-technology-in-the-service-of-society-award-honors-ceremony-2017
+
+[IIT-M solar inverter system wins 2017 IEEE Spectrum Technology Award]
+Indian Institute of Technology (IIT)-Madras has won the 2017 IEEE Spectrum Technology in the Service of Society Award for its solar-direct current (DC) inverter system. The system was developed by Centre for Decentralised Power Systems at IIT-M using micro grid technology. Key Facts The system converts in-home power distribution from 230V Analog Current (AC) to 48V DC to directly power ...
+URL: https://www.gktoday.in/iit-m-solar-inverter-system-wins-2017-ieee-spectrum-technology-award/
+
+[IIT, Madras wins IEEE Spectrum Technology in the Service of Society ...]
+Mar 2, 2017 · The Indian Institute of Technology, Madras has won the IEEE Spectrum Technology in the Service of Society Award 2017, for its solar direct current (DC) inverter system. The system is used for microgrids, wherein it helps in converting 230 Volts alternating current (AC) to 48 Volts DC in order to directly power appliances and devices in households. The system helps tap rooftop solar power and ...
+URL: https://renewablewatch.in/2017/03/02/iit-madras-wins-ieee-spectrum-technology-in-the-service-of-society-award-2017/
+
+[IIT-M solar inverter system wins award - The HinduBusinessLine]
+Mar 8, 2017 · Indian Institute of Technology-Madras has won the 2017 IEEE Spectrum Technology in the Service of Society Award for its solar-direct current (DC) inverter system.
+URL: https://www.thehindubusinessline.com/news/national/iitm-solar-inverter-system-wins-award/article9576114.ece
+
+[IEEE Awards Booklet - 2017 - 6 - nxtbook.com]
+Experience our interactive, profoundly engaging digital publication! 2017 IEEE SPECTRUM CORPORATE AWARDS IEEE Corporate Innovation Award IEEE Spectrum Technology in the Service of Society Award Sponsored by IEEE Sponsored by IEEE Spectrum Indian Institute of Technology (IIT) Madras Analog Devices, Inc. The Indian Institute of Technology Madras (IIT-M), in conjunction with industrial partners ...
+URL: https://www.nxtbook.com/nxtbooks/ieee/awards_2017/index.php?startid=6
+
+
+=== FULL EXTRACTED CONTENT ===
+
+
+--- [2017 IEEE Honors: IEEE Spectrum Technology in the Service of Society ...] ---
+2017 IEEE Honors: IEEE Spectrum Technology in the Service of Society Award - Indian Institute of Technology Madras Following the Honors Ceremony introductions with 2017 IEEE President Karen Bartleson and 2017 President-Elect Jim Jeffries, the IIT-M (Indian Institute of Technology Madras) accepts the Spectrum Technology in the Service of Society Award. IIT-M is recognized for bringing solar powered micro-grid access to about one thousand homes without electricity in three cities and multiple villages in India. This low-maintenance solution eliminates their dependency on expensive diesel fuel and the grid. View the official program link for more details http://online.qmags.com/IEEEAwards17#pg9&mode2 Read more about the IEEE Honors Ceremony at https://www.ieee.org/about/awards/honors_ceremony.html Following the Honors Ceremony introductions with 2017 IEEE President Karen Bartleson and 2017 President-Elect Jim Jeffries, the IIT-M (Indian Institute of Technology Madras) accepts the Spectrum Technology in the Service of Society Award for bringing solar powered micro-grid access to about one thousand homes without electricity in three cities and multiple villages in India.
+
+
+--- [IIT-M solar inverter system wins 2017 IEEE Spectrum Technology Award] ---
+IIT-M solar inverter system wins 2017 IEEE Spectrum Technology Award Indian Institute of Technology (IIT)-Madras has won the 2017 IEEE Spectrum Technology in the Service of Society Award for its solar-direct current (DC) inverter system. The system was developed by Centre for Decentralised Power Systems at IIT-M using micro grid technology. Key Facts - The system converts in-home power distribution from 230V Analog Current (AC) to 48V DC to directly power appliances and devices. - It is equipped to tap rooftop solar power, making it most energy efficient solution for homes and offices. It also consists of DC solar generation, DC power-line, DC appliances and battery. - It has been currently deployed in 4,000 off-grid homes in Jodhpur and Jaisalmer in Rajasthan and also deployed in around 7,200 homes in Assam. - It also has been installed in villages in Karnataka, Odisha, Tamil Nadu, Andhra Pradesh and Telangana. IEEE Spectrum Technology in the Service of Society Award: It is presented to the company/institution voted by IEEE (Institute of Electrical and Electronics Engineers) Spectrum editors as having developed the technology that has the potential to benefit mankind.
+
+
+--- [IIT, Madras wins IEEE Spectrum Technology in the Service of Society ...] ---
+No content
+
+
+--- [IIT-M solar inverter system wins award - The HinduBusinessLine] ---
+Indian Institute of Technology-Madras has won the 2017 IEEE Spectrum Technology in the Service of Society Award for its solar-direct current (DC) inverter system. The system, developed using micro grid technology, converts in-home power distribution from 230V Analog Current to 48V DC to directly power appliances and devices. The system is also equipped to tap rooftop solar power, making it the most energy efficient solution for homes and offices, according to a press release. It was developed by Centre for Decentralised Power Systems at IIT-M. The system consists of DC solar generation, DC power-line, DC appliances and battery. Currently, the system has been deployed in 4,000 off-grid homes in Jodhpur and Jaisalmer in Rajasthan and is being deployed in around 7,200 homes in Assam. The inverter system has been installed in villages in Karnataka, Tamil Nadu, Odisha, Andhra Pradesh and Telangana. With energy efficiency becoming a mantra, many offices and homes are using DC to power devices and appliances using existing AC power-lines. This requires an AC to DC converter, which adds to the losses, cost and unreliability. So solar-DC is a viable and cost-effective solution for powering homes in remote off-grid areas, due to its reliability, affordability and its operation without dependency on grid. The IEEE Spectrum Technology in the Service of Society Award is presented to the company/institution voted by IEEE Spectrum editors as having developed the technology that has the potential to benefit mankind. Published on March 8, 2017
+
+
+--- [IEEE Awards Booklet - 2017 - 6 - nxtbook.com] ---
+No content

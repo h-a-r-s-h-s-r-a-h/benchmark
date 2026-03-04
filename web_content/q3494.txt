@@ -1,0 +1,44 @@
+=== SEARCH SNIPPETS ===
+
+[Oesper Award - Wikipedia]
+The Ralph and Helen Oesper Award or Oesper Award was first given in 1981 by the University of Cincinnati and the Cincinnati Section of the American Chemical Society. The award recognizes "outstanding chemists for lifetime significant accomplishments in the field of chemistry with long-lasting impact on the chemical sciences". [1] It was established with a bequest from Ralph E. Oesper and his ...
+URL: https://en.wikipedia.org/wiki/Oesper_Award
+
+[Previous Recipients of the Oesper Award | University of Cincinnati]
+College of Arts and Sciences » Natural Sciences » Chemistry » News and Events » The Oesper Award Program and Symposium »
+URL: https://www.artsci.uc.edu/natural-sciences/chemistry/news-events/the-oesper-award-program-and-symposium/previous-recipients-of-the-oesper-award.html
+
+[Oesper Award Explained]
+The Ralph and Helen Oesper Award or Oesper Award was first given in 1981 by the University of Cincinnati and the Cincinnati Section of the American Chemical Society. The award recognizes "outstanding chemists for lifetime significant accomplishments in the field of chemistry with long-lasting impact on the chemical sciences". It was established with a bequest from Ralph E. Oesper and his wife ...
+URL: https://everything.explained.today/Oesper_Award/
+
+[Compare files - datasets/SimpleQA]
+What is the surname of the individual who won the Oesper Award in 1988? ... What is the surname of the individual who won the Oesper Award in 1983? {'topic ...
+URL: https://www.oxen.ai/datasets/SimpleQA/compare/file/4eecd6b834e7dd92561b173244a2fa38..d634d44e7826259e4e5289ef2c6fe122/simple_qa_test_set.parquet?page=35
+
+[Oesper Award - Wikiwand]
+The Ralph and Helen Oesper Award or Oesper Award was first given in 1981 by the University of Cincinnati and the Cincinnati Section of the American Chemical Society. The award recognizes "outstanding chemists for lifetime significant accomplishments in the field of chemistry with long-lasting impact on the chemical sciences". [1] It was established with a bequest from Ralph E. Oesper and his ...
+URL: https://www.wikiwand.com/en/articles/Oesper_Award
+
+
+=== FULL EXTRACTED CONTENT ===
+
+
+--- [Oesper Award - Wikipedia] ---
+The Ralph and Helen Oesper Award or Oesper Award was first given in 1981 by the  University of Cincinnati and the Cincinnati Section of the American Chemical Society. The award recognizes "outstanding chemists for lifetime significant accomplishments in the field of chemistry with long-lasting impact on the chemical sciences". It was established with a bequest from Ralph E. Oesper and his wife, Helen Wilson Oesper.
+
+
+--- [Previous Recipients of the Oesper Award | University of Cincinnati] ---
+Previous Recipients of the Oesper Award | Year | Awardee | | 2025 | Melanie Sanford | | 2024 | Claudia Turro | | 2023 | Miguel Garcia-Garibay | | 2022 | Martin Moskovits | | 2021 | James M. Tour | | 2020 | Nicholas A. Peppas | | 2019 | R. Mark Wightman | | 2018 | Dave Thirumalai | | 2017 | Matthew Platz | | 2016 | Maurice Brookhart | | 2015 | Karen L. Wooley | | 2014 | Isiah M. Warner | | 2013 | Richard Eisenberg | | 2012 | Gary Hieftje | | 2011 | Charles P. Casey | | 2010 | Kurt Wüthrich (Nobel, 2002) | | 2009 | Susan Lindquist | | 2008 | Alan G. Marshall | | 2007 | James P. Collman | | 2006 | Richard N. Zare | | 2005 | V. Adrian Parsegian | | 2004 | George M. Whitesides | | 2003 | Alan G. MacDiarmid (Nobel, 2000) | | 2002 | Royce W. Murray | | 2001 | Harry B. Gray | | 2000 | Mildred Cohn | | 1999 | George Hammond | | 1998 | Jerome A. Berson | | 1997 | Rudolph A. Marcus (Nobel, 1992) | | 1996 | Ralph N. Adams | | 1995 | Gregory R. Choppin | | 1994 | Klaus Biemann | | 1993 | James D. Winefordner | | 1992 | Walter H. Stockmayer | | 1991 | Derek H. A. Barton (Nobel, 1969) | | 1990 | Herbert C. Brown (Nobel, 1979) | | 1989 | Allen J. Bard | | 1988 | Konrad E. Bloch (Nobel, 1964; Medicine) | | 1987 | George C. Pimentel | | 1986 | Henry Taube (Nobel, 1983) | | 1985 | Fred McLafferty | | 1984 | John A. Pople (Nobel, 1998) | | 1983 | Fred Basolo | | 1982 | John C. Sheehan | | 1981 | Melvin Calvin (Nobel, 1961) |
+
+
+--- [Oesper Award Explained] ---
+No content
+
+
+--- [Compare files - datasets/SimpleQA] ---
+Home Repositories Models Docs Blog Pricing Login Sign up Repositories Models Blog Community Pricing Search Docs LOG IN SIGN UP datasets / SimpleQA Data Branches Evaluations Fine-tune simple_qa_test_set.parquet comparing changes between versions 4eecd6b834e7dd92561b173244a2fa38 d634d44e7826259e4e5289ef2c6fe122 Base Diff Head Schema 4 columns, 3401-3500 of 4326 rows 4326 total rows 4326 Row details Copyright © 2026 Oxen Labs, Inc., All Rights Reserved Careers Privacy Policy Terms and Conditions
+
+
+--- [Oesper Award - Wikiwand] ---
+English Sign in Top Qs Timeline Chat Perspective All Articles Dictionary Quotes Map Remove ads Loading article...

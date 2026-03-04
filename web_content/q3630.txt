@@ -1,0 +1,58 @@
+=== SEARCH SNIPPETS ===
+
+[Acidalia virginaria Imaidzumi, 1941 - GBIF]
+Dataset GBIF Backbone Taxonomy Rank SPECIES Classification kingdom Animalia phylum Arthropoda class Insecta order Lepidoptera family Geometridae genus Scopula species Scopula modicaria Name Homonyms Acidalia virginaria Imaidzumi, 1941
+URL: https://www.gbif.org/species/12062160
+
+[Scopula modicaria]
+Genus: Scopula. Species: S. modicaria. Binomial name. Scopula modicaria. (Leech, 1897). Synonyms. Acidalia modicaria Leech, 1897; Acidalia virginaria Imaidzumi, ...
+URL: https://en.wikipedia.org/wiki/Scopula_modicaria
+
+[Binomial nomenclature - Wikipedia]
+Binomial nomenclature for species has the effect that when a species is moved from one genus to another, sometimes the specific name or epithet must be changed as well. This may happen because the specific name is already used in the new genus, or to agree in gender with the new genus if the specific epithet is an adjective modifying the genus name. Some biologists have argued for the ...
+URL: https://en.wikipedia.org/wiki/Binomial_nomenclature
+
+[Arthur William Bacot]
+He developed breeding experiments with the geometrid moth Acidalia virginaria (binomial name Scopula modicaria). As a result of this he gave details in a ...
+URL: https://en.wikipedia.org/wiki/Arthur_William_Bacot
+
+[Acidalia - Biota of NZ - Manaaki Whenua]
+Taxonomic and nomenclatural information for the scientific name: Acidalia. Provided by Ko te Aitanga Pepeke o Aotearoa through the Biota of NZ.
+URL: https://biotanz.landcareresearch.co.nz/scientific-names/b29e3798-2ec0-4ca3-9396-52148fd5b2f1
+
+
+=== FULL EXTRACTED CONTENT ===
+
+
+--- [Acidalia virginaria Imaidzumi, 1941 - GBIF] ---
+No content
+
+
+--- [Scopula modicaria] ---
+Scopula modicaria is a moth of the family Geometridae. It was described by John Henry Leech in 1897. It is found in China, the Russian Far East, Korea and Japan.
+The wingspan is 19–30 millimetres (0.75–1.18 in).
+
+
+--- [Binomial nomenclature - Wikipedia] ---
+In taxonomy, binomial nomenclature ("two-term naming system"), also called binary nomenclature, is a formal system of naming species of living things by giving each a name composed of two parts, both of which use Latin grammatical forms, although they can be based on words from other languages. Such a name is called a binomial name (often shortened to just "binomial"), a binomen, binominal name, or a scientific name; more informally, it is also called a Latin name. In the International Code of Zoological Nomenclature (ICZN), the system is also called binominal nomenclature, with an "n" before the "al" in "binominal", which is not a typographic error, meaning "two-name naming system".
+The first part of the name – the generic name – identifies the genus to which the species belongs, whereas the second part – the specific name or specific epithet – distinguishes the species within the genus. For example, modern humans belong to the genus Homo and within this genus to the species Homo sapiens. The formal introduction of this system of naming species is credited to Carl Linnaeus, effectively beginning with his work Species Plantarum in 1753. But as early as 1622, Gaspard Bauhin introduced in his book Pinax theatri botanici (English, Illustrated Exposition of Plants) containing many names of genera that were later adopted by Linnaeus. Binomial nomenclature was introduced in order to provide succinct, relatively stable and verifiable names that could be used and understood internationally, unlike common names which are usually different in every language.
+The application of binomial nomenclature is now governed by various internationally agreed codes of rules, of which the two most important are the International Code of Zoological Nomenclature (ICZN) for animals and the International Code of Nomenclature for algae, fungi, and plants (ICNafp or ICN). Although the general principles underlying binomial nomenclature are common to these two codes, there are some differences in the terminology they use and their particular rules.
+In modern usage, the first letter of the generic name is always capitalized in writing, while that of the specific epithet is not, even when derived from a proper noun such as the name of a person or place. Similarly, both parts are italicized in normal text (or underlined in handwriting). Thus the binomial name of the annual phlox (named after botanist Thomas Drummond) is now written as Phlox drummondii. Often, after a species name is introduced in a text, the generic name is abbreviated to the first letter in subsequent mentions (e.g., P. drummondii).
+In scientific works, the authority for a binomial name is usually given, at least when it is first mentioned, and the year of publication may also be specified.
+
+In zoology
+"Patella vulgata Linnaeus, 1758". The name "Linnaeus" tells the reader who published the name, and description for this species; 1758 is the year the name and original description were published (in this case, in the 10th edition of the book Systema Naturae).
+"Passer domesticus (Linnaeus, 1758)". The original name given by Linnaeus was Fringilla domestica; the parentheses indicate that the species is now placed in a different genus. The ICZN does not require that the name of the person who changed the genus be given, nor the date on which the change was made, although nomenclatorial catalogs usually include such information.
+In botany
+"Amaranthus retroflexus L." – "L." is the standard abbreviation used for "Linnaeus".
+"Hyacinthoides italica (L.) Rothm." – Linnaeus first named this bluebell species Scilla italica; Rothmaler transferred it to the genus Hyacinthoides; the ICNafp does not require that the dates of either publication be specified.
+
+
+
+
+--- [Arthur William Bacot] ---
+Arthur William Bacot (28 April 1866 – 12 April 1922) was an entomologist at the Lister Institute of Preventive Medicine.
+
+
+--- [Acidalia - Biota of NZ - Manaaki Whenua] ---
+Acidalia Details Acidalia Acidalia Nomenclature illegitimate, invalidly published genus Acidalia Classification Metadata b29e3798-2ec0-4ca3-9396-52148fd5b2f1 scientific name Names_NZAC 23 February 2016 30 October 2023
