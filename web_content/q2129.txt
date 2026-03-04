@@ -1,0 +1,47 @@
+=== SEARCH SNIPPETS ===
+
+[Foxtel - Wikipedia]
+On 20 May 2010, Foxtel and Microsoft announced a new way of receiving Foxtel through Xbox 360's online service Xbox LIVE. The service launched November 2010 with 30+ channels and an additional 12 Video-on-demand channels. It also provided Foxtel's movie service, known as Foxtel On Demand, to ...
+URL: https://en.wikipedia.org/wiki/Foxtel
+
+[Foxtel On Xbox 360 Packages ! - TV - Free to Air & Streaming - StereoNET]
+Foxtel on Xbox 360 Foxtel on Xbox 360 Packages 18 10 2010 Christmas holiday season is creeping closer and so is the launch of Foxtel on Xbox 360. Today Foxtel and Microsoft have announced the channels and packaging that will be available on the service when it launches next month. In addition to ...
+URL: https://www.stereonet.com/forums/topic/215223-foxtel-on-xbox-360-packages/
+
+[​Microsoft opens Foxtel Play to all Xbox 360 users - CNET]
+Microsoft has announced that gamers will no longer be required to have a paid Xbox Live Gold Membership to access Foxtel Play. Previously, users who wanted to access the paid Foxtel Play service were also required to maintain an Xbox Live Gold ...
+URL: https://www.cnet.com/tech/gaming/microsoft-opens-foxtel-play-to-all-xbox-360-users/
+
+[Aussie pay TV service announced for Xbox 360 - GameSpot]
+icrosoft has bounced back quickly, however, today unveiling a partnership with subscription TV provider Foxtel to stream a limited selection of channels to the Xbox 360 through a new service called Foxtel by Xbox Live.
+URL: https://www.gamespot.com/articles/aussie-pay-tv-service-announced-for-xbox-360/1100-6263130/
+
+[Foxtel Play gets an early launch | TechRadar]
+Announced earlier this year, Foxtel ... its official launch, which was slated for mid-August. The IPTV service is offered on month-to-month plans through Foxtel's new app, which will be replacing the older Xbox 360 app...
+URL: https://www.techradar.com/news/television/tv/foxtel-play-gets-an-early-launch-1169521
+
+
+=== FULL EXTRACTED CONTENT ===
+
+
+--- [Foxtel - Wikipedia] ---
+NXE Australia Pty Ltd, trading as the Foxtel Group, is an Australian pay television company that operates direct broadcast satellite television, and IPTV streaming services. It was formed in April 2018, superseding an earlier company from 1995. The service was established as a 50/50 joint venture between News Corp Australia (which held a controlling 65% stake) and Telstra (which held the remaining 35%).
+Since 2025, the company is owned by DAZN. It shares many features with the Sky service in the UK and Ireland – including the iQ box, the electronic programme guide, a similar remote control, and Red Button Active.
+
+
+
+
+--- [Foxtel On Xbox 360 Packages ! - TV - Free to Air & Streaming - StereoNET] ---
+No content
+
+
+--- [​Microsoft opens Foxtel Play to all Xbox 360 users - CNET] ---
+Microsoft has announced that gamers will no longer be required to have a paid Xbox Live Gold Membership to access Foxtel Play. Previously, users who wanted to access the paid Foxtel Play service were also required to maintain an Xbox Live Gold membership. However, users will now be able to stream live or catch-up TV over the internet using just their Xbox 360 and an internet connection (with a speed of at least 3 Mbps). Foxtel Play's packages feature more than 45 live channels including Fox Sports, movie channels and special interest channels such as History, Discovery and MTV. Users can also access Foxtel Go through their subscription, allowing them to watch content on up to two additional iOS and Android devices. New subscribers are also eligible for a 14-day trial, and users can subscribe from month to month.
+
+
+--- [Aussie pay TV service announced for Xbox 360 - GameSpot] ---
+Aussie pay TV service announced for Xbox 360 Foxtel launches partnership with Microsoft to bring streaming subscription television to Microsoft's console in late 2010. The console multimedia tug of war between Sony and Microsoft has heated up in Australia recently, with the last salvo being Sony's launch earlier this week of its new video delivery service for the PlayStation Network. Microsoft has bounced back quickly, however, today unveiling a partnership with subscription TV provider Foxtel to stream a limited selection of channels to the Xbox 360 through a new service called Foxtel by Xbox Live. The new service will allow Xbox 360 owners with a Live Gold subscription to stream specific Foxtel channels to the console and bypass the set-top box normally associated with pay TV. Other details are scarce at this stage, with no confirmation on pricing for the subscription required for Foxtel by Xbox Live. But Microsoft has stated via a press release that it plans on launching the service in the fourth quarter of 2010. An existing Foxtel subscription isn't required to use the service, but it does allow current Foxtel subscribers the ability to turn their consoles into an additional set-top box for specific channels. The confirmed channels that Xbox 360 owners will be able to access are Fox Sports, Discovery, Nickelodeon, Disney, and MTV. At a Foxtel press conference this morning, Microsoft representatives said that the company was in talks with two Australian Internet Service Providers to offer Foxtel by Xbox Live unmetered. One of the biggest hurdles facing video streaming services in Australia is the download cap that nearly all Aussie broadband providers place on their subscribers. Stay tuned to GameSpot AU for more details on Foxtel by Xbox Live as they arise. GameSpot may get a commission from retail offers. Got a news tip or want to contact us directly? Email news@gamespot.com
+
+
+--- [Foxtel Play gets an early launch | TechRadar] ---
+Foxtel Play gets an early launch New IPTV options now available Sign up for breaking news, reviews, opinion, top tech deals, and more. You are now subscribed Your newsletter sign-up was successful Announced earlier this year, Foxtel Play has finally gone live today for PC, Mac, Xbox 360 and certain smart Samsung TVs ahead of its official launch, which was slated for mid-August. The IPTV service is offered on month-to-month plans through Foxtel's new app, which will be replacing the older Xbox 360 app. Subscribers will also be able to access Foxtel Go on tablets and phones, with Foxtel Play having access to 40 live channels, as well as on-demand and catch-up services. Foxtel has plans to expand Play to LG smart TVs in the future as well, and each package will come with Sky News, Sky News Business, Fox Sports News, Channel V and V Hits. Play packages Foxtel Play will come in four genre-based packages, with one package to cost $25, two to cost $35, $45 for three and $50 for all four. The Entertainment package will include Arena, Comedy, Fox 8, LifeStyle, MTV, You and TV1, while the Drama package will have BBC UKTV, FX, SF, SoHo and Universal. The Documentary package will have A&E, BBC Knowledge, Discovery, History, Nat Geo, Nat Geo Adventure and Turbo Max, and the Kids package will include Baby TV, Boomerang, Cartoon Network, Disney, Disney Junior and Nickelodeon. Sign up for breaking news, reviews, opinion, top tech deals, and more. Extra Sports and Movies packages are available and can be added on for $25 each, but you won't be able to subscribe to these two on their own. As we've mentioned earlier, this means that the minimum spend would $25 month, while if you want the whole suite of programming, it will cost you $100 a month. The bonus here is that there are no lock-in contracts, and you could essentially get rid of the kids or entertainment packages during school terms, or add on the sports package for the world cup.

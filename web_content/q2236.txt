@@ -1,0 +1,46 @@
+=== SEARCH SNIPPETS ===
+
+[Nina Amenta - Wikipedia]
+Annamaria Beatrice " Nina " Amenta is an American computer scientist who works as the Tim Bucher Family Professor of Computer Science and the chair of the Computer Science Department at the University of California, Davis. [1][2] She specializes in computational geometry and computer graphics, and is particularly known for her research in ...
+URL: https://en.wikipedia.org/wiki/Nina_Amenta
+
+[Nina Amenta - Wikiwand]
+Annamaria Beatrice " Nina " Amenta is an American computer scientist who works as the Tim Bucher Family Professor of Computer Science and the chair of the Computer Science Department at the University of California, Davis. [1][2] She specializes in computational geometry and computer graphics, and is particularly known for her research in ...
+URL: https://www.wikiwand.com/en/articles/Nina_Amenta
+
+[Biography:Nina Amenta - HandWiki]
+Annamaria Beatrice "Nina" Amenta is an American computer scientist who works as the Tim Bucher Family Professor of Computer Science and the chair of the Computer Science Department at the University of California, Davis. She specializes in computational geometry and computer graphics, and is particularly...
+URL: https://handwiki.org/wiki/Biography:Nina_Amenta
+
+[Nina Amenta Explained]
+Annamaria Beatrice " Nina " Amenta is an American computer scientist who works as the Tim Bucher Family Professor of Computer Science and the chair of the Computer Science Department at the University of California, Davis. [1] She specializes in computational geometry and computer graphics, and is particularly known for her research in reconstructing surfaces from scattered data points. [2] [3 ...
+URL: https://everything.explained.today/Nina_Amenta/
+
+[Nina Amenta - Alchetron, The Free Social Encyclopedia]
+Annamaria Beatrice (Nina) Amenta is an American computer scientist who works as the Tim Bucher Family Professor of Computer Science and the chair of the Computer Science Department at the University of California, Davis. She specializes in computational geometry and computer graphics, and is particularly known for her research in reconstructing surfaces from scattered data points.
+URL: https://alchetron.com/Nina-Amenta
+
+
+=== FULL EXTRACTED CONTENT ===
+
+
+--- [Nina Amenta - Wikipedia] ---
+Annamaria Beatrice "Nina" Amenta is an American computer scientist who works as the Tim Bucher Family Professor of Computer Science and the chair of the Computer Science Department at the University of California, Davis. She specializes in computational geometry and computer graphics, and is particularly known for her research in reconstructing surfaces from scattered data points.
+Amenta grew up in Pittsburgh, and majored in classical civilization at Yale University, graduating in 1979. After working for over ten years as a computer programmer, she returned to graduate school, and earned her Ph.D. in 1994 from the University of California, Berkeley with a thesis on relations between Helly's theorem and generalized linear programming, supervised by Raimund Seidel. After postdoctoral study at The Geometry Center and Xerox PARC, she became a faculty member at the University of Texas at Austin, and moved to Davis in 2002. She became the Bucher Professor and department chair in 2013.
+Amenta was co-chair of the Symposium on Computational Geometry in 2006, with Otfried Cheong.
+
+
+--- [Nina Amenta - Wikiwand] ---
+No content
+
+
+--- [Biography:Nina Amenta - HandWiki] ---
+Biography:Nina Amenta Nina Amenta | | |---|---| | Alma mater | Yale University University of California, Berkeley | | Known for | 3D surface reconstruction | | Scientific career | | | Fields | Computer Science | | Institutions | University of Texas at Austin University of California, Davis | | Doctoral advisor | Raimund Seidel | Annamaria Beatrice "Nina" Amenta is an American computer scientist who works as the Tim Bucher Family Professor of Computer Science and the chair of the Computer Science Department at the University of California, Davis.[1][2] She specializes in computational geometry and computer graphics, and is particularly known for her research in reconstructing surfaces from scattered data points.[2][3] Amenta grew up in Pittsburgh, and majored in classical civilization at Yale University,[2] graduating in 1979.[2][4] After working for over ten years as a computer programmer, she returned to graduate school,[2] and earned her Ph.D. in 1994 from the University of California, Berkeley with a thesis on relations between Helly's theorem and generalized linear programming, supervised by Raimund Seidel.[5] After postdoctoral study at The Geometry Center and Xerox PARC, she became a faculty member at the University of Texas at Austin, and moved to Davis in 2002. She became the Bucher Professor and department chair in 2013.[2] Amenta was co-chair of the Symposium on Computational Geometry in 2006, with Otfried Cheong.[6] References - ↑ Department people, Computer Science, UC Davis, retrieved 2015-06-29. - ↑ 2.02.12.22.32.42.5 Fish, Corinna (Spring 2015), "From pines to pixels: 3-D modeling research by Nina Amenta helps map evolutionary trees and the surface of forests", UC Davis Magazine 32 (2), http://magazinearchive.ucdavis.edu/issues/sp15/pines_to_pixels.html. - ↑ Dey, Tamal K. (2006), Curve and Surface Reconstruction: Algorithms with Mathematical Analysis, Cambridge Monographs on Applied and Computational Mathematics, 23, Cambridge University Press, p. 77, ISBN 9781139460682, https://books.google.com/books?id=v_OyHkgVnnUC&pg=PA77, "The first algorithm for surface reconstruction with proved guarantees was devised by Amenta and Bern". - ↑ Amenta, Annamaria Beatrice (1993), Helly Theorems and Generalized Linear Programming, http://web.cs.ucdavis.edu/~amenta/pubs/ninathesis.pdf. - ↑ Nina Amenta at the Mathematics Genealogy Project - ↑ Proceedings of the twenty-second annual symposium on Computational geometry, Association for Computing Machinery, retrieved 2015-06-29. External links Original source: https://en.wikipedia.org/wiki/Nina Amenta. Read more |
+
+
+--- [Nina Amenta Explained] ---
+No content
+
+
+--- [Nina Amenta - Alchetron, The Free Social Encyclopedia] ---
+Name Nina Amenta | || John liechty nina amenta Annamaria Beatrice (Nina) Amenta is an American computer scientist who works as the Tim Bucher Family Professor of Computer Science and the chair of the Computer Science Department at the University of California, Davis. She specializes in computational geometry and computer graphics, and is particularly known for her research in reconstructing surfaces from scattered data points. Amenta grew up in Pittsburgh, and majored in classical civilization at Yale University, graduating in 1979. After working for over ten years as a computer programmer, she returned to graduate school, and earned her Ph.D. in 1994 from the University of California, Berkeley with a thesis on relations between Helly's theorem and generalized linear programming, supervised by Raimund Seidel. After postdoctoral study at The Geometry Center and Xerox PARC, she became a faculty member at the University of Texas at Austin, and moved to Davis in 2002. She became the Bucher Professor and department chair in 2013. Amenta was co-chair of the Symposium on Computational Geometry in 2006, with Otfried Cheong.

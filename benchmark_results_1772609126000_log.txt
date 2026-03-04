@@ -1,0 +1,40 @@
+
+╔══════════════════════════════════════════╗
+║      SimpleQA Benchmark Runner           ║
+╚══════════════════════════════════════════╝
+  Input CSV   : /home/harsh/Desktop/benchmark/simpleqa_full_dataset.csv
+  Output CSV  : /home/harsh/Desktop/benchmark/benchmark_results_1772609126000.csv
+  Log File    : /home/harsh/Desktop/benchmark/benchmark_results_1772609126000_log.txt
+  Content Dir : /home/harsh/Desktop/benchmark/web_content
+  Limit       : ALL
+  Start From  : 2241
+  Search Top N: 5
+
+📂 Reading dataset...
+   Total questions in dataset: 4326
+   Processing questions 2242 to 4326
+
+[2242/4326] Until what month and year did Gerald Ford serve as the Honorary Grand Master of ...
+  → Searching web...
+  ✓ Search done (14756ms, 5 sources, 6051 chars context)
+  → Asking LLM...
+  ✓ LLM answered (1542ms): January 1977.
+  → Judging answer...
+  ✓ Verdict: CORRECT [smart-match] (1ms)
+    Expected : Jan-77
+    Got      : January 1977.
+  📊 Progress: 1/2085 | Accuracy: 100.0%
+
+[2243/4326] According to Medland, Sarah E.; Loesch, Danuta Z.; Mdzewski, Bogdan; Zhu, Gu; Mo...
+  → Searching web...
+  ✓ Search done (13256ms, 5 sources, 6114 chars context)
+  → Asking LLM...
+  ✓ LLM answered (1349ms): 5q14.1
+  → Judging answer...
+  ✓ Verdict: CORRECT [smart-match] (0ms)
+    Expected : 5q14.1
+    Got      : 5q14.1
+  📊 Progress: 2/2085 | Accuracy: 100.0%
+
+[2244/4326] What were the day, month, and year when Instagram introduced comment liking?
+  → Searching web...

@@ -1,0 +1,47 @@
+=== SEARCH SNIPPETS ===
+
+[Expasy - ENZYME]
+ENZYME is a repository of information relative to the nomenclature of enzymes. It is primarily based on the recommendations of the Nomenclature Committee of the International Union of Biochemistry and Molecular Biology (IUBMB) and it describes each type of characterized enzyme for which an EC (Enzyme Commission) number has been provided [More ...
+URL: https://enzyme.expasy.org/
+
+[ENZYME - 3.1.4.42 glycerol-1,2-cyclic-phosphate 2-phosphodiesterase]
+View entry in original ENZYME format View entry in raw text format (no links) All ENZYME / UniProtKB/Swiss-Prot entries corresponding to 3.1.4.- All ENZYME / UniProtKB/Swiss-Prot entries corresponding to 3.1.-.- All ENZYME / UniProtKB/Swiss-Prot entries corresponding to 3.-.-.-
+URL: https://enzyme.expasy.org/EC/3.1.4.42
+
+[ExplorEnz: Search the Official IUBMB Enzyme List]
+ExplorEnz is the approved International Union of Biochemistry and Molecular Biology (IUBMB) Enzyme nomenclature and classification list. It was developed at Trinity College Dublin in 2005 as a new way to access the data of the IUBMB Enzyme Nomenclature List.
+URL: https://www.enzyme-database.org/
+
+[List of EC numbers (EC 3) - Wikipedia]
+EC 3.1.3.13: [[Recent studies have shown that this is a partial activity of ((EnzExplorer|5.4.2.11)), phosphoglycerate mutase (2,3-diphosphoglycerate-dependent)|Recent studies have shown that this is a partial activity of EC 5.4.2.11, phosphoglycerate mutase (2,3-diphosphoglycerate-dependent)]] EC 3.1.3.14: methylphosphothioglycerate phosphatase ... EC 3.1.7.4: Now recognized as two enzymes EC 4.2.1.133, copal-8-ol diphosphate synthase and EC 4.2.3.141, sclareol synthase
+URL: https://en.wikipedia.org/wiki/List_of_EC_numbers_(EC_3)
+
+[Enzyme Commission number - Wikipedia]
+Those numbers represent a progressively finer classification of the enzyme. Preliminary EC numbers exist and have an 'n' as part of the fourth (serial) digit (e.g. EC 3.5.1.n3). For example, the tripeptide aminopeptidases have the code "EC 3.4.11.4", whose components indicate the following groups of enzymes:
+URL: https://en.wikipedia.org/wiki/Enzyme_Commission_number
+
+
+=== FULL EXTRACTED CONTENT ===
+
+
+--- [Expasy - ENZYME] ---
+ENZYME - Enzyme nomenclature database ENZYME is a repository of information relative to the nomenclature of enzymes. It is primarily based on the recommendations of the Nomenclature Committee of the International Union of Biochemistry and Molecular Biology (IUBMB) and it describes each type of characterized enzyme for which an EC (Enzyme Commission) number has been provided [More details / References]. A few EC numbers are preliminary, they include an 'n' as part of the fourth (serial) digit (e.g. EC 3.5.1.n3). A few EC numbers are preliminary, they include an 'n' as part of the fourth (serial) digit (e.g. EC 3.5.1.n3).
+
+
+--- [ENZYME - 3.1.4.42 glycerol-1,2-cyclic-phosphate 2-phosphodiesterase] ---
+ENZYME entry: EC 3.1.4.42 | Accepted Name | | |---|---| | glycerol-1,2-cyclic-phosphate 2-phosphodiesterase | | | Reaction catalysed | | | glycerol 1,2-cyclic phosphate + H2O = glycerol 1-phosphate + H(+) | | | Comment(s) | | | Acts on both stereoisomers of the substrate and also, more slowly, on 3',5'-cyclic AMP and on 2',3'-cyclic AMP. | | | Cross-references | | | BRENDA | 3.1.4.42 | | EC2PDB | 3.1.4.42 | | ExplorEnz | 3.1.4.42 | | KEGG Ligand Database for Enzyme Nomenclature | 3.1.4.42 | | IUBMB Enzyme Nomenclature | 3.1.4.42 | | MEDLINE | Find literature relating to 3.1.4.42 | | MetaCyc | 3.1.4.42 | | Rhea expert-curated reactions | 3.1.4.42 | View entry in original ENZYME format View entry in raw text format (no links) All ENZYME / UniProtKB/Swiss-Prot entries corresponding to 3.1.4.- All ENZYME / UniProtKB/Swiss-Prot entries corresponding to 3.1.-.- All ENZYME / UniProtKB/Swiss-Prot entries corresponding to 3.-.-.-
+
+
+--- [ExplorEnz: Search the Official IUBMB Enzyme List] ---
+| | ExplorEnz is the approved International Union of Biochemistry and Molecular Biology (IUBMB) Enzyme nomenclature and classification list. It was developed at Trinity College Dublin in 2005 as a new way to access the data of the IUBMB Enzyme Nomenclature List. The data, which are stored in a MySQL database, preserve the formatting of chemical names according to IUPAC standards. A simple, easy to use, web-based query interface is provided (Search), along with an advanced search engine for more complex queries (Advanced Search). ExplorEnz is developed and maintained by Andrew McDonald. Please use the forms provided to submit suggestions for new enzyme entries or to report errors in existing entries. Downloads of the database are available as SQL or XML. The IUBMB Enzyme List is also published as a set of PDFs. Financial support from the IUBMB and FEBS for the maintenance of ExplorEnz during 2024 is gratefully acknowledged.
+
+
+--- [List of EC numbers (EC 3) - Wikipedia] ---
+This list contains a list of EC numbers for the third group, EC 3, hydrolases, placed in numerical order as determined by the Nomenclature Committee of the International Union of Biochemistry and Molecular Biology. All official information is tabulated at the website of the committee. The database is developed and maintained by Andrew McDonald.
+
+
+
+
+--- [Enzyme Commission number - Wikipedia] ---
+The Enzyme Commission number (EC number) is a numerical classification scheme for enzymes, based on the chemical reactions they catalyze. As a system of enzyme nomenclature, every EC number is associated with a recommended name for the corresponding enzyme-catalyzed reaction.
+EC numbers do not specify enzymes but enzyme-catalyzed reactions. If different enzymes (for instance from different organisms) catalyze the same reaction, then they receive the same EC number. Furthermore, through convergent evolution, completely different protein folds can catalyze an identical reaction (these are sometimes called non-homologous isofunctional enzymes)  and therefore would be assigned the same EC number. By contrast, UniProt identifiers uniquely specify a protein by its amino acid sequence.

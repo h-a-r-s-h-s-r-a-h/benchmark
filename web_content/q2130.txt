@@ -1,0 +1,49 @@
+=== SEARCH SNIPPETS ===
+
+[BBC NEWS | South Asia | Tourists die in Nepal air crash]
+Oct 8, 2008 · The Yeti Airlines plane was carrying 16 passengers and three crew when it crashed during landing at an airport in the eastern town of Lukla, they said. Only one Nepalese man, the pilot, survived the crash. The plane reportedly caught fire after crash-landing and hitting the perimeter boundary at the airstrip.
+URL: http://news.bbc.co.uk/2/hi/south_asia/7658258.stm
+
+[Yeti Airlines Flight 101 - Wikipedia]
+Fourteen of the dead were reported to be tourists. Twelve of the passengers on the flight were German and two Australian. The only survivor was Surendra Kunwar, the captain of the aircraft, who was dragged free from the wreckage shortly after the crash and was flown to Kathmandu for emergency ...
+URL: https://en.wikipedia.org/wiki/Yeti_Airlines_Flight_101
+
+[Plane crashes with a sole survivor - AirSafe.com]
+The sole survivor was crew member Alexander Sizov, a flight engineer. More on this crash Crashes of airlines of the former Soviet Union 11 February 2014; Algerian Air Force; Lockheed C130H; near Constantine, Algeria: This military aircraft was carrying military family members on a domestic flight between Ouargla and Constantine, Algeria.
+URL: http://www.airsafe.com/events/survivor.htm
+
+[Yeti Airlines Twin Otter crash in Nepal claims 18 lives]
+Oct 10, 2008 · A DHC-6 Twin Otter operated by Yeti Airlines has crashed at Lukla, Nepal. The accident destroyed the aircraft, and killed 16 passengers and two crew members. The captain was the only survivor. According to news release issued by Yeti Airlines, the accident occurred on the morning of October 8, 2008 as the aircraft (registration 9N-AFE) was attempting to land at Tenzing Hillary Airport at Lukla ...
+URL: https://aircrewbuzz.blogspot.com/2008/10/yeti-airlines-twin-otter-crash-in-nepal.html
+
+[Yeti Airlines - Simple English Wikipedia, the free encyclopedia]
+21 June 2006 - 2006 Yeti Airlines Twin Otter Crash: A DHC-6 Twin Otter registered 9N-AEQ was destroyed in a rice paddy field on approach to Jumla, killing all six passengers and the crew of three. [3] 8 October 2008 - Yeti Airlines Flight 103: A DHC-6 was destroyed upon landing at Lukla, killing all eighteen passengers and two of the three ...
+URL: https://simple.wikipedia.org/wiki/Yeti_Airlines
+
+
+=== FULL EXTRACTED CONTENT ===
+
+
+--- [BBC NEWS | South Asia | Tourists die in Nepal air crash] ---
+Twelve German tourists were among 18 people killed when a passenger plane crashed in Nepal's Everest region, airport officials say. The Yeti Airlines plane was carrying 16 passengers and three crew when it crashed during landing at an airport in the eastern town of Lukla, they said. Only one Nepalese man, the pilot, survived the crash. The plane reportedly caught fire after crash-landing and hitting the perimeter boundary at the airstrip. "There were 12 Germans and two Australians on the flight," airport official Mohan Adhikari told the AFP news agency. Earlier reports said that two Swiss tourists had died, but they were later confirmed as Australian. Four Nepalis - two passengers and two crew members - were also killed, according to Mr Adhikari. Nestling on a mountainside at 9,380ft (2,860m), Lukla's Tenzing-Hillary airport is popular with mountaineers and trekkers heading for expeditions in the Himalayas. In fine weather, there are daily flights between Lukla and the Nepalese capital, Kathmandu. Lukla's runway is just 20m wide and is set on a slope, with a steep 700m drop at one end.
+
+
+--- [Yeti Airlines Flight 101 - Wikipedia] ---
+Yeti Airlines Flight 101 
+was a domestic flight in Nepal that crashed on final approach to Tenzing-Hillary Airport in the town of Lukla in eastern Nepal on 8 October 2008. The De Havilland Canada DHC-6 Twin Otter Series 200 registered as 9N-AFE originated from Tribhuvan International Airport in Kathmandu.
+
+
+
+
+--- [Plane crashes with a sole survivor - AirSafe.com] ---
+Sucuri Website Firewall - Not Configured The site you are visiting is using Sucuri Website Firewall. And for some reason it is not configured properly. If you are the site owner, please open a ticket here asap for us to look at it for you: https://support.sucuri.net. If you are visiting the site please try again in a few minutes. Error Details: | Your IP: | 223.181.29.108 | | URL: | www.airsafe.com/events/survivor.htm | | Your Browser: | Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 | Time: | 2026-03-04 01:53:23 | | Server ID: | 18012 |
+
+
+--- [Yeti Airlines Twin Otter crash in Nepal claims 18 lives] ---
+A DHC-6 Twin Otter operated by Yeti Airlines has crashed at Lukla, Nepal. The accident destroyed the aircraft, and killed 16 passengers and two crew members. The captain was the only survivor. According to news release issued by Yeti Airlines, the accident occurred on the morning of October 8, 2008 as the aircraft (registration 9N-AFE) was attempting to land at Tenzing Hillary Airport at Lukla, in eastern Nepal, after a scheduled passenger flight from Kathmandu. Although the cause of the crash is unknown at this time, the carrier's media release said that "the entire Airport region was suddenly covered with fog." Yeti Airlines has identified the crew members on Yeti Flight 0Y-103 as "Capt. Surendra Kunwar, Co-pilot Bikash Pant and Air Hostess Sunita Shrestha." The captain, who was the only survivor, was rescued and admitted to the Teaching Hospital, Maharajgunj. The airline reports that he is "out of danger." The names of the passengers who perished on Yeti Flight 0Y-103 has been posted on the airline's website. Condolences to the families, colleagues and friends of those who were lost in this accident. Best wishes to the Captain for a full and speedy recovery. [Photo Source] UPDATE Jan. 2, 2009: The Reuters news agency is reporting that the investigation of the Yeti Airlines accident in Nepal has cited pilot error as the cause. "The crew made incorrect judgment of the deteriorating weather and flew into a patch of cloud causing the accident," the investigation report said.
+
+
+--- [Yeti Airlines - Simple English Wikipedia, the free encyclopedia] ---
+Yeti Airlines Pvt. Ltd. (Nepali: यती एअरलाइन्स) is an airline based in Kathmandu, Nepal. The airline was established in May 1998 and received its air operator's certificate on 17 August 1998. Since 2019, Yeti Airlines is the first carbon neutral airline in Nepal and South Asia. It is the parent company of Tara Air. As of 2024, Yeti Airlines is the second-largest domestic carrier in Nepal by passengers carried and third largest by fleet size. It is currently banned from flying into EU airspace.
+
+

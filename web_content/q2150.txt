@@ -1,0 +1,81 @@
+=== SEARCH SNIPPETS ===
+
+[IEEE Computer Society Charles Babbage Award - Wikipedia]
+IEEE Computer Society Charles Babbage Award In 1989, the International Parallel and Distributed Processing Symposium established the Charles Babbage Award [1] to be given each year to a conference participant in recognition of exceptional contributions to the field.
+URL: https://en.wikipedia.org/wiki/IEEE_Computer_Society_Charles_Babbage_Award
+
+[IEEE CS Charles Babbage Award - IEEE Computer Society]
+Established in memory of Charles Babbage in recognition of significant contributions in the field of parallel computation. The candidate would have made an outstanding, innovative contribution or contributions to parallel computation.
+URL: https://www.computer.org/volunteering/awards/babbage
+
+[IEEE-Computer Society Charles Babbage Award - IPDPS]
+In 1989, the conference established the Charles Babbage Award to be given each year to a conference participant in recognition of exceptional contributions to the field.
+URL: https://www.ipdps.org/babbage_award.htm
+
+[IEEE Computer Society Charles Babbage Award - Wikiwand]
+In 1989, the International Parallel and Distributed Processing Symposium established the Charles Babbage Award [1] to be given each year to a conference participant in recognition of exceptional contributions to the field. In almost all cases, the award is given to one of the invited keynote speakers at the conference.
+URL: https://www.wikiwand.com/en/articles/IEEE_Computer_Society_Charles_Babbage_Award
+
+[IEEE Computer Society Charles Babbage Award explained]
+In 1989, the International Parallel and Distributed Processing Symposium established the Charles Babbage Award [1] to be given each year to a conference participant in recognition of exceptional contributions to the field.
+URL: https://everything.explained.today/IEEE_Computer_Society_Charles_Babbage_Award/
+
+
+=== FULL EXTRACTED CONTENT ===
+
+
+--- [IEEE Computer Society Charles Babbage Award - Wikipedia] ---
+In 1989, the International Parallel and Distributed Processing Symposium established the Charles Babbage Award  to be given each year to a conference participant in recognition of exceptional contributions to the field. In almost all cases, the award is given to one of the invited keynote speakers at the conference. The selection was made by the steering committee chairs, upon recommendation from the Program Chair and General Chair who have been responsible for the technical program of the conference, including inviting the speakers. It is presented immediately following the selected speaker's presentation at the conference, and he or she is given a plaque that specifies the nature of their special contribution to the field that is being recognized by IPDPS.
+In 2019, the management of the IEEE CS Babbage Award was transferred to the IEEE Computer Society's Awards Committee.
+Past recipients:
+
+1989 - Irving S. Reed
+1990 - H.T. Kung
+1991 - Harold S. Stone
+1992 - David Kuck
+1993 - K. Mani Chandy
+1994 - Arvind
+1995 - Richard Karp
+1997 - Frances E. Allen
+1998 - Jim Gray
+1999 - K. Mani Chandy
+2000 - Michael O. Rabin
+2001 - Thomson Leighton
+2002 - Steve Wallach
+2003 - Michel Cosnard
+2004 - Christos Papadimitriou
+2005 - Yale N. Patt
+2006 - Bill Dally
+2007 - Mike Flynn
+2008 - Joel Saltz
+2009 - Wen-Mei Hwu
+2010 - Burton Smith
+2011 - Jack Dongarra
+2012 - Chris Johnson
+2013 - James Demmel
+2014 - Peter Kogge
+2015 - Alan Edelman
+2017 - Mateo Valero. "For contributions to parallel computation through brilliant technical work, mentoring PhD students, and building an incredibly productive European research environment."
+2019 - Ian Foster. "For his outstanding contributions in the areas of parallel computing languages, algorithms, and technologies for scalable distributed applications."
+2020 - Yves Robert. "For contributions to parallel algorithms and scheduling techniques."
+2021 - Guy Blelloch. "For contributions to parallel programming, parallel algorithms, and the interface between them."
+2022 - Dhabaleswar K. (DK) Panda. "For contributions to high performance and scalable communication in parallel and high-end computing systems."
+2023 - Keshav K Pingali. "For contributions to programmability of high-performance parallel computing on irregular algorithms and graph algorithms."
+2024 - Franck Cappello. "For pioneering contributions and inspiring leadership in distributed computing, high-performance computing, resilience, and data reduction."
+2025 - Srinivas Aluru. "For pioneering contributions to the field of Parallel Computational Biology."
+
+
+--- [IEEE CS Charles Babbage Award - IEEE Computer Society] ---
+Nomination Deadline: 1 September 2026 - 11:59PM EDT This award nomination requires a minimum of 3 endorsements by the award deadline. Nomination Questions (pdf) Established in memory of Charles Babbage in recognition of significant contributions in the field of parallel computation. The candidate would have made an outstanding, innovative contribution or contributions to parallel computation. It is hoped, but not required, that the winner will have also contributed to the parallel computation community through teaching, mentoring, or community service. This award covers all aspects of parallel computing including computational aspects, novel applications, parallel algorithms, theory of parallel computation, parallel computing technologies, among others. A certificate and a US$1,000 honorarium presented to a single recipient. The winner will be invited to present a paper and/or presentation at the annual IEEE CS International Parallel and Distributed Processing Symposium (IPDPS). The IPDPS conference originated in 1986 as an activity of the Orange County (California) Chapter of the IEEE Computer Society Chapter. The founders of the first International Parallel Processing Symposium (IPDPS) were primarily engineers from the semiconductor field and academics interested in computer architecture and high performance processing, looking to solve problems of computation through architectural and software innovation. 2026 Charles Babbage Award Subcommittee Chair Prof. Keshav Pingali, University of Texas, Austin Recent Award Recipient - Prof. Uzi Vishkin, University of Maryland Institute for Advanced Computer Studies (UMIACS) - 2026 IEEE CS Charles Babbage Award Recipient - "For seminal contributions to the theory of PRAM computing, and for inventing numerous work-efficient parallel algorithms." - Award Presentation: IPDPS - May 25-29, 2026 - New Orleans, LA USA - Read more from Press Room Past Recipients - 2025 Srinivas Aluru: For pioneering contributions to the field of Parallel Computational Biology. - 2024 Franck Cappello: For pioneering contributions and inspiring leadership in distributed computing, high-performance computing, resilience, and data reduction. - 2023 Keshav Pingali: For contributions to high-performance compilers and graph computing. - 2022 Dhabaleswar K. (DK) Panda: For contributions to high performance and scalable communication in parallel and high-end computing systems.. - 2021 Guy Blelloch: For contributions to parallel programming, parallel algorithms, and the interface between them. - 2020 Yves Robert: For contributions to parallel algorithms and scheduling techniques. - 2019 Ian T. Foster: For sustained contributions to high-performance computing and distributed systems at the highest level. - 2017 Mateo Valero: For contributions to parallel computation through brilliant technical work, mentoring PhD students, and building an incredibly productive European research environment. - 2015 Alan Edelman - 2014 Peter Kogge - 2013 James Demmel - 2012 Chris Johnson - 2011 Jack Dongarra - 2010 Burton Smith - 2009 Wen-Mei Hwu - 2008 Joel Saltz - 2007 Mike Flynn - 2006 Bill Dally - 2005 Yale N. Patt - 2004 Christos Papadimitriou - 2003 Michel Cosnard - 2002 Steve Wallach - 2001 Thomson Leighton - 2000 Michael O. Rabin - 1999 K. Mani Chandy - 1998 Jim Gray - 1997 Frances Allen - 1995 Richard Karp - 1994 Arvind - 1993 K. Mani Chandy - 1992 David Kuck - 1991 Harold Stone - 1990 H.T. Kung - 1989 Irving S. Reed
+
+
+--- [IEEE-Computer Society Charles Babbage Award - IPDPS] ---
+| Uzi Vishkin Named Recipient of the 2026 IEEE Computer Society Charles Babbage Award For his seminal contributions to the parallel random-access machine theory and as the inventor of fundamental work-efficient parallel algorithms Established in 2016, the IEEE-CS Charles Babbage Award is now an official IEEE Computer Society Technical Award, to be awarded annually "In Recognition of Significant Contributions in the Field of Parallel Computing." The award is open to all contributors at all stages of their careers. The winner of the award will be someone who has made an outstanding, innovative contribution or contributions to parallel computation. It is hoped, but not required, that the winner will have also contributed to the parallel computation community through teaching, mentoring, or community service. BRIEF HISTORY OF CONFERENCE The IPDPS conference originated in 1986 as an activity of the Orange County (California) Chapter of the IEEE Computer Society Chapter. The founders of the first International Parallel Processing Symposium (IPPS) were primarily engineers from the semiconductor field and academics interested in computer architecture and high performance processing, looking to solve problems of computation through architectural and software innovation. HISTORY OF THE IPDPS CHARLES BABBAGE AWARD In 1989, the conference established the Charles Babbage Award to be given each year to a conference participant in recognition of exceptional contributions to the field. It was named for Charles Babbage (26 December 1791 - 18 October 1871), an English mathematician, philosopher, inventor and mechanical engineer who originated the concept of a programmable computer and was considered a "father" of the computer. (Reference: Wikipedia) In almost all cases, the award was given to one of the invited keynote speakers at the conference. The selection was made by the steering committee chairs, upon recommendation from the Program Chair and General Chair who were responsible for the technical program of the conference, including inviting the speakers. It was presented immediately following the selected speaker's presentation at the conference, and he or she was given a plaque that specified the nature of their special contribution to the field being recognized by IPDPS. PAST AWARD RECIPIENTS 2025 – Srinivas Aluru 2024 – Frank Cappello 2023 – Keshav Pingali 2022 – DK Panda 2021 – Guy Blelloch 2020 – Yves Robert 2019 – Ian Foster 2017 – Mateo Valero 2015 – Alan Edelman 2014 – Peter Kogge 2013 – James Demmel 2012 – Chris Johnson 2011 – Jack Dongarra 2010 – Burton Smith 2009 – Wen-Mei Hwu 2008 – Joel Saltz 2007 – Mike Flynn | 2006 – Bill Dally 2005 – Yale N. Patt 2004 – Christos Papadimitriou 2003 – Michel Cosnard 2002 – Steve Wallach 2001 – Thomson Leighton 2000 – Michael O. Rabin 1999 – K. Mani Chandy 1998 – Jim Gray 1997 – Frances Allen 1995 – Richard Karp 1994 – Arvind 1993 – Leslie Valiant 1992 – David Kuck 1991 – Harold Stone 1990 – H.T. Kung 1989 – Irving S. Reed | |
+
+
+--- [IEEE Computer Society Charles Babbage Award - Wikiwand] ---
+English Sign in Top Qs Timeline Chat Perspective All Articles Dictionary Quotes Map Remove ads Loading article...
+
+
+--- [IEEE Computer Society Charles Babbage Award explained] ---
+No content

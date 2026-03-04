@@ -1,0 +1,77 @@
+=== SEARCH SNIPPETS ===
+
+[Rosa Bloch - Wikipedia]
+[1] She married Siegfried Bollag, director of the Swiss Social Archives. [1] Highly intelligent and a talented orator, in early 1918 she joined the left wing of the Olten Action Committee and became actively involved in the women's socialist movement.
+URL: https://en.wikipedia.org/wiki/Rosa_Bloch
+
+[Rosa Bloch - Wikiwand]
+[1] She married Siegfried Bollag, director of the Swiss Social Archives. [1] Highly intelligent and a talented orator, in early 1918 she joined the left wing of the Olten Action Committee and became actively involved in the women's socialist movement.
+URL: https://www.wikiwand.com/en/articles/Rosa_Bloch
+
+[Rosa Bloch-Bollag - Wörterbücher und Enzyklopädien auf der ...]
+Rosa Bloch-Bollag starb 1922 an einer misslungenen Operation. Ihr Ehemann Sigfried Bloch glaubte nicht an einen Kunstfehler; er war überzeugt, dass man Bloch-Bollag, die im "Bürgerblock" - der Parteiengruppe von Freisinnigen, Katholisch-Konservativen, Berner Bauern- und Bürgerpartei - verhasst war und von deren Zeitungen geschmäht wurde ...
+URL: https://de-academic.com/dic.nsf/dewiki/1198569
+
+[Rosa Bloch-Bollag (1880 - 1922) - CH2021]
+Rosa Bloch-Bollag fordert gemeinsam mit einer Frauendelegation Einlass in den Kantonsrat. Denn die Zürcher Verfassung gewährt allen Bürgern das Recht, ihre Anliegen dem Kantonsrat direkt vorzutragen. Zunächst verweigert die Zürcher Regierung den Frauen eine Anhörung - bisher sprach noch keine Frau im Kantonsrat.
+URL: https://ch2021.ch/rosa-bloch-bollag-1880-1922/
+
+[Subject Alternative Name not added to certificate]
+On the Subject tab in the Certificate Properties, enter a suitable Common name for the Subject, if required In the Alternative names section, select Type: DNS and add the FQDNs for the desired SANs. Options for key usage and so on should be preconfigured on the other tabs.
+URL: https://serverfault.com/questions/476413/subject-alternative-name-not-added-to-certificate
+
+
+=== FULL EXTRACTED CONTENT ===
+
+
+--- [Rosa Bloch - Wikipedia] ---
+Rosa Bloch-Bollag (1880 – 13 July 1922) was a Swiss politician and activist who, as a member of the Swiss Socialist Party, led a women's demonstration against increases in food prices in 1918. In 1920, she was one of the founding members of the Swiss Communist Party.
+
+
+
+
+--- [Rosa Bloch - Wikiwand] ---
+No content
+
+
+--- [Rosa Bloch-Bollag - Wörterbücher und Enzyklopädien auf der ...] ---
+- Rosa Bloch-Bollag - Rosa Bloch-Bollag (* 30. Juni 1880 in Zürich; † 13. Juli 1922 ebenda) war eine Politikerin der Schweizer Arbeiterbewegung des frühen 20. Jahrhunderts und Frauenrechtlerin. Leben Bollag stammte aus einer verarmten Zürcher Kaufmannsfamilie und war als Vertreterin für ein Juwelier-Geschäft tätig, was ihr den Beinamen Brillanten-Rosa einbrachte. Ursprünglich war sie Anarchistin und wandelte sich mit der Zeit zur revolutionären Marxistin. Während des Landesstreiks im Jahre 1918 war sie Mitglied des Oltener Aktionskomitees. Im selben Jahr wurde sie zur Präsidentin der Zentralen Frauenagitationskommission der Sozialdemokratischen Partei (SP) gewählt. Sie wurde Redakteurin der von Margarethe Hardegger gegründeten Zeitschrift Die Vorkämpferin. Zur Verteidigung der Lebensbedingungen von Arbeiterfamilien angesichts die Preissteigerungen in den Kriegsjahren führte sie Aktionen auf den Wochenmärkten durch, wo die Frauen handgreiflich gegen Stände mit überhöhten Preisen vorgingen. Am 10. Juni 1918 leitete Bloch eine "Hungerdemonstration" an. Vom Volkshaus im Stadtkreis 4 zogen mehrere hundert Arbeiterfrauen zum Rathaus und forderten Massnahmen der Kantonsregierung wie "Sofortige Beschlagnahme aller Lebens- und Bedarfsartikel" und "Verteilung derselben unter Kontrolle der Arbeiterschaft nach Massgabe des Bedarfes." Rosa Bloch wirkte als einzige Frau mit im "Oltener Aktionskomitee", das den Generalstreik von 1918 vorbereitete. Dass im Forderungskatalog des Komitees schon an zweiter Stelle das Begehren für "Aktives und passives Frauenwahlrecht" stand, wird ihrem Einfluss zugeschrieben. 1920 spaltete sich die SP und Rosa Bloch wurde Gründungsmitglied der KPS, während ihr Mann Siegfried Bloch bei der SP verblieb. Rosa Bloch-Bollag starb 1922 an einer misslungenen Operation. Ihr Ehemann Sigfried Bloch glaubte nicht an einen Kunstfehler; er war überzeugt, dass man Bloch-Bollag, die im "Bürgerblock" - der Parteiengruppe von Freisinnigen, Katholisch-Konservativen, Berner Bauern- und Bürgerpartei - verhasst war und von deren Zeitungen geschmäht wurde, absichtlich sterben liess. Ihre Funktionen im Parteivorstand der KPS übernahm Mentona Moser. Literatur - Annette Frei: Rote Patriarchen, Arbeiterbewegung und Frauenemanzipation in der Schweiz um 1900. Zürich 1987 - Willi Wottreng: Rosa Bloch, Demonstrantin und Generalstreikführerin, 1880-1922. In: Derselbe: Revolutionäre und Querköpfer, Zürcher Schicksale. Hans Vontobel (Hrsg.), Zürich 2005, S. 12-17. Weblinks Kategorien:- Frauenrechtler - PdA-Mitglied (Schweiz) - Schweizer - Geboren 1880 - Gestorben 1922 - Frau Wikimedia Foundation.
+
+
+--- [Rosa Bloch-Bollag (1880 - 1922) - CH2021] ---
+Rosa Bloch-Bollag (1880 – 1922) Die «rote Rosa» ist gleichermassen angesehen wie verhasst. Denn mit ihrem rhetorischen Talent und ihrer erfolgreichen Agitation gehört Rosa Bloch-Bollag zu Beginn des 20. Jahrhunderts zu den herausragenden Figuren der Schweize-rischen ArbeiterInnenbewegung. Wahrscheinlich ist es auch ihr zuzuschreiben, dass die Arbeiterschaft während des Landesstreiks 1918 das Frauenstimm- und -wahlrecht fordert. Quelle: EKF, Eidgenössische Kommission für Frauenfragen Rosa Bollag wächst in einer verarmten jüdischen Grosskaufmannsfamilie in Zürich auf. Ein Studium der Rechtswissenschaften bricht sie ab, da es ihr an den finanziellen Mitteln fehlt. Fortan arbeitet sie als Vertreterin in einem Zürcher Juweliergeschäft, bevor sie sich selbstständig macht. Sie heiratet Sigfried Bloch, der ab 1909 die Leitung der Zentralstelle für soziale Literatur (heute: Schweizerisches Sozialarchiv) über-nimmt. Das Paar pflegt Kontakte zur ArbeiterInnen- und Gewerkschaftsbewegung. Mit dem Ausbruch des Ersten Weltkriegs 1914 verschlimmert sich die Not der Arbeiterfamilien, diese leiden unter der Verknappung der Lebensmittel und der Teuerung. Als Präsidentin des Zürcher Arbeiterinnenvereins organisiert Rosa Bloch-Bollag im Sommer 1916 Demonstrationen auf den Wochenmärkten. Zu solchen Hungerdemonstrationen kommt es in mehreren Schweizer Städten. Die Arbeiterinnen protestieren gegen die hohen Lebensmittelpreise, indem sie einen selbstgewählten Preis bezahlen oder den Verkauf der Kartoffeln gleich selbst übernehmen. Kern der Demonstrationen sind meist die regionalen Arbeiterinnenvereine. Diese entstanden Ende des 19. Jahrhunderts und schlossen sich 1890 im Schweizerischen Arbeiterin-nenverein (SAV) zusammen. Der SAV setzt sich für eine Verbesserung der Arbeits-bedingungen und der sozialen Sicherheit ein. Er fordert etwa, «die Löhne der Frauen mit denen der Männer gleichzustellen bei gleicher Arbeit und Leistung», den 9-Stun-den-Tag, einen Mutterschutz von 8 Wochen sowie eine bessere Bildung für Mädchen. 1893 fordert der Arbeiterinnenverein als erste Organisation das Frauenstimmrecht. Als der Verein 1912 der Sozialdemokratischen Partei (SPS) beitritt, wird auch Rosa Bloch-Bollag Parteimitglied. In der Folge drängen die Arbeiterinnen die sozialdemokratische Partei, sich offiziell zum Stimm- und Wahlrecht für Frauen zu bekennen – mit Erfolg. Die SPS fordert noch im gleichen Jahr als erste Partei die politischen Rechte für die Frauen. 1917 löst sich der SAV auf, seine Mitglieder organisieren sich fortan in sozialdemo-kratischen Frauengruppen. Ab 1918 werden diese von der neu geschaffenen Zentralen Frauenagitationskommission koordiniert, Rosa Bloch-Bollag wird deren erste Präsidentin. Gleichzeitig übernimmt sie die Redaktion der Vorkämpferin, der wichtigsten Arbeiterinnenzeitung und beeindruckt durch engagierte und hervorragend formulierte Artikel. Insbesondere in dieser Zeit entfaltet Rosa Bloch-Bollag ihre agitative Kraft. Im Frühjahr 1918 ist sie als einzige Frau Mitglied im Oltener Aktionskomitee, der nationalen Streikleitung des Landesstreiks vom November 1918. Ziemlich sicher ist sie dafür verantwortlich, dass an zweiter Stelle des Forderungskatalogs das «aktive und passive Frauenwahlrecht» aufgeführt ist. Am 10. Juni 1918 leitet sie in Zürich eine vielbeachtete Hungerdemonstration. Es nehmen nicht nur Arbeiterinnen teil, auch bürgerliche Frauen schliessen sich dem Protest an. Nach ihrer Rede überreicht die «rote Rosa» dem Kantonsrat die Erklärung der Arbeiterinnen. Diese verlangen u.a. die sofortige Beschlagnahmung der Lebensmittel sowie deren Verteilung an bedürftige Familien. Rosa Bloch-Bollag fordert gemeinsam mit einer Frauendelegation Einlass in den Kantonsrat. Denn die Zürcher Verfassung gewährt allen Bürgern das Recht, ihre Anliegen dem Kantonsrat direkt vorzutragen. Zunächst verweigert die Zürcher Regierung den Frauen eine Anhörung – bisher sprach noch keine Frau im Kantonsrat. Eine Woche später aber können Rosa Bloch-Bollag, die Lehrerin Agnes Robmann und die Arbeiterin Marie Härri als erste Frauen überhaupt ihre Forderungen persönlich im Kantonsrat einbringen. Erst 1970 – nach Einführung des kantonalen Frauenstimmrechts – sprechen erneut Frauen im Zürcher Kantonsrat. Als das Oltener Aktionskomitee im Herbst 1918 dann den Landesstreik proklamiert, ruft Rosa Bloch-Bollag als Präsidentin der Frauenagitationskommission die Arbeiterinnen und Arbeiterfrauen dazu auf, sich aktiv zu beteiligen. Die Frauen organi-sieren die Lebensmittelversorgung, die Kinderbetreuung, nehmen an Versammlungen teil, demonstrieren und beteiligen sich an Gleisblockaden. Während in den Jahren nach dem Landesstreik ein Grossteil der Streikforderungen umgesetzt werden, müssen die Frauen noch viele Jahrzehnte auf das Frauenstimm- und -wahlrecht warten. Nach dem Ersten Weltkrieg tritt Rosa Bloch-Bollag der 1921 gegründeten Kommunisti-schen Partei Schweiz bei, stirbt jedoch 1922, erst 42-jährig, an den Folgen einer Kropfoperation. (Quelle: EKF) „(Die Arbeiterinnen) erklären, dass sie nicht willens sind, sich mit Gesetzesparagraphen abspeisen zu lassen oder sich auf das Geschäftsreglement verweisen zu lassen, sondern erwarten von Ihrer Einsicht, dass Sie die Gelegenheit zur gewünschten Aussprache heute geben.“ Erklärung der Arbeiterinnen zur Hungerdemonstration, Zürich, 10.6.1918
+
+
+--- [Subject Alternative Name not added to certificate] ---
+# Subject Alternative Name not added to certificate
+
+I'm trying to issue a new certificate using the additional attribues field within the  Windows CertSrv Web-Enrollment Client.
+
+I added the CSR, picked the template and entered this into the attributes field:
+
+SAN:dns=HOSTNAME&dns=HOSTNAME.DOMAIN.COM&ipaddress=IPADRESS
+
+
+The request is successful but when I check the signed certificate no "Alternative Names" attribute is added to it. Am I missing something? Maybe a issue with the Template? (used a default Win 2003 level webserver template copy with some custom settings).
+
+/edit
+Also I've tried to use 
+
+certreq -submit -attrib "CertificateTemplate:MYTEMPLATE" <Cert Request.req> -attrib "SAN:dns=HOSTNAME&dns=HOSTNAME2&ipaddress=IPADDRESS"
+
+
+resulting in the same problem: cert gets generated, but without any SAN attribute.
+
+/edit2 
+also I've set the CA to issue SAN certificates using
+
+certutil -setreg policy\EditFlags +EDITF_ATTRIBUTESUBJECTALTNAME2
+
+
+and restarting the CA service. Still: no SANs.
+
+Please note: using req. files and OpenSSL to generate the CSR i'm able to generate certifcates using the CA which have some SANs included. However this option is not valid in my current situation since I'm getting the CSR from an application and i'm not able to manually generate one for the application.
+
+/edit3
+I tried using the default webserver certificate WITHOUT any changes and suddenly it worked. So now the question is: what are the template requirements to enable SAN?
+
