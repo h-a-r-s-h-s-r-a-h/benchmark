@@ -1,0 +1,49 @@
+=== SEARCH SNIPPETS ===
+
+[NASA Space Science Data Coordinated Archive - NASA]
+Apr 25, 2023 · The NASA Space Science Data Coordinated Archive is the permanent archive for space science mission images and data. With resources grouped into different disciplines, the NSSDCA website is a wealth of information and images.
+URL: https://www.nasa.gov/stem-content/nasa-space-science-data-coordinated-archive/
+
+[National Aeronautics and Space Administration - National Space Science Data Center Master Catalog]
+'Space science' means astronomy and astrophysics, solar and space plasma physics, and planetary and lunar science. As permanent archive, NSSDC teams with NASA's discipline-specific space science 'active archives' which provide access to data to researchers and, in some cases, to the general public. Search by event, spacecraft, experiment, map, or publication query.
+URL: https://catalog.data.gov/dataset/national-space-science-data-center-master-catalog
+
+[NASA Space Science Data Coordinated Archive - Wikipedia]
+The NASA Space Science Data Coordinated Archive (NSSDCA) serves as the permanent archive for NASA space science mission data. "Space science" includes astronomy and astrophysics, solar and space plasma physics, and planetary and lunar science. As the permanent archive, NSSDCA teams with NASA's discipline-specific space science "active archives" which provide access to data to researchers and, in some cases, to the general public.
+URL: https://en.wikipedia.org/wiki/NASA_Space_Science_Data_Coordinated_Archive
+
+[NASA Space Science Data Coordinated Archive | re3data.org]
+The NASA Space Science Data Coordinated Archive serves as the permanent archive for NASA space science mission data. "Space science" means astronomy and astrophysics, solar and space plasma physics, and planetary and lunar science. As permanent archive, NSSDCA teams with NASA's discipline-specific space science "active archives" which provide access to data to researchers and, in some cases ...
+URL: https://www.re3data.org/repository/r3d100010111
+
+[NASA - NSSDCA - Master Catalog - Obvia Macro Search]
+May 18, 2023 · Contact Us NASA Space Science Data Coordinated Archive Header NSSDCA Master Catalog Welcome to the new NSSDCA Master Catalog. We now have a completely revised set of ways to query for information about data that are archived at the NSSDCA as well as for supplemental information. Below is a little bit about each query mechanism. Spacecraft Query.
+URL: https://obviamacrosearch.wordpress.com/2023/05/18/nasa-nssdca-master-catalog/
+
+
+=== FULL EXTRACTED CONTENT ===
+
+
+--- [NASA Space Science Data Coordinated Archive - NASA] ---
+Audience Educators, Students Grade Levels Grades 9-12, Higher Education Subject Space Science, Missions to Planets and Moons, Robotic Explorers Type Other Multimedia, Websites The NASA Space Science Data Coordinated Archive is the permanent archive for space science mission images and data. With resources grouped into different disciplines, the NSSDCA website is a wealth of information and images. NSSDCA Homepage NSSDCA Planetary Image Gallery
+
+
+--- [National Aeronautics and Space Administration - National Space Science Data Center Master Catalog] ---
+National Space Science Data Center Master Catalog Access & Use Information Downloads & Resources Dates | Metadata Created Date | November 12, 2020 | |---|---| | Metadata Updated Date | April 24, 2025 | | Data Update Frequency | irregular | Metadata Source - Data.json Data.json Metadata Harvested from NASA Data.json Additional Metadata | Resource Type | Dataset | |---|---| | Metadata Created Date | November 12, 2020 | | Metadata Updated Date | April 24, 2025 | | Publisher | National Aeronautics and Space Administration | | Maintainer | | | Identifier | NASA-0000095 | | Data First Published | 2018-06-25 | | Data Last Modified | 2025-04-23 | | Public Access Level | public | | Data Update Frequency | irregular | | Bureau Code | 026:00 | | Metadata Context | https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld | | Schema Version | https://project-open-data.cio.gov/v1.1/schema | | Catalog Describedby | https://project-open-data.cio.gov/v1.1/schema/catalog.json | | Harvest Object Id | 06d71214-a3f3-4882-8fec-d47f5a1ab3df | | Harvest Source Id | 58f92550-7a01-4f00-b1b2-8dc953bd598f | | Harvest Source Title | NASA Data.json | | Homepage URL | https://data.nasa.gov/dataset/national-space-science-data-center-master-catalog | | Program Code | 026:000 | | Source Datajson Identifier | True | | Source Hash | 7cc39160076a5e9d0d639c5b41143e27f8054f369cf241a9ca407d67f3fbc05c | | Source Schema Version | 1.1 | Didn't find what you're looking for? Suggest a dataset here.
+
+
+--- [NASA Space Science Data Coordinated Archive - Wikipedia] ---
+The NASA Space Science Data Coordinated Archive (NSSDCA) serves as the permanent archive for NASA space science mission data.  "Space science" includes astronomy and astrophysics, solar and space plasma physics, and planetary and lunar science. As the permanent archive, NSSDCA teams with NASA's discipline-specific space science "active archives" which provide access to data to researchers and, in some cases, to the general public. NSSDCA also serves as NASA's permanent archive for space physics mission data. It provides access to several geophysical models and to data from some non-NASA mission data. NSSDCA was called the National Space Science Data Center (NSSDC) prior to March 2015.
+NSSDCA supports active space physics and astrophysics researchers. Web-based services allow the NSSDCA to support the general public. This support is in the form of information about spacecraft and access to digital versions of selected imagery. NSSDCA also
+provides access to portions of their database contains information about data archived at NSSDCA (and, in some cases, other facilities), the spacecraft which generate space science data and experiments which generate space science data. NSSDCA services also included are data management standards and technologies.
+NSSDCA is part of the Solar System Exploration Data Services Office (SSEDSO) in the Solar System Exploration Division at NASA's Goddard Space Flight Center. NSSDCA is sponsored by the Heliophysics Division of NASA's Science Mission Directorate. NSSDCA acts in concert with various NASA discipline data systems in providing certain data and services.
+
+
+
+
+--- [NASA Space Science Data Coordinated Archive | re3data.org] ---
+Remarks NASA’s Heliophysics Science Division at NASA HQs issued a revised Heliophysics Science Data Management Policy in 2009 (see https://hdrl.gsfc.nasa.gov/Heliophysics_Data_Policy_2009Apr12.html). This revised policy redefined the Heliophysics role of the NASA Space Science Data Coordinated Archive (NSSDCA) at Goddard to be solely that of a “deep archive” and defined a new role for the Space Physics Data Facility (SPDF)(https://www.re3data.org/repository/r3d100010168) to be one of two “active Final Archives” charged to work with NASA HQs to ensure the long-term accessibility and availability of all important NASA heliophysics data.
+
+
+--- [NASA - NSSDCA - Master Catalog - Obvia Macro Search] ---
+NASA Logo, National Aeronautics and Space Administration Thursday, 18 May 2023 About NSSDCA About NMC Frequently Asked Questions Contact Us NASA Space Science Data Coordinated Archive Header NSSDCA Master Catalog Welcome to the new NSSDCA Master Catalog. We now have a completely revised set of ways to query for information about data that are archived at the NSSDCA as well as for supplemental information. Below is a little bit about each query mechanism. Spacecraft Query. This interface allows queries to our database of orbital, suborbital, and interplanetary spacecraft. Experiment Query. This interface allows queries for information about scientific experiments that flew on-board various space missions. Data Collection Query. This interface allows queries for data that are tracked by NSSDCA, primarily those that are currently archived here. Personnel Query. This interface allows queries for locator information for personnel that were associated with various missions and/or data collections submitted to NSSDCA. Publication Query. This interface allows queries information about publications that are relevant to the data NSSDCA archives or to the experiments and/or missions that accumulated the data. The publications so captured are not intended to be comprehensive bibliographies. Lunar and Planetary Map Query. This interface allows queries of the lunar and planetary maps that NSSDCA currently has in stock. New and Updated Data Query. This interface allows queries for those data collections for which the NSSDCA has recently acquired new data, either additions to existing collections or entirely new collections. Lunar and Planetary Events Query. This interface allows queries for events that have occurred which are related to the exploration of the Moon and the Solar System. NSSDCA Master Catalog Search Spacecraft Experiments Data Collections Personnel Publications Maps New/Updated Data Lunar/Planetary Events [USA.gov] + Privacy Policy and Important Notices NASA Logo – nasa.gov NASA Official: Dr. David R. Williams Curator: E. Bell, II Version 5.1.15, 28 October 2022
