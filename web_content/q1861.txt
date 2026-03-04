@@ -1,0 +1,72 @@
+=== SEARCH SNIPPETS ===
+
+[Sawmill - Terraria Wiki - Fandom]
+The Sawmill is a crafting station for advanced Wood and Furniture crafting. It is 3 blocks wide, 3 blocks high, and must be placed on top of solid blocks or platforms. Desktop 1.4.0.1: Now used to craft more furniture. Desktop 1.3.1: Sprite updated. Desktop 1.2.3: Now has an animated saw blade. Added several new weapon racks that can be made at a Sawmill. Desktop 1.2: Added new crafting recipe ...
+URL: https://terraria.fandom.com/wiki/Sawmill
+
+[Desktop version history - Official Terraria Wiki]
+Desktop version history Version The Desktop version or PC version of Terraria refers to the Windows, macOS, and Linux PC versions. These versions are produced entirely by Re-Logic, Terraria's original developer (whereas the current Console and Mobile versions are being worked upon by DR Studios, a third-party developer).
+URL: https://terraria.wiki.gg/wiki/Desktop_version_history
+
+[Terraria - Sawmill (Patch 1.0.6.1) - YouTube]
+Aug 17, 2011 · The sawmill is a new item added into the 1.0.6.1 patch that is used to craft advanced wooden items.To make the sawmill, you will need 10 wood, 2 iron bars an...
+URL: https://www.youtube.com/watch?v=aOEW63GFrOU
+
+[terraria - Why can't I craft a sawmill? - Arqade]
+I notice you don't have cosmetic equipment slots, so I think you must be on an older version of the game. Sawmills were added in 1.0.6.1, and social item slots were added in 1.0.4.
+URL: https://gaming.stackexchange.com/questions/113175/why-cant-i-craft-a-sawmill
+
+[Terraria Updates Tracker - demize.gg]
+Jan 27, 2026 · Check the Terraria update tracker to see the latest news on release dates and history of Terraria updates.
+URL: https://demize.gg/terraria-update-tracker
+
+
+=== FULL EXTRACTED CONTENT ===
+
+
+--- [Sawmill - Terraria Wiki - Fandom] ---
+Sawmill The Sawmill is a crafting station for advanced Wood and Furniture crafting. It is 3 blocks wide, 3 blocks high, and must be placed on top of solid blocks or platforms. Crafting[] Recipes[] | Result | Ingredients | Crafting station | |---|---|---| | Sawmill | Work Bench | Used to craft[] History[] - Desktop 1.4.0.1: Now used to craft more furniture. - Desktop 1.3.1: Sprite updated. - Desktop 1.2.3: - Now has an animated saw blade. - Added several new weapon racks that can be made at a Sawmill. - Desktop 1.2: Added new crafting recipe for lead bars. - Desktop 1.0.6.1: Introduced. - Console-Release: Introduced. - Switch 1.0.711.6: Introduced. - Mobile 1.0.1: Can now craft items. - Mobile-Release: Introduced, but non-functional. - 3DS-Release: Introduced.
+
+
+--- [Desktop version history - Official Terraria Wiki] ---
+Desktop version history Version The Desktop version or PC version of Terraria refers to the Windows, macOS, and Linux PC versions. These versions are produced entirely by Re-Logic, Terraria's original developer (whereas the current Console and Mobile versions are being worked upon by DR Studios, a third-party developer). Because of this, updates often come to the Desktop version first. All three Desktop versions are on the same update path and are updated together, sharing a common version number, though each has its own installation package. All can be purchased/downloaded through Steam or GOG.com. Four of the major updates of the Desktop version are permanently available on Steam: 1.0 (Undeluxe Edition, 1.0.6.1), 1.1 (First Final Update, 1.1.2), 1.2 (Angler's Delight, 1.2.4.1), and 1.3.0 (Lunacy!, 1.3.0.8). On this wiki, the Desktop version also includes the most recent tModLoader version. The "1.4.3-legacy" and "1.3-legacy" versions of tModLoader, based on Terraria 1.4.3.6 and 1.3.5.3, respectively, are disregarded on this wiki. macOS and Linux versions became available starting with version 1.3.0.7 as a beta test package on July 23, 2015, and in 1.3.0.8 as a full release on August 12, 2015. All prior versions were Windows-only. Version history | Version | Release date | Name | Highlights and Notes | |---|---|---|---| | 1.4.5.5 | February 10, 2026 | Hotfixes | Minor balance changes and bug fixes. | | 1.4.5.4 | February 4, 2026 | Hotfixes | Minor balance changes and bug fixes. | | 1.4.5.3 | January 30, 2026 | Hotfixes | Minor balance changes and bug fixes. | | 1.4.5.2 | January 28, 2026 | Hotfixes | Bug fixes. | | 1.4.5.1 | January 28, 2026 | Hotfixes | Minor balance changes and bug fixes. | | 1.4.5.0 | January 27, 2026 | Bigger and Boulder | Crossover content from Dead Cells, crossover content from Palworld, Special seed menu, quality-of-life and balance changes. | | 1.4.4.9 | November 17, 2022 | Hotfixes | Minor balance changes and bug fixes. | | 1.4.4.8.1 | November 10, 2022 | Hotfixes | Bug fixes. | | 1.4.4.8 | November 9, 2022 | Hotfixes | Minor balance changes and bug fixes. | | 1.4.4.7 | October 24, 2022 | Hotfixes | Bug fixes. | | 1.4.4.6 | October 21, 2022 | Hotfixes | Bug fixes. | | 1.4.4.5 | October 7, 2022 | Hotfixes | Bug fixes. | | 1.4.4.4 | October 4, 2022 | Hotfixes | Bug fixes. | | 1.4.4.3 | October 3, 2022 | Hotfixes | Bug fixes. | | 1.4.4.2 | September 29, 2022 | Hotfixes | Bug fixes. | | 1.4.4.1 | September 28, 2022 | Hotfixes | Bug fixes. | | 1.4.4 | September 28, 2022 | Labor of Love | Shimmer, Town Slimes, secret world seed Zenith, quality-of-life and balance changes. | | 1.4.3.6 | March 1, 2022 | Hotfixes | Bug fixes. | | 1.4.3.5 | February 28, 2022 | Hotfixes | Bug fixes. | | 1.4.3.4 | February 24, 2022 | Hotfixes | Bug fixes. | | 1.4.3.3 | February 24, 2022 | Hotfixes | Optimizations for the Steam Deck, balance changes and bug fixes. | | 1.4.3.2 | November 24, 2021 | Hotfixes | Minor balance changes and bug fixes. | | 1.4.3.1 | November 22, 2021 | Hotfixes | Minor balance changes and bug fixes. | | 1.4.3 | November 18, 2021 | An Eye For An Eye: Don't Starve Together Crossover Update | Deerclops and secret world seed The Constant with crossover content from Don't Starve Together. | | 1.4.2.3 | May 16, 2021 | 10th Anniversary Patch | Bug fixes and secret world seed Celebration Mk 10. | | 1.4.2.2 | April 21, 2021 | Hotfixes | Bug fixes. | | 1.4.2.1 | March 31, 2021 | Hotfixes | Bug fixes. | | 1.4.2 | March 29, 2021 | Steam Workshop Support | Support for sharing Resource Packs and world files on the Steam Workshop. | | 1.4.1.2 | November 10, 2020 | Hotfixes | Minor balance changes and bug fixes. | | 1.4.1.1 | October 14, 2020 | Hotfixes | Bug fixes. | | 1.4.1 | October 13, 2020 | Rounding Out the Journey | Journey's End Vanity Contest sets, credits, Princess NPC, Flinx Staff and Flinx Fur Coat, accessory balance changes. | | 1.4.0.5 | June 4, 2020 | Hotfixes | Torch God mini-event. Many optimizations, bug fixes, and crash fixes. | | 1.4.0.4 | May 23, 2020 | Hotfixes | Performance optimizations, fixes for memory management, as well as fixes for crashes and bugs. | | 1.4.0.3 | May 20, 2020 | Hotfixes | Many minor changes to item drops, recipes, and art, as well as plant growth speeds and potion effects. Also removed bad torch luck. | | 1.4.0.2 | May 16, 2020 | Hotfixes | Bug fixes and minor changes made to the balance of the game. | | 1.4.0.1 | May 16, 2020 | Journey's End | Journey Mode, Master Mode, Bestiary, Golf, Pylons, Graveyard, Oasis, Queen Slime, Empress of Light. | | 1.3.5.3 | April 25, 2017 | Hotfixes | Bug fixes. | | 1.3.5.2 | April 21, 2017 | Hotfixes | Visual improvements and bug fixes as well as the addition of an improved font for users playing the game in Chinese. | | 1.3.5.1 | April 19, 2017 | Hotfixes | Crash and bug fixes. | | 1.3.5 | April 19, 2017 | Polishes and Fixes | 4K support, zoom and UI scaling, more and better translations, gold, crystal, and dynasty furniture, and the return of Redigit to the team. | | 1.3.4.4 | December 6, 2016 | Hotfixes | | | 1.3.4.3 | November 18, 2016 | Hotfixes | | | 1.3.4.2 | November 17, 2016 | Hotfixes | | | 1.3.4.1 | November 16, 2016 | Hotfixes | | | 1.3.4 | November 15, 2016 | Dungeon Defenders 2 Crossover Update | Water surface effects, "tower defense" event Old One's Army with crossover content from Dungeon Defenders 2. | | 1.3.3.3 | October 3, 2016 | Hotfixes | | | 1.3.3.2 | September 13, 2016 | Hotfixes | | | 1.3.3.1 | September 11, 2016 | Hotfixes | | | 1.3.3 | September 9, 2016 | Desert Update | Underground Desert update, Sandstorms, Sand Elemental. | | 1.3.2.1 | July 21, 2016 | Hotfixes | | | 1.3.2 | July 20, 2016 | Party Update | Chest item sorting, Corruption or Crimson selection on world creation (post-Wall of Flesh), more party decorations. | | 1.3.1.1 | May 31, 2016 | Hotfixes | | | 1.3.1 | May 22, 2016 | Wiring Update | Significant updates to wiring and mechanisms. Added controller support. | | 1.3.0.8 | August 12, 2015 | macOS & Linux Release | Now officially playable on macOS and Linux. This version is permanently available on Steam as "Lunacy!" | | 1.3.0.7 | July 23, 2015 | macOS & Linux Beta | | | 1.3.0.6 | July 20, 2015 | Hotfixes | | | 1.3.0.5 | July 13, 2015 | Hotfixes | | | 1.3.0.4 | July 9, 2015 | Hotfixes | | | 1.3.0.3 | July 2, 2015 | Hotfixes | | | 1.3.0.2 | June 30, 2015 | Hotfixes | | | 1.3.0.1 | June 30, 2015 | Terraria 1.3 | Lunar Events, Martian Madness, Granite Caves, Marble Caves, Underground Desert, Expert Mode, achievements, yoyos. | | 1.2.4.1 | May 15, 2014 | Hotfixes | This version is permanently available on Steam as "Angler's Delight". | | 1.2.4 | May 8, 2014 | Additions | Fishing, Minecarts, Duke Fishron, and Pixel Piracy crossover content. | | 1.2.3.1 | February 18, 2014 | Hotfixes | | | 1.2.3 | February 13, 2014 | Additions | Traveling Merchant, Stylist. | | 1.2.2 | December 20, 2013 | Christmas Update | Frost Moon. | | 1.2.1.2 | October 31, 2013 | Hotfixes | | | 1.2.1.1 | October 26, 2013 | Hotfixes | | | 1.2.1 | October 25, 2013 | Halloween Update | Halloween, Pumpkin Moon. | | 1.2.0.3.1 | October 9, 2013 | Hotfixes | | | 1.2.0.3 | October 9, 2013 | Hotfixes | Several new enemy banners, more furniture. | | 1.2.0.2 | October 3, 2013 | Hotfixes | | | 1.2.0.1 | October 1, 2013 | Hotfixes | | | 1.2 | September 30, 2013 | Terraria 1.2 | The Crimson, Rain, Snow biome, Queen Bee, Chlorophyte, Plantera, Jungle Temple, Golem, Pirate Invasions, Solar Eclipses. | | 1.1.2 | January 17, 2012 | Hotfixes | Multilingual support. This version is permanently available on Steam as "First Final Update". | | 1.1.1 | December 15, 2011 | Christmas Update | Frost Legion, Santa Claus. | | 1.1 | December 1, 2011 | Terraria 1.1 | Hardmode, wings, mechanisms, item modifiers, mechanical bosses. | | 1.0.6.1 | August 17, 2011 | Sawmill. This version is permanently available on Steam as "Undeluxe Edition". | | | 1.0.6 | August 9, 2011 | Critical hits, damage types. | | | 1.0.5 | June 23, 2011 | Potions. | | | 1.0.4 | June 10, 2011 | King Slime, vanity items. | | | 1.0.3 | June 2, 2011 | Multiplayer player limit increased to 255, separate server application. | | | 1.0.2 | May 23, 2011 | Sticky Bombs. | | | 1.0.1 | May 17, 2011 | || | 1.0 | May 16, 2011 | Official Release |
+
+
+--- [Terraria - Sawmill (Patch 1.0.6.1) - YouTube] ---
+About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features © 2026 Google LLC
+
+
+--- [terraria - Why can't I craft a sawmill? - Arqade] ---
+# Why can&#39;t I craft a sawmill?
+
+According to Terraria wiki entry for Sawmill crafting; it requires the following:
+
+
+10 Wood
+2 Iron Bars
+1 Iron Chain
+
+
+As shown in the screenshot below, I'm meeting all the requirements(rather I've more objects than required)
+
+
+
+As can be seen; I have 32 wood, 15 Iron bars and 1 Iron chain(3rd row, 5th column). Still no option to craft a sawmill is displayed either on workbench or on Anvil!
+
+Is this a bug?
+
+EDIT
+
+I should mention that it is a multi-player instance(in case, it has anything to do with the issue).
+
+
+## Accepted Answer
+
+I notice you don't have cosmetic equipment slots, so I think you must be on an older version of the game.
+
+Sawmills were added in 1.0.6.1, and social item slots were added in 1.0.4.
+
+
+
+--- [Terraria Updates Tracker - demize.gg] ---
+No content

@@ -1,0 +1,46 @@
+=== SEARCH SNIPPETS ===
+
+[Robert Boyle Prize for Analytical Science - Wikipedia]
+Robert Boyle Prize for Analytical Science, formerly called Boyle Medal, is a prize of the Royal Society of Chemistry for Analytical Chemistry. It is awarded every two years and is worth £5,000.
+URL: https://en.wikipedia.org/wiki/Robert_Boyle_Prize_for_Analytical_Science
+
+[Professor Richard Compton wins Robert Boyle Prize for ...]
+May 17, 2018 · The Robert Boyle Prize for Analytical Science is awarded for outstanding contributions to analytical science. It is given in memory of Robert Boyle (1627–91), who is widely regarded as being the first modern chemist. Professor Compton receives £5000 and a medal, and will complete a UK lecture tour.
+URL: https://www.sjc.ox.ac.uk/discover/news/professor-richard-compton-wins-robert-boyle-prize-analytical-science/
+
+[Paige Boyle | Department of Horticultural Science]
+Paige Boyle Department of Horticultural Science. Paige Boyle is a turfgrass ecologist with both experience in academic and industry research and science communication.
+URL: https://horticulture.umn.edu/people/paige-boyle
+
+[Robert Boyle Prize for Analytical Science - Alchetron]
+Dec 26, 2024 · Robert Boyle Prize for Analytical Science, formerly called Boyle Medal, is a prize of the Royal Society of Chemistry for Analytical Chemistry. Not to be confused with the Irish Times Boyle Medal, also awarded in chemistry, or Boyle Higgins Gold Medal of the Institute of Chemistry of Ireland.
+URL: https://alchetron.com/Robert-Boyle-Prize-for-Analytical-Science
+
+[RSC – Robert Boyle Prize for Analytical Science | LCGC ...]
+Mar 11, 2013 · The prize is given by the Royal Society of Chemistry (RSC) for outstanding contributions to analytical science. Dovichi will receive the prize for his pioneering development of ultrasensitive separations, including the first separations at zepto- and yoctomole levels and capillary electrophoresis-based DNA sequencing for the human genome.
+URL: https://www.chromatographyonline.com/view/rsc-robert-boyle-prize-analytical-science
+
+
+=== FULL EXTRACTED CONTENT ===
+
+
+--- [Robert Boyle Prize for Analytical Science - Wikipedia] ---
+Robert Boyle Prize for Analytical Science, formerly called Boyle Medal, is a prize of the Royal Society of Chemistry for Analytical Chemistry. It is awarded every two years and is worth £5,000. The prize is named after Robert Boyle and awarded from 1982 to 2020 when it was discontinued in favor of the  Analytical Science Horizon Prize.
+
+
+
+
+--- [Professor Richard Compton wins Robert Boyle Prize for ...] ---
+Professor Richard Compton wins Robert Boyle Prize for Analytical Science The Robert Boyle Prize for Analytical Science is awarded for outstanding contributions to analytical science. It is given in memory of Robert Boyle (1627–91), who is widely regarded as being the first modern chemist. Professor Compton receives £5000 and a medal, and will complete a UK lecture tour. Professor Richard Compton, Tutorial Fellow in Chemistry at St John's, carries out research in the area of analytical electrochemistry, which lies at the heart of modern technology. His work focuses on the analysis of manmade nanoparticles, such as silver nanoparticles, which are widely used in clothing to kill bacteria. It is not yet clear how these nanoparticles might affect the environment or the human body, and Compton’s work could assist in the rolling out of much-needed legislation in this area. On winning the Prize he commented, 'It is always encouraging to have one’s research recognised, especially by one’s peers. Of course, this reflects the contributions of all of the many co-workers (post-docs, doctorate and masters students and academic visitors) who have participated in the Compton Group over recent years and made it not only an intellectually stimulating, creative and productive environment but also one in which people of great diversity have flourished. I am particularly proud of the range of nationalities within the Group as well as our effortlessly achieved 50:50 female/male ratio, and salute the strong support of the EU (Marie Curie grants, ERC Advanced Grant) in facilitating this.'
+
+
+--- [Paige Boyle | Department of Horticultural Science] ---
+Postdoctoral Associate she/her/hers [email protected] Education Ph.D. Utah State University, EcologyM.S. University of Arkansas, HorticultureB.S. University of Arkansas, Environmental, Soil, and Water Sciences
+
+
+--- [Robert Boyle Prize for Analytical Science - Alchetron] ---
+Robert Boyle Prize for Analytical Science, formerly called Boyle Medal, is a prize of the Royal Society of Chemistry for Analytical Chemistry. Contents Not to be confused with the Irish Times Boyle Medal, also awarded in chemistry, or Boyle Higgins Gold Medal of the Institute of Chemistry of Ireland. It is awarded every two years and is worth £5,000. The prize is named after Robert Boyle and awarded since 1982. Award Winners Source: Royal Society of Chemistry links References Robert Boyle Prize for Analytical Science Wikipedia(Text) CC BY-SA
+
+
+--- [RSC – Robert Boyle Prize for Analytical Science | LCGC ...] ---
+RSC – Robert Boyle Prize for Analytical Science Norman Dovichi, of Notre Dame University, will receive the Robert Bolye Prize for Analytical science this afternoon. Session 1240, 2:00 pm Room 126A Norman Dovichi, of Notre Dame University, will receive the Robert Bolye Prize for Analytical science this afternoon. The prize is given by the Royal Society of Chemistry (RSC) for outstanding contributions to analytical science. Dovichi will receive the prize for his pioneering development of ultrasensitive separations, including the first separations at zepto- and yoctomole levels and capillary electrophoresis-based DNA sequencing for the human genome. Norman holds the Grace-Rupley Professorship in the Department of Chemistry and Biochemistry at the University of Notre Dame. He has graduated 57 PhD students, has published over 250 papers, and holds seven US patents. He holds an honorary professorship with the Chinese Academy of Sciences. Dovichi's research has primarily focused on the use of capillary electrophoresis and ultrasensitive laser-induced fluorescence for analysis of minute amounts of biological molecules. In the 1980s, he introduced the concept of single molecule detection to the chemical literature. In the 1990s, his group used that technology to measure the activity and activation energy of single enzyme molecules. His group also developed capillary array electrophoresis instruments for high-throughput DNA sequencing. This technology was patented and commercialized. He was recognized for this work by the journal Science as an “Unsung Hero of the Human Genome Project.” Recently, his group focused its attention on chemical cytometry, which is the chemical analysis of the content of single cells. This work lead to the development of a suite of powerful tools for the characterization of glycosphingolipids in single neurons and glia. Most recently, his group developed capillary electrophoresis-tandem mass spectrometry as a tool for the analysis of zeptomole amounts of peptides and the characterization of the protein content of single cells. Newsletter Join the global community of analytical scientists who trust LCGC for insights on the latest techniques, trends, and expert solutions in chromatography.

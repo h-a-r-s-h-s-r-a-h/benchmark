@@ -1,0 +1,44 @@
+=== SEARCH SNIPPETS ===
+
+[Eremiaphila barbara - Wikipedia]
+Eremiaphila barbara is a species of praying mantis in the family Eremiaphilidae. [1]
+URL: https://en.wikipedia.org/wiki/Eremiaphila_barbara
+
+[Biology:Eremiaphila barbara - HandWiki]
+Eremiaphila barbara. Brisout, 1854. Eremiaphila barbara is a species of praying mantis in the family Eremiaphilidae. See also. List of mantis genera and species ...
+URL: https://handwiki.org/wiki/Biology:Eremiaphila_barbara
+
+[Eremiaphila barbara Brisout, 1854 - GBIF]
+Description Abstract Eremiaphila barbara is a species of praying mantis in the family Eremiaphilidae. [1] Tree of Life Web Project. 2005
+URL: https://www.gbif.org/species/165420857
+
+[IRMNG - Eremiaphila barbara Brisout, 1854]
+Biota Animalia (Kingdom) Arthropoda (Phylum) Hexapoda (Subphylum) Insecta (Class) Mantodea (Order) Eremiaphilidae (Family) Eremiaphila (Genus) Eremiaphila barbara (Species) Status accepted Rank Species Parent Eremiaphila Lefèbvre, 1835 Environment marine, brackish Fossil range recent only Original description Not documented Taxonomic citation
+URL: https://www.irmng.org/aphia.php?p=taxdetails&id=11570937
+
+[Eremiaphila - Encyclopedia of Life]
+Eremiaphila includes 64 children: Eremiaphila barbara Brisout 1854 Eremiaphila brunneri Werner 1905 (common ground mantis) Eremiaphila cerisyi Lefebvre 1835 Eremiaphila cordofana Werner 1907 Eremiaphila cycloptera Uvarov 1939 Eremiaphila dagi Doganlar 2007 Eremiaphila genei Lefebvre 1835 Eremiaphila khamsini Lefebvre 1835 Eremiaphila kheychi ...
+URL: https://eol.org/pages/3019816
+
+
+=== FULL EXTRACTED CONTENT ===
+
+
+--- [Eremiaphila barbara - Wikipedia] ---
+No content
+
+
+--- [Biology:Eremiaphila barbara - HandWiki] ---
+Biology:Eremiaphila barbara From HandWiki Short description: Species of praying mantis | Eremiaphila barbara | | |---|---| | Scientific classification | | | Kingdom: | Animalia | | Phylum: | Arthropoda | | Class: | Insecta | | Order: | Mantodea | | Family: | Eremiaphilidae | | Genus: | Eremiaphila | | Species: | E. barbara | | Binomial name | | | Eremiaphila barbara Brisout, 1854 | Eremiaphila barbara is a species of praying mantis in the family Eremiaphilidae.[1] See also References Wikidata ☰ Q5385451 entry Original source: https://en.wikipedia.org/wiki/Eremiaphila barbara. Read more |
+
+
+--- [Eremiaphila barbara Brisout, 1854 - GBIF] ---
+No content
+
+
+--- [IRMNG - Eremiaphila barbara Brisout, 1854] ---
+IRMNG taxon details basis of record Hallan, J. (2000-2017). Biology Catalog (2012 version), http://bug.tamu.edu/research/collection/hallan/ (as at 2012). [details] current name source Hallan, J. (2000-2017). Biology Catalog (2012 version), http://bug.tamu.edu/research/collection/hallan/ (as at 2012). [details] extant flag source as per genus [details] habitat flag source as per genus [details] Unreviewed Descriptive info Hallan comment: [Algeria] [details] |
+
+
+--- [Eremiaphila - Encyclopedia of Life] ---
+Definition: overall repetitive or reflective pattern in the body of one individual of this taxon. eg: bilateral symmetry, rotational symmetry, radial symmetry Definition: A group of species that exploit the same food resources, and/or use the same feeding or foraging methods. http://en.wikipedia.org/wiki/Guild_(ecology)
