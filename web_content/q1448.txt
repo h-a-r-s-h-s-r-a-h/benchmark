@@ -1,0 +1,45 @@
+=== SEARCH SNIPPETS ===
+
+[Solanum albidum - Wikipedia]
+Solanum albidum is a species of nightshade that is native to western South America, from southern Ecuador to northern Argentina, and grows well at mid elevations in the Andes. Common names include lumo (Ecuador) huaritar (Peru) and lavaplato plateado (Bolivia). It can be either a shrub or small tree. The plant has dull yellow berries 0.8-1.5 cm (0.31-0.59 in) in diameter. [2]
+URL: https://en.wikipedia.org/wiki/Solanum_albidum
+
+[Solanum albidum - Alchetron, The Free Social Encyclopedia]
+Solanum albidum is a species of nightshade that is native to western South America, from southern Ecuador to northern Argentina, and grows well at mid elevations in the Andes. Common names include lumo (Ecuador) huaritar (Peru) and lavaplato plateado (Bolivia). It can be either a shrub or small tree. The plant has dull yellow berries 0.8-1.5 cm (0.31-0.59 in) in diameter.
+URL: https://alchetron.com/Solanum-albidum
+
+[Solanum albidum - Mindat.org]
+Data courtesy of: PBDB: The Paleobiology Database, Creative Commons CC-BY licenced. , GBIF: the Global Biodiversity Information Facility, various licences, iDigBio, various licences, and EOL: The Encyclopedia of Life (Open Data Public Domain). Because fossils are made of minerals too!
+URL: https://www.mindat.org/taxon-2931564.html
+
+[Solanum albidum — Wikipedia Republished // WIKI 2]
+Solanum albidum is a species of nightshade that is native to western South America, from southern Ecuador to northern Argentina, and grows well at mid elevations in the Andes. Common names include lumo (Ecuador) huaritar (Peru) and lavaplato plateado (Bolivia). It can be either a shrub or small tree. The plant has dull yellow berries 0.8-1.5 cm (0.31-0.59 in) in diameter.
+URL: https://wiki2.org/en/Solanum_albidum
+
+[Solanum - Wikipedia]
+Solanum is a large and diverse genus of flowering plants, which include three food crops of high economic importance: the potato, the tomato and the eggplant (aubergine, brinjal). It is the largest genus in the nightshade family Solanaceae, comprising around 1,500 species.
+URL: https://en.m.wikipedia.org/wiki/Solanum
+
+
+=== FULL EXTRACTED CONTENT ===
+
+
+--- [Solanum albidum - Wikipedia] ---
+Solanum albidum is a species of nightshade that is native to western South America, from southern Ecuador to northern Argentina, and grows well at mid elevations in the Andes. Common names include lumo (Ecuador)  huaritar (Peru) and lavaplato plateado (Bolivia). It can be either a shrub or small tree. The plant has dull yellow berries 0.8–1.5 cm (0.31–0.59 in) in diameter.
+
+
+--- [Solanum albidum - Alchetron, The Free Social Encyclopedia] ---
+Subgenus Leptostemonum | Genus Solanum Section Torva Rank Species | | Similar Solanum aturense, Solanum asperolanatum, Solanum candidum | Solanum albidum is a species of nightshade that is native to western South America, from southern Ecuador to northern Argentina, and grows well at mid elevations in the Andes. Common names include lumo (Ecuador) huaritar (Peru) and lavaplato plateado (Bolivia). It can be either a shrub or small tree. The plant has dull yellow berries 0.8–1.5 cm (0.31–0.59 in) in diameter. References Solanum albidum Wikipedia(Text) CC BY-SA
+
+
+--- [Solanum albidum - Mindat.org] ---
+No content
+
+
+--- [Solanum albidum — Wikipedia Republished // WIKI 2] ---
+No content
+
+
+--- [Solanum - Wikipedia] ---
+Solanum is a large and diverse genus of flowering plants, which include three food crops of high economic importance: the potato, the tomato and the eggplant (aubergine, brinjal). It is the largest genus in the nightshade family Solanaceae, comprising around 1,500 species. It also contains the so-called horse nettles (unrelated to the genus of true nettles, Urtica), as well as numerous plants cultivated for their ornamental flowers and fruit.
+Solanum species show a wide range of growth habits, such as annuals and perennials, vines, subshrubs, shrubs, and small trees. Many formerly independent genera like Lycopersicon (the tomatoes) and Cyphomandra are now included in Solanum as subgenera or sections. Thus, the genus today contains roughly 1,500–2,000 species.

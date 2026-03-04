@@ -1,0 +1,44 @@
+=== SEARCH SNIPPETS ===
+
+[S. Chellapandian - Wikipedia]
+November 7, 2025 -S. Chellapandian was an Indian politician of the Indian National Congress and member of the legislative assembly of Madras state from Tirunelveli. He served as the Speaker of the Madras Legislative Assembly from1962 to 1967.
+URL: https://en.wikipedia.org/wiki/S._Chellapandian
+
+[S. Chellapandi - Wikipedia]
+August 6, 2023 -S. Chellapandian was an Indian politician and former Member of the Legislative Assembly. He was elected to the Tamil Nadu legislative assembly as an Indian National Congress candidate from Cheranmadevi constituency in1952election.
+URL: https://en.wikipedia.org/wiki/S._Chellapandi
+
+[List of speakers of the Tamil Nadu Legislative Assembly - Wikipedia]
+December 29, 2025 -The speaker is elected by the members of the assembly, from amongst them. Madras Legislative Council, the first representative legislature for the Madras Presidency was established inDecember 1920.
+URL: https://en.wikipedia.org/wiki/List_of_speakers_of_the_Tamil_Nadu_Legislative_Assembly
+
+[About: S. Chellapandian]
+S. Chellapandian was an Indian politician of the Indian National Congress and member of the legislative assembly of Madras state from Tirunelveli. He served as the Speaker of the Madras Legislative Assembly from1962 to 1967.
+URL: https://dbpedia.org/page/S._Chellapandian
+
+[Chellapandian’s birth centenary celebrated]
+December 17, 2012 -Union Ministers P Chidambaram, G K Vasan and Jayanthi Natarajan, and Tamil Nadu Congress Committee president B S Gnanadesikan paid tributes to the former speaker at the event. Born in 1913 at Melaseval Village of Tirunelveli district, Chellapandian got a law degree from Government Law College, Trivandrum. He started his career as a lawyer, practised as a junior under Daniel Thomas, once a leading lawyer who later served as a cabinet minister in the then State of Madras.
+URL: https://www.newindianexpress.com/cities/chennai/2012/Dec/17/chellapandians-birth-centenary-celebrated-434503.html
+
+
+=== FULL EXTRACTED CONTENT ===
+
+
+--- [S. Chellapandian - Wikipedia] ---
+S. Chellapandian was an Indian politician of the Indian National Congress and member of the legislative assembly of Madras state from Tirunelveli. He served as the Speaker of the Madras Legislative Assembly from 1962 to 1967.
+
+
+--- [S. Chellapandi - Wikipedia] ---
+S. Chellapandian was an Indian politician and former Member of the Legislative Assembly. He was elected to the Tamil Nadu legislative assembly as an Indian National Congress candidate from Cheranmadevi constituency in 1952 election.
+
+
+--- [List of speakers of the Tamil Nadu Legislative Assembly - Wikipedia] ---
+The Speaker is the presiding officer of the Tamil Nadu Legislative Assembly, the main law-making body for the Indian state of Tamil Nadu. The speaker is elected by the members of the assembly, from amongst them.
+
+
+--- [About: S. Chellapandian] ---
+| dbo:birthDate | | | dbo:description | - India poliitik (et) - India siyaasa nira ŋun nyɛ doo (dag) - Indiaas politicus (nl) - Olóṣèlú Ọmọ Orílẹ̀-èdè Indian (yo) - indisk politikar (nn) - indisk politiker (da) - indisk politiker (sv) - intialainen poliitikko (fi) - polaiteoir Indiach (ga) - politician indian (ro) - politico indiano (it) - politikan indian (sq) - politikari indiarra (eu) - político indio (es) - político indio (gl) - políticu indiu (ast) - индийский политик (ru) - سياسي هندي (ar) - Indian politician (en) - hinduski polityk (pl) - polític indi (ca) - político indiano (pt) - இந்திய அரசியல்வாதி (ta) - індійський політик (uk) - פוליטיקאי הודי (iw) - ভারতীয় রাজনীতিবিদ (bn) - 印度政治人物 (zh) - personnalité politique indienne (fr) - ഇന്ത്യയിലെ രാഷ്ട്രീയ പ്രവർത്തകന് (ml) - سیاستمدار هندی (fa) | | dbo:termPeriod | | | dbo:wikiPageWikiLink | | | dbp:birthDate | | | dbp:name | | | dbp:office | - Speaker, Madras Legislative Assembly (en) | | dbp:predecessor | | | dbp:successor | | | dbp:termEnd | | | dbp:termStart | | | dbp:wikiPageUsesTemplate | | | dct:subject | | | gold:hypernym | | | rdf:type | | | rdfs:label | | | owl:sameAs | | | prov:wasDerivedFrom | | | foaf:isPrimaryTopicOf | | | foaf:name | | | is dbo:predecessor of | | | is dbo:wikiPageWikiLink of | | | is dbp:candidate of | | | is dbp:predecessor of | | | is foaf:primaryTopic of | |
+
+
+--- [Chellapandian’s birth centenary celebrated] ---
+No content

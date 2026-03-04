@@ -1,0 +1,48 @@
+=== SEARCH SNIPPETS ===
+
+[McDonnell Douglas AV-8B Harrier II - Wikipedia]
+The McDonnell Douglas (now Boeing) AV-8B Harrier II is a single-engine ground-attack aircraft that constitutes the second generation of the Harrier family, capable of vertical or short takeoff and landing (V/STOL). The aircraft is primarily employed on light attack or multi-role missions, ranging from close air support of ground troops to armed reconnaissance. The AV-8B is used by the United ...
+URL: https://en.wikipedia.org/wiki/McDonnell_Douglas_AV-8B_Harrier_II
+
+[British Aerospace - Wikiwand]
+In August 1981, BAe and the American aircraft manufacturer McDonnell Douglas signed a memorandum of understanding regarding the McDonnell Douglas AV-8B Harrier II. 26 Under this agreement, BAe was effectively a subcontractor rather than a full partner, receiving 40 per cent of the airframe's work-share in terms of man-hours. 26 Production took ...
+URL: https://www.wikiwand.com/en/articles/British_Aerospace
+
+[Boeing (BAe Systems / McDonnell Douglas) AV-8B Harrier II Short Take-Off and Vertical Landing (STOVL) Strike Aircraft]
+At least 13 AV-8B Harrier II Plus aircraft are still believed to be in service as of early 2009. Spanish Matador IIs began delivery in October of 1987. British Harrier IIs British Harrier IIs are known by their formal designation of BAe Systems/Boeing Harrier II (McDonnell Douglas Corporation ...
+URL: https://www.militaryfactory.com/aircraft/detail.php?aircraft_id=47
+
+[AV-8B Archives - Pima Air & Space]
+The McDonnell Douglas (now Boeing) AV-8B Harrier II is a single-engine ground-attack aircraft that constitutes the second generation of the Harrier family, capable of vertical or short takeoff and landing (V/STOL). In June 1987, as a private venture, BAe, McDonnell Douglas, and Smiths Industries agreed on the development of what was to become the AV-8B Harrier II Plus with the addition of ...
+URL: https://pimaair.org/designation/av-8b/
+
+[British Aerospace - Wikipedia]
+In August 1981, BAe and the American aircraft manufacturer McDonnell Douglas signed a memorandum of understanding regarding the McDonnell Douglas AV-8B Harrier II. [26]
+URL: https://en.wikipedia.org/wiki/British_Aerospace
+
+
+=== FULL EXTRACTED CONTENT ===
+
+
+--- [McDonnell Douglas AV-8B Harrier II - Wikipedia] ---
+The McDonnell Douglas (now Boeing) AV-8B Harrier II is a single-engine ground-attack aircraft that constitutes the second generation of the Harrier family, capable of vertical or short takeoff and landing (V/STOL). The aircraft is primarily employed on light attack or multi-role missions, ranging from close air support of ground troops to armed reconnaissance. The AV-8B is used by the United States Marine Corps (USMC), the Spanish Navy, and the Italian Navy. A variant of the AV-8B, the British Aerospace Harrier II, was developed for the British armed forces, while another, the TAV-8B, is a dedicated two-seat trainer.
+The project that eventually led to the AV-8B's creation started in the early 1970s as a cooperative effort between the United States and United Kingdom, aimed at addressing the operational shortcomings of the first-generation Hawker Siddeley Harrier. Early efforts centered on a larger, more powerful Pegasus engine to dramatically improve the capabilities of the Harrier. Because of budgetary constraints, the UK abandoned the project in 1975. Following the UK's withdrawal, McDonnell Douglas extensively redesigned the earlier AV-8A Harrier to create the AV-8B. While retaining the general layout of its predecessor, the aircraft incorporates a new, larger composite wing with an additional hardpoint on each side, an elevated cockpit, a redesigned fuselage and other structural and aerodynamic refinements. The aircraft is powered by an upgraded version of the Pegasus. The AV-8B made its maiden flight in November 1981 and entered service with the USMC in January 1985. Later upgrades added a night-attack capability and radar, resulting in the AV-8B(NA) and AV-8B Harrier II Plus versions, respectively. An enlarged version named Harrier III was also studied but not pursued. The UK, through British Aerospace, re-joined the improved Harrier project as a partner in 1981, giving it a significant work-share in the project. Following corporate mergers in the 1990s, Boeing and BAE Systems have jointly supported the program. Approximately 340 aircraft were produced in a 22-year production program that ended in 2003.
+Typically operated from small aircraft carriers, large amphibious assault ships and simple forward operating bases, AV-8Bs have participated in numerous military and humanitarian operations, proving themselves versatile assets. U.S. Army General Norman Schwarzkopf named the USMC Harrier II as one of several important weapons in the Gulf War. It also served in Operation Enduring Freedom in Afghanistan, the Iraq War and subsequent War in Iraq, along with Operation Odyssey Dawn in Libya in 2011. Italian and Spanish Harrier IIs have taken part in overseas conflicts in conjunction with NATO coalitions. During its service history, the AV-8B has had a high accident rate, related to the percentage of time spent in critical take-off and landing phases. USMC and Italian Navy AV-8Bs are being replaced by the Lockheed Martin F-35B Lightning II, with the USA expected to operate its Harriers into 2027.
+
+
+--- [British Aerospace - Wikiwand] ---
+English Sign in Top Qs Timeline Chat Perspective All Articles Dictionary Quotes Map Remove ads Loading article...
+
+
+--- [Boeing (BAe Systems / McDonnell Douglas) AV-8B Harrier II Short Take-Off and Vertical Landing (STOVL) Strike Aircraft] ---
+No content
+
+
+--- [AV-8B Archives - Pima Air & Space] ---
+McDonnell Douglas AV-8B McDonnell Douglas AV-8B Harrier II+ The McDonnell Douglas (now Boeing) AV-8B Harrier II is a single-engine ground-attack aircraft that constitutes the second generation of the Harrier family, capable of vertical or short takeoff and landing (V/STOL). In June 1987, as a private venture, BAe, McDonnell Douglas, and Smiths Industries agreed on the development of what was to become the AV-8B Harrier II Plus with the addition of radar and increased missile compatibility. Production was authorized on 3 June 1992. The maiden flight of the prototype took place on 22 September, marking the start of a successful flight-test program. The first production aircraft made its initial flight on 17 March 1993. Deliveries of new aircraft took place from April 1993 to 1995. At the same time, the plan to remanufacture existing AV-8Bs to the Plus standard proceeded. The AV-8B saw extensive action during Operation Desert Storm (1991) and massed nearly 4,100 flights hours. It also massed combat hours during Operations Allied Force, Enduring Freedom, Iraqi Freedom, Inherit Resolve, and Odyssey Dawn. Currently, the U.S. military is replacing the AV-8B. It is still in service with the Spanish and Italian Navies. Service History Loaned to Pima Air & Space Museum by the National Naval Aviation Museum, in 2025, The McDonnell Douglas AV-8B Harrier II+ initially entered service in 1986 as an AV-8B Day Attack aircraft. In 2001, it was remanufactured as an AV-8B II+ Radar aircraft. It flew with Marine Attack Squadrons (VMAs) 311, 223, 214, 513, and 231, logging 1,539 combat flight hours and a grand total of 9,671 flight hours. | Wingspan | 30 ft 4 in. | Wingspan | | Length | 46 ft 4 in. | Length | | Height | 11 ft 8 in. | Height | | Weight | 13,968 lb (empty) 22,950 lb (gross) | Weight | | Max. Speed | 585 mph | Maximum Speed | | Service Ceiling | 50,000 ft | Service Ceiling | | Range | 1,200 miles | Range | | Engine | Rolls-Royce Pegasus F402-RR-408 (Mk 107) vectored-thrust turbofan, 23,500 lbf thrust | Engine | | Crew | 1 | Crew | Manufacturer McDonnell Douglas Markings U. S. Marine Corps Designation AV-8B Harrier II+ Serial Number 165574
+
+
+--- [British Aerospace - Wikipedia] ---
+British Aerospace plc (BAe) was a British aircraft, munitions and defence-systems manufacturer that was formed in 1977. Its head office was at Warwick House in the Farnborough Aerospace Centre in Farnborough, Hampshire. It purchased Marconi Electronic Systems, the defence electronics and naval shipbuilding subsidiary of the General Electric Company, in 1999 to form BAE Systems.
+
+

@@ -1,0 +1,67 @@
+=== SEARCH SNIPPETS ===
+
+[Gaspy - Wikipedia]
+Gaspy is a crowd-sourced petrol price monitoring application for New Zealand. [1] It is based in Tauranga and available for both iPhone and Android. [2] Prices are entered into the app by motorists. As of March 2020 the app has half a million users. [3] A founder of Gaspy says that 97 percent of the app's data is accurate, and that the data is externally audited. [3]
+URL: https://en.wikipedia.org/wiki/Gaspy
+
+[Startup Watch: Gaspy - NZ Entrepreneur Magazine]
+Who and where are your target customers? New Zealand petrol consumers, nationally. Fuel saver app Gaspy is saving NZ drivers up to $800 per year. How and when did you first come up with the idea for your business? We came up with the idea in 2016.
+URL: https://nzentrepreneur.co.nz/startup-watch-gaspy/
+
+[Meet the team behind Gaspy, the petrol price-saving app that's gone 'batshit']
+Mar 15, 2022 · It started for kicks at a poker game. Now Gaspy beats Facebook on the app charts and nearly a million New Zealanders rely on it to find cheaper gas. Four years ago, Larry Green and his three...
+URL: https://thespinoff.co.nz/business/15-03-2022/meet-the-team-behind-gaspy-the-petrol-price-saving-app-thats-gone-batshit
+
+[Larry Green: Huge increase in people using the app since Friday]
+If you don't know the phone app Gaspy by now, where have you been? Gaspy was created by four Kiwis back in 2015 as a way of documenting fuel prices in Tauranga when they felt it was getting a bit ...
+URL: https://www.newstalkzb.co.nz/on-air/heather-du-plessis-allan-drive/audio/larry-green-huge-increase-in-people-using-the-app-since-friday/
+
+[What's the difference between 'a year' and 'the year'?]
+Jan 26, 2017 · 'A year' can be any year without any specification. But 'the year' means a particular/specified year or the one which is already mentioned and thereby known. E.g: In a year there are twelve months. (means any year or all years) I was born in the year 2000. (in that particular year) Grammatically 'a/an' is known as indefinite article and 'the' is definite article. The indefinite article (a/an ...
+URL: https://english.stackexchange.com/questions/370328/whats-the-difference-between-a-year-and-the-year
+
+
+=== FULL EXTRACTED CONTENT ===
+
+
+--- [Gaspy - Wikipedia] ---
+Gaspy is a crowd-sourced petrol price monitoring application for New Zealand. It is based in Tauranga and available for both iPhone and Android. Prices are entered into the app by motorists. As of March 2020 the app has half a million users. A founder of Gaspy says that 97 percent of the app's data is accurate, and that the data is externally audited.
+
+
+
+
+--- [Startup Watch: Gaspy - NZ Entrepreneur Magazine] ---
+Founders: Larry Green, Tim Turner, Ben Smith, Mike Newton HQ: Tauranga, NZ Tell us about your business. We are committed to helping Kiwis find the cheapest fuel prices closest to them with our convenient free App. The prices on Gaspy are crowd-sourced which means we rely on like-minded consumers to locate and share the best fuel prices in NZ for shared benefit. By working together we can all enjoy cheaper gas and put pressure on “Big Oil” to maintain competitive pricing. Who and where are your target customers? New Zealand petrol consumers, nationally. How and when did you first come up with the idea for your business? We came up with the idea in 2016. As a software company (www.hwem.nz) we wanted to do something nonprofit and functional that helped lots of people solve a substantial problem or save them money. Most of the work we do is large company “back-end” stuff and we really wanted to have a go at something with more of a focus on our community. The idea literally came from us looking at things that were useful abroad and that we thought we could improve and deliver in NZ. We actually originally saw an American App called Gas Buddy and thought, “Wow, that’s so handy!” What are your three biggest unique selling points? - Gaspy is free! - Gaspy saves users money, up to $800 a year in the major cities. - Gaspy has a cool integrated a Spy Game. What are three things about your business that you are proud of? - That we have made something that helps so many Kiwis (currently 83,000+ users) save money each year. Gaspy will generate $80M in savings for everyday New Zealanders in 2018. - That we have a small but amazing team of real people who are super fun to work with and passionate about the growth of Gaspy. - That we respect our users and haven’t sold out to advertising. How do you market your business and what advice do you have for others around marketing? We have spent a total of $500 on one Facebook ad. We have no money for advertising so its all been word of mouth and organic social. We originally ran a Beta test in Tauranga and figured if it worked we would have to find a way to tell the rest of the country about it but it just spread like wildfire. We average about 1500 new users per week and expect to crack 100k in April. Our advice to other people trying to promote their Apps is simple: Make something helpful, fun and easy use. What’s been the biggest challenge you’ve faced in building your business so far? Advertising. Although our growth rate has been amazing we know we could have got here way sooner if we had some cash to pump the massage through more formal paid adverts. It is frustrating to know that we could help so many more New Zealanders save money every week if we could just tell them we exist today. What is the biggest entrepreneur lesson you would like to share with other Kiwis thinking of starting their own business? Helping others can be as big a reward, or even bigger reward for entrepreneurial people than money alone. Our four person team has more than 80 collective years in tech development but Gaspy has been the best and most memorable thing any of us has ever achieved.
+
+
+--- [Meet the team behind Gaspy, the petrol price-saving app that's gone 'batshit'] ---
+It started for kicks at a poker game. Now Gaspy beats Facebook on the app charts and nearly a million New Zealanders rely on it to find cheaper gas. Four years ago, Larry Green and his three co-workers at a software development company got bored during their regular Tuesday night poker sessions. “One of the guys commented that fuel prices were crap,” says Green. Back then, they were around $1.50 a litre. “He wanted a way to keep an eye on it.” For fun, the foursome began using their Tuesday nights to design a programme that would allow them to find Bay of Plenty’s cheapest petrol prices. “We came up with this concept of being a ‘gas spy’,” says Green. Soon, they were registering prices every time they filled up, and competing to see who logged in the most. They soon had most of Tauranga’s petrol station’s covered. Thus, Gaspy (it’s pronounced “Gasp-ee”) was born. Originally built just for Green and his three engineers at Tauranga tech company Whem, they began inviting friends to take part. Having worked with major corporate clients who always asked them to sign NDA forms, it was nice to have something they could openly talk about. “That’s why we made it free.” Gaspy quickly took off, reaching 1000 users in six months based all around the country. It was a milestone they decided to celebrate. “We had a mini nerd party,” says Green, with “a warm bottle of chardonnay and a packet of crisps with the air conditioning on and lots of screens everywhere”. These days, the celebrations deserve to be much bigger. Gaspy’s gone major, becoming an essential service for every driver in the country looking to find cheaper gas. Lately, that’s become more important than ever, with prices soaring above $3 thanks to rising barrel prices and oil shortage concerns as Russia’s invasion of Ukraine continues. Some suggest $4 a litre could soon be on the cards. All of this has made Gaspy’s usage soar. This past Friday, as rumours spread about another looming rise, 32,000 new users signed up, far outstripping the previous daily record of 4000, and taking the company’s user tally to 885,000. Gaspy also topped the local app charts over the weekend, beating out Facebook, WhatsApp, Instagram and TikTok. Green and his team never envisioned this kind of success. “We’re just four super-nerds who made a funny game about fuel prices that’s gone batshit,” he says. “We’re beating out Mark Zuckerberg and YouTube. A Kiwi app never beats Facebook … here we are in Bellevue, Tauranga. Any day you can get one over the giants, it’s a legendary victory in our IT community.” It’s not just ballooning gas prices fueling their success. Gaspy is easy to access, and simple to use. Users log in, enter their location, and the closest stations offering the cheapest petrol instantly pop up. The app relies on drivers to log their fuel costs, and others to confirm the results. But there are incentives, with coins and badges awarded, and leadership boards for each region. On Monday, the day I spoke to Green, the cheapest gas closest to me was in Albany Village at $2.93. “Boom!” said an excited Green when I told him the news. “Under $3 — that’s a steal today.” Gaspy’s gone from something that used to be a fun way for friends to try and save a little money on petrol to an essential service for those struggling on the breadline. Green’s well aware of this, boasting the app saves the average user $800 a year. “When it’s $3 [a litre], it’s like, ‘holy crap’,” he says. Driving home the other night, he noticed prices veering between $2.90 and $3.20. “That’s a 30 cents difference. If you’re filling up your tank, that’s massive.” Green believes “game-ifying” their app was crucial to its success. “People get a kick out of being able to share information,” he says. “It’s a bit like the weather — it’s useful. Tap one or two buttons and it makes life easier for everyone else. You know a lot of people are going to get great value out of it.” He and his team don’t make money out of the app, with a scattering of Google ads helping to keep it running. That seems like a mistake, but Green disagrees. What about cashing out? “We’re in no rush [to sell it],” he says. “We know what we’ve got.” Green’s open to offers though, and says there’s definitely room for future owners to grow and streamline Gaspy. There’s also room to improve it. Soon, they’ll add services for electric vehicle owners, and perhaps address some of the complaints they get about the app’s “clunky” interface and fonts. But he’s staying mum on whether Gaspy will ever launch a similar app for grocery prices — the most requested feature among users. He knows it would work, because it’s already working for petrol prices. “There’s a real group of people out there who love working for the common good,” he says. “They would happily stand in the supermarket walking up and down the aisles all day.” If they do it, Green and his team will take care of it on a Tuesday night. Yes, their “poker nights” are still going, yet there are no cards being dealt or bets being placed any more. They use that time to work on Gaspy, just “four nerds” sitting around a table, says Green. “It’s like the office pet — we have a great affinity for it.” Download the Gaspy app for iPhone and Android here.
+
+
+--- [Larry Green: Huge increase in people using the app since Friday] ---
+If you don't know the phone app Gaspy by now, where have you been? Gaspy was created by four Kiwis back in 2015 as a way of documenting fuel prices in Tauranga when they felt it was getting a bit high at $1.50. Now thanks to fuel being the talk of the town, the app has taken off and they're closing in on 900 thousand users. One of the co-founders, Larry Green, joined Andrew Dickens. LISTEN ABOVE Take your Radio, Podcasts and Music with you
+
+
+--- [What's the difference between 'a year' and 'the year'?] ---
+# What&#39;s the difference between &#39;a year&#39; and &#39;the year&#39;?
+
+When I should use "a year" and when I should use "the year."
+
+
+## Accepted Answer
+
+'A year' can be any year without any specification. But 'the year' means a particular/specified year or the one which is already mentioned and thereby known. 
+E.g: In a year there are twelve months. (means any year or all years)
+     I was born in the year 2000. (in that particular year)
+
+Grammatically 'a/an' is known as indefinite article and 'the' is definite article.
+
+The indefinite article(a/an) refers to things in general and the definite article(the) refers to a particular person or thing. This is the very basic rule pertaining to the use of articles. Actually, in English grammar, perhaps the uses of the articles are the most difficult/confusing topic.
+For details on this subject, it is better to consult a good grammar like 'PRACTICAL ENGLISH USAGE' by Michael Swan.
+
+'January is the first month of the year'- here 'the' is used in a sense of 'general plus known', as everybody knows what a year is and how many months are there in a year and what they are.
+Sometimes 'the' is used with a singular countable noun to talk about things in general.
+See a couple of examples from the above-mentioned grammar:
+E.g: 'Schools should pay less attention to examination success, and more attention to the child.' (means all school children, not a particular child)
+'The tiger is in danger of becoming extinct.'( means the whole tiger family, not any specific tiger.
+

@@ -1,0 +1,76 @@
+=== SEARCH SNIPPETS ===
+
+[Agriculture and forestry University]
+Agriculture and Forestry University Agriculture and Forestry University (AFU) is the first State-owned and technical university of Nepal, established in accordance with the Agriculture and Forestry University (AFU) Bill enacted by the Parliament in 2010.
+URL: https://www.afu.edu.np/
+
+[Agriculture and Forestry University - Wikipedia]
+The university is the country's first technical university that offers agricultural workforce development and promotes research in agriculture, forestry, and allied disciplines through teaching, research, and extension programs across the country.
+URL: https://en.wikipedia.org/wiki/Agriculture_and_Forestry_University
+
+[Agriculture and Forestry University, Rampur, Chitwan, Nepal ...]
+The Agriculture and Forestry University (AFU) was established in Rampur, Chitwan, Nepal in 2010 which is the first technical university in the country. The university aims at producing highly skilled human resources required to work on quality research and development in agriculture. It aims at all round development of agriculture, livestock, aquaculture and forestry which would raise the ...
+URL: https://www.educatenepal.com/affiliation-body/detail/agriculture-and-forestry-university
+
+[Subject Alternative Name not added to certificate]
+On the Subject tab in the Certificate Properties, enter a suitable Common name for the Subject, if required In the Alternative names section, select Type: DNS and add the FQDNs for the desired SANs. Options for key usage and so on should be preconfigured on the other tabs.
+URL: https://serverfault.com/questions/476413/subject-alternative-name-not-added-to-certificate
+
+[Agriculture and Forestry University (AFU): Leading Agricultural ...]
+The Agriculture and Forestry University Bharatpur Nepal stands as a cornerstone of Nepal's agricultural education and development, shaping the future of agriculture and forestry through its commitment to excellence in teaching, innovative research, and impactful community engagement.
+URL: https://ratingsnepal.com/agriculture-and-forestry-university/
+
+
+=== FULL EXTRACTED CONTENT ===
+
+
+--- [Agriculture and forestry University] ---
+Agriculture and Forestry University Agriculture and Forestry University (AFU) is the first State-owned and technical university of Nepal, established in accordance with the Agriculture and Forestry University (AFU) Bill enacted by the Parliament in 2010. The constituent campuses of Tribhuvan University, Institute of Agriculture and Animal Sciences (IAAS) and the Forestry Campus (Institute of Forestry-IOF) in Hetauda, together with Dean’s Office IAAS Rampur were merged, and AFU was established in Rampur, Chitwan. The university aims to produce highly skilled human resources required to promote education, research and development in agriculture, livestock, veterinary science, fisheries, forestry and allied disciplines. Similarly, it aims to contribute to all-round development of agriculture, livestock and forestry in order to raise the socio-economic conditions of rural people through quality teaching, research and extension. Discover More
+
+
+--- [Agriculture and Forestry University - Wikipedia] ---
+The Agriculture and Forestry University (AFU) (Nepali: कृषि तथा वन विज्ञान विश्वविद्यालय) is a public agricultural university in Nepal. AFU has its central offices at Rampur, Chitwan, Nepal. It was established by the Parliament of Nepal through a bill passed in June 2010 merging two constituent campuses of Tribhuvan University namely Rampur Agriculture Campus of IAAS and Hetauda Campus of IOF in Hetauda, Makwanpur.
+The university is the country's first technical university that offers agricultural workforce development and promotes research in agriculture, forestry, and allied disciplines through teaching, research, and extension programs across the country. The soul aim of the university is to produce mainpower for agriculture and forest industry.
+
+
+--- [Agriculture and Forestry University, Rampur, Chitwan, Nepal ...] ---
+No content
+
+
+--- [Subject Alternative Name not added to certificate] ---
+# Subject Alternative Name not added to certificate
+
+I'm trying to issue a new certificate using the additional attribues field within the  Windows CertSrv Web-Enrollment Client.
+
+I added the CSR, picked the template and entered this into the attributes field:
+
+SAN:dns=HOSTNAME&dns=HOSTNAME.DOMAIN.COM&ipaddress=IPADRESS
+
+
+The request is successful but when I check the signed certificate no "Alternative Names" attribute is added to it. Am I missing something? Maybe a issue with the Template? (used a default Win 2003 level webserver template copy with some custom settings).
+
+/edit
+Also I've tried to use 
+
+certreq -submit -attrib "CertificateTemplate:MYTEMPLATE" <Cert Request.req> -attrib "SAN:dns=HOSTNAME&dns=HOSTNAME2&ipaddress=IPADDRESS"
+
+
+resulting in the same problem: cert gets generated, but without any SAN attribute.
+
+/edit2 
+also I've set the CA to issue SAN certificates using
+
+certutil -setreg policy\EditFlags +EDITF_ATTRIBUTESUBJECTALTNAME2
+
+
+and restarting the CA service. Still: no SANs.
+
+Please note: using req. files and OpenSSL to generate the CSR i'm able to generate certifcates using the CA which have some SANs included. However this option is not valid in my current situation since I'm getting the CSR from an application and i'm not able to manually generate one for the application.
+
+/edit3
+I tried using the default webserver certificate WITHOUT any changes and suddenly it worked. So now the question is: what are the template requirements to enable SAN?
+
+
+
+--- [Agriculture and Forestry University (AFU): Leading Agricultural ...] ---
+Agriculture and Forestry University (AFU), established in 2010, is Nepal’s first state-owned technical university, located in Bharatpur, Chitwan. It was formed through the merger of Tribhuvan University’s Institute of Agriculture and Animal Sciences (IAAS), the Forestry Campus (Institute of Forestry-IOF) in Hetauda, and the Dean’s Office at IAAS Rampur. This unification brought together decades of expertise and resources, creating a premier institution for higher education and research in agriculture, livestock, veterinary sciences, fisheries, and forestry. AFU’s location in Nepal’s agricultural heartland underscores its mission to provide education, research, and practical solutions to address the nation’s agricultural and forestry challenges. As a hub for academic excellence, AFU integrates education, research, and community outreach to promote sustainable development in Nepal. With state-of-the-art facilities, including research laboratories, experimental farms, and specialized training centers, AFU equips students with practical skills and advanced knowledge. Its graduates play a vital role in transforming traditional agricultural practices, promoting sustainable techniques, and addressing critical issues like food security and climate resilience. By contributing to Nepal’s socio-economic growth and environmental conservation, Agriculture and Forestry University Bharatpur Nepal continues to be a cornerstone of innovation and progress in the agricultural and forestry sectors. Vision, Mission, and Goals Vision To become an eminent land-grant model university that builds a food-secure, climate-resilient, and economically vibrant Nepal by advancing education, research, and extension services. Mission Agriculture and Forestry University is dedicated to enhancing the quality of life in Nepal through innovative teaching, pioneering research, and effective extension in agriculture, livestock, fisheries, and forestry. Goals AFU aims to lead the transformation of agriculture and allied sectors through education, research, and innovation, contributing to sustainable food production, environmental conservation, and socio-economic development. Strategic Objectives - Academic Excellence - Offer well-rounded academic programs in agriculture, animal sciences, veterinary sciences, fisheries, and forestry. - Equip students with sustainable practices and cutting-edge technologies for leadership roles in the agricultural industry. - Research Innovation - Conduct groundbreaking research addressing challenges in agriculture, livestock, and forestry. - Promote interdisciplinary collaborations to enhance scientific knowledge and drive technological advancements. - Skill Development - Provide experiential learning opportunities through fieldwork, internships, and practical projects. - Foster critical thinking, creativity, and problem-solving skills. - Industry Collaboration - Maintain close ties with farmers, industry stakeholders, and policymakers to align academic programs with real-world needs. - Sustainability Focus - Educate students on environmental conservation and sustainable agricultural practices. - Develop eco-friendly farming techniques to contribute to a sustainable food system. - Community Engagement - Extend knowledge to rural populations through extension programs and outreach initiatives. - Strengthen agriculture science centers to support farmers and the broader community. Academic Programs at AFU Agriculture and Forestry University Bharatpur Nepal offers diverse academic programs ranging from undergraduate to doctoral levels through its three faculties: 1. Faculty of Agriculture (FOA) Undergraduate Programs: - Bachelor of Science in Agriculture (B.Sc. Ag.) Postgraduate Programs: - M.Sc. and Ph.D. in: - Agricultural Economics - Agronomy - Conservation Ecology - Entomology - Horticulture - Plant Breeding - Rural Sociology - Agricultural Extension - Plant Pathology - Soil Science 2. Faculty of Animal Science, Veterinary Science, and Fisheries (FAVF) Undergraduate Programs: - Bachelor of Veterinary Science and Animal Husbandry (B.V. Sc. & A.H.) - Bachelor of Science in Fisheries (B.Sc. Fisheries) Postgraduate Programs: - M.Sc. and Ph.D. in Animal Science (Specializations in Animal Nutrition, Fodder Production, and Livestock Management) - M.V.Sc. and Ph.D. in Veterinary Medicine (Specializations in Microbiology, Pharmacology, Theriogenology) - M.Sc. and Ph.D. in Fisheries (Focus on Aquaculture) 3. Faculty of Forestry (FOF) Undergraduate Programs: - Bachelor of Science in Forestry (B.Sc. Forestry) Postgraduate Programs: - Master of Science in Forestry (M.Sc. Forestry) Research and Development at AFU AFU integrates teaching, research, and extension services under the Land Grant Model, focusing on: - Innovative solutions for challenges in agriculture and allied disciplines. - Collaboration with national and international stakeholders for impactful research. - Dissemination of knowledge through extension programs and scientific publications. Infrastructure and Facilities The Agriculture and Forestry University Bharatpur Nepal boasts: - Modern classrooms and laboratories. - Specialized research centers for agriculture, veterinary sciences, and forestry. - Advanced experimental farms and agricultural machinery. - Hostels and a central library equipped with digital resources. Community Engagement AFU actively engages with rural communities by offering: - Training programs for farmers and local stakeholders. - Extension services through Agriculture Science Centers. - Knowledge dissemination on sustainable practices and resource management. The Agriculture and Forestry University Logo The Agriculture and Forestry University logo symbolizes the university’s commitment to sustainability, agricultural innovation, and forestry conservation. The logo reflects AFU’s mission to integrate education, research, and community service for a greener and more food-secure Nepal. Strategic Plan (2023-2032) The Second Strategic Plan focuses on: - Digitalization of academic and administrative processes. - Expansion of research and extension activities. - Enhanced collaborations with industry and international institutions. - Sustainable infrastructure development to support growing academic needs. Why Choose Agriculture and Forestry University Bharatpur Nepal? The Agriculture and Forestry University Bharatpur Nepal stands out as a premier institution for students seeking excellence in agricultural and forestry education. Here are the key reasons to choose AFU: - Comprehensive Education: The university offers multidisciplinary academic programs that cover agriculture, veterinary sciences, fisheries, and forestry. These programs combine rigorous theoretical knowledge with practical exposure, ensuring students are well-prepared for real-world challenges. - Research Opportunities: AFU actively engages students and faculty in innovative research addressing both national and global challenges. From sustainable agriculture to climate resilience, the university fosters an environment of discovery and problem-solving. - Sustainable Practices: The university emphasizes environmentally friendly agricultural techniques and sustainable resource management. AFU prepares students to lead the way in developing eco-friendly solutions for modern agricultural challenges. - Community Impact: AFU’s extensive outreach programs directly benefit rural populations by offering training, knowledge dissemination, and support for farmers. These programs ensure that the university’s expertise reaches the communities that need it most. - State-of-the-Art Facilities: With modern classrooms, specialized research centers, experimental farms, and a central library equipped with digital resources, AFU provides an advanced learning environment. These facilities empower students with the tools and resources they need to excel academically and professionally. By combining academic rigor with practical experience, sustainable innovation, and community service, Agriculture and Forestry University Bharatpur Nepal offers a transformative education that equips students to make a lasting impact in agriculture and forestry. Also Read About:Top Universities in Nepal Best Institutions for Higher Education Conclusion The Agriculture and Forestry University Bharatpur Nepal stands as a cornerstone of Nepal’s agricultural education and development, shaping the future of agriculture and forestry through its commitment to excellence in teaching, innovative research, and impactful community engagement. Located in the agricultural hub of Chitwan, AFU serves as a vital institution for advancing knowledge and practices in agriculture, livestock, veterinary sciences, fisheries, and forestry. By fostering interdisciplinary education and hands-on learning, the university equips students with the skills and expertise needed to address national and global challenges such as food security, climate change, and sustainable resource management. Through its holistic approach, Agriculture and Forestry University Bharatpur Nepal not only transforms the agricultural sector but also uplifts rural communities by extending its knowledge and resources to farmers and stakeholders across the country. Aspiring students and researchers are provided with an unparalleled platform to contribute to Nepal’s food security, environmental conservation, and socio-economic development. As a beacon of innovation and sustainability, AFU continues to drive progress in agriculture and forestry, creating lasting impacts on the nation’s development.

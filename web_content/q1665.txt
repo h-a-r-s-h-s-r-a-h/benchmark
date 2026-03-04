@@ -1,0 +1,44 @@
+=== SEARCH SNIPPETS ===
+
+[Eremiaphila braueri - Wikipedia]
+Eremiaphila braueri is a species of praying mantis in the family Eremiaphilidae. ... Krauss, 1902. Synonyms. Eremiaphila laevifrons Uvarov, 1922. See also.
+URL: https://en.wikipedia.org/wiki/Eremiaphila_braueri
+
+[Eremiaphila braueri Krauss, 1902 - GBIF]
+Remarks: Eremiaphila braueri appears usually from March to October. It was found on sand or on small gray gravel. Individuals are fast runners and prey on ants. When they are disturbed they lower their body to touch the ground and spread their legs laterally. They appear to have an excellent ability to track moving ants and they were observed feeding on them in the eastern desert near Al Muwaqqar.
+URL: https://www.gbif.org/species/1404106
+
+[species Eremiaphila braueri Krauss, 1902: Mantodea Species File]
+You can modify these specifications at any time by clicking the "Change items displayed" button in the header. Note: If you want your changes to be preserved for future sessions, you should login. To do this, click on the logo in the upper left corner. family Eremiaphilidae subfamily Eremiaphilinae genus Eremiaphila Lefebvre, 1835
+URL: http://mantodea.speciesfile.org/Common/basic/Taxa.aspx?TaxonNameID=1182397
+
+[Mantodea) from the Palestinian Territories with an updated list]
+Jan 15, 2019 — ... Eremiaphila braueri Krauss, 1902. Material examined: Zatara (PMNH8257, 11.2016). Remarks: This is the first record for this species for his ...
+URL: https://www.researchgate.net/publication/330384943_Mantids_Dictyoptera_Mantodea_from_the_Palestinian_Territories_with_an_updated_list
+
+[IRMNG - Eremiaphila brauen Krauss, 1902]
+Rank Species Parent Eremiaphila Lefèbvre, 1835 Environment marine, brackish Fossil range
+URL: https://www.irmng.org/aphia.php?p=taxdetails&id=11486058
+
+
+=== FULL EXTRACTED CONTENT ===
+
+
+--- [Eremiaphila braueri - Wikipedia] ---
+No content
+
+
+--- [Eremiaphila braueri Krauss, 1902 - GBIF] ---
+Formed in 2009, the Archive Team (not to be confused with the archive.org Archive-It Team) is a rogue archivist collective dedicated to saving copies of rapidly dying or deleted websites for the sake of history and digital heritage. The group is 100% composed of volunteers and interested parties, and has expanded into a large amount of related projects for saving online and digital history. History is littered with hundreds of conflicts over the future of a community, group, location or business that were "resolved" when one of the parties stepped ahead and destroyed what was there. With the original point of contention destroyed, the debates would fall to the wayside. Archive Team believes that by duplicated condemned data, the conversation and debate can continue, as well as the richness and insight gained by keeping the materials. Our projects have ranged in size from a single volunteer downloading the data to a small-but-critical site, to over 100 volunteers stepping forward to acquire terabytes of user-created data to save for future generations. The main site for Archive Team is at archiveteam.org and contains up to the date information on various projects, manifestos, plans and walkthroughs. This collection contains the output of many Archive Team projects, both ongoing and completed. Thanks to the generous providing of disk space by the Internet Archive, multi-terabyte datasets can be made available, as well as in use by the Wayback Machine, providing a path back to lost websites and work. Our collection has grown to the point of having sub-collections for the type of data we acquire. If you are seeking to browse the contents of these collections, the Wayback Machine is the best first stop. Otherwise, you are free to dig into the stacks to see what you may find. The Archive Team Panic Downloads are full pulldowns of currently extant websites, meant to serve as emergency backups for needed sites that are in danger of closing, or which will be missed dearly if suddenly lost due to hard drive crashes or server failures.
+
+
+--- [species Eremiaphila braueri Krauss, 1902: Mantodea Species File] ---
+This is your first entry to the "Taxa hierarchy" display. You can modify these specifications at any time by clicking the "Change items displayed" button in the header. Note: If you want your changes to be preserved for future sessions, you should login. To do this, click on the logo in the upper left corner.
+
+
+--- [Mantodea) from the Palestinian Territories with an updated list] ---
+No content
+
+
+--- [IRMNG - Eremiaphila brauen Krauss, 1902] ---
+IRMNG taxon details basis of record Hallan, J. (2000-2017). Biology Catalog (2012 version), http://bug.tamu.edu/research/collection/hallan/ (as at 2012). [details] current name source Hallan, J. (2000-2017). Biology Catalog (2012 version), http://bug.tamu.edu/research/collection/hallan/ (as at 2012). [details] extant flag source as per genus [details] habitat flag source as per genus [details] Unreviewed Descriptive info Hallan comment: [Yemen, Island of Sokotra, Jordan, Oman, United Arab Emirates] [details] |

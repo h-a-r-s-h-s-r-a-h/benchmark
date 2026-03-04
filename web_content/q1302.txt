@@ -1,0 +1,44 @@
+=== SEARCH SNIPPETS ===
+
+[Whois hindustantimes.com]
+Aug 14, 1996 · Domain Information Domain: hindustantimes.com Registered On: 1996-08-14 Expires On: 2027-08-13
+URL: https://www.whois.com/whois/hindustantimes.com
+
+[Read Privacy Policy of Hindustantimes Subscription | Hindustan Times]
+It owns, operates and manages the websites hindustantimes.com, livehindustan.com, desimartini.com and livemint.com domains. We reserve the right to modify this privacy statement at any time as in required. We collect information directly from user(s), from third-parties and automatically through our websites/mobile applications. Registration for the Services may require that you supply certain personal information such as name, age, sex, contact number, email address and demographic information (area, location, IP address etc) to register.
+URL: https://www.hindustantimes.com/subscription-privacy-policy
+
+[hindustantimes.com Reviews: Is this site a scam or legit?]
+Domain Blacklisting Status This term indicates whether hindustantimes.com has landed on any online directories' blacklists and earned a suspicious tag. Assessing HTTPS Connectivity This section provides insight into whether hindustantimes.com boasts an 's' at the end of the 'HTTP' protocol listed in your browser's address bar.
+URL: https://www.scam-detector.com/validator/hindustantimes-com-review/
+
+[The oldest sites still online: Recharge by Rachel Lopez]
+Dec 7, 2019 — Head over to Symbolics.com the first-ever domain name registered on the internet (in 1985, five years before the web was set up and they ...
+URL: https://m.hindustantimes.com/art-and-culture/the-oldest-sites-still-online-recharge-by-rachel-lopez/story-iQu7Q2vR1CpqJPcUQzJizH.html
+
+[VirusTotal - Domain - www.hindustantimes.com]
+A relative measure, based on global visitor statistics, of how prevalent a domain is according to different providers. Low numbers (closer to 1) indicate that the domain is very popular.
+URL: https://www.virustotal.com/gui/domain/www.hindustantimes.com
+
+
+=== FULL EXTRACTED CONTENT ===
+
+
+--- [Whois hindustantimes.com] ---
+No content
+
+
+--- [Read Privacy Policy of Hindustantimes Subscription | Hindustan Times] ---
+No content
+
+
+--- [hindustantimes.com Reviews: Is this site a scam or legit?] ---
+No content
+
+
+--- [The oldest sites still online: Recharge by Rachel Lopez] ---
+Ask the publishers to restore access to 500,000+ books. Loading... https://m.hindustantimes.com/art-and-culture/the-oldest-sites-still-online-recharge-by-rachel-lopez/story-iQu7Q2vR1CpqJPcUQzJizH.html | 03:03:39 October 27, 2020 Got an HTTP 302 response at crawl time Redirecting to... https://www.hindustantimes.com/art-and-culture/the-oldest-sites-still-online-recharge-by-rachel-lopez/story-iQu7Q2vR1CpqJPcUQzJizH.html
+
+
+--- [VirusTotal - Domain - www.hindustantimes.com] ---
+No content

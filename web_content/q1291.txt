@@ -1,0 +1,77 @@
+=== SEARCH SNIPPETS ===
+
+[Reita Faria - Wikipedia]
+Reita Faria Powell (née Faria; born 23 August 1943) is an Indian physician, former model and the winner of Miss World 1966 pageant. She is the first Indian Miss World winner and the first to be qualified as a medical doctor. Reita Faria was born in the Matunga locality of Mumbai (then British ...
+URL: https://en.wikipedia.org/wiki/Reita_Faria
+
+[Miss India - Miss World (1966) - YouTube]
+Apr 13, 2014 · SV. Miss India wins the competition and she is Miss World. SV. Crown is placed on her head. SCU. Miss India, Reita Faria, & CU. Note from the old file - Not for Television.
+URL: https://www.youtube.com/watch?v=HM0uANcaanI
+
+[Subject Alternative Name not added to certificate]
+On the Subject tab in the Certificate Properties, enter a suitable Common name for the Subject, if required In the Alternative names section, select Type: DNS and add the FQDNs for the desired SANs. Options for key usage and so on should be preconfigured on the other tabs.
+URL: https://serverfault.com/questions/476413/subject-alternative-name-not-added-to-certificate
+
+[Reita Faria Height, Age, Husband, Children, Family, Biography & More]
+Aug 23, 2024 · Reita Faria is an Indian physician who is best known for being the first Asian to win the title of Miss World 1966. Check this page to read her biography - career, hobbies & much more!
+URL: https://starsunfolded.com/reita-faria/
+
+[Miss World 1966 - Alchetron, The Free Social Encyclopedia]
+Miss World 1966, the 16th edition of the Miss World pageant, was held on 17 November 1966 at the Lyceum Ballroom in London, UK. The winner was Reita Faria of India, first Asian delegate to win Miss World title. She was crowned by Miss World 1965, Lesley Langley of United Kingdom. Miss World 1966 Wik
+URL: https://alchetron.com/Miss-World-1966
+
+
+=== FULL EXTRACTED CONTENT ===
+
+
+--- [Reita Faria - Wikipedia] ---
+Reita Faria Powell (née Faria; born 23 August 1943) is an Indian physician, former model and the winner of Miss World 1966 pageant. She is the first Indian Miss World winner and the first to be qualified as a medical doctor.
+
+
+
+
+--- [Miss India - Miss World (1966) - YouTube] ---
+About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features © 2026 Google LLC
+
+
+--- [Subject Alternative Name not added to certificate] ---
+# Subject Alternative Name not added to certificate
+
+I'm trying to issue a new certificate using the additional attribues field within the  Windows CertSrv Web-Enrollment Client.
+
+I added the CSR, picked the template and entered this into the attributes field:
+
+SAN:dns=HOSTNAME&dns=HOSTNAME.DOMAIN.COM&ipaddress=IPADRESS
+
+
+The request is successful but when I check the signed certificate no "Alternative Names" attribute is added to it. Am I missing something? Maybe a issue with the Template? (used a default Win 2003 level webserver template copy with some custom settings).
+
+/edit
+Also I've tried to use 
+
+certreq -submit -attrib "CertificateTemplate:MYTEMPLATE" <Cert Request.req> -attrib "SAN:dns=HOSTNAME&dns=HOSTNAME2&ipaddress=IPADDRESS"
+
+
+resulting in the same problem: cert gets generated, but without any SAN attribute.
+
+/edit2 
+also I've set the CA to issue SAN certificates using
+
+certutil -setreg policy\EditFlags +EDITF_ATTRIBUTESUBJECTALTNAME2
+
+
+and restarting the CA service. Still: no SANs.
+
+Please note: using req. files and OpenSSL to generate the CSR i'm able to generate certifcates using the CA which have some SANs included. However this option is not valid in my current situation since I'm getting the CSR from an application and i'm not able to manually generate one for the application.
+
+/edit3
+I tried using the default webserver certificate WITHOUT any changes and suddenly it worked. So now the question is: what are the template requirements to enable SAN?
+
+
+
+--- [Reita Faria Height, Age, Husband, Children, Family, Biography & More] ---
+Reita Faria Height, Age, Husband, Children, Family, Biography & More Quick Info→ Age: 81 Years Education: M.B.B.S. Husband: David Powell | Bio/Wiki | | |---|---| | Full name | Reita Faria Powell [1]The Indian Express | | Profession(s) | Model, Physician, Beauty Pageant Title Holder | | Famous For | First Asian to win the title of Miss World | | Physical Stats & More | | | Height (approx.) | in centimeters- 172 cm in meters- 1.72 m in feet & inches- 5’ 8” | | Eye Colour | Dark Brown | | Hair Colour | Black | | Career | | | Awards, Honours, Achievements | • Miss Bombay 1966 (Winner) • Eve’s Weekly Miss India 1966 (Winner) • Miss World 1966 (Winner) | | Personal Life | | | Date of Birth | 23 August 1943 (Monday) | | Age (as of 2024) | 81 Years | | Birthplace | Bombay, British India | | Zodiac sign | Virgo | | Nationality | Indian | | Hometown | Goa | | School | St. Joseph’s Convent School, Panchgani, Mumbai | | College(s) | • Grant Medical College & Sir J.J. Group of Hospitals, Mumbai, India • King's College Hospital, London | | Educational Qualification | • M.B.B.S. | | Religion | Catholic [2]Aaj Ki Naari | | Controversy | During the Vietnam war, Reita Faria visited Vietnam with British-American actor and comedian Bob Hope. They went to celebrate Christmas with American soldiers stationed there; however, it didn't go well with the Indian government as the Indian government was supporting the communist government at that time. It created big trouble for Reita. Later, this issue was also discussed in the Indian Parliament. Reportedly, she also received some threats that her passport would be impounded. [3]Aaj Ki Naari | | Relationships & More | | | Marital Status | Married | | Marriage Date | Year 1971 | | Family | | | Husband/Spouse | David Powell (Endocrinologist) | | Children | Daughter(s)- Deirdre and Ann Marie | | Siblings | Sister- Philomena | Some Lesser Known Facts About Reita Faria - Reita Faria is an Indian physician-turned-model who is best known for being the first Asian to win the title of Miss World in 1966. - Reita Faria’s father worked in a mineral water factory, and her mother owned a salon giving her a middle-class upbringing with one elder sister, Philomena. - In her school days, Reita Faria was known for her determination to become a doctor. - Apart from being a meritorious student, she was also known for her dressing sense during her school and college years, an attribute that has often been testified by one of her friends Cecilia Menezes. - She did her schooling at St. Joseph’s Convent School, Mumbai. After her schooling, she got admission to Grant Medical College & Sir J.J. Group of Hospitals to pursue her M.B.B.S. - Reita Faria’s pageant journey started with an unexpected entry to Miss Bombay in 1966, followed by Eve’s Weekly Miss India1966. - Faria was selected to represent India at Miss World 1966 after her small yet successful pageant journey. - With a few lipsticks, a borrowed saree from acquaintances, and a pair of footwear from a friend she went ahead to participate in the Miss World beauty pageant. But she was so tall that could not fit into those and had to buy a new costume and footwear. [4]The Indian Express - A 23-year-old medical student won the title of Miss World 1966, beating 50 other contestants from all over the world and made history by becoming the first Asian to hold this title. - She also won “Best Swimsuit” and “Best Eveningwear” titles during the Miss World contests in 1966. Her evening wear was a traditional saree. - During her Miss World tenure, she had to visit different countries and do some social works. But her visit to Vietnam with actor and comedian Bob Hope during the war period gave her the controversy of her life. - During her stay in Vietnam, a picture of her signing the American soldier cap went viral, where she had gone to cheer the American soldiers. - After completing her tenure as Miss World, she was offered many Bollywood films and modelling projects, but she rejected these offers and chose to continue with her medical studies. - After completing her M.B.B.S. from Grant Medical College & Sir J. J. Group (India) of Hospitals she went to King’s College Hospital, London for further studies and started practising there. - Reita was one of the judges at Miss World 1976 held in London and many other contests during different rounds. Femina Miss India 1998 also had Reita Faria as one of the judges. - After her marriage to David Powell, she moved to Dublin, Ireland. - Reita has two daughters and five grandchildren. References/Sources:
+
+
+--- [Miss World 1966 - Alchetron, The Free Social Encyclopedia] ---
+Date 17 November 1966 Entrants 51 | Broadcaster BBC | | Presenters Peter West, Michael Aspel Venue Lyceum Ballroom, London, UK Debuts Bahamas, Dominican Republic, Guyana, Philippines, Trinidad and Tobago, Yugoslavia | Miss World 1966, the 16th edition of the Miss World pageant, was held on 17 November 1966 at the Lyceum Ballroom in London, UK. The winner was Reita Faria of India, first Asian delegate to win Miss World title. She was crowned by Miss World 1965, Lesley Langley of United Kingdom. References Miss World 1966 Wikipedia(Text) CC BY-SA

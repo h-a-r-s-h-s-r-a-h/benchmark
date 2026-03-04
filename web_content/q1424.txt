@@ -1,0 +1,50 @@
+=== SEARCH SNIPPETS ===
+
+[Mediumwave transmitter Lopik - Wikipedia]
+April 10, 2025 -The Mediumwave transmitter Lopik was a medium wave broadcasting facility near Lopik in the Netherlands. It was constructed in 1938 and destroyed onSeptember 1, 2015(2015-09-01). Its last use was to transmit the Dutch language edition of Radio Maria on 675 kHz.
+URL: https://en.wikipedia.org/wiki/Mediumwave_transmitter_Lopik
+
+[Gerbrandy Tower - Wikipedia]
+December 11, 2025 -Nearby, there is another remarkable antenna: the KNMI-mast Cabauw, a mast used for meteorological measurements. Another nearby antenna, the 196 metres (643 ft) high mediumwave transmitter Lopik, was demolished onSeptember 4, 2015.
+URL: https://en.wikipedia.org/wiki/Gerbrandy_Tower
+
+[Medium wave musings]
+The 746 kHz frequency had been allocated to the Netherlands at the planning conference of 1948 in Copenhagen. Before that, 722 kHz had been used since 1937. OnSeptember 1,also the last mediumwave transmitter at Lopik was switched off, on 675 kHz, most recently used by Radio Maria.
+URL: https://pa3fwm.nl/technotes/tn11d.html
+
+[Mediumwave transmitter Lopik - Wikidata]
+Medium-wave broadcasting facility in the Netherlands, active between1938 and 2015
+URL: https://www.wikidata.org/wiki/Q1940478
+
+[Lopik Mediumwave Transmitter Map - Radio station - Lopik, Utrecht, Netherlands]
+The Mediumwave transmitter Lopik was a medium wave broadcasting facility near Lopik in the Netherlands. It was constructed in 1938 and destroyed onSeptember 1, 2015.
+URL: https://mapcarta.com/26254044
+
+
+=== FULL EXTRACTED CONTENT ===
+
+
+--- [Mediumwave transmitter Lopik - Wikipedia] ---
+The Mediumwave transmitter Lopik was a medium wave broadcasting facility near Lopik in the Netherlands. It was constructed in 1938 (1938) and destroyed on September 1, 2015 (2015-09-01). Its last use was to transmit the Dutch language edition of Radio Maria on 675 kHz. The aerial consisted of a 196-metre (643 ft) guyed steel framework mast, which was insulated against ground.
+On 24 July 2015, Radio Maria Netherlands announced the closedown of its transmissions on 675 kHz Medium wave as of 1 September 2015.
+Originally, there was also a second, 165 metres (541 ft) guyed steel framework mast for the mediumwave frequency 1332 kHz, but this was taken down on 21 August 2004.
+On 4 September 2015, the remaining 196 metres (643 ft) mast was also taken down, marking the end of 75 years of Medium wave transmissions from the Lopik site.
+This mast should not be confused with the Gerbrandy tower in the nearby town of IJsselstein, which is used for FM- and TV-broadcasting. The Gerbrandy Tower used to be in the municipality of Lopik as well before an administrative change, and is often referred to as the "Lopik tower".
+
+
+
+
+--- [Gerbrandy Tower - Wikipedia] ---
+The Gerbrandy Tower (Dutch: Gerbrandytoren) is a radio tower in IJsselstein, the Netherlands. It is also known as Lopik tower after the nearby town. It was built in 1961.
+
+
+--- [Medium wave musings] ---
+Mediumwave musings Pieter-Tjerk de Boer, PA3FWM web@pa3fwm.nl(This is an adapted version of part of an article that I wrote for the Dutch amateur radio magazine Electron, December 2015.) The frequency of 747 kHz, on which Radio 5 Nostalgia transmitted until its switch-off on September 1, 2015, has been used by the Netherlands continuously since 1950: 65 years, the age of retirement, one could say. That count does include the time until 1978, when it wasn't 747 but 746 kHz: after the Geneva planning conference of 1975, all mediumwave frequencies were moved to a multiple of 9 kHz. The 746 kHz frequency had been allocated to the Netherlands at the planning conference of 1948 in Copenhagen. Before that, 722 kHz had been used since 1937. On September 1, also the last mediumwave transmitter at Lopik was switched off, on 675 kHz, most recently used by Radio Maria. The history of 674/675 kHz in the Netherlands is a quarter of a century shorter: it had been in use since 1975. The Lopik site does have a longer history, starting at the end of the 1930s: it was the most important Dutch mediumwave site (for 746 kHz and others) until in 1980 the Flevo site became available; since then, the Lopik site remained as a backup for 747 kHz. With the closing of these transmitters, the end of the mediumwave era approaches in the Netherlands. One large mediumwave transmitter is still active, on 1008 kHz, a frequency whose history parallels that of 747 kHz. There are a couple of smaller transmitters, among which one in the south of the country with 22 kW on 891 kHz is the strongest. Obviously, for many Dutch radio amateurs, one of these strong mediumwave transmitters must have been the first signal they received with their first homebuilt radio... Well, it's the progress of technology; FM, DAB and internet give better sound quality. But still, a ten-year-old child can understand AM and build a simple mediumwave radio; but really understanding DAB requires an advanced degree in engineering. And when the Smilde FM/TV tower became unusable due to a fire, a few years ago, Radio 1, the national emergency station, was fed to the 747 kHz transmitter, to make sure it could be received in the parts of the country which otherwise depended on the Smilde mast for FM. What do we do in the future in such cases? But that's politics... We can also look at it from a technical point of view. One reason for the bad sound quality on mediumwave, is that there were way too many transmitters active, which interfered with each other in the evening hours. The last planning conference for long- and mediumwave was in Geneva in 1975. In Europe, about twice as many transmitters were requested as could reasonably be accomodated [7]. Almost all those requests in the end were accepted. Before the conference, there were about 1450 long- and mediumwave transmitters with a total power of 82 MW; according to the conference plan this would rise to 2700 transmitters and 214 MW [8]. And of course the band had not gotten any wider to accomodate this. Looking back, we can note that many of the allocated transmitters have not been realised, at least in part because it was clear that they would be interfered with too much. For example, the Netherlands is allowed to transmit with 500 kW on 171 kHz longwave and 1395 kHz mediumwave, but has never done so. Still, there was much interference, which of course also lead to an inflation of transmit powers, and thus of operating costs, which are now often a reason to switch off a transmitter or reduce its power. Detailed information about LW/MW transmitters in the course of time can be found on [9]; for the Netherlands, all details are in [7]. An important problem with planning mediumwave stations is that during daytime, only the groundwave works, limiting range to about 100 km, while in the evening the sky wave also works, reaching 1000 km easily. One can see this in the planning of the mediumwave transmitters of France Info (which are scheduled to be switched off at the end of 2015): there are about ten of them, which are needed during daytime to cover all of France with their limited groundwave reach. But in the evening, almost all of them are audible in the Netherlands (give it a try: 603, 711, 1206, 1242, 1377, 1404, 1494, 1557 kHz), so one such a transmitter could suffice to cover all of France. A logical consequence would be to switch off many transmitters at night and give the remaining transmitters each a Europe-wide exclusive frequency (with over 100 mediumwave channels, each country could have several exclusive frequencies), but apparently this was not politically (or technically?) feasible at the time. In America, many mediumwave transmitters are indeed switched off at night. Now that more and more European long- and mediumwave transmitters are being switched off, the reception of the remaining ones is much less disturbed! But it's unfortunate that there are hardly any listeners left to enjoy this... One wonders whether, if in 1975, or a bit later, say in 1990, when FM was much more widespread and the iron curtain had fallen (and with it, the necessity of propaganda), a different plan would have been made, with most stations having an exclusive frequency in the evening, long- and mediumwave broadcasting would have had a different fate. We'll never know. References: [7] P. Vijzelaar: 70 jaar radio-omroepzenders in Nederland, Kluwer, 1991 [8] Hermann Jäger: Der Rundfunk Mitteleuropas im neuen Genfer Wellenplan, Funkschau 24/1978; http://www.wabweb.net/radio/radio/frequenz4.htm [9] 75 Jahre Frequenzgerangel, http://www.wabweb.net/radio/frames/qrgf.htm
+
+
+--- [Mediumwave transmitter Lopik - Wikidata] ---
+Mediumwave transmitter Lopik (Q1940478) Appearance Medium-wave broadcasting facility in the Netherlands, active between 1938 and 2015 | Language | Label | Description | Also known as | |---|---|---|---| | default for all languages | No label defined | || | English | Mediumwave transmitter Lopik | Medium-wave broadcasting facility in the Netherlands, active between 1938 and 2015 | Statements 1941 0 references Biezendijk 3-B, 3412 KB Lopikerkapel (Dutch) 0 references Identifiers Sitelinks Wikipedia(3 entries) - dewiki Sender Lopik - enwiki Mediumwave transmitter Lopik - nlwiki Middengolfzender Lopik
+
+
+--- [Lopik Mediumwave Transmitter Map - Radio station - Lopik, Utrecht, Netherlands] ---
+No content

@@ -1,0 +1,46 @@
+=== SEARCH SNIPPETS ===
+
+[Florence Farmer - Wikipedia]
+Florence Ann Farmer (24 January 1873 – 26 June 1958) was a pioneer of women in politics in Stoke on Trent, Staffordshire, England who was the first female councillor on the county borough council before becoming the first female Lord Mayor of the city in 1931–32.
+URL: https://en.wikipedia.org/wiki/Florence_Farmer
+
+[Florence Farmer - Wikidata]
+pioneer of women in politics in Stoke on Trent (1873-1958) Florence Ann Farmer edit
+URL: https://www.wikidata.org/wiki/Q97694880
+
+[Florence Farmer - Wikiwand]
+Top Qs Timeline Chat Perspective Articles Remove ads Remove ads
+URL: https://www.wikiwand.com/en/articles/Florence_Farmer
+
+[Florence Ann Farmer - thepotteries.org]
+Born Stoke-on-Trent. Daughter of the late George Edward Farmer, J.P. (Mayor of Longton, 1895-6). Guardians, 1915 ; Councillor, 1917 ; Justice of the Peace, 1920; Alderman, 1928 ; Lord Mayor, 1931-32 ; Member of County Asylums Board, 1929 ; President, Stoke-on-Trent Labour Party, 1930-1931 ; President of the Stoke-on-Trent Union of Girls Clubs, 1933 ; Vice-President, N. Staffs, W.E.A., 1933 ...
+URL: https://www.thepotteries.org/people/farmer_flo.htm
+
+[Sign in - ArcGIS StoryMaps]
+Your ArcGIS organization's URL Create an account
+URL: https://storymaps.arcgis.com/stories/c77c7dd5e79b406581168c8073a08060
+
+
+=== FULL EXTRACTED CONTENT ===
+
+
+--- [Florence Farmer - Wikipedia] ---
+Florence Ann Farmer (24 January 1873 – 26 June 1958) was a pioneer of women in politics in Stoke on Trent, Staffordshire, England who was the first female councillor on the county borough council before becoming the first female Lord Mayor of the city in 1931–32.
+
+
+
+
+--- [Florence Farmer - Wikidata] ---
+Florence Farmer (Q97694880) Appearance pioneer of women in politics in Stoke on Trent (1873-1958) - Florence Ann Farmer | Language | Label | Description | Also known as | |---|---|---|---| | default for all languages | No label defined | || | English | Florence Farmer | pioneer of women in politics in Stoke on Trent (1873-1958) | | Statements Identifiers Sitelinks Wikipedia(2 entries) - enwiki Florence Farmer - hawiki Florence Farmer
+
+
+--- [Florence Farmer - Wikiwand] ---
+No content
+
+
+--- [Florence Ann Farmer - thepotteries.org] ---
+| Florence Ann Farmer | People from Stoke-on-Trent | | | | index: F | | | | Florence Ann Farmer | [ Web Site Index ] | FARMER, Florence Ann, (Miss) (Alderman) J.P., C.A. Phoenix Launderers, Dyers and Cleaners (Senior Partner) Stone Road, Longton, S.O.TBorn Stoke-on-Trent. Daughter of the late George Edward Farmer, J.P. (Mayor of Longton, 1895-6). Guardians, 1915 ; Councillor, 1917 ; Justice of the Peace, 1920; Alderman, 1928 ; Lord Mayor, 1931-32 ; Member of County Asylums Board, 1929 ; President, Stoke-on-Trent Labour Party, 1930-1931 ; President of the Stoke-on-Trent Union of Girls Clubs, 1933 ; Vice-President, N. Staffs, W.E.A., 1933 ; Headmistress Uttoxeter R. Girls School, 1896-1905; Local Secretary of Police Court Mission in Stoke-on-Trent since 1921 ; Chairman of Libraries and Museums Committee 1928-1933 ; Vice-Chairman Higher Education Committees ; Vice-Chairman Governors of Secondary Schools.Recreations - Reading, Motoring. "Who's Who in Staffordshire" 1934 21/02/2002
+
+
+--- [Sign in - ArcGIS StoryMaps] ---
+9 captures 13 Sep 2023 - 18 Jul 2025 Jun JUL Aug 18 2024 2025 2026 success fail About this capture COLLECTED BY Collection: Common Crawl Web crawl data from Common Crawl. TIMESTAMPS The Wayback Machine - http://web.archive.org/web/20250718110839/https://storymaps.arcgis.com/stories/c77c7dd5e79b406581168c8073a08060

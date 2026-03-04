@@ -17,7 +17,8 @@ async function searchWeb(query, topN = 2) {
             query: query,
             top_n: topN,
             method: 'auto',
-            password: WEB_PASSWORD
+            password: WEB_PASSWORD,
+            cache_search: false
         }, {
             timeout: 120000,
             headers: { 'Content-Type': 'application/json' }

@@ -1,0 +1,44 @@
+=== SEARCH SNIPPETS ===
+
+[Totemic Focus (Classic) - Wowpedia - Your wiki guide to the World of Warcraft]
+Totemic Focus is a shaman talent located on tier 2 of the Restoration tree. Trivia In the TCG. Totemic Focus is a rare shaman ability in the Trading Card Game. Its flavor text reads: "'Simple wood can hold so much power if the elements permit it.' — Urrth " Patch changes Patch 5.0.4 (2012-08-28): Removed.
+URL: https://wowpedia.fandom.com/wiki/Totemic_Focus_(Classic)
+
+[List of Removed Shaman Abilities (since 3.0.2) - Shaman - World of Warcraft Forums]
+Jul 18, 2023 · Lasts 2 min. A version of this was eventually reacquired as an Enhancement Shaman talent. Wrath of Air Totem - 5.0.4 - Mists of Pandaria Summons a Wrath of Air Totem with 5 health at the feet of the caster. The totem provides 5% spell haste to all party and raid members within 40 yards. Lasts 5 min. Ancestral Focus - 6.0.2 - Warlords of Draenor
+URL: https://us.forums.blizzard.com/en/wow/t/list-of-removed-shaman-abilities-since-302/1634942
+
+[Totemic Focus (Classic) - Warcraft Wiki - Your wiki guide to the World ...]
+Totemic Focus (Classic) Classic Wrath Classic Cataclysm Classic The subject of this article was removed in patch 5.0.4 but remains in World of Warcraft: Classic. This includes items and quests that can no longer be obtained or are now deprecated. ... "Simple wood can hold so much power if the elements permit it." — Urrth [1] In the TCG.
+URL: https://warcraft.wiki.gg/wiki/Totemic_Focus_%28Classic%29
+
+[Totemic Focus - Spell - Classic World of Warcraft - Wowhead]
+Reduces the Mana cost of your totems by 25%. In the Shaman Talents category. Learn how to use this in our class guide. A spell from Classic World of Warcraft.
+URL: https://www.wowhead.com/classic/spell=16225/totemic-focus
+
+[Totemic Focus (Classic) - Warcraft Wiki - Your wiki guide to the World of Warcraft]
+Jun 10, 2025 — Removed in patch 5.0.4 · Classic abilities · Classic talents · Removed shaman talents · Passive abilities.
+URL: https://warcraft.wiki.gg/wiki/Totemic_Focus_(Classic)
+
+
+=== FULL EXTRACTED CONTENT ===
+
+
+--- [Totemic Focus (Classic) - Wowpedia - Your wiki guide to the World of Warcraft] ---
+The subject of this article was removed in patch 5.0.4 but remains in World of Warcraft: Classic. | - For the retail talent, see [Totemic Focus]. | Totemic Focus | | |---|---| | Requirements | | | Class | Shaman | | Tree | Restoration | | Points required | 5 | | Properties | | | Affects | Totems | Totemic Focus is a shaman talent located on tier 2 of the Restoration tree. Trivia[] - Totemic Focus is a rare shaman ability in the Trading Card Game. Its flavor text reads: "'Simple wood can hold so much power if the elements permit it.' —Urrth" Patch changes[] - Patch 5.0.4 (2012-08-28): Removed. - Patch 4.0.1 (2010-10-12): Now a tier 2 talent (was tier 1) with 2 ranks (was 5). Now reduces mana cost by 15/30% (was 5/10/15/20/25%). Now also increases duration of totems by 20/40%. - Patch 3.0.2 (2008-10-14): Now a tier 1 talent (was tier 2). External links[] | Rank 1 | Rank 2 | Rank 3 | Rank 4 | Rank 5 | |---|---|---|---|---| |
+
+
+--- [List of Removed Shaman Abilities (since 3.0.2) - Shaman - World of Warcraft Forums] ---
+No content
+
+
+--- [Totemic Focus (Classic) - Warcraft Wiki - Your wiki guide to the World ...] ---
+No content
+
+
+--- [Totemic Focus - Spell - Classic World of Warcraft - Wowhead] ---
+We've discontinued servicing users from your location and are thereby preventing access to any of the websites owned and operated by ZAM Network, LLC DBA Fanbyte (the owner of Wowhead.com): This decision is ultimately one we were forced to make due to the number of visitors from your region when compared to the operational costs necessary to continue providing access there. It was a tough decision but one that we ultimately had to accept. This is an indefinite decision. We genuinely apologize for the inconvenience this will cause all of those who reside within your region. Note: This is not related to Russia/Ukraine or any other political/military actions around the world.
+
+
+--- [Totemic Focus (Classic) - Warcraft Wiki - Your wiki guide to the World of Warcraft] ---
+No content

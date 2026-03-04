@@ -1,0 +1,49 @@
+=== SEARCH SNIPPETS ===
+
+[Carl Friedrich Gauss - Wikipedia]
+While studying at the University of Göttingen, he propounded several mathematical theorems. As an independent scholar, he wrote the masterpieces Disquisitiones Arithmeticae and Theoria motus corporum coelestium. Gauss produced the second and third complete proofs of the fundamental theorem ...
+URL: https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss
+
+[Carl Friedrich Gauss - Wikiwand]
+Gauss completed his masterpieces Disquisitiones Arithmeticae and Theoria motus corporum coelestium as a private scholar. He gave the second and third complete proofs of the fundamental theorem of algebra, made contributions to number theory, and developed the theories of binary and ternary quadratic forms.
+URL: https://www.wikiwand.com/en/articles/Carl%20Friedrich%20Gauss
+
+[Life and Contributions of Carl Friedrich Gauss]
+Johann Carl Friedrich Gauss was a highly influential German mathematician and scientist from the late 18th and early 19th centuries. As a child prodigy, Gauss made significant contributions to fields of mathematics and science while still a student. He later became the director of the Göttingen Observatory and a professor there for nearly 50 years. Gauss published seminal works in number ...
+URL: https://www.scribd.com/document/703248824/Gauss-biography
+
+[Carl Friedrich Gauss Explained]
+Gauss completed his masterpiece s Disquisitiones Arithmeticae and Theoria motus corporum coelestium as a private scholar. He gave the second and third complete proofs of the fundamental theorem of algebra, made contributions to number theory, and developed the theories of binary and ternary quadratic forms.
+URL: https://everything.explained.today/Carl_Gauss/
+
+[Carl Friedrich Gauss — Wikipedia Republished // WIKI 2]
+Sep 3, 2024 · Gauss completed his masterpieces Disquisitiones Arithmeticae and Theoria motus corporum coelestium as a private scholar. He gave the second and third complete proofs of the fundamental theorem of algebra, made contributions to number theory, and developed the theories of binary and ternary quadratic forms.
+URL: https://wiki2.org/en/Johann_Carl_Friedrich_Gauss
+
+
+=== FULL EXTRACTED CONTENT ===
+
+
+--- [Carl Friedrich Gauss - Wikipedia] ---
+Johann Carl Friedrich Gauss ( ; German: Gauß; [kaʁl ˈfʁiːdʁɪç ˈɡaʊs] ; Latin: Carolus Fridericus Gauss; 30 April 1777 – 23 February 1855) was a German mathematician, astronomer, geodesist, and physicist, who contributed to many fields in mathematics and science. His mathematical contributions spanned the branches of number theory, algebra, analysis, geometry, statistics, and probability. Gauss was director of the Göttingen Observatory in Germany and professor of astronomy from 1807 until his death in 1855.
+From an early age, Gauss was known as a child prodigy in mathematics. While studying at the University of Göttingen, he propounded several mathematical theorems. As an independent scholar, he wrote the masterpieces Disquisitiones Arithmeticae and Theoria motus corporum coelestium. Gauss produced the second and third complete proofs of the fundamental theorem of algebra. He also introduced the triple bar symbol (≡) for congruence. In number theory, he made numerous contributions, such as the composition law, the law of quadratic reciprocity, and proved the triangular case of the Fermat polygonal number theorem. He also contributed to the theory of binary and ternary quadratic forms, and the theory of hypergeometric series. When Gauss was only 19 years old, he proved the construction of the heptadecagon, the first progress in regular polygon construction in over 2000 years. He also introduced the concept of Gaussian curvature and proved its key properties, especially with his Theorema Egregium. Gauss was the first to prove Gauss's inequality. Further, he was instrumental in the development of the arithmetic–geometric mean. Due to Gauss's extensive and fundamental contributions to science and mathematics, more than 100 mathematical and scientific concepts are named after him.
+Gauss was instrumental in the identification of Ceres as a dwarf planet. His work on the motion of planetoids disturbed by large planets led to the introduction of the Gaussian gravitational constant and the method of least squares, which he had discovered before Adrien-Marie Legendre published it. Gauss also introduced the algorithm known as recursive least squares. Gauss led the geodetic survey of the Kingdom of Hanover together with an arc measurement project from 1820 to 1844; Gauss was one of the founders of geophysics and formulated the fundamental principles of magnetism. He provided the first absolute measurement of Earth's magnetic field in 1832, later applying one of his inventions, that of spherical harmonic analysis, to show that most of Earth's magnetic field was internal. He was the first to discover and study non-Euclidean geometry, which he also named. Gauss was the first to develop a fast Fourier transform, doing so some 160 years before John Tukey and James Cooley. His practical work led to the invention of the heliotrope in 1821, a magnetometer in 1833 and – with Wilhelm Eduard Weber – the first electromagnetic telegraph in 1833.
+Gauss was awarded the Lalande Prize in 1809 for his work on planetary theory and determination of orbits, and the Copley Medal in 1838 for his mathematical research in magnetism. He is known for not publishing incomplete work and left several works to be edited posthumously, as a result, this practice delayed the dissemination of many of his discoveries. He believed that the act of learning, not possession of knowledge, provided the greatest enjoyment. While Gauss was not a committed or enthusiastic teacher, generally preferring to focus on his own work, some of his students, such as Richard Dedekind and Bernhard Riemann, became well-known and influential mathematicians in their own right. He married twice and had six children, several of whom later emigrated to the United States.
+
+
+
+
+--- [Carl Friedrich Gauss - Wikiwand] ---
+English Sign in Top Qs Timeline Chat Perspective All Articles Dictionary Quotes Map Remove ads Loading article...
+
+
+--- [Life and Contributions of Carl Friedrich Gauss] ---
+Gauss: Masterpieces of a Mathematician Johann Carl Friedrich Gauss was a highly influential German mathematician and scientist from the late 18th and early 19th centuries. As a child prodigy, Gauss made significant contributions to fields of mathematics and science while still a student. He later became the director of the Göttingen Observatory and a professor there for nearly 50 years. Gauss published seminal works in number theory and developed theories of quadratic forms. He also made important contributions to geometry, algebra, statistics and astronomy. Gauss: Masterpieces of a Mathematician
+
+
+--- [Carl Friedrich Gauss Explained] ---
+Ask the publishers to restore access to 500,000+ books. Search the history of more than 1 trillion web pages. Capture a web page as it appears now for use as a trusted citation in the future. Please enter a valid web address Loading... https://everything.explained.today/Carl_Gauss/ | 04:35:07 April 27, 2021 Got an HTTP 302 response at crawl time Redirecting to... /Carl_Friedrich_Gauss/ Impatient?
+
+
+--- [Carl Friedrich Gauss — Wikipedia Republished // WIKI 2] ---
+No content

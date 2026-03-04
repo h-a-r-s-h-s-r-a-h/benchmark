@@ -1,0 +1,46 @@
+=== SEARCH SNIPPETS ===
+
+[John R. Ragazzini - Wikipedia]
+[4] In 1970 he received the Rufus Oldenburger Medal. [5] In 1979, American Automatic Control Council named John R. Ragazzini Award after Ragazzini and he was the first recipient of the award. Ragazzini died on 22 November 1988, aged 76. [6]
+URL: https://en.wikipedia.org/wiki/John_R._Ragazzini
+
+[Biography:John R. Ragazzini - HandWiki]
+[4] In 1970 he received the Rufus Oldenburger Medal. [5] In 1979, American Automatic Control Council named John R. Ragazzini Award after Ragazzini and he was the first recipient of the award. Ragazzini died on 22 November 1988, aged 76. [6]
+URL: https://handwiki.org/wiki/Biography:John_R._Ragazzini
+
+[John R Ragazzini - Alchetron, The Free Social Encyclopedia]
+Oct 12, 2024 · Ragazzini is also credited, along with Lotfi Zadeh, in 1952, to have pioneered the development of the z-transform method in discrete-time signal processing and analysis. In 1970 he received the Rufus Oldenburger Medal. In 1979, American Automatic Control Council named John R. Ragazzini Award after Ragazzini and he was the first recipient of the award. Ragazzini died on 22 November 1988, aged 76.
+URL: https://alchetron.com/John-R-Ragazzini
+
+[John R. Ragazzini Explained]
+In 1970 he received the Rufus Oldenburger Medal. [5] In 1979, American Automatic Control Council named John R. Ragazzini Award after Ragazzini and he was the first recipient of the award.
+URL: https://everything.explained.today/John_Ragazzini/
+
+[John R. Ragazzini — Wikipedia Republished // WIKI 2]
+Aug 3, 2023 · In 1970 he received the Rufus Oldenburger Medal. [5] In 1979, American Automatic Control Council named John R. Ragazzini Award after Ragazzini and he was the first recipient of the award.
+URL: https://wiki2.org/en/John_R._Ragazzini
+
+
+=== FULL EXTRACTED CONTENT ===
+
+
+--- [John R. Ragazzini - Wikipedia] ---
+John Ralph Ragazzini (January 3, 1912 – November 22, 1988) was an American electrical engineer and a professor of Electrical Engineering.
+
+
+
+
+--- [Biography:John R. Ragazzini - HandWiki] ---
+Biography:John R. Ragazzini John Ralph Ragazzini (January 3, 1912[1] – November 22, 1988) was an American electrical engineer and a professor of Electrical Engineering. Biography Ragazzini was born in Manhattan, New York City from Italian immigrants Luigi Ragazzini and Angelina Badelli[2][unreliable source?] and received the degrees of B.S. and E.E. at the City College of New York in 1932 and 1933 and earned the degrees of A.M. and Ph.D. in Electrical Engineering at Columbia University in 1939 and 1941. Ragazzini was dean of the School of Engineering and Science at New York University and during World War II he was chairman of the Department of Electrical Engineering at Columbia University, where he was involved in the Manhattan Project. He also served as a technical aide for the National Defense Research Committee, supervising research in the fields of Ultra high frequency transmitters and receivers, Analog computers and control systems. Ragazzini's notable students are Rudolf E. Kálmán (known for Kalman filters), Eliahu Ibraham Jury (known for Z-transform), Gene F. Franklin (known for digital control), James H. Mulligan Jr., and Lotfi Asker Zadeh (known for fuzzy sets and fuzzy logic).[3] Ragazzini is also credited, along with Lotfi Zadeh, in 1952, to have pioneered the development of the z-transform method in discrete-time signal processing and analysis. [4] In 1970 he received the Rufus Oldenburger Medal.[5] In 1979, American Automatic Control Council named John R. Ragazzini Award after Ragazzini and he was the first recipient of the award. Ragazzini died on 22 November 1988, aged 76.[6] See also References - ↑ Profile of John Ralph Ragazzini - ↑ "John R. Ragazzini, Circa 1912-1988". https://www.myheritage.com/names/john_ragazzini. - ↑ "John R. Ragazzini, Director, 1953-1954". Proceedings of the IRE 41 (7): 834. July 1953. doi:10.1109/JRPROC.1953.274419. ISSN 2162-6634. https://ieeexplore.ieee.org/document/4051398. - ↑ Lotfi Zadeh's biography [|permanent dead link|dead link}}] - ↑ "Rufus Oldenburger Medal". American Society of Mechanical Engineers. http://www.asme.org/about-asme/honors-awards/achievement-awards/rufus-oldenburger-medal. Retrieved February 14, 2013. - ↑ "John Ragazzini, 76, Educator and Engineer". The New York Times. 24 November 1988. https://www.nytimes.com/1988/11/24/obituaries/john-ragazzini-76-educator-and-engineer.html.
+
+
+--- [John R Ragazzini - Alchetron, The Free Social Encyclopedia] ---
+Name John Ragazzini | || Died November 22, 1988, New Rochelle, New York, United States Similar People Lotfi A Zadeh, Eliahu I Jury, Rudolf E Kalman, Augustus De Morgan | John r ragazzini John Ralph Ragazzini (January 3, 1912 – November 22, 1988) was an American electrical engineer and a professor of Electrical Engineering. Ragazzini was born in New York City and received the degrees of B.S. and E.E. at the City College of New York in 1932 and 1933 and earned the degrees of A.M. and Ph.D. in Electrical Engineering at Columbia University in 1939 and 1941. Ragazzini was dean of the School of Engineering and Science at New York University and during World War II he was chairman of the Department of Electrical Engineering at Columbia University, where he was involved in the Manhattan Project. Ragazzini's notable students are Rudolf E. Kálmán (see Kalman filters), Eliahu Ibraham Jury (see Z-transform), Gene F. Franklin (see digital control), and Lotfi Asker Zadeh (see Fuzzy sets and Fuzzy logic). Ragazzini is also credited, along with Lotfi Zadeh, in 1952, to have pioneered the development of the z-transform method in discrete-time signal processing and analysis. In 1970 he received the Rufus Oldenburger Medal. In 1979, American Automatic Control Council named John R. Ragazzini Award after Ragazzini and he was the first recipient of the award. Ragazzini died on 22 November 1988, aged 76.
+
+
+--- [John R. Ragazzini Explained] ---
+No content
+
+
+--- [John R. Ragazzini — Wikipedia Republished // WIKI 2] ---
+John Ralph Ragazzini (January 3, 1912[1] – November 22, 1988) was an American electrical engineer and a professor of Electrical Engineering. YouTube Encyclopedic - 1/3Views:474429326 528 - ece542_01_09_2019 - Introduction to Modern Control Lecture - Jacque Fresco - What the Future Holds Beyond 2000 - Nichols College (1999) Transcription Biography Ragazzini was born in Manhattan, New York City from Italian immigrants Luigi Ragazzini and Angelina Badelli[2] [unreliable source?] and received the degrees of B.S. and E.E. at the City College of New York in 1932 and 1933 and earned the degrees of A.M. and Ph.D. in Electrical Engineering at Columbia University in 1939 and 1941. Ragazzini was dean of the School of Engineering and Science at New York University and during World War II he was chairman of the Department of Electrical Engineering at Columbia University, where he was involved in the Manhattan Project. He also served as a technical aide for the National Defense Research Committee, supervising research in the fields of Ultra high frequency transmitters and receivers, Analog computers and control systems. Ragazzini's notable students are Rudolf E. Kálmán (known for Kalman filters), Eliahu Ibraham Jury (known for Z-transform), Gene F. Franklin (known for digital control), James H. Mulligan Jr., and Lotfi Asker Zadeh (known for fuzzy sets and fuzzy logic).[3] Ragazzini is also credited, along with Lotfi Zadeh, in 1952, to have pioneered the development of the z-transform method in discrete-time signal processing and analysis. [4] In 1970 he received the Rufus Oldenburger Medal.[5] In 1979, American Automatic Control Council named John R. Ragazzini Award after Ragazzini and he was the first recipient of the award. Ragazzini died on 22 November 1988, aged 76.[6] See also References - ^ Profile of John Ralph Ragazzini - ^ "John R. Ragazzini, Circa 1912-1988". www.myheritage.com. - ^ "John R. Ragazzini, Director, 1953-1954". Proceedings of the IRE. 41 (7): 834. July 1953. doi:10.1109/JRPROC.1953.274419. ISSN 2162-6634. - ^ Lotfi Zadeh's biography - ^ "Rufus Oldenburger Medal". American Society of Mechanical Engineers. Retrieved February 14, 2013. - ^ "John Ragazzini, 76, Educator and Engineer". The New York Times. 24 November 1988.

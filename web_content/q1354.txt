@@ -1,0 +1,45 @@
+=== SEARCH SNIPPETS ===
+
+[Palazzo della Cancelleria - Wikipedia]
+The Palazzo della Cancelleria was the first palazzo in Rome to be erected from the ground up in the new Renaissance style. Its long facade engulfs the small Basilica di San Lorenzo in Damaso, the Cardinal's titular church, that is to its right, with the palatial front continuing straight across it.
+URL: https://en.wikipedia.org/wiki/Palazzo_della_Cancelleria
+
+[Palazzo Firenze: A Sixteenth-Century Renaissance Palace in Rome]
+Palazzo Firenze in Rome, Italy, is a sixteenth-century Renaissance palace created in Papal Rome during the Italian Renaissance. Erected as part of a mid-1500s renewal of the Campo Marzio quarter, the building became important for its ties to powerful families and later for its administrative uses.
+URL: https://www.ancient-history-sites.com/sites/palazzo-firenze/
+
+[Palazzo Farnese | Description & Facts | Britannica]
+Palazzo Farnese, Roman palace that serves as an important example of High Renaissance architecture. It was designed by Antonio da Sangallo the Younger and built between 1517 and 1589. In 1546, when Sangallo died, leaving the building of the palace unfinished, Michelangelo was appointed by Pope Paul III, who was a member of the Farnese family, to complete the work.
+URL: https://www.britannica.com/topic/Palazzo-Farnese-building-Rome-Italy
+
+[FIRST South Carolina]
+The mission of FIRST South Carolina is to transform the employment horizon and opportunities for our South Carolina students through a fun and engaging exposure to STEM concepts in a holistic educational experience.
+URL: https://www.firstsouthcarolina.org/
+
+[Alberti and the Vatican Palace Type - JSTOR]
+Two factors can explain Rome's emergence as a center of Renaissance architecture. Each is more important than the usually cited ones of a new security in personal affairs, the development of a capable building industry, and an in- crease in population and wealth that accompanied the papacy's return from Avignon in 1420.
+URL: https://www.jstor.org/stable/988904
+
+
+=== FULL EXTRACTED CONTENT ===
+
+
+--- [Palazzo della Cancelleria - Wikipedia] ---
+The Palazzo della Cancelleria (Palace of the Chancellery, referring to the former Apostolic Chancery of the Pope) is a Renaissance palace in Rome, Italy, situated between the present Corso Vittorio Emanuele II and the Campo de' Fiori, in the rione of Parione. It was built 1489–1513 by Baccio Pontelli and Antonio da Sangallo the Elder as a palace for Raffaele Cardinal Riario, Camerlengo of the Holy Roman Church, and is regarded as the earliest Renaissance palace in Rome.
+The Palazzo houses the institutions of justice of the Roman Curia, is an extraterritorial property of the Holy See, and is designated as a World Heritage Site.
+
+
+--- [Palazzo Firenze: A Sixteenth-Century Renaissance Palace in Rome] ---
+No content
+
+
+--- [Palazzo Farnese | Description & Facts | Britannica] ---
+Palazzo Farnese building, Rome, Italy Palazzo Farnese, Roman palace that serves as an important example of High Renaissance architecture. It was designed by Antonio da Sangallo the Younger and built between 1517 and 1589. In 1546, when Sangallo died, leaving the building of the palace unfinished, Michelangelo was appointed by Pope Paul III, who was a member of the Farnese family, to complete the work. Michelangelo is responsible for the balcony, the large coat of arms, the windows of the upper story, and the cornice of the main facade, as well as for the upper story of the cortile, or main courtyard, which is more Mannerist than High Renaissance in style. The interior is decorated with frescoes by Annibale Carracci. The palace now houses the French embassy. This article was most recently revised and updated by Amy Tikkanen.
+
+
+--- [FIRST South Carolina] ---
+Upcoming Events Feb 27-28: FTC - South Carolina State Championship Mar 5-7: FRC -FSC District North Charleston Mar 12-14: FRC -FSC District Richland Mar 26-28: FRC -FSC District Hartsville Apr 4: FLLE -iMAGINE Upstate Apr 9-11: FRC -FSC State Championship Upcoming Events Feb 27-28: FTC - South Carolina State Championship Mar 5-7: FRC -FSC District North Charleston Mar 12-14: FRC -FSC District Richland Mar 26-28: FRC -FSC District Hartsville Apr 4: FLLE -iMAGINE Upstate Apr 9-11: FRC -FSC State Championship WE ARE FIRST SOUTH CAROLINA The mission of FIRST South Carolina is to transform the employment horizon and opportunities for our South Carolina students through a fun and engaging exposure to STEM concepts in a holistic educational experience. What is FIRST? Founded in 1989, FIRST® (For Inspiration and Recognition of Science and Technology) is a global nonprofit (501(c)(3)) organization that prepares young people for the future through a suite of inclusive, team-based robotics programs for ages 4-18 (PreK-12). Our programs are suitable for schools or structured afterschool activities and receive support from a vast network of volunteers, educators, and sponsor/donors, including over 200 Fortune 500 companies. OVERVIEW OF FIRST PROGRAMS FIRST LEGO League introduces science, technology, engineering and math (STEM) to children ages 4-16* through fun, exciting hands-on learning. FIRST LEGO League participants gain real-world problem-solving experiences through a guided, global robotics program, helping today’s students and teachers build a better future together. In FIRST LEGO League, students engage in hands-on STEM experiences, building confidence, growing their knowledge and developing habits of learning. FIRST LEGO League’s three divisions inspire youth to experiment and grow their critical thinking, coding and design skills through hands-on STEM learning and robotics. FIRST Tech Challenge teams are challenged to design, build, program, and operate robots to compete in a head-to-head challenge in an alliance format. Guided by adult coaches and mentors, students develop STEM skills and practice engineering principles, while realizing the value of hard work, innovation, and working as a team. The robot kit is reusable from year to year and can be coded using a variety of levels of Java-based programming. Teams design and build robots, raise funds, design and market their team brand, and do community outreach to earn specific awards. Participants are eligible to apply for $80M+ in college scholarships. Combining the excitement of sport with the rigors of science and technology. We call FIRST Robotics Competition the ultimate Sport for the Mind. High-school student participants call it “the hardest fun you’ll ever have.” Under strict rules, limited time and resources, teams of students are challenged to raise funds, design a team "brand," hone teamwork skills, and build and program industrial-size robots to play a difficult field game against like-minded competitors. It’s as close to real-world engineering as a student can get. Volunteer professional mentors lend their time and talents to guide each team. Each season ends with an exciting FIRST Championship.
+
+
+--- [Alberti and the Vatican Palace Type - JSTOR] ---
+The Journal of the Society of Architectural Historians (JSAH) is the leading architectural history journal that is published in the English language. The scholarly articles in JSAH are international in scope and focus on every period in the history of the built environment. The journal is broad in its perspective and features the latest research methodologies in the expanding field of architectural history and allied disciplines including the history of design, landscape, urbanism and historic preservation. Published continuously since 1941, JSAH also features guest editorials, exhibition reviews, book reviews, obituaries of key figures in the discipline and abstracts of papers delivered at the Society's scholarly annual conference. JSAH is a benefit of membership in the Society of Architectural Historians. Founded in 1893, University of California Press, Journals and Digital Publishing Division, disseminates scholarship of enduring value. One of the largest, most distinguished, and innovative of the university presses today, its collection of print and online journals spans topics in the humanities and social sciences, with concentrations in sociology, musicology, history, religion, cultural and area studies, ornithology, law, and literature. In addition to publishing its own journals, the division also provides traditional and digital publishing services to many client scholarly societies and associations. This item is part of a JSTOR Collection. For terms and use, please refer to our Journal of the Society of Architectural Historians © 1974 Society of Architectural Historians

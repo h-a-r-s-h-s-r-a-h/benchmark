@@ -1,0 +1,52 @@
+=== SEARCH SNIPPETS ===
+
+[Danavorexton - Wikipedia]
+Danavorexton...Danavorexton(developmentalcodenameTAK-925) is aselectiveorexin2receptoragonist. [1]
+URL: https://en.wikipedia.org/wiki/Danavorexton
+
+[Orexin 2 receptor–selective agonist danavorexton improves ...]
+In this study, consistent with the fact that a loss of OX1R signaling alone has no overt NT1-like phenotype,danavorexton, anOX2R-selectiveagonist, greatly improved the NT1 phenotype that results from a loss oforexinin mice and in human patients.
+URL: https://www.pnas.org/doi/10.1073/pnas.2207531119
+
+[Orexin 2 receptor-selective agonist danavorexton (TAK-925) promotes wakefulness in non-human primates and healthy individuals - PubMed]
+Mar 19, 2023·The orexin 2 receptor-selective agonist danavorexton (TAK-925) has been shown to produce wake-promoting effects in wild-type mice, narcolepsy-model mice, and ...Missing:code| Show results with:code
+URL: https://pubmed.ncbi.nlm.nih.gov/36934366/
+
+[Danavorexton, TAK 925 - New Drug Approvals]
+Jul 26, 2022 ·Danavorexton(developmentalcodenameTAK-925) is aselectiveorexin2receptoragonist. [1] It is a small-molecule compound and is administered intravenously. [1] [2] The compound was found to dose-dependently produce wakefulness to a similar degree as modafinil in a phase 1 clinical trial.
+URL: https://newdrugapprovals.org/2022/07/26/danavorexton-tak-925/
+
+[Danavorexton - pharmakb.com]
+Danavorexton (developmental code nameTAK-925) is a selective orexin 2 receptor agonist. It is a small-molecule compound and is administered intravenously. The compound was found to dose-dependently produce wakefulness to a similar degree as modafinil in a phase 1 clinical trial.
+URL: https://www.pharmakb.com/drug-report/danavorexton
+
+
+=== FULL EXTRACTED CONTENT ===
+
+
+--- [Danavorexton - Wikipedia] ---
+Danavorexton (developmental code name TAK-925) is a selective orexin 2 receptor agonist. It is a small-molecule compound and is administered intravenously. The compound was found to dose-dependently produce wakefulness to a similar degree as modafinil in a phase 1 clinical trial. As of March 2021, danavorexton is under development for the treatment of narcolepsy, idiopathic hypersomnia, and sleep apnea. It is related to another orexin receptor agonist, firazorexton (TAK-994), the development of which was discontinued for safety reasons in October 2021.
+
+
+
+
+--- [Orexin 2 receptor–selective agonist danavorexton improves ...] ---
+No content
+
+
+--- [Orexin 2 receptor-selective agonist danavorexton (TAK-925) promotes wakefulness in non-human primates and healthy individuals - PubMed] ---
+# Orexin 2 receptor-selective agonist danavorexton (TAK-925) promotes wakefulness in non-human primates and healthy individuals.
+
+Authors: Rebecca Evans, Haruhide Kimura, Masato Nakashima, Takashi Ishikawa, Hiroshi Yukitake
+
+## Abstract
+
+The orexin 2 receptor-selective agonist danavorexton (TAK-925) has been shown to produce wake-promoting effects in wild-type mice, narcolepsy-model mice, and individuals with narcolepsy type 1 and type 2. Here, we report wake-promoting effects of danavorexton in non-human primates and healthy men during their sleep phase. Electroencephalogram analyses revealed that subcutaneous administration of danavorexton significantly increased wakefulness in common marmosets (p < 0.05 at 0.1 mg kg
+
+
+--- [Danavorexton, TAK 925 - New Drug Approvals] ---
+Server Maintenance Your server is going through a few minutes of routine maintenance. Please don't touch your browser for a few minutes. What do I do? - If you were posting a comment or making a post on your blog then do not press BACK on your browser. Wait 5 minutes and press the refresh icon on your browser. Your comment or post will be sent as normal. - If you are browsing a blog here just wait a few moments and hit refresh. The page you were expecting will appear.
+
+
+--- [Danavorexton - pharmakb.com] ---
+Danavorexton Danavorexton is a small molecule pharmaceutical. It is currently being investigated in clinical studies. It is known to target orexin receptor type 2. Download report Favorite Commercial Therapeutic Areas No data Trade Name FDA EMA No data Drug Products FDA EMA New Drug Application (NDA) New Drug Application (NDA) Abbreviated New Drug Application (ANDA) Abbreviated New Drug Application (ANDA) No data Labels FDA EMA No data Indications FDA EMA No data Agency Specific FDA EMA No data Patent Expiration No data ATC Codes No data HCPCS No data Clinical Clinical Trials 7 clinical trials View more details Mock data Subscribe for the real data Subscribe for the real data Indications Phases 4 No data Indications Phases 3 No data Indications Phases 2 No data Indications Phases 1 Indication | MeSH | Ontology | ICD-10 | Ph 1 | Ph 2 | Ph 3 | Ph 4 | Other | Total | |---|---|---|---|---|---|---|---|---|---| | Healthy volunteers/patients | — | 3 | — | — | — | — | 3 | || | Narcolepsy | D009290 | EFO_0000614 | G47.4 | 2 | — | — | — | — | 2 | | Idiopathic hypersomnia | D020177 | G47.11 | 1 | — | — | — | — | 1 | | | Obstructive sleep apnea | D020181 | EFO_0003918 | G47.33 | 1 | — | — | — | — | 1 | | Sleep apnea syndromes | D012891 | EFO_0003877 | G47.3 | 1 | — | — | — | — | 1 | Indications Without Phase No data Epidemiology Epidemiological information for investigational and approved indications View more details Drug General | Drug common name | DANAVOREXTON | | INN | danavorexton | | Description | Danavorexton (developmental code name TAK-925) is a selective orexin 2 receptor agonist. It is a small-molecule compound and is administered intravenously. The compound was found to dose-dependently produce wakefulness to a similar degree as modafinil in a phase 1 clinical trial. As of March 2021, danavorexton is under development for the treatment of narcolepsy, idiopathic hypersomnia, and sleep apnea. It is related to another orexin receptor agonist known as TAK-994, the development of which was discontinued for safety reasons in October 2021. | | Classification | Small molecule | | Drug class | Orexin receptor agonist | | Image (chem structure or protein) | | | Structure (InChI/SMILES or Protein Sequence) | COC(=O)N1CCC[C@H](NS(C)(=O)=O)[C@@H]1CO[C@H]1CC[C@@H](c2ccccc2)CC1 | Identifiers | PDB | — | | CAS-ID | 2114324-48-8 | | RxCUI | — | | ChEMBL ID | CHEMBL4650341 | | ChEBI ID | — | | PubChem CID | 130310079 | | DrugBank | — | | UNII ID | 1QMD83K4YN (ChemIDplus, GSRS) | Target Agency Approved No data Variants Clinical Variant No data Financial No data Trends PubMed Central Top Terms for Disease or Syndrome: Mock data Subscribe for the real data Subscribe for the real data Additional graphs summarizing 4 documents View more details Safety Black-box Warning No Black-box warning Adverse Events Top Adverse Reactions 0 adverse events reported View more details Premium feature Learn more about premium features at pharmakb.com Learn more

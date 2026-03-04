@@ -1,0 +1,45 @@
+=== SEARCH SNIPPETS ===
+
+[U.S. Census Bureau QuickFacts: Port Huron city, Michigan]
+Jul 1, 2025 · Fact Notes (a) Includes persons reporting only one race (b) Hispanics may be of any race, so also are included in applicable race categories (c) Economic Census - Puerto Rico data are not comparable to U.S. Economic Census data Value Flags D Suppressed to avoid disclosure of confidential information F Fewer than 25 firms FN Footnote on this item in place of data NA Not available S Suppressed ...
+URL: https://www.census.gov/quickfacts/fact/table/porthuroncitymichigan/PST045224
+
+[Port Huron, Michigan - Wikipedia]
+Port Huron is a city in and the county seat of St. Clair County, Michigan, United States. [4] The population was 28,983 at the 2020 census. The city is bordered on the west by Port Huron Township, but the two are administered autonomously.
+URL: https://en.wikipedia.org/wiki/Port_Huron,_Michigan
+
+[Port Huron (City, St. Clair, USA) - Population Statistics ...]
+Apr 1, 1990 · Contents: Population The population development of Port Huron as well as related information and services (Wikipedia, Google, images).
+URL: https://www.citypopulation.de/en/usa/michigan/admin/st_clair/2614765820__port_huron/
+
+[Port Huron, MI - Profile data - Census Reporter]
+Census data for Port Huron, MI (pop. 28,620), including age, race, sex, income, poverty, marital status, education and more.
+URL: https://censusreporter.org/profiles/16000US2665820-port-huron-mi/
+
+[Port Huron, MI Urban Area - Profile data - Census Reporter]
+Port Huron, MI Urban Area. 79,899 Population. 52.5 square miles 1,521.4 people per square mile. Census data: ACS 2024 1-year unless noted ...
+URL: http://censusreporter.org/profiles/40000US71155-port-huron-mi-urban-area/
+
+
+=== FULL EXTRACTED CONTENT ===
+
+
+--- [U.S. Census Bureau QuickFacts: Port Huron city, Michigan] ---
+No content
+
+
+--- [Port Huron, Michigan - Wikipedia] ---
+Port Huron is a city in and the county seat of St. Clair County, Michigan, United States. The population was 28,983 at the 2020 census. The city is bordered on the west by Port Huron Township, but the two are administered autonomously. The city is the largest in The Thumb area of Michigan, and principal community in the Blue Water Area, more recently rebranded as Michigan's Thumb Coast, for tourism purposes..
+Port Huron is located along the source of the St. Clair River at the southern end of Lake Huron. The city is along the Canada–United States border and directly across the river from Sarnia, Ontario. The two cities are connected by the Blue Water Bridge at the eastern terminus of Interstate 69/Interstate 94. Port Huron has the easternmost point of land in the state of Michigan and is also one of the northernmost areas included in the Detroit–Warren–Dearborn Metropolitan Statistical Area (Metro Detroit).
+
+
+--- [Port Huron (City, St. Clair, USA) - Population Statistics ...] ---
+Port Huron City in Michigan Contents: Population The population development of Port Huron as well as related information and services (Wikipedia, Google, images). | Name | Status | Population Census 1990-04-01 | Population Census 2000-04-01 | Population Census 2010-04-01 | Population Census 2020-04-01 | Population Estimate 2024-07-01 | | |---|---|---|---|---|---|---|---| | Port Huron | City | 33,685 | 32,316 | 30,206 | 28,974 | 28,342 | | | Michigan | State | 9,295,297 | 9,938,444 | 9,883,640 | 10,079,338 | 10,140,459 | Source: U.S. Census Bureau. Explanation: Latest available rebased population figures are used. In case of significant changes, they were recalculated by using census block data. Further information about the population structure: | Gender (C 2020) | | |---|---| | Males | 14,035 | | Females | 14,948 | | Age Groups (C 2020) | | |---|---| | 0-17 years | 6,543 | | 18-64 years | 17,591 | | 65+ years | 4,849 | | Age Distribution (C 2020) | | |---|---| | 80+ years | 1,143 | | 70-79 years | 2,027 | | 60-69 years | 3,655 | | 50-59 years | 3,765 | | 40-49 years | 3,374 | | 30-39 years | 3,742 | | 20-29 years | 3,977 | | 10-19 years | 3,753 | | 0-9 years | 3,547 | | Urbanization (C 2020) | | |---|---| | Urban | 28,983 | | »Race« (C 2020) | | |---|---| | White | 23,180 | | Black/African American | 2,394 | | Indigenous | 220 | | Asian | 196 | | Pacific Islander | 9 | | Some other | 443 | | 2 or more | 2,541 | | Ethnicity (C 2020) | | |---|---| | Hispanic or Latino | 1,689 | | Other | 27,294 |
+
+
+--- [Port Huron, MI - Profile data - Census Reporter] ---
+No content
+
+
+--- [Port Huron, MI Urban Area - Profile data - Census Reporter] ---
+No content
