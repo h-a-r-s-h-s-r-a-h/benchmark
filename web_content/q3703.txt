@@ -1,0 +1,52 @@
+=== SEARCH SNIPPETS ===
+
+[Yamaha SHS-10 - Wikipedia]
+The Yamaha SHS-10, known in Yamaha 's native country, Japan, as the Yamaha Sholky, Sholky being derived from " Shoul der Key board", is a keytar (a musical keyboard that can be held like a guitar) manufactured by Yamaha and released in 1987.
+URL: https://en.wikipedia.org/wiki/Yamaha_SHS-10
+
+[Yamaha SHS-10 | Sound Programming]
+Synths ⇝ Yamaha ⇝ Yamaha SHS-10 The SHS-10 is a keytar with a 2-operator FM synthesis engine. It has MIDI out and can be used as a controller, but does not have MIDI in. It has 25 built-in rhythms and a 2-watt speaker. It is available in red, black, or white. Specifications Year Released: 1987 Keyboard: 32 mini keys Polyphony: 6 notes Multitimbral: 4 parts Preset Patches: 25 Power ...
+URL: https://soundprogramming.net/synthesizers/yamaha/yamaha-shs-10/
+
+[Yamaha SHS-10 - Academic Dictionaries and Encyclopedias]
+timbrality = 4 oscillator = 2 operators filter = none attenuator = 1 lfo = none ext_control = MIDI 1-16 (out only) memory = 25 patches fx = dates = 1980s price = keyboard = 32 mini-keys velocity = none aftertouch = none The Yamaha SHS-10 is a keytar (a musical keyboard that can be held like a guitar) manufactured by Yamaha and released in the ...
+URL: https://en-academic.com/dic.nsf/enwiki/416639
+
+[Yamaha SHS-10 - Gearspace]
+The SHS-10 has a mini-keyboard with 32 keys, pitch-bend wheel, an internal FM synthesizer offering 25 different voices with 6-note polyphony, two operators, and a chord sequencer. The SHS-10 also includes an internal loudspeaker, a MIDI Out connector to control external MIDI equipment.
+URL: https://gearspace.com/gear/yamaha/shs-10
+
+[Yamaha SHS-10R Keytar 1987 - Reverb UK]
+The following info is taken from the SHS-10 Wikipedia page:It has a small-sized keyboard with 32 minikeys and a pitch-bend wheel, vibrato and sustain buttons, an internal Frequency modulation (usually referred to as FM) synthesizer offering 25 different voices with 6-note polyphony, two operators, and a very basic chord sequencer.
+URL: https://reverb.com/uk/p/yamaha-shs-10r-keytar-1987
+
+
+=== FULL EXTRACTED CONTENT ===
+
+
+--- [Yamaha SHS-10 - Wikipedia] ---
+The Yamaha SHS-10, known in  Yamaha's native country, Japan, as the Yamaha Sholky, Sholky being derived from "Shoulder Keyboard", is a keytar (a musical keyboard that can be held like a guitar) manufactured by Yamaha and released in 1987.
+It has a small-sized keyboard with 32 minikeys and a pitch-bend wheel, vibrato and sustain buttons, an internal Frequency modulation (usually referred to as FM) synthesizer offering 25 different voices with 6-note polyphony, two operators, and a very basic chord sequencer. It also has a loudspeaker.
+It supports MIDI, having a MIDI Out connector which allows the keyboard to control external MIDI equipment. It does not have a MIDI In connector. Although originally made for the consumer market, this keytar's MIDI out features are very powerful. Its drum rhythms and accompaniment are transmitted on separate MIDI channels, so that an external drum machine, sampler, or other MIDI equipment can be programmed to play the backing parts. Drums are transmitted on channel 16; Bass on 15; and three chord harmonies on channels 12-14. MIDI start/stop and tempo sync are also transmitted so an external sequencer may be utilized as well.
+It was manufactured in three colors: grey, red, and black.
+Its demo is an arrangement of Wham!'s hit "Last Christmas."
+The Voices are the following:
+
+The numbering scheme reflects the fact that the selection is done with buttons numbered 0-4.
+A larger model, the Yamaha SHS-200, was released the following year, and came with 49 keys and dual stereo speakers.
+
+
+--- [Yamaha SHS-10 | Sound Programming] ---
+The SHS-10 is a keytar with a 2-operator FM synthesis engine. It has MIDI out and can be used as a controller, but does not have MIDI in. It has 25 built-in rhythms and a 2-watt speaker. It is available in red, black, or white. Year Released: 1987 Keyboard: 32 mini keys Polyphony: 6 notes Multitimbral: 4 parts Preset Patches: 25 Power Consumption: Six AA batteries Dimensions: 751 mm x 178 mm x 57 mm Weight: 1.1 kg Yamaha SHS-10 Keytar - Silver ($223.81) Yamaha SHS-10 Keytar 80's - Grey ($279.77) Yamaha SHS-10 SHS-10R Red Sholky FM DIGITAL KEYBOARD MIDI w/ bag ($230) Yamaha SHS-10 Keytar Vintage 80' Midi Keyboard Japan ($280.52) YAMAHA SHS-10 Silver FM Synthesizer Keyboard SHS10 Shoulder Keyboard Keytar w/ 100-240V PSU ($179.99) [VINTAGE] Yamaha SHS-10 Keytar: L'icona degli anni '80 con Scatola Originale ($341.51) Yamaha SHS-10R Keytar 1987 - Red vintage retro key tar midi keyboard keys ($304.92) YAMAHA SHS-10B Black FM Synthesizer Keyboard SHS10 Shoulder Keyboard Keytar w/ 100-240V PSU ($179.99) YAMAHA SHS-10R Red FM Synthesizer Keyboard SHS10 Shoulder Keyboard Keytar w/ 100-240V PSU ($179.99) Yamaha SHS-10R - red ($414.69) Yamaha SHS-10R Keytar 1987 - Red ($237.84) Power Supply Replacement for YAMAHA SHS-10S GUITAR ADAPTER 12V ($11.64) Power Supply Replacement for YAMAHA SH-10S KEYTAR ADAPTER 12V ($11.64) Power Supply Replacement For The Yamaha Shs 500 Keytar Adapter 12 V ($11.64) 1987 Yamaha Japan SHS-10S Keytar ("Gui-Board") w/MIDI ($322.72) 1980's Yamaha Japan SHS-10S Keytar ("Gui-Board") w/MIDI ($337.56) The Sound Programming site is copyright © 2006-2026 Jason Champion.
+
+
+--- [Yamaha SHS-10 - Academic Dictionaries and Encyclopedias] ---
+- Yamaha SHS-10 Infobox_synthesizer image_caption = Yamaha SHS-10 synth_name = Yamaha SHS-10 synth_manufacturer = Yamaha synthesis_type = Digital Frequency modulation polyphony = 6 voices timbrality = 4 oscillator = 2 operators filter = none attenuator = 1 lfo = none ext_control =MIDI 1-16 (out only) memory = 25 patches fx = dates =1980s price = keyboard = 32 mini-keys velocity = none aftertouch = noneThe Yamaha SHS-10 is a keytar (amusical keyboard that can be held like aguitar ) manufactured by Yamaha and released in the late1980s .It has a small-sized keyboard with 32 minikeys and a pitch-bend wheel, an internal Frequency modulation (usually referred to as FM) synthesizer offering 25 different voices with 6-notepolyphony , two operators, and a very basic chord sequencer. It also has aloudspeaker .It supports MIDI, having a MIDI Out connector which allows the keyboard to control external MIDI equipment. It does not have a MIDI In connector. It was manufactured in three colors: grey, red, and black. Its demo is an arrangement of Wham! 's hit "Last Christmas ."The Voices are the following: There are various skips in this list because there are only buttons 0-4 to choose from. External links * [http://www.synthmania.com/shs-10.htm Yamaha SHS-10] at SynthMania (featuring MP3 samples of the demo, instruments, and styles available) * [http://www.harmony-central.com/Synth/Data/Yamaha/SHS_10-1.html Yamaha SHS-10] reviews at Harmony Central Wikimedia Foundation. 2010.
+
+
+--- [Yamaha SHS-10 - Gearspace] ---
+No content
+
+
+--- [Yamaha SHS-10R Keytar 1987 - Reverb UK] ---
+Stoke-on-Trent, United Kingdom About this listing I bought this SHS-10 off ebay in 2005 and used it for about three or four gigs and a little rehearsal at home. Since then, it has mostly sat in its box on a shelf, and I've now finally got around to selling it. It comes with its original (albeit slightly battered) box and guitar strap (see pictures), but no power supply (I tested it at home using batteries). The keyboard works perfectly and sounds great. The following info is taken from the SHS-10 Wikipedia page:It has a small-sized keyboard with 32 minikeys and a pitch-bend wheel, vibrato and sustain buttons, an internal Frequency modulation (usually referred to as FM) synthesizer offering 25 different voices with 6-note polyphony, two operators, and a very basic chord sequencer. It also has a loudspeaker.It supports MIDI, having a MIDI Out connector which allows the keyboard to control external MIDI equipment. It does not have a MIDI In connector. Although originally made for the consumer market, this keytar's MIDI out features are very powerful. Its drum rhythms and accompaniment are transmitted on separate MIDI channels, so that an external drum machine, sampler, or other MIDI equipment can be programmed to play the backing parts. Drums are transmitted on channel 16; Bass on 15; and three chord harmonies on channels 12-14. MIDI start/stop and tempo sync are also transmitted so an external sequencer may be utilized as well. Price£160 + £11.35 Shipping Predicted to Sell Soon Only 1 available and 1 other person has this in their basket

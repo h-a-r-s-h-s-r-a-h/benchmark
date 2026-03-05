@@ -1,0 +1,46 @@
+=== SEARCH SNIPPETS ===
+
+[List of The Dukes of Hazzard episodes - Wikipedia]
+This is a list of episodes for the 1979-1985 CBS action-adventure/comedy series The Dukes of Hazzard. The show ran for seven seasons and a total of 147 episodes. Many of the episodes followed a similar structure: "out-of-town crooks pull a robbery, Duke boys blamed, spend the rest of the hour clearing their names, the General Lee flies and the squad cars crash". [1] Also, almost every ...
+URL: https://en.wikipedia.org/wiki/List_of_The_Dukes_of_Hazzard_episodes
+
+[Robot P. Coltrane | The Dukes of Hazzard Wiki | Fandom]
+Robot P. Coltrane is the fourth episode of season seven of The Dukes of Hazzard, and the one hundred thirty-fourth overall episode of the series.
+URL: https://thedukesofhazzard.fandom.com/wiki/Robot_P._Coltrane
+
+[Robot P. Coltrane | The Dukes of Hazzard Wiki | Fandom]
+"Robot P. Coltrane" is the fourth episode of the seventh season of The Dukes Of Hazzard. A computer technician named Rance (Ray Colbert) is fired from his job shortly after completing work on a contract. He and a co-worker named Marv (William Allen Young) get revenge against their former employer by stealing a caché of electronics to sell on the black market, then steal back for ransom. One ...
+URL: https://dukesofhazzard.fandom.com/wiki/Robot_P._Coltrane
+
+["The Dukes of Hazzard" Robot P. Coltrane (TV Episode 1984) - IMDb]
+Robot P. Coltrane: Directed by Bob Sweeney. With Tom Wopat, John Schneider, Catherine Bach, Denver Pyle. A computer salesman sells Boss a robot, which easily catches the Dukes. In the aftermath, Rosco loses his job for repeated mistakes. Later, the Dukes learn that the salesman is an embittered ex-computer programmer who had stolen the robot and plans to steal it back for ransom.
+URL: https://www.imdb.com/title/tt0567205/
+
+[Compare files - datasets/SimpleQA]
+Who played the computer technician named Rance in S7 E4 of "The Dukes of Hazzard"? ... Who played the role of Mrs. Janice Veazey, Dr. Hodges' secretary, in ...
+URL: https://www.oxen.ai/datasets/SimpleQA/compare/file/59b37c013206a4d1ee7d3964cef03c3f..27ec8c7ddecbf47c2baa1428256d6ebc/eval.parquet?page=4
+
+
+=== FULL EXTRACTED CONTENT ===
+
+
+--- [List of The Dukes of Hazzard episodes - Wikipedia] ---
+This is a list of episodes for the 1979–1985 CBS action-adventure/comedy series The Dukes of Hazzard. The show ran for seven seasons and a total of 147 episodes. Many of the episodes followed a similar structure: "out-of-town crooks pull a robbery, Duke boys blamed, spend the rest of the hour clearing their names, the General Lee flies and the squad cars crash". Also, almost every episode would begin with the Duke boys driving along in the General Lee, whether running an errand or just out on a leisurely drive, and inadvertently stumbling upon one of the sheriff's speed traps.
+
+
+
+
+--- [Robot P. Coltrane | The Dukes of Hazzard Wiki | Fandom] ---
+No content
+
+
+--- [Robot P. Coltrane | The Dukes of Hazzard Wiki | Fandom] ---
+"Robot P. Coltrane" is the fourth episode of the seventh season of The Dukes Of Hazzard. Summary[] A computer technician named Rance (Ray Colbert) is fired from his job shortly after completing work on a contract. He and a co-worker named Marv (William Allen Young) get revenge against their former employer by stealing a caché of electronics to sell on the black market, then steal back for ransom. One of those items is an advanced robot named Bobby Joe (Robert Shields). Bo and Luke, who had an earlier skirmish with Rance and Marv, become suspicious, and investigate their van. Rosco catches the Duke boys inside the van, but bungles the arrest. The robot, however, is easily able to apprehend the Dukes. Boss Hogg is impressed, buys the robot, and promptly promotes Bobby Joe to Hazzard County Sheriff. He then fires Rosco, leaving him despondent. Boss Hogg is unaware that Marv and Rance have plans to use Bobby Joe to rob the Hazzard Bank. The Dukes -- in between having to console Rosco -- are suspicious and begin to investigate. Before long, they find the crooks' hideout and their ransom note to the electronics company, proving that Bobby Joe was stolen. Things get difficult for the Dukes when Marv and Rance discover that the Dukes have been snooping around. Marv and Rance capture the Dukes and tie them up before heading out to rob the bank. After they have put all the loot in their truck, they have Bobby Joe hold Rosco at the scene so it will appear that Rosco robbed the bank. When Boss Hogg arrives, he is angry at Rosco, until the Dukes show up and explain everything about Marv and Rance. The Dukes take off in the General, followed by Rosco and Enos, to find Marv and Rance. Bo and Luke are able to stop Marv and Rance's truck and grab them. Rosco and Enos show up just in time to collect Marv and Rance, and the stolen money. Rosco is now a proud sheriff once again. Plot[] Cast[] Main character[] - John Schneider as Bo Duke - Tom Wopat as Luke Duke - Catherine Bach as Daisy Duke - Denver Pyle as Uncle Jesse Duke - Ben Jones as Cooter Davenport - Sorrell Booke as Boss Hogg - James Best as Rosco Purvis Coltrane - Sonny Shroyer as Enos Strate - Waylon Jennings as Balladeer Guest Star[] - Robert Shields as Bobby Joe the Robot - William Allen Young as Marv - Ray Colbert as Rance
+
+
+--- ["The Dukes of Hazzard" Robot P. Coltrane (TV Episode 1984) - IMDb] ---
+Robot P. Coltrane - Episode aired Oct 12, 1984 - TV-PG - 49m A computer salesman sells Boss a robot, which easily catches the Dukes. In the aftermath, Rosco loses his job for repeated mistakes. Later, the Dukes learn that the salesman is an embittered... Read allA computer salesman sells Boss a robot, which easily catches the Dukes. In the aftermath, Rosco loses his job for repeated mistakes. Later, the Dukes learn that the salesman is an embittered ex-computer programmer who had stolen the robot and plans to steal it back for ransom.A computer salesman sells Boss a robot, which easily catches the Dukes. In the aftermath, Rosco loses his job for repeated mistakes. Later, the Dukes learn that the salesman is an embittered ex-computer programmer who had stolen the robot and plans to steal it back for ransom.
+
+
+--- [Compare files - datasets/SimpleQA] ---
+Home Repositories Models Docs Blog Pricing Login Sign up Repositories Models Blog Community Pricing Search Docs LOG IN SIGN UP datasets / SimpleQA Data Branches Evaluations Fine-tune eval.parquet comparing changes between versions 59b37c013206a4d1ee7d3964cef03c3f 27ec8c7ddecbf47c2baa1428256d6ebc Base Diff Head Schema 4 columns, 301-326 of 326 rows 326 total rows 326 Row details Copyright © 2026 Oxen Labs, Inc., All Rights Reserved Careers Privacy Policy Terms and Conditions

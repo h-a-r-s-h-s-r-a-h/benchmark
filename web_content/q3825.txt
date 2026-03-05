@@ -1,0 +1,44 @@
+=== SEARCH SNIPPETS ===
+
+[Intel® Core™ i7-9700E Processor]
+CPU Specifications ; Intel® Turbo Boost Technology 2.0 Frequency ; Processor Base Frequency. 2.60 GHz ; Cache. 12 MB ; Bus Speed. 8 GT/s ; TDP. 65 W ...
+URL: https://www.intel.com/content/www/us/en/products/sku/195306/intel-core-i79700e-processor-12m-cache-up-to-4-40-ghz/specifications.html
+
+[Intel Core i7-9700E Specs | TechPowerUp CPU Database]
+The Intel Core i7-9700E was a desktop processor with 8 cores, launched in April 2019, at an MSRP of $323. It is part of the Core i7 lineup, using the Coffee Lake Refresh architecture with Socket 1151.
+URL: https://www.techpowerup.com/cpu-specs/core-i7-9700e.c3122
+
+[Intel Core i7 9700E (9th Gen) - full specs, benchmarks and review]
+A detailed list of technical data, specifications, benchmarks and expert review of Intel Core i7 9700E (9th Gen). Get a comprehensive look at your chosen processor and see if this is the one that will best suit your needs.
+URL: https://www.productindetail.com/pc/intel-core-i7-9700e-9th-gen
+
+[Intel Core i7-9700E 2.60 GHz Desktop Processor benchmark]
+The Intel Core i7-9700E 2.60 GHz Desktop processor is manufactured by Intel. It was launched in Q4 2020. This processor uses the FCLGA1151-2 socket. It has 8 cores and 8 threads. The base clock is 2.6 GHz, with a turbo boost up to 4.4 GHz. Thermal design power (TDP) is rated at 65 watts.
+URL: https://pc-builds.com/cpu/10v/intel-core-i7-9700e
+
+[Intel Core i7-9700E Processor Review: Specs and Performance]
+Thermal Management Let's find out what TDP has the Intel Core i7-9700E? The Thermal Design Power (TDP) indicates the maximum amount of heat that should be dissipated by the chip cooling system. However, the value of TDP gives only a rough indication of the real power consumption of the CPU.
+URL: https://cpugate.com/cpu-specs/intel_core_i7-9700e
+
+
+=== FULL EXTRACTED CONTENT ===
+
+
+--- [Intel® Core™ i7-9700E Processor] ---
+Intel® Core™ i7-9700E Processor 12M Cache, up to 4.40 GHz Intel® Core™ i7-9700E Processor 12M Cache, up to 4.40 GHz Discover newer Intel Processors and experience Improved performance Compare Intel® Products Essentials CPU Specifications Supplemental Information Memory Specifications GPU Specifications Expansion Options Package Specifications Advanced Technologies Security & Reliability All information provided is subject to change at any time, without notice. Intel may make changes to manufacturing life cycle, specifications, and product descriptions at any time, without notice. The information herein is provided "as-is" and Intel does not make any representations or warranties whatsoever regarding accuracy of the information, nor on the product features, availability, functionality, or compatibility of the products listed. Please contact system vendor for more information on specific products or systems. Intel classifications are for general, educational and planning purposes only and consist of Export Control Classification Numbers (ECCN) and Harmonized Tariff Schedule (HTS) numbers. Any use made of Intel classifications are without recourse to Intel and shall not be construed as a representation or warranty regarding the proper ECCN or HTS. Your company as an importer and/or exporter is responsible for determining the correct classification of your transaction. Refer to Datasheet for formal definitions of product properties and features. ‡ This feature may not be available on all computing systems. Please check with the system vendor to determine if your system delivers this feature, or reference the system specifications (motherboard, processor, chipset, power supply, HDD, graphics controller, memory, BIOS, drivers, virtual machine monitor-VMM, platform software, and/or operating system) for feature compatibility. Functionality, performance, and other benefits of this feature may vary depending on system configuration. Intel processor numbers are not a measure of performance. Processor numbers differentiate features within each processor family, not across different processor families. See http://www.intel.com/content/www/us/en/processors/processor-numbers.html for details. Recommended Customer Price (RCP) is pricing guidance only for Intel products. Prices are for direct Intel customers, usually represent 1,000-unit purchase quantities, and are subject to change without notice. Prices may vary for other package types and shipment quantities. In bulk, price represents individual unit. Listing of RCP does not constitute a formal pricing offer from Intel. System and Maximum TDP is based on worst case scenarios. Actual TDP may be lower if not all I/Os for chipsets are used. “Announced” SKUs are not yet available. Please refer to the Launch Date for market availability. Intel® Arc™ graphics only available on select V-Series Intel® Core™ Ultra processor-powered systems with qualifying system thermal design or H-series Intel® Core™ Ultra processor-powered systems with at least 16GB of system memory in a dual-channel configuration. OEM enablement required. Other Intel® Core™ Ultra processor-powered system configurations feature Intel® Graphics. Check with OEM or retailer for system configuration details. Intel® Iris® Xe Graphics only: to use the Intel® Iris® Xe brand, the system must be populated with 128-bit (dual channel) memory. Otherwise, use the Intel® UHD brand. Max Turbo Frequency refers to the maximum single-core processor frequency that can be achieved with Intel® Turbo Boost Technology. See https://www.intel.com/content/www/us/en/gaming/resources/turbo-boost.html for more information and applicability of this technology. See http://www.intel.com/content/www/us/en/architecture-and-technology/hyper-threading/hyper-threading-technology.html?wapkw=hyper+threading for more information including details on which processors support Intel® HT Technology. Processors that support 64-bit computing on Intel® architecture require an Intel 64 architecture-enabled BIOS. Check http://ipt.intel.com/ for systems that support Intel® Identity Protection Technology (Intel® IPT). Some products can support AES New Instructions with a Processor Configuration update, in particular, i7-2630QM/i7-2635QM, i7-2670QM/i7-2675QM, i5-2430M/i5-2435M, i5-2410M/i5-2415M. Please contact OEM for the BIOS that includes the latest Processor configuration update.
+
+
+--- [Intel Core i7-9700E Specs | TechPowerUp CPU Database] ---
+The Intel Core i7-9700E was a desktop processor with 8 cores, launched in April 2019, at an MSRP of $323. It is part of the Core i7 lineup, using the Coffee Lake Refresh architecture with Socket 1151. Core i7-9700E has 12 MB of L3 cache and operates at 2.6 GHz by default, but can boost up to 4.4 GHz, depending on the workload. Intel is making the Core i7-9700E on a 14 nm production node, the transistor count is unknown. The multiplier is locked on Core i7-9700E, which limits its overclocking potential. With a TDP of 65 W, the Core i7-9700E consumes typical power levels for a modern PC. Intel's processor supports DDR4 memory with a dual-channel interface. The highest officially supported memory speed is 2666 MT/s, but with overclocking (and the right memory modules) you can go even higher. For communication with other components in the machine, Core i7-9700E uses a PCI-Express Gen 3 connection. This processor features the UHD Graphics 630 integrated graphics solution. Hardware virtualization is available on the Core i7-9700E, which greatly improves virtual machine performance. Additionally, IOMMU virtualization (PCI passthrough) is supported, so that guest virtual machines may directly use host hardware. Programs using Advanced Vector Extensions (AVX) can run on this processor, boosting performance for calculation-heavy applications. Besides AVX, Intel is including the newer AVX2 standard, too, but not AVX-512.
+
+
+--- [Intel Core i7 9700E (9th Gen) - full specs, benchmarks and review] ---
+No content
+
+
+--- [Intel Core i7-9700E 2.60 GHz Desktop Processor benchmark] ---
+No content
+
+
+--- [Intel Core i7-9700E Processor Review: Specs and Performance] ---
+No content

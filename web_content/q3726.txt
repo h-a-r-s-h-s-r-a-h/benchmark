@@ -1,0 +1,44 @@
+=== SEARCH SNIPPETS ===
+
+[Amata leucacma - Wikipedia]
+Amata leucacma is a species of moth of the family Erebidae first described by Edward Meyrick in 1886. [1] It is found in Queensland, Australia. [2]
+URL: https://en.wikipedia.org/wiki/Amata_leucacma
+
+[Amata leucacma - Mindat.org]
+Data courtesy of: PBDB: The Paleobiology Database, Creative Commons CC-BY licenced. , GBIF: the Global Biodiversity Information Facility, various licences, iDigBio, various licences, and EOL: The Encyclopedia of Life (Open Data Public Domain). Because fossils are made of minerals too!
+URL: https://www.mindat.org/taxon-1808208.html
+
+[Amata leucacma - LepiWiki]
+3. Further information 3.1. Other combinations Hydrusa leucacma Meyrick, 1886 [original combination] 3.2. Literature Original description: Meyrick, E. (1886): Revision of Australian Lepidoptera. — The Proceedings of the Linnean Society of New South Wales. Second series 1 (3): 687-802.
+URL: https://lepiforum.org/wiki/page/Amata_leucacma_En
+
+[Taxonomy browser (Amata leucacma) - National Center for ...]
+Show organism modifiers Disclaimer: The NCBI taxonomy database is not an authoritative source for nomenclature or classification - please consult the relevant scientific literature for the most reliable information.
+URL: https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1370932
+
+[Grokipedia: Amata leucacma]
+Learn more about Amata leucacma on Grokipedia.
+URL: https://grokipedia.com/page/Amata_leucacma
+
+
+=== FULL EXTRACTED CONTENT ===
+
+
+--- [Amata leucacma - Wikipedia] ---
+Amata leucacma  is a species of moth of the family Erebidae first described by Edward Meyrick in 1886. It is found in Queensland, Australia.
+
+
+--- [Amata leucacma - Mindat.org] ---
+No content
+
+
+--- [Amata leucacma - LepiWiki] ---
+Länder:+1Kontinente:OC Neues Layout der Navigation (Beta Test) 2. Diagnosis 2.1. Original description 1: Meyrick (1886: 778) [from copyright-free scan at www.biodiversitylibrary.org] 3. Further information 3.1. Other combinations - Hydrusa leucacma Meyrick, 1886 [original combination] 3.2. Literature - Original description: Meyrick, E. (1886): Revision of Australian Lepidoptera. — The Proceedings of the Linnean Society of New South Wales. Second series 1 (3): 687-802.
+
+
+--- [Taxonomy browser (Amata leucacma) - National Center for ...] ---
+| Entrez | PubMed | Nucleotide | Protein | Genome | Structure | PMC | Taxonomy | BioCollections | | Entrez records | ||| | Database name | Direct links | Subtree links | Links from type | | Identical Protein Groups | 3 | 3 | - | | Nucleotide | 3 | 3 | - | | Protein | 3 | 3 | - | | Taxonomy | 1 | 1 | - | Disclaimer: The NCBI taxonomy database is not an authoritative source for nomenclature or classification - please consult the relevant scientific literature for the most reliable information. Reference: How to cite this resource - Schoch CL, et al. NCBI Taxonomy: a comprehensive update on curation, resources and tools. Database (Oxford). 2020: baaa062. PubMed: 32761142 PMC: PMC7408187. | [Help] | [Search] | [NLM NIH] | [Disclaimer] |
+
+
+--- [Grokipedia: Amata leucacma] ---
+Formed in 2009, the Archive Team (not to be confused with the archive.org Archive-It Team) is a rogue archivist collective dedicated to saving copies of rapidly dying or deleted websites for the sake of history and digital heritage. The group is 100% composed of volunteers and interested parties, and has expanded into a large amount of related projects for saving online and digital history. History is littered with hundreds of conflicts over the future of a community, group, location or business that were "resolved" when one of the parties stepped ahead and destroyed what was there. With the original point of contention destroyed, the debates would fall to the wayside. Archive Team believes that by duplicated condemned data, the conversation and debate can continue, as well as the richness and insight gained by keeping the materials. Our projects have ranged in size from a single volunteer downloading the data to a small-but-critical site, to over 100 volunteers stepping forward to acquire terabytes of user-created data to save for future generations. The main site for Archive Team is at archiveteam.org and contains up to the date information on various projects, manifestos, plans and walkthroughs. This collection contains the output of many Archive Team projects, both ongoing and completed. Thanks to the generous providing of disk space by the Internet Archive, multi-terabyte datasets can be made available, as well as in use by the Wayback Machine, providing a path back to lost websites and work. Our collection has grown to the point of having sub-collections for the type of data we acquire. If you are seeking to browse the contents of these collections, the Wayback Machine is the best first stop. Otherwise, you are free to dig into the stacks to see what you may find. The Archive Team Panic Downloads are full pulldowns of currently extant websites, meant to serve as emergency backups for needed sites that are in danger of closing, or which will be missed dearly if suddenly lost due to hard drive crashes or server failures.

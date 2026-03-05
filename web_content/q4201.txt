@@ -1,0 +1,46 @@
+=== SEARCH SNIPPETS ===
+
+[Vujica Lazović - Wikipedia]
+Education Lazović graduated from University of Montenegro Faculty of Economics in 1986, and defended his master's degree at the University of Belgrade in 1994. In 1997, Lazović received his doctorate at the University of Montenegro.
+URL: https://en.wikipedia.org/wiki/Vujica_Lazovi%C4%87
+
+[Vujica Lazović Explained]
+Lazović graduated from University of Montenegro Faculty of Economics in 1986, and defended his master's degree at the University of Belgrade in 1994. In 1997, Lazović received his doctorate at the University of Montenegro.
+URL: https://everything.explained.today/Vujica_Lazovi%C4%87/
+
+[Vujica Lazović - Wikiwand]
+Lazović graduated from University of Montenegro Faculty of Economics in 1986, and defended his master's degree at the University of Belgrade in 1994. In 1997, Lazović received his doctorate at the University of Montenegro.
+URL: https://www.wikiwand.com/en/articles/Vujica%20Lazovi%C4%87
+
+[LDCG - leks.canu.ac.me]
+Lazović, Vujica (Plav, 1963), univerzitetski profesor, političar, diplomata. Ekonomski fakultet završio je u Titogradu (1986), magistrirao je na Ekonomskom fakultetu u Beogradu (1994), a doktorirao na Ekonomskom fakultetu u Podgorici (1997).
+URL: https://leks.canu.ac.me/web/ldcg.php?OID=2720
+
+[About: Vujica Lazović - DBpedia Association]
+About: Vujica Lazović - DBpedia Association ... unknown
+URL: https://dbpedia.org/page/Vujica_Lazovi%C4%87
+
+
+=== FULL EXTRACTED CONTENT ===
+
+
+--- [Vujica Lazović - Wikipedia] ---
+Vujica Lazović (Montenegrin Cyrillic: Вујица Лазовић; born 10 March 1963 in Plav, Montenegro, SFRY) is a Montenegrin politician, professor and diplomat who is currently serving as ambassador of Montenegro to Slovenia. He was vice-president of the Social Democratic Party (SDP) under Ranko Krivokapić, and was one of founding members of the new Social Democrats of Montenegro (SD), in 2016. He is currently president of the Political Council of the Social Democrats.
+
+
+
+
+--- [Vujica Lazović Explained] ---
+No content
+
+
+--- [Vujica Lazović - Wikiwand] ---
+English Sign in Top Qs Timeline Chat Perspective All Articles Dictionary Quotes Map Remove ads Loading article...
+
+
+--- [LDCG - leks.canu.ac.me] ---
+Lazović, Vujica (Plav, 1963), univerzitetski profesor, političar, diplomata. Ekonomski fakultet završio je u Titogradu (1986), magistrirao je na Ekonomskom fakultetu u Beogradu (1994), a doktorirao na Ekonomskom fakultetu u Podgorici (1997). U periodu od 1989. do 1993. obavljao je niz javnih funkcija: poslanik u Skupštini RCG (→ Skupština Crne Gore), poslanik u Vijeću građana Skupštine SRJ, ministar u Vladi RCG (→ Vlada Crne Gore). Od 2006. bio je potpredsjednik za ekonomsku politiku, a od 2009. do 2016. ministar za informaciono društvo i telekomunikacije u Vladi Crne Gore. Od 2017. do 2021. bio je ambasador Crne Gore u Sloveniji. Autor je više naučnih radova, knjiga i publikacija iz oblasti ekonomije i poslovnih informacionih sistema, među kojima i knjige Projektovanje opšteg modela informacionog sistema na primjeru trgovinskog preduzeća (1998). Izvor: MVP, dokumentacija. M. Savić
+
+
+--- [About: Vujica Lazović - DBpedia Association] ---
+| dbo:thumbnail | | | dbo:wikiPageWikiLink | | | dbp:wikiPageUsesTemplate | | | dct:subject | | | rdf:type | | | rdfs:label | | | owl:sameAs | | | prov:wasDerivedFrom | | | foaf:depiction | | | foaf:isPrimaryTopicOf | | | is dbo:successor of | | | is dbo:wikiPageWikiLink of | | | is dbp:founders of | | | is dbp:successor of | | | is foaf:primaryTopic of | |

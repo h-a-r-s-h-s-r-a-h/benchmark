@@ -1,0 +1,47 @@
+=== SEARCH SNIPPETS ===
+
+[David P. Robbins - Wikipedia]
+^DavidPeterRobbinsat the Mathematics Genealogy Project. ^ TheMathematicalAssociationofAmerica'sDavidP.RobbinsPrizeinAlgebra, Combinatorics, and Discrete Mathematics,MathematicalAssociationofAmerica, retrieved 2013-01-08. ^ "BrowsePrizesand Awards".
+URL: https://en.wikipedia.org/wiki/David_P._Robbins
+
+[David P. Robbins Prize - Wikipedia]
+TheDavidP.RobbinsPrizefor papers reporting novel research in algebra, combinatorics, or discrete mathematics is awarded both by the AmericanMathematicalSociety (AMS) and by theMathematicalAssociationofAmerica(MAA).
+URL: https://en.wikipedia.org/wiki/David_P._Robbins_Prize
+
+[David P. Robbins - reference.org]
+A symposium was held inRobbins'honor in June 2003, the papers from which were published as a special issue of the journal Advances in Applied Mathematics. TheMathematicalAssociationofAmericaestablished aprizenamed in his honor in 2005, given every three years to one or more researchers in algebra, combinatorics, or discrete mathematics.
+URL: https://reference.org/facts/david_p_robbins/Uy3wE7EQ
+
+[David P. Robbins - Wikiwand]
+A symposium was held inRobbins'honor in June 2003, the papers from which were published as a special issue of the journal Advances in Applied Mathematics. [2] TheMathematicalAssociationofAmericaestablished aprizenamed in his honor in 2005, given every three years to one or more researchers in algebra, combinatorics, or discrete mathematics. The first winner of theprize,in2008, was ...
+URL: https://www.wikiwand.com/en/articles/David+P.+Robbins
+
+[AMS :: Browse Prizes and Awards - American Mathematical Society]
+DavidP.RobbinsPrize2007 SamuelP.Ferguson; Thomas C. Hales First award: to SamuelP.Ferguson and Thomas C. Hales, for the paper "A proof of the Kepler conjecture," by Thomas C. Hales, Annals of Mathematics, 162 (2005), 1065-1185 (Section 5 of this paper is jointly authored with Ferguson).Prizeannouncement as seen in Notices of the AMS.
+URL: https://www.ams.org/robbins-winners
+
+
+=== FULL EXTRACTED CONTENT ===
+
+
+--- [David P. Robbins - Wikipedia] ---
+David Peter Robbins (12 August 1942 in Brooklyn – 4 September 2003 in Princeton) was an American mathematician.  He is most famous for introducing alternating sign matrices. He is also known for his work on generalizations of Heron's formula on the area of polygons, due to which Robbins pentagons (cyclic pentagons with integer side lengths and areas) were named after him.
+Robbins grew up in Manhattan, where he attended the Fieldston School.  He studied at Harvard, where his undergraduate advisor was Andrew Gleason.  He went to MIT to do his graduate work and, after a hiatus during which he taught at Fieldston, finished his Ph.D. in 1970.  He then taught at MIT, Phillips Exeter Academy, Hamilton College and Washington and Lee University.  In 1980 he moved to Princeton, New Jersey and worked at the Institute for Defense Analyses Center for Communications Research there until his death from pancreatic cancer.
+A symposium was held in Robbins' honor in June 2003, the papers from which were published as a special issue of the journal Advances in Applied Mathematics. The Mathematical Association of America established a prize named in his honor in 2005, given every three years to one or more researchers in algebra, combinatorics, or discrete mathematics. The first winner of the prize, in 2008, was Neil Sloane for the On-Line Encyclopedia of Integer Sequences.
+The American Mathematical Society has another prize, the David P. Robbins Prize (AMS)  with the same name the first winners of which were Samuel P. Ferguson and Thomas C. Hales for their work on the Kepler conjecture.
+
+
+--- [David P. Robbins Prize - Wikipedia] ---
+The David P. Robbins Prize for papers reporting novel research in algebra, combinatorics, or discrete mathematics is awarded both by the American Mathematical Society (AMS) and by the Mathematical Association of America (MAA). The AMS award recognizes papers with a significant experimental component on a topic which is broadly accessible which provide a simple statement of the problem and clear exposition of the work. Papers eligible for the MAA award are judged on quality of research, clarity of exposition, and accessibility to undergraduates. Both awards consist of $5000 and are awarded once every three years. They are named in the honor of David P. Robbins and were established in 2005 by the members of his family.
+
+
+--- [David P. Robbins - reference.org] ---
+No content
+
+
+--- [David P. Robbins - Wikiwand] ---
+No content
+
+
+--- [AMS :: Browse Prizes and Awards - American Mathematical Society] ---
+Browse Prizes and Awards We have pre-sorted the archive to show prize and award recipients for the current year. To begin browsing other years, please press "clear." You can then sort the archive by prize or award name, recipient name, or year (or by combining those fields). David P. Robbins Prize 2025 Sophie Morier-Genoud; Valentin Ovsienko Sophie Morier-Genoud of the University of Reims Champagne-Ardenne and Valentin Ovsienko of the Centre National de la Recherche Scientifique, Reims, are awarded the 2025 AMS David P. Robbins Prize for their paper "$q$-deformed rationals and $q$-continued fractions," published in Forum of Mathematics, Sigma. Prize announcement as seen in the news release. David P. Robbins Prize 2022 Alin Bostan; Irina Kurkova; Kilian Raschel Alin Bostan, Irina Kurkova, and Kilian Raschel will receive the 2022 AMS David P. Robbins Prize for their paper “A human proof of Gessel's lattice path conjecture,” published in Transactions of the American Mathematical Society in 2017. The paper proves highly nontrivial enumeration results on a family of lattice paths known as Gessel walks. These simple-to-describe walks have a surprisingly beautiful enumeration that withstands standard combinatorial techniques. The proof makes an inspired use of experimentation to connect the problem with a remarkable identity involving elliptic functions. Unlike previous arguments, this novel proof method avoids any reference to large-scale computation. Prize announcement as seen in the news release. David P. Robbins Prize 2019 Roger E. Behrend; Ilse Fischer; Matjaz Konvalinka The 2019 David P. Robbins Prize was awarded to Roger Behrend, Ilse Fischer and Matjaž Konvalinka for their paper "Diagonally and antidiagonally symmetric alternating sign matrices of odd order," published in 2017 in Advances in Mathematics (Vol. 315, pp. 324-365). Prize announcement as seen in Notices of the AMS and in the news release. David P. Robbins Prize 2016 Christoph Koutschan; Manuel Kauers; Doron Zeilberger Fourth award: to Christoph Koutschan, Manuel Kauers, and Doron Zeilberger for their paper, "Proof of George Andrews's and David Robbins's q-TSPP conjecture," Proceedings of the National Academy of Sciences (USA) (2011). Prize announcement as seen in Notices of the AMS and in the news release. David P. Robbins Prize 2013 Alexander Razborov Third award: to Alexander Razborov "for his paper, "On the minimal density of triangles in graphs" (Combinatorics, Probability and Computing 17 (2008), no. 4, 603-618), and for introducing a new powerful method, flag algebras, to solve problems in extremal combinatorics." Prize announcement as seen in Notices of the AMS. David P. Robbins Prize 2010 Ileana Streinu Second award: to Ileana Streinu of Smith College for her paper "Pseudo-triangulations, rigidity and motion planning", Discrete Comput. Geom. 34 (2005), no. 4, 587-635. Prize announcement as seen in Notices of the AMS. David P. Robbins Prize 2007 Samuel P. Ferguson; Thomas C. Hales First award: to Samuel P. Ferguson and Thomas C. Hales, for the paper "A proof of the Kepler conjecture," by Thomas C. Hales, Annals of Mathematics, 162 (2005), 1065-1185 (Section 5 of this paper is jointly authored with Ferguson). Prize announcement as seen in Notices of the AMS.

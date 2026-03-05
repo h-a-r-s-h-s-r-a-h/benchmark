@@ -1,0 +1,48 @@
+=== SEARCH SNIPPETS ===
+
+[Baidu History: Founding, Timeline, and Milestones - Zippia]
+Jul 21, 2023 · On July 31, 2012, Baidu announced they would team up with Sina to provide mobile search results. On November 18, 2012, Baidu announced that they would be partnering with Qualcomm to offer free cloud storage to Android users with Snapdragon processors.
+URL: https://www.zippia.com/baidu-careers-569866/history/
+
+[Baidu Offers Cloud Storage to Phones with Qualcomm's Snapdragon Chips - TNW]
+Nov 19, 2012 · Baidu has today announced a strategic partnership with Qualcomm to offer free storage to Android devices powered by Qualcomm's Snapdragon processors.
+URL: https://thenextweb.com/news/baidu-partners-with-qualcomm-to-provide-free-cloud-storage-to-snapdragon-powered-android-phones
+
+[Timeline of Baidu: Key Milestones and Developments]
+Dec 31, 1999 · Explore the comprehensive timeline of Baidu, highlighting its key milestones and developments since its founding. Discover important events in the evolution of one of the leading internet and AI companies in China.
+URL: https://timepath.org/baidu
+
+[Baidu]
+On 18 November 2012, Baidu announced that it would be partnering with Qualcomm to offer free cloud storage to Android users with Snapdragon processors.
+URL: https://en.wikipedia.org/wiki/Baidu
+
+[SPECIFY Definition & Meaning - Merriam-Webster]
+The meaning of SPECIFY is to name or state explicitly or in detail. How to use specify in a sentence.
+URL: https://www.merriam-webster.com/dictionary/specify
+
+
+=== FULL EXTRACTED CONTENT ===
+
+
+--- [Baidu History: Founding, Timeline, and Milestones - Zippia] ---
+No content
+
+
+--- [Baidu Offers Cloud Storage to Phones with Qualcomm's Snapdragon Chips - TNW] ---
+Chinese search giant Baidu has today announced a strategic partnership with Qualcomm to offer free personal cloud storage to Android devices powered by Qualcomm’s Snapdragon processors. The limited promotion will offer users 15GB of storage for one year and another 15GB of storage for the lifetime of the device after they activate Baidu’s cloud service on a qualifying device. Baidu also said it is optimizing its cloud service using Qualcomm Reference Designs. Specifically, it will be tailored to suit the Snapdragon S4 MSM 8×25 processor and the Snapdragon S4 MSM8x25Q processor. The service should arrive before the end of the year. Eligible devices include: the Huawei G330D/G330C, the Coolpad 7266, the K-touch W760, Hisense U950, Lenovo S686. Qualcomm’s Snapdragon line of processors has become one of the top choices for Android smartphones, especially in China. “This Baidu cloud service offering demonstrates Baidu’s ability to launch a service that covers developers across the value chain spanning chipset to software. This is an important step for Baidu to be competitive and integrate across the whole industry chain, and it will help bring end users a wider variety of more integrated and higher quality services,” said Jing Wang, vice president of engineering of Baidu. Baidu has identified the cloud as an area of substantial investment. CEO Robin Li declared in September at the company’s annual developer conference that China has entered the cloud age. He reiterated the claim earlier this month by noting in an earnings statement that mobile and cloud represent Baidu’s vision for the “future of China’s Internet”. It is backing that belief up with a $1.6 billion investment in a cloud computing center. Get the TNW newsletter Get the most important tech news in your inbox each week.
+
+
+--- [Timeline of Baidu: Key Milestones and Developments] ---
+Explore the comprehensive timeline of Baidu, highlighting its key milestones and developments since its founding. Discover important events in the evolution of one of the leading internet and AI companies in China. Baidu was founded in January 2000 by Robin Li and Eric Xu with the mission of providing the best and most equitable way for people to find what they're looking for online. Baidu's early success was fueled by its powerful search engine capabilities, quickly making it dominant in China's search market. On August 5, 2005, Baidu went public on the NASDAQ stock market, with the company raising $109 million. The initial public offering was a huge success, and Baidu's shares soared by 354% on the first day of trading. This event marked Baidu's emergence as a significant player in the global tech industry. In June 2010, Baidu launched its mobile search service, marking a significant step towards capturing the mobile internet market. As mobile internet usage was rapidly increasing, Baidu made strategic investments in this area. This move helped Baidu maintain its leadership position in China’s search engine market. In May 2013, Baidu announced its expansion beyond China with new offices in Thailand, Egypt, and Brazil. This expansion was part of Baidu's strategy to emerge as a global player in the search engine market. Baidu made significant investments in research and development to support its international growth. Baidu launched its dedicated artificial intelligence (AI) unit in December 2015, solidifying its commitment to leading in AI research and development. The AI unit focused on cutting-edge technologies such as deep learning, natural language processing, and computer vision, setting the stage for Baidu's future innovations. On September 21, 2017, Baidu unveiled 'Apollo,' its open-source platform for self-driving technology, during the company's annual Baidu World Conference. Apollo was designed to accelerate the development of autonomous driving systems by providing developers with comprehensive tools and data. In November 2018, Baidu's AI chief, Brendan Iribe, was reported to be leaving the company to join Oculus VR. This was a significant shift within Baidu's team and highlighted the competition and talent poaching prevalent in the technology industry at that time. In January 2019, Baidu hit a significant milestone by achieving Level 4 autonomous driving capability as per the SAE International standards with its Apollo autonomous driving platform. Level 4 autonomy means the vehicle can handle all driving tasks in certain conditions without human intervention. In early 2020, Baidu's DuerOS became the leading voice assistant in China, surpassing competitors like AliGenie (Alibaba) and Xiao Ai (Xiaomi). DuerOS's success was attributed to its advanced AI capabilities and strategic partnerships, reflecting Baidu's strength in AI technology and integration. Baidu conducted a secondary listing in Hong Kong on March 23, 2021, raising $3.1 billion. This move followed a trend among Chinese companies to list closer to home amid U.S.-China tensions, and it highlighted Baidu’s intention to strengthen its financial base and investor access in Asia. In August 2022, Baidu received the first-ever permits in China to offer a fully driverless robotaxi service to the public. Granted in Wuhan and Chongqing, these permits represented a major achievement for Baidu's Apollo Go, making it the first company in China authorized to provide such services without a safety driver. Discover commonly asked questions regarding Baidu. If there are any questions we may have overlooked, please let us know. When did Baidu go public on NASDAQ? When was Baidu founded? What major acquisitions has Baidu made? When did Baidu launch its search engine? More timelines connected to Baidu
+
+
+--- [Baidu] ---
+Baidu, Inc. ( BY-doo; Chinese: 百度; pinyin: Bǎidù; lit. 'hundred times') is a Chinese multinational technology company specializing in Internet services and artificial intelligence. It holds a dominant position in China's search engine market (via Baidu Search), and provides a wide variety of other internet services such as Baidu App (Baidu's flagship app for search and newsfeed), Baidu Baike (an online user created Wikipedia-like encyclopedia), iQIYI (a video streaming service), and Baidu Tieba (a forum platform similar to Reddit).
+Besides its core internet search business, Baidu has also diversified into other areas. Including autonomous driving (Baidu Apollo), smart consumer electronics (Xiaodu). and a full-service AI stack, including software, chips, cloud infrastructure, foundation models, and applications.
+A variable interest entity for Baidu to enable investment of foreign capital is incorporated in the Cayman Islands. Baidu was incorporated in January 2000 by Robin Li and Eric Xu. Baidu has origins in RankDex, an earlier search engine developed by Robin Li in 1996, before he founded Baidu in 2000. The company is headquartered in Beijing's Haidian District.
+In December 2007, Baidu became the first Chinese company to be included in the NASDAQ-100 index. As of May 2018, Baidu's market cap rose to US$99 billion. In October 2018, Baidu became the first Chinese firm to join the United States–based computer ethics consortium Partnership on AI.
+The Chinese government views Baidu as one of its national champion corporations.
+
+
+--- [SPECIFY Definition & Meaning - Merriam-Webster] ---
+specify verb spec·i·fy ˈspe-sə-ˌfī specified; specifying 1 : to name or state explicitly or in detail 2 : to include as an item in a specification Love words? Need even more definitions? Merriam-Webster unabridged

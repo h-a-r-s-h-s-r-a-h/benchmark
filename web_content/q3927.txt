@@ -1,0 +1,44 @@
+=== SEARCH SNIPPETS ===
+
+[Warrior (Dark Souls II) | Dark Souls Wiki | Fandom]
+The Warrior is one of the classes in Dark Souls 2. They have the highest starting Strength and have notably above average Dexterity, lending it well towards builds that want to either focus on Strength-based weapons with a moderate Dexterity requirement or to use weapons that scale well with both of those stats. This is also the only class in Dark Souls 2 to start out with a shield, the Iron ...
+URL: https://darksouls.fandom.com/wiki/Warrior_(Dark_Souls_II)
+
+[Warrior - Dark Souls 2 Wiki - FextraLife]
+Nov 28, 2022 · Warrior in Dark Souls II is a Starting Class. The Warrior is meant for players who prefer high damage and Slow paced classes. It starts with a Broken Straight Sword and an Iron Parma as its starting weapons. The Starting Classes of Dark Souls II will only give you a head start on certain stats.
+URL: https://darksouls2.wiki.fextralife.com/Warrior
+
+[Shields - Dark Souls 2 Wiki]
+Jan 11, 2026 — Dark - Dark Silverblack Shield, Dark Grand Spirit Tree Shield (no farming, low physical defense), Dark Llewellyn Shield (easy farm but late game) ...
+URL: https://darksouls2.wiki.fextralife.com/Shields
+
+[Warrior - DarkSouls II Wiki]
+The Warrior's Iron Parma is a reliable shield boasting high stability and physical block for its class. The Broken Straight Sword, on the other hand, should be replaced immediately. Once you reach Majula, you can pick up the Morning Star there as a better starting weapon.
+URL: http://darksouls2.wikidot.com/warrior
+
+[Characters - Beginners Guide | Dark Souls II - Gamer Guides]
+Warrior ¶ ‘Battle-scarred warrior. High strength, dexterity and skilled with weapons’. Starting Weapons: Broken Straight Sword, Iron Parma (shield)
+URL: https://www.gamerguides.com/dark-souls-2/guide/beginners-guide/characters/classes
+
+
+=== FULL EXTRACTED CONTENT ===
+
+
+--- [Warrior (Dark Souls II) | Dark Souls Wiki | Fandom] ---
+- For other uses, see Warrior (disambiguation). - "Battle-scarred warrior. High strength, dexterity. Skilled with weapons." - — Character Creation The Warrior is one of the classes in Dark Souls 2. They have the highest starting Strength and have notably above average Dexterity, lending it well towards builds that want to either focus on Strength-based weapons with a moderate Dexterity requirement or to use weapons that scale well with both of those stats. This is also the only class in Dark Souls 2 to start out with a shield, the Iron Parma. While this shield can also be bought by other classes from Maughlin the Armorer, available from the start of the game, and is largely outclassed by the Silver Eagle Kite Shield that can also be bought from him, it's still a nice tool to have early on with its decent Physical blocking and Stability, and to save on souls early on before replacing it. However, their starting weapon, the Broken Straight Sword, is awful and should be replaced as quickly as possible. This can easiest be done by picking up the Morning Star found by dropping through the hole in the rocks to the left of the wooden fence seen just after exiting Things Betwixt, or by taking the dagger found inside the first sidepath fog gate of Things Betwixt. Also, their below average Adaptability and mediocre Attunement means they just reach the breakpoint for having 8 i-frames for their rolls. This means they need 4 points into Adaptability to improve to 9 i-frames per roll, or 12 points into Attunement (2 points in Adaptability and 6 points in Attunement) if wishing to start with support spells earlier. Starting Equipment[] | Weapons | | [[Broken Straight Sword]] | Iron Parma | | Head | Chest | Hands | Legs | [[Standard Helm]] | [[Hard Leather Armor]] | [[Hard Leather Gauntlets]] | [[Hard Leather Boots]] | | Items | Lifegem x10 | As with all starting classes in Dark Souls 2, the Imported Set worn before the character creation can be found unequipped in the character's inventory. Starting Statistics[] | Image | Stat Name | Value | |---|---|---| | - | Level | 12 | | Vigor | 7 | | | Endurance | 6 | | | Vitality | 6 | | | Attunement | 5 | | | Strength | 15 | | | Dexterity | 11 | | | Adaptability | 5 | | | Intelligence | 5 | | | Faith | 5 |
+
+
+--- [Warrior - Dark Souls 2 Wiki - FextraLife] ---
+No content
+
+
+--- [Shields - Dark Souls 2 Wiki] ---
+No content
+
+
+--- [Warrior - DarkSouls II Wiki] ---
+Description "Battle-scarred warrior. High strength, dexterity. Skilled with weapons." This class is intended for players who prefer a balanced skill set. The Warrior's starting stats will enable you to use a variety of useful equipment quickly. You can immediately begin putting points towards using magic or increasing Vigor or Endurance. The Warrior's Iron Parma is a reliable shield boasting high stability and physical block for its class. The Broken Straight Sword, on the other hand, should be replaced immediately. Once you reach Majula, you can pick up the Morning Star there as a better starting weapon. The Warrior's low Agility means they initially have only 5 invincibility frames at the start of their roll vs. 13 i-frames on a Dark Souls 1/3 fast roll. It is recommended to raise Adaptability (3X gains to Agility) and/or Attunement (1X gains to Agility) as soon as possible to 86 Agility where it jumps to 8 i-frames. Starting Equipment - Weapon - Shield - Hard Leather Set - No Magic - Other - Lifegem (x10) Starting Stats | Total level costs Total is the total amount of souls required to become that level. See level for per level requirements.
+
+
+--- [Characters - Beginners Guide | Dark Souls II - Gamer Guides] ---
+No content

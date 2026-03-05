@@ -1,0 +1,45 @@
+=== SEARCH SNIPPETS ===
+
+[Agusta A.106 - Wikipedia]
+TheAgustaA.106was a single-seat light helicopter designed to provide an anti-submarine warfare (ASW) platform for the Impavido-class destroyers of the Italian Navy.
+URL: https://en.wikipedia.org/wiki/Agusta_A.106
+
+[Rate of Climb for Agusta A.106 | PDF | Takeoff | Aircraft - Scribd]
+RateofClimbforAgustaA.106This document provides manufacturer's data for takeoff andclimbperformance of a PT6T-3D/DE/DF engine aircraft, including: - Takeoff flight path from 40 knots indicated airspeed (KIAS) to 200feetabove the takeoff surface, with charts for pressure altitude, outside air temperature, gross weight, andclimbgradient.
+URL: https://www.scribd.com/doc/273572624/161-sd-184-412-FMS-62-03-04-2-pdf
+
+[Agusta A106 - Helis.com]
+Operators, Versions and serials ofAgustaA106helicopter
+URL: https://www.helis.com/database/model/1393/
+
+[Engineering:Agusta A.106 - HandWiki]
+TheAgustaA.106was a single-seat light helicopter designed to provide an anti-submarine warfare (ASW) platform for the Impavido-class destroyers of the Italian Navy. The aircraft was provided with a sophisticated electronics suite by Ferranti for autostabilisation and contact identification. Two torpedoes could be slung under the fuselage. The tail and two-bladed main rotor could be folded ...
+URL: https://handwiki.org/wiki/Engineering:Agusta_A.106
+
+[Agusta A106 helicopter - HeliStart]
+Helicopter modelAgustaA106specification: Units sold, price level, description, performance, dynamic system, and dimensions.
+URL: http://www.helistart.com/helicopters/Agusta/A106
+
+
+=== FULL EXTRACTED CONTENT ===
+
+
+--- [Agusta A.106 - Wikipedia] ---
+The Agusta A.106 was a single-seat light helicopter designed to provide an anti-submarine warfare (ASW) platform for the Impavido-class destroyers of the Italian Navy. The aircraft was provided with a sophisticated electronics suite by Ferranti for autostabilisation and contact identification. Two torpedoes could be slung under the fuselage. The tail and two-bladed main rotor could be folded for shipboard stowage, and the skid undercarriage had fittings for flotation bags.
+Two prototypes were built, the first flying in November 1965. A pre-production batch of 5 was cancelled by the Navy in 1973.
+
+
+--- [Rate of Climb for Agusta A.106 | PDF | Takeoff | Aircraft - Scribd] ---
+Rate of Climb for Agusta A.106 This document provides manufacturer's data for takeoff and climb performance of a PT6T-3D/DE/DF engine aircraft, including: - Takeoff flight path from 40 knots indicated airspeed (KIAS) to 200 feet above the takeoff surface, with charts for pressure altitude, outside air temperature, gross weight, and climb gradient. - Horizontal distance required to accelerate from takeoff speed (VTOSS) to best angle-of-climb speed (VY), with charts for pressure altitude, outside air temperature, and gross weight. - Single engine rate of climb performance from VTOSS to altitude, with charts for pressure altitude, outside air temperature, gross weight, and rate of climb Rate of Climb for Agusta A.106
+
+
+--- [Agusta A106 - Helis.com] ---
+Specifications A106 | List of Operators of A106 | | Years | Model | Org | | |---|---|---|---| | 1965/71 | Marina Militare Italiana | Global Distribution of A106 | | Construction Numbers | | C/N | Built as | Year | History | | |---|---|---|---|---| | 1 | MM5001N | ||| | 2 w/o 1971 | MM5002N | ||| | Helicopters for sale Accidents Acronyms Airshows Future helicopters Flying a helicopter Helicopter stories TV and movies Helicopter books Helicopter patches Helicopter model kits Download App |
+
+
+--- [Engineering:Agusta A.106 - HandWiki] ---
+Engineering:Agusta A.106 | A.106 | | |---|---| | Agusta A.106 maiden flight | | | Role | Light anti-submarine warfare helicopter | | Manufacturer | Agusta | | First flight | November 1965 | | Retired | 1973 | | Status | Retired | | Primary user | Italian Navy | | Number built | 2 | The Agusta A.106 was a single-seat light helicopter designed to provide an anti-submarine warfare (ASW) platform for the Impavido-class destroyers of the Italian Navy. The aircraft was provided with a sophisticated electronics suite by Ferranti for autostabilisation and contact identification. Two torpedoes could be slung under the fuselage. The tail and two-bladed main rotor could be folded for shipboard stowage, and the skid undercarriage had fittings for flotation bags. Two prototypes were built, the first flying in November 1965. A pre-production batch of 5 was cancelled by the Navy in 1973. Operators - Italy - Italian Navy (Marina Militare) for evaluation only Specifications Data from Jane's All The World's Aircraft 1969-70 [1] General characteristics - Crew: one, pilot - Length: 8.00 m (26 ft 3 in) - Height: 2.5 m (8 ft 2.5 in) - Empty weight: 590 kg (1,300 lb) - Gross weight: 1,400 kg (3,086 lb) - Powerplant: 1 × Turbomeca-Agusta TAA.230 , 224 kW (300 hp) - Main rotor diameter: 9.50 m (31 ft 2 in) - Main rotor area: 70.9 m2 (763 sq ft) Performance - Maximum speed: 176 km/h (109 mph, 95 kn) - Range: 740 km (460 mi, 400 nmi) [2] - Endurance: 4 hours 30 minutes - Service ceiling: 3,000 m (9,800 ft) [3] - Rate of climb: 6.2 m/s (1,220 ft/min) Armament - 2 × Mk.44 torpedoes or - 10 × depth charges or - 2 × 7.62 mm machine-guns and 10 × 80 mm rockets See also Aircraft of comparable role, configuration and era References - Taylor, John W.R. (1969). Jane's All The World's Aircraft 1969-70. London: Jane's Yearbooks. - Taylor, Michael J. H. (1989). Jane's Encyclopedia of Aviation. London: Studio Editions. pp. 40. - Simpson, R. W. (1998). Airlife's Helicopters and Rotorcraft. Ramsbury: Airlife Publishing. pp. 32, 36.
+
+
+--- [Agusta A106 helicopter - HeliStart] ---
+| The Agusta A.106 was one of the early prototype helicopters at the dawn of Agusta’s helicopter manufacturing era. While Agusta was learning the ropes building other manufacturer’s design under license it put forward several designs of its own. The A.106 and A.101 are generally considered to be the best of Agusta’s early design work. Flown in prototype form in 1966, the A.106 was specifically created for anti-submarine warfare, operating from the deck of a naval frigate. The A.106 is a light, single seat, turbine powered helicopter that carries two Mk 44 torpedoes and contact identification equipment. Apart from torpedoes, the A.106 can also be configured with machine guns, rockets or a conventional bomb dispenser. The A.106 used a 320 shaft horsepower Turboméca Agusta TAA 230 shaft-turbine engine. Both the main and tail rotor were of a two-bladed design. The A.106 had many special features that made it suitable for its intended mission. It had specialized instrumentation, much of it electronic, that allowed for operation in poor visibility. It was also possible to install auxiliary fuel tanks, medevac litters and inflatable emergency floats. There was also an underslung hook option for light lifting duty. Coupled with a folding tail-boom design and the A.106 became an attractive, versatile naval warfare vehicle. Two prototypes were built and the Italian navy ordered five production units, so technically the A.106 qualifies as a production helicopter, albeit a very rare one. Production was however halted in 1973 and the project was abandoned. |

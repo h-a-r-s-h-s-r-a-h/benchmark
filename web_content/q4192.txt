@@ -1,0 +1,46 @@
+=== SEARCH SNIPPETS ===
+
+[Jean-Marie Hullot - Wikipedia]
+Jean-Marie Hullot (February 16, 1954 - June 17, 2019) was a French computer scientist and programmer who authored important programs for the original Macintosh, NeXTSTEP and Mac OS X platforms.
+URL: https://en.wikipedia.org/wiki/Jean-Marie_Hullot
+
+[Jean-Marie Hullot, visionary computer scientist and tech expert]
+Jun 20, 2019 · Jean-Marie Hullot, a computer scientist renowned for his scientific and industrial achievements, passed away on 19th June 2019. Here, Gérard Berry and Gérard Huet pay tribute to him.
+URL: https://www.inria.fr/en/jean-marie-hullot-visionary-computer-scientist-and-tech-expert
+
+[History of the iPhone]
+Jean-Marie Hullot, a senior software engineer who worked at NeXT and later Apple, said he urged CEO Steve Jobs to launch a mobile phone project in 2000.
+URL: https://en.wikipedia.org/wiki/History_of_the_iPhone
+
+[Biography:Jean-Marie Hullot - HandWiki]
+He also came up with the idea of the iPhone [3] and lead the iCal and iSync development teams for Mac OS X (2002). [4] In 1981, Jean-Marie Hullot received a Ph.D. in computer science from the University of Paris at Orsay, [5] where his adviser was Gérard Huet. He was a researcher at INRIA from 1979 to 1985, when he joined NeXT.
+URL: https://handwiki.org/wiki/Biography:Jean-Marie_Hullot
+
+[Jean-Marie Hullot, from perforated cards to the iPhone]
+Jun 20, 2019 — For Inria's 50th anniversary in 2017, Jean-Marie Hullot presented us with his journey from research to the co-creation of the Iphone and ...
+URL: https://www.inria.fr/en/jean-marie-hullot-perforated-cards-iphone
+
+
+=== FULL EXTRACTED CONTENT ===
+
+
+--- [Jean-Marie Hullot - Wikipedia] ---
+Jean-Marie Hullot (February 16, 1954 – June 17, 2019) was a French computer scientist and programmer who authored important programs for the original Macintosh,  NeXTSTEP and Mac OS X platforms. These include SOS Interface for the Mac, which later became Interface Builder for NeXTSTEP (1985), and later still evolved into an important part of Mac OS X. He also helped to conceive iPhone, though did not play a significant role in its development, and led the iCal and iSync development teams for Mac OS X (2002).
+
+
+--- [Jean-Marie Hullot, visionary computer scientist and tech expert] ---
+No content
+
+
+--- [History of the iPhone] ---
+The history of the iPhone by Apple Inc. began in the early 2000s. The first iPhone was unveiled at Macworld 2007 and released later that year. By the end of 2009, iPhone models had been released in all major markets.
+
+
+
+
+--- [Biography:Jean-Marie Hullot - HandWiki] ---
+Biography:Jean-Marie Hullot Jean-Marie Hullot | | |---|---| Hullot in April 2004 | | | Born | Paris, France | February 16, 1954 | Died | June 19, 2019 Paris, France | (aged 65) | Nationality | French | | Known for | Interface Builder, NeXTSTEP, iCal, iSync | Jean-Marie Hullot (February 16, 1954 – June 17, 2019) was a French computer scientist and programmer who authored important programs for the original Macintosh, NeXTSTEP and Mac OS X platforms. These include the SOS Interface for the Mac,[1] which later became Interface Builder for NeXTSTEP (1985),[2] and later still evolved into an important part of Mac OS X. He also came up with the idea of the iPhone[3] and lead the iCal and iSync development teams for Mac OS X (2002).[4] In 1981, Jean-Marie Hullot received a Ph.D. in computer science from the University of Paris at Orsay,[5] where his adviser was Gérard Huet. He was a researcher at INRIA from 1979 to 1985, when he joined NeXT. In 1996 he co-founded RealNames, a URL translation service which closed in 2002. He worked as CTO of Application Division at Apple Inc. from 2001 to 2005. He was the President and CEO of Fotopedia, a collaborative photo encyclopedia, and co-founder of The Iris Foundation, a nature conservancy organization. He died on June 19, 2019.[3] See also References - ↑ The Nextonian - ↑ "WWDC 2003 notes". http://www.mac-guild.org/wwdc/wwdc03.html. - ↑ 3.03.1 "Jean-Marie Hullot, visionary computer scientist and tech expert". 20 June 2019. https://www.inria.fr/en/jean-marie-hullot-visionary-computer-scientist-and-tech-expert. - ↑ McLean, Prince (17 October 2007). "Road to Mac OS X Leopard: iCal 3.0". https://appleinsider.com/articles/07/10/17/road_to_mac_os_x_leopard_ical_3_0. - ↑ Gillies, James; Cailliau, Robert. "What are we going to call this thing?". How the Web was Born: The Story of the World Wide Web. Oxford University Press. http://fds.oup.com/www.oup.co.uk/pdf/0-19-286207-3.pdf. External links - Jean-Marie Hullot - fotopedia - INRIA — appears to be outdated, as Hullot is not mentioned there (Jun 2014) - Interview, December 1999 (in French) - Ex-Apple Team To Launch Stealth Startup Fotonauts - {{DBLP}} template missing ID and not present in Wikidata. - UPDATED: Google begged Steve Jobs for permission to hire engineers for its new Paris office. Guess what happened next…
+
+
+--- [Jean-Marie Hullot, from perforated cards to the iPhone] ---
+No content

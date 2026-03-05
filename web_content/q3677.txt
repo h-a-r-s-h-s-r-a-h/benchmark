@@ -1,0 +1,54 @@
+=== SEARCH SNIPPETS ===
+
+[History of surgery]
+In 1624 she became the first to use a magnet to remove metal from a patient's eye, although he received the credit. ... Austrian surgeon Hermann Schloffer became ...
+URL: https://en.wikipedia.org/wiki/History_of_surgery
+
+[Marie Colinet - Wikipedia]
+Marie Colinet (Fabry) (ca. 1560-after 1638) was a midwife and surgeon who introduced the use of heat for dilating and stimulating the uterus during labor. In addition, she performed caesarian sections successfully, and also was the first person to use a magnet to extract a piece of metal from a patient's eye. [1][unreliable source?]
+URL: https://en.wikipedia.org/wiki/Marie_Colinet
+
+[Marie Colinet - Wikiwand]
+Marie Colinet (Fabry) (ca. 1560-after 1638) was a midwife and surgeon who introduced the use of heat for dilating and stimulating the uterus during labor. In addition, she performed caesarian sections successfully, and also was the first person to use a magnet to extract a piece of metal from a patient's eye. [1][unreliable source?]
+URL: https://www.wikiwand.com/en/articles/Marie_Colinet
+
+[The eye magnet - Thomas Morris]
+Dec 18, 2017 — Marie Collinet was indeed an expert in childbirth, but her interests went very much deeper than that. She set out by assisting her husband in ...
+URL: https://www.thomas-morris.uk/the-eye-magnet/
+
+[Wilhelm Fabry - Wikipedia]
+She was a Swiss midwife-surgeon who improved the techniques of cesarean section delivery. She helped her husband in his surgical practice and was the first (in 1624) to use a magnet to extract metal from a patient's eye (a technique still in use today).
+URL: https://en.wikipedia.org/wiki/Wilhelm_Fabry
+
+
+=== FULL EXTRACTED CONTENT ===
+
+
+--- [History of surgery] ---
+Surgery is the branch of medicine that deals with the physical manipulation of a bodily structure to diagnose, prevent, or cure an ailment. Ambroise Paré, a 16th-century French surgeon, stated that to perform surgery is, "To eliminate that which is superfluous, restore that which has been dislocated, separate that which has been united, join that which has been divided and repair the defects of nature."
+Since humans first learned how to make and handle tools, they have employed these skills to develop increasingly sophisticated surgical techniques. However, until the Industrial Revolution, surgeons were incapable of overcoming the three principal obstacles which had plagued the medical profession from its infancy—bleeding, pain, and infection. Advances in these fields have transformed surgery from a risky art into a scientific discipline capable of treating many diseases and conditions.
+
+
+
+
+--- [Marie Colinet - Wikipedia] ---
+Marie Colinet (Fabry) (ca. 1560–after 1638) was a midwife and surgeon who introduced the use of heat for dilating and stimulating the uterus during labor. In addition, she performed caesarian sections successfully, and also was the first person to use a magnet to extract a piece of metal from a patient's eye.
+
+
+--- [Marie Colinet - Wikiwand] ---
+English Sign in Top Qs Timeline Chat Perspective All Articles Dictionary Quotes Map Remove ads Loading article...
+
+
+--- [The eye magnet - Thomas Morris] ---
+Today’s story first appeared in the Observationes, a collection of case reports by the German surgeon Wilhelm Fabry (1560-1634). Fabry, also known as Fabricius Hildanus, is sometimes referred to as the ‘father of German surgery’ and was a methodical and scientific operator whose careful descriptions of his work exerted a powerful influence on later generations of medics. It isn’t Fabry I’m interested in on this occasion, however, but his wife Marie Collinet. It’s easy to assume that medicine was an exclusively male profession until women were finally admitted to the professional bodies in the nineteenth century, but that really isn’t the case. Although physicians and surgeons in the early modern period were usually men, entire areas of medicine (notably midwifery) were dominated by women. Marie Collinet was indeed an expert in childbirth, but her interests went very much deeper than that. She set out by assisting her husband in treating wounds, but became so adept at surgery that she was asked to stand in for Fabry when he was away. She is remembered today for her innovations in treating bone fractures, and for obstetric techniques (notably the use of a blunt hook for dilating a narrow cervix) which were used for many years afterwards. Another of her triumphs was documented by her husband in a letter he wrote on April 25 1624 to a close friend and colleague in Basel, Jacob Hagenbach. Wilhem’s letter begins with a heartfelt apology for missing Hagenbach’s wedding, which Fabry had hoped to attend. After complaining about the stress and strain of his life he moves on to professional matters, and describes an unusually interesting case that he had come across a few weeks earlier: Benedictus Barquin, a farmer from the valley of St Mie (as they call it) near Lake Biel, was buying some iron from a merchant and wanted to select the best; so he struck one piece against another, as people often do. A spark flew into the part of the eye which contains the iris and stuck firmly to the cornea, causing him great pain. Iron filings in the eye are still a common occupational injury today, although the routine use of safety goggles has reduced its incidence considerably since the mid-20th century. His family tried to help him for several days, but without success; indeed, the pain and inflammation increased significantly. On March 5th he came to see me at Bern, and was first put on a judicious diet, then purged, first by drugs and then through bloodletting (for he was of plethoric constitution). ‘Plethoric’ refers to a superabundance of blood. Under the ancient humoral system of medicine, such an imbalance of the bodily fluids could and should be relieved by bleeding. Lack of moderation in diet, drink and lifestyle was widely believed to cause a plethoric state. For several days I tried to extract the splinter, first with instruments and then by several other means, but it was so tiny that it proved impossible to remove it using these implements. So I decided to explore another possibility, and attempted to extract it with the help of a little bag which I mentioned in an earlier article, but again my time and effort were wasted. Fabry’s ‘little bag’ was essentially a medicated eyepatch, a pouch filled with a soothing herbal concoction of camomile, rose petals and fenugreek, and then placed against the eye. He had previously used it with great success in a similar case, a blacksmith who had an iron filing stuck in his eye. This time it didn’t work, however, and Fabry ran out of ideas. Luckily he wasn’t the only person in his household who knew a thing or two about medicine: And lo and behold, my wife then devised by far the most suitable remedy. Historians of medicine have tended to give Fabry credit for this ‘most suitable remedy’. It should be emphasised that this reflects their sexism, not that of the surgeon, who is at pains to give his wife all due acknowledgment. In the original Latin he precedes the words uxor mea (‘my wife’) with the interjection en (‘lo!’ or ‘look here!’) – a tiny word usually omitted by translators but used to draw attention to something important or remarkable. To underline his admiration, Fabry says that she did not merely come up with a ‘suitable remedy’ but ‘by far the most suitable remedy’. While I held open the patient’s eyelids with both hands, she brought a magnet as close to his eye as he could bear. After we had done this repeatedly (the patient could not stand the light, which was so much needed for this procedure, for long), we finally saw the piece of iron jump out of the eye on to the magnet. What a satisfying moment that must have been! He made a speedy recovery with the help of a soothing eye salve. A perfect result. This was the first recorded instance of a magnet being used to extract a metallic foreign body from the eye. Almost four hundred years later, ophthalmologists are still using an almost identical technique.
+
+
+--- [Wilhelm Fabry - Wikipedia] ---
+Wilhelm Fabry (also William Fabry, Guilelmus Fabricius Hildanus, or Fabricius von Hilden) (25 June 1560 − 15 February 1634), often called the "Father of German surgery", was the first educated and scientific German surgeon. He is one of the most prominent scholars in the iatromechanics school and author of 20 medical books. His Observationum et Curationum Chirurgicarum Centuriae, published posthumously in 1641, is the best collection of case records of the century and gives clear insight into the variety and methods of his surgical practice. He developed novel surgical techniques and new surgical instruments. He also wrote a notable treatise on burns.
+Fabry was born in Hilden. In 1579, he became Badergeselle ('surgeon's mate') in Düsseldorf of the extraordinary court surgeon Cosmas Slot.
+He developed a device for operating eye tumours. On 25 July 1587, he married Marie Colinet (or Fabry), daughter of Eustache Colinet, a Genevese printer. She was a Swiss midwife–surgeon who improved the techniques of cesarean section delivery. She helped her husband in his surgical practice and was the first (in 1624) to use a magnet to extract metal from a patient's eye (a technique still in use today). Fabry wrote a detailed description of the procedure in his Centuriae and, although he explicitly mentioned his wife as having invented it, was given credit for the discovery.
+From 1602 to 1615, Fabry was a city surgeon in Payerne, Switzerland, and Lausanne. He was then made city surgeon (Stadtarzt) of Bern by appointment of the city council, a role he held until the year of his death.
+The city of Bern, where he died, named a street after him (Hildanusstrasse), using one of the Latin versions of his name.
+His birth town named the city museum (featuring surgical instruments and the like) after him, honoured him with a bronze bust in the market place, and named streets after himself and after his wife.
+
+

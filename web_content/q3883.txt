@@ -1,0 +1,44 @@
+=== SEARCH SNIPPETS ===
+
+[Simon Donaldson | Biography, Fields Medal, & Facts | Britannica]
+Simon Donaldson, British mathematician who was awarded the Fields Medal in 1986 for his work in topology. His other awards included the Wolf Prize. In addition to pursuing research, Donaldson taught at various universities. Learn more about his life and career.
+URL: https://www.britannica.com/biography/Simon-Donaldson
+
+[Simon Donaldson - Wikipedia]
+Sir Simon Kirwan Donaldson FRS MAE (born 20 August 1957) is an English mathematician known for his work on the topology of smooth (differentiable) four-dimensional manifolds, Donaldson-Thomas theory, and his contributions to Kähler geometry.
+URL: https://en.wikipedia.org/wiki/Simon_Donaldson
+
+[Simon Donaldson – SCGP - Stony Brook University]
+Sir Simon Donaldson is a permanent member of the Simons Center for Geometry and Physics at Stony Brook University. He received his B.A. in Mathematics from Pembroke College of Cambridge University in 1979 and his Ph.D. from Oxford University in 1983, studying first under the supervision of Dr. Nigel Hitchin and later under Sir Michael Atiyah. His thesis was The Yang-Mills Equations on Kähler ...
+URL: https://scgp.stonybrook.edu/people/faculty/bios/simon-donaldson
+
+[Fields medallists | About | Imperial College London]
+1986 Simon Donaldson, FRS (b. 1957) Professor of Pure Mathematics 1998 (Currently at Imperial College) See Simon Donaldson's professional webpage
+URL: https://www.imperial.ac.uk/about/introducing-imperial/our-people/award-winners/fields-medallists/
+
+[Fields Medals 1986 - Donaldson, Faltings, Freedman Achievements]
+Fields Medals 1986 Simon K. DONALDSON born August 20, 1957, Cambridge, England Oxford University Received medal primarily for his work on topology of four-manifolds, especially for showing that there is a differential structure on euclidian four-space which is different from the usual structure.
+URL: https://www.mathunion.org/imu-awards/fields-medal/fields-medals-1986
+
+
+=== FULL EXTRACTED CONTENT ===
+
+
+--- [Simon Donaldson | Biography, Fields Medal, & Facts | Britannica] ---
+Simon Donaldson Simon Donaldson (born August 20, 1957, Cambridge, England) is a British mathematician who was awarded the Fields Medal in 1986 for his work in topology. Donaldson attended Pembroke College, Cambridge (B.A., 1979), and Worcester College, Oxford (Ph.D., 1983). From 1983 to 1985 he was a junior research fellow at All Souls College, Oxford, before becoming a fellow and professor at St. Anne’s College, Oxford. In 1997 Donaldson joined the faculty of Stanford University in California, U.S., and in 1999 became a professor at Imperial College London. He began teaching at Stony Brook University in New York state in 2014. Donaldson was awarded the Fields Medal at the International Congress of Mathematicians in Berkeley, California, in 1986, as was the American mathematician Michael Freedman. Their work, taken together, suggested that there are “exotic” four-dimensional spaces—four-dimensional differential manifolds that are topologically equivalent to the standard Euclidean four-dimensional space but that are not equivalent differentiably. This is the only dimension where such exotic spaces exist. It is also an example of a rather common phenomenon in mathematics, wherein problems can be readily solved for all cases beyond a certain number, but for small integers the cases are very complicated and require subtle analysis. Donaldson’s work is rather remarkable in its reversal of the usual direction of ideas from mathematics being applied to solve problems in physics. In particular, Donaldson used the Yang-Mills equations, which are generalizations of James Clerk Maxwell’s electromagnetic equations, to solve problems in pure mathematics. Special solutions to these equations, called instantons, had been applied to physics by earlier mathematicians, but Donaldson used instantons to look at general four-dimensional manifolds. After being awarded the Fields Medal, Donaldson continued his exploitation of ideas from physics with applications to mathematics. - In full: - Sir Simon Kirwan Donaldson - Awards And Honors: - Fields Medal (1986) Donaldson’s publications included The Geometry of Four-Manifolds (1990; written with Peter Kronheimer). In addition to the Fields Medal, Donaldson received the Breakthrough Prize in Mathematics (2015) and the Wolf Prize (2020). He was knighted in 2012.
+
+
+--- [Simon Donaldson - Wikipedia] ---
+Sir Simon Kirwan Donaldson  (born 20 August 1957) is an English mathematician known for his work on the topology of smooth (differentiable) four-dimensional manifolds, Donaldson–Thomas theory, and his contributions to Kähler geometry. He is currently a Professor in Pure Mathematics at Imperial College London.  After being a member of the Simons Center for Geometry and Physics (SCGP) for a decade, he holds Emeritus Professor status at the SCGP and Stony Brook University, in New York state.
+
+
+--- [Simon Donaldson – SCGP - Stony Brook University] ---
+Sir Simon Donaldson is a permanent member of the Simons Center for Geometry and Physics at Stony Brook University. He received his B.A. in Mathematics from Pembroke College of Cambridge University in 1979 and his Ph.D. from Oxford University in 1983, studying first under the supervision of Dr. Nigel Hitchin and later under Sir Michael Atiyah. His thesis was The Yang-Mills Equations on Kähler Manifolds, written in 1983, where he showed the equivalence of anti-self-dual connections and stable holomorphic structures on bundles over algebraic surfaces. Donaldson’s most renowned work is his study of the topology of smooth (differentiable) four-dimensional manifolds. Among his most noted achievements are his proof of the diagonalizability theorem sometimes referred to as Donaldson’s theorem (proved when he was still a graduate student), and his algebraic invariants of four-manifolds codified into what are now called the Donaldson polynomial invariants. These results relied on his study of gauge theory of principal bundles over four-manifolds, a theory closely related to ones intensively studied by physicists. His more recent work includes the introduction of pencils of curves in a symplectic four-manifold and his study of extremal metrics, including Kahler-Einstein metrics on Fano varieties, and the relation of these to algebro-geometric stability. In 1986 he was awarded the Fields Medal for his work in the geometry and topology of 4-dimensional manifolds, and was elected a Fellow of the Royal Society. He was awarded the Crafoord Prize in Mathematics in 1994. He was elected a foreign member of the US National Academy of Sciences in 2000. In 2006 he was awarded the King Faisal International Prize for his work in mathematical theories linked to physics. In 2009, he was awarded the Shaw Prize in Mathematical Sciences for his work in conjunction with Taubes “for their many contributions to geometry in three and four dimensions”. In 2010 he was elected a foreign member of the Royal Swedish Academy of Sciences. In 2012 he was elected a Fellow of the American Mathematical Society and was knighted for his services to Mathematics.
+
+
+--- [Fields medallists | About | Imperial College London] ---
+Fields Medal winners at Imperial 1958 Klaus Roth, FRS (b. 1925) Professor of Pure Mathematics 1966-1988 Visiting Professor 1988-1996 Fellow of Imperial College, 1999 1986 Simon Donaldson, FRS (b. 1957) Professor of Pure Mathematics 1998 (Currently at Imperial College) See Simon Donaldson's professional webpage 2014 Martin Hairer (b. 1975) Chair in Probability and Stochastic Analysis See Martin Hairer's professional webpage
+
+
+--- [Fields Medals 1986 - Donaldson, Faltings, Freedman Achievements] ---
+born August 20, 1957, Cambridge, England Oxford University Received medal primarily for his work on topology of four-manifolds, especially for showing that there is a differential structure on euclidian four-space which is different from the usual structure. born July 28, 1954, Gelsenkirchen-Buer, Germany Princeton University Using methods of arithmetic algebraic geometry, he received medal primarily for his proof of the Mordell Conjecture. born April 21, 1951, Los Angeles University of California, San Diego Developed new methods for topological analysis of four-manifolds. One of his results is a proof of the four-dimensional Poincaré Conjecture. This document has been reproduced from Albers, Donald J.; Alexanderson, G. L.; Reid, Constance: International mathematical congresses. An illustrated history 1893 - 1986 Rev. ed. including ICM 1986. Springer-Verlag, New York, 1986 with friendly permission from Springer Verlag

@@ -1,0 +1,90 @@
+=== SEARCH SNIPPETS ===
+
+[Gregoriantelescope- Wikipedia]
+TheGregoriantelescopeisa type ofreflectingtelescopedesigned by Scottish mathematician and astronomer JamesGregoryin the 17th century, andfirstbuiltin 1673 by Robert Hooke.Gregoriantelescopeswith parabolic mirrors made from the highlyreflectivespeculum metal.
+URL: https://en.wikipedia.org/wiki/Gregorian_telescope
+
+[astronomy - WhenwasthefirsttrueGregoriantelescopebuilt?]
+ALLreflectingtelescopesideally should have parabolic mirrors. The problemisthat a parabolic mirrorisdifficult to make.FirstGregorianwasmade by Hooke in 1673. Thiswas5 years before John Hadleywasborn. Hadley made a parabolic mirror in 1721, for a Newtoniantelescopebtw.
+URL: https://hsm.stackexchange.com/questions/2057/when-was-the-first-true-gregorian-telescope-built
+
+[the story of Robert Hooke - Brainly.in]
+OneofthefirstmentobuildaGregorianreflectingtelescope, Hooke discovered the fifth star in the Trapezium, an asterism in the constellation Orion, in 1664 andfirstsuggested that Jupiter rotates on its axis.
+URL: https://brainly.in/question/10401973
+
+[JamesGregory(mathematician) Facts for Kids]
+Diagram ofaGregorianreflectingtelescope.Hooke, an Oxford physicist, eventuallybuiltthefirstGregoriantelescopeabout 10 years later. Today, theGregoriantelescopedesign isn't used much for regulartelescopesbecause other designsaremore efficient.
+URL: https://kids.kiddle.co/James_Gregory_(mathematician)
+
+[How to choose atelescope– Levenhuk’s official website in Europe]
+OneofthefirstreflectorswastheGregorianreflectortelescope(1663), named after JamesGregory,whoinvented atelescopewith a parabolic main mirror.Сatadioptrictelescopesuse the lenses and mirrorstobuildanimage and correct aberrations.
+URL: https://eu.levenhuk.com/blog/knowledge-base-telescopes/how-to-choose-a-telescope/
+
+
+=== FULL EXTRACTED CONTENT ===
+
+
+--- [Gregoriantelescope- Wikipedia] ---
+The Gregorian telescope is a type of reflecting telescope designed by Scottish mathematician and astronomer James Gregory in the 17th century, and first built in 1673 by Robert Hooke. James Gregory was a contemporary of Isaac Newton, and both often worked simultaneously on similar projects. Gregory's design was published in 1663 and pre-dates the first practical reflecting telescope, the Newtonian telescope, built by Sir Isaac Newton in 1668. However, Gregory's design was only a theoretical description, and he never actually constructed the telescope. It was not successfully built until five years after Newton's first reflecting telescope.
+
+
+--- [astronomy - WhenwasthefirsttrueGregoriantelescopebuilt?] ---
+# When was the first true Gregorian telescope built?
+
+I know that James Gregory came up with the idea of using a parabolic mirror to eliminate spherical aberration in 1663. 
+
+The theory behind it had actually been around since classical antiquity I think. 
+
+However, no one could make a parabolic mirror at the time, so eventually, Newton made his own design and utilized a spherical one. 
+
+I am trying to figure out how long it took before a Gregorian telescope was actually made. 
+
+Most sources say that Hooke made one in 1673. 
+
+However, I am reading this souce which says: 
+
+
+  The first person to actually create a parabolic mirror was another
+  English mathematician, John Hadley. In 1721, he built a Gregorian
+  reflector whose mirror had very little spherical aberration.
+
+
+
+## Accepted Answer
+
+There is a confusion in your question. ALL reflecting telescopes ideally should have parabolic mirrors. The problem is that a parabolic mirror is difficult to make. So they were
+made with spherical or approximately parabolic mirrors.
+
+All this has nothing to do with the difference between Newtonian, Gregorian and Cassegrain telescopes. The distinction between these three is in the optical scheme.
+
+Newtonian uses one concave and one flat mirror (or just one concave).
+
+Gregorian uses two concave mirrors, and
+
+Cassegrain uses one concave and one convex mirror.
+
+All these mirrors should be parabolic in an ideal situation. First Gregorian was made by Hooke in 1673.
+
+This was 5 years before John Hadley was born. Hadley made a parabolic mirror in 1721,
+for a Newtonian telescope btw.
+
+The principle on which the parabolic mirror works was indeed known in antiquity.
+However they did not know in antiquity how to make good mirrors, neither flat, not parabolic nor spherical (at least no evidence survived that they did know. The legend of Archimedes mirrors burning ships at a distance appears at a much later period. This is not possible even with modern mirrors).
+This was a problem even in Newton's time, what metal to use. Good mirrors with silver coating on glass were produced much later. They also did not know in antiquity that one can use this principle to make telescopes. (Or, if they knew, this knowledge did not survive).
+
+EDIT. History of (optical) telescopes is explained in great detail in the book 
+Telescopes, by Gerard P. Kuiper and Barbara M. Middlehurst, U. Chicago Press, 1961.
+Very interesting reading. Includes the history of glass making and mirror polishing technology.
+
+
+
+--- [the story of Robert Hooke - Brainly.in] ---
+Answer: Robert Hooke was an English philosopher, architect and a polymath. He was born on 18th of July 1635. He is mostly known for his work in cells, with the help of his own self designed microscope.He investigated the phenomenon of refraction, deducing the wave theory of light, and was the first to suggest that matter expands when heated and that air is made of small particles separated by relatively large distances.He proposed that heat was the manifestation of faster movement of the particles of matter. He performed pioneering work in the field of surveying and map-making and was involved in the work that led to the first modern plan-form map, though his plan for London on a grid system was rejected in favour of rebuilding along the existing routes. He also came near to an experimental proof that gravity follows an inverse square law, and first hypothesised that such a relation governs the motions of the planets, an idea which was developed by Isaac Newton,[4] and formed part of a dispute between the two which caused Newton to try to erase Hooke's legacy. He originated the terraqueous globe theory of geology, disputed the literal Biblical account of the age of the earth, hypothesized the idea of extinction, and wrote numerous times of the likelihood that fossils on hill and mountain tops had been raised there by "earthquakes", a general term of the time for geological processes.[5] Much of Hooke's scientific work was conducted in his capacity as curator of experiments of the Royal Society, a post he held from 1662, or as part of the household of Robert Boyle. Explanation: Answer: Robert Hooke Robert Hooke, (born July 18 [July 28, New Style], 1635, Freshwater, Isle of Wight, England—died March 3, 1703, London), English physicist who discovered the law of elasticity, known as Hooke’s law, and who did research in a remarkable variety of fields. In 1655 Hooke was employed by Robert Boyle to construct the Boylean air pump. Five years later, Hooke discovered his law of elasticity, which states that the stretching of a solid body (e.g., metal, wood) is proportional to the force applied to it. The law laid the basis for studies of stress and strain and for understanding of elastic materials. He applied these studies in his designs for the balance springs of watches. In 1662 he was appointed curator of experiments to the Royal Society of London and was elected a fellow the following year. One of the first men to build a Gregorian reflecting telescope, Hooke discovered the fifth star in the Trapezium, an asterism in the constellation Orion, in 1664 and first suggested that Jupiter rotates on its axis. His detailed sketches of Mars were used in the 19th century to determine that planet’s rate of rotation. In 1665 he was appointed professor of geometry in Gresham College. In Micrographia (1665; “Small Drawings”) he included his studies and illustrations of the crystal structure of snowflakes, discussed the possibility of manufacturing artificial fibres by a process similar to the spinning of the silkworm, and first used the word cell to name the microscopic honeycomb cavities in cork. His studies of microscopic fossils led him to become one of the first proponents of a theory of evolution.He suggested that the force of gravity could be measured by utilizing the motion of a pendulum (1666) and attempted to show that Earth and the Moon follow an elliptical path around the Sun. In 1672 he discovered the phenomenon of diffraction (the bending of light rays around corners); to explain it, he offered the wave theory of light. He stated the inverse square law to describe planetary motions in 1678, a law that Newton later used in modified form. Hooke complained that he was not given sufficient credit for the law and became involved in bitter controversy with Newton. Hooke was the first man to state in general that all matter expands when heated and that air is made up of particles separated from each other by relatively large distances. New questions in Biology How to revise qualify morphology terms in bio ncert 12rh what is the dna of mosquito ? Question Which of the following was the FDA allowed to do with the implementation of the Code of Federal Regulations (CFR) Part 11? Select the correct … option and click Submit. Accept electronic records and signatures in place of their paper counterparts for compliance. Ensure proper archival of paper records. Give more importance to paper records over their electronic versions. Make sure that electronic records and signatures are trustworthy. reliable, and compatible with FDA procedures. Ensure that the system's data and time are correct Most of the time our stomach contains HCl......then why not it is coming out when we stand upside down ✨✨✨ Adipose tissue ✨✨✨
+
+
+--- [JamesGregory(mathematician) Facts for Kids] ---
+James Gregory (mathematician) facts for kids Quick facts for kids James Gregory | | |---|---| | James Gregory (1638–1675) | | | Born | November 1638 Drumoak, Aberdeenshire, Scotland | | Died | October 1675 (aged 36) Edinburgh, Scotland | | Nationality | Scottish | | Citizenship | Scotland | | Alma mater | Marischal College, University of Aberdeen University of Padua | | Known for | Gregorian telescope Gregory coefficients Diffraction grating Fundamental theorem of the calculus Integral of the secant function | | Scientific career | | | Fields | Mathematics Astronomy | | Institutions | University of St. Andrews University of Edinburgh | | Influences | Stefano degli Angeli | | Influenced | David Gregory | | Notes | | James Gregory was a brilliant Scottish mathematician and astronomer who lived in the 1600s. He is famous for designing an early type of reflecting telescope, called the Gregorian telescope. He also made big steps forward in trigonometry, discovering ways to represent math functions using infinite series. In his book Geometriae Pars Universalis (published in 1668), Gregory was the first to publish a statement and proof of the fundamental theorem of calculus. This is a super important idea in math, and another famous scientist, Isaac Barrow, recognized Gregory's work. Contents Biography James Gregory was born in 1638 in Drumoak, Aberdeenshire, Scotland. He was the youngest of three children. His mother, Janet Anderson, taught him at home and sparked his love for geometry. Her uncle, Alexander Anderson, was also a mathematician. After his father passed away in 1651, James's older brother David took over his education. James went to Aberdeen Grammar School and then Marischal College from 1653 to 1657. Studies and Travel In 1663, James traveled to London. There he met important people like John Collins and Robert Moray, who helped start The Royal Society, a famous scientific group. In 1664, he went to the University of Padua in Italy. He studied with Stefano Angeli, a well-known mathematician. Professor and Discoveries When he returned to London in 1668, James was chosen as a Fellow of the Royal Society. Soon after, he moved to St Andrews to become the first Professor of Mathematics at the University of St Andrews. This job was created just for him by King Charles II. At St Andrews, in 1673, he drew the first meridian line across his lab floor. This was 200 years before the famous Greenwich Meridian was set up! Some people say this makes St Andrews "the place where time began." Later, he also became a professor at the University of Edinburgh. Family and Final Years James Gregory married Mary, who was the daughter of a painter named George Jamesone. They had a son named James, who also became a professor. James Gregory was also the uncle of another famous mathematician, David Gregory. About a year after starting his job at Edinburgh, James Gregory had a stroke. He was looking at the moons of Jupiter with his students at the time. He passed away a few days later, at the young age of 36. Key Scientific Works The Optica Promota In 1663, Gregory published his book Optica Promota. In this book, he shared his design for a reflecting telescope, which we now call the "Gregorian telescope". He also described a way to use the transit of Venus (when Venus passes in front of the Sun) to measure the distance between Earth and the Sun. This method was later used to make the first good measurement of the Astronomical Unit, which is the average distance from the Earth to the Sun. The Vera Circuli et Hyperbolae Quadratura Before leaving Italy, Gregory published Vera Circuli et Hyperbolae Quadratura (1667). In this book, he found ways to figure out the areas of circles and hyperbolas using series that get closer and closer to the exact answer. He discovered many amazing math ideas about how circles relate to shapes drawn inside and outside them. Using these ideas, he could calculate the area of a circle or hyperbola to more than twenty decimal places! This book also contained the first proof of the fundamental theorem of calculus and the discovery of the Taylor series. These are very important concepts in advanced mathematics. Gregorian Telescope In his 1663 book Optica Promota, James Gregory described his special reflecting telescope. This telescope is now known as the Gregorian telescope. Gregory realized that a telescope with a parabolic mirror could fix problems like spherical aberration (blurry images) and chromatic aberration (color fringes) that were common in other telescopes. His design used a curved primary mirror and a smaller, concave secondary mirror. The secondary mirror reflected the image back through a hole in the primary mirror, making it easy to view. Gregory himself wasn't skilled at building things, so he couldn't find anyone to build his telescope at first. However, his telescope design caught the eye of other scientists, like Robert Hooke. Hooke, an Oxford physicist, eventually built the first Gregorian telescope about 10 years later. Today, the Gregorian telescope design isn't used much for regular telescopes because other designs are more efficient. But the idea of Gregorian optics is still used in big radio telescopes, like the one at Arecibo Observatory. Mathematics and Other Discoveries James Gregory made many other important contributions to mathematics. In a letter from 1671, he showed how to expand several math functions using power series. There is evidence that he discovered a method for calculating power series that was later found by another scientist, Taylor, in 1715. Gregory didn't publish his findings, thinking he had just rediscovered something Isaac Newton had already done. Gregory also discovered the diffraction grating. He did this by shining sunlight through a bird feather and noticing how the light split into different colors. This happened a year after Newton did something similar with a prism. Gregory was a big fan of Newton's ideas. He often wrote to Newton and included Newton's new ideas in his own teaching. At the time, these ideas were quite new and sometimes debated. The crater Gregory on the Moon is named after him, honoring his contributions to astronomy. Works - 1663 – Optica promota (The advance of optics) - 1667 – Vera circuli et hyperbolae quadratura (The true squaring of the circle and hyperbola) - 1668 – Exercitationes geometricae (Geometrical exercises) - 1668 – Geometriae pars universalis (The universal part of geometry) See also In Spanish: James Gregory para niños - James Gregory Telescope, St Andrews - Gregor telescope at the Teide Observatory - Thomas Reid - Deans Court
+
+
+--- [How to choose atelescope– Levenhuk’s official website in Europe] ---
+No content

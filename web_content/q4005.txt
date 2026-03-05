@@ -1,0 +1,44 @@
+=== SEARCH SNIPPETS ===
+
+[Eremiaphila arabica Saussure, 1871 - GBIF]
+Classification Species Accepted Eremiaphila arabica Saussure, 1871 Published in: Saussure (1871) Mem. Soc. Hist. nat. Geneve, 21.
+URL: https://www.gbif.org/species/1404086
+
+[Eremiaphila arabica - Wikipedia]
+Eremiaphila arabica, common name Arabian mantis, is a species of praying mantis native to the Middle East and has been found in Egypt, Bahrain, Yemen, and Saudi Arabia.
+URL: https://en.wikipedia.org/wiki/Eremiaphila_arabica
+
+[Mantodea of Iran: A review-based study]
+by M Kolnegari · 2023 · Cited by 3 — I recorded 57 praying mantid species from 9 families described from localities across Iran. ... 13- Eremiaphila arabica Saussure, 1871 [21].
+URL: https://jor.pensoft.net/article/97388/
+
+[IRMNG - Eremiaphila arabica Saussure, 1871]
+Rank Species Parent Eremiaphila Lefèbvre, 1835 Synonymised names Eremiaphila dawydowi Werner, 1905 · unaccepted Environment
+URL: https://www.irmng.org/aphia.php?p=taxdetails&id=11570935
+
+[Eremiaphila arabica Saussure, 1871 | COL - catalogueoflife.org]
+Eremiaphila arabica Saussure, 1871 in the Catalogue of Life based on Mantodea Species File
+URL: https://www.catalogueoflife.org/data/taxon/6GDZP
+
+
+=== FULL EXTRACTED CONTENT ===
+
+
+--- [Eremiaphila arabica Saussure, 1871 - GBIF] ---
+Eremiaphila arabica Saussure, 1871 - Dataset - GBIF Backbone Taxonomy - Rank - SPECIES - Published in - Saussure (1871) Mem. Soc. Hist. nat. Geneve, 21. Classification - kingdom - Animalia - phylum - Arthropoda - class - Insecta - order - Mantodea - family - Eremiaphilidae - genus - Eremiaphila - species - Eremiaphila arabica Name - Synonyms - Eremiaphila dawydowi Werner, 1905 - Homonyms - Eremiaphila arabica Saussure, 1871 Bibliographic References - Ehrmann. 2002. Mantodea der Welt 138 - Giglio-Tos. 1921. Genera Insect. 177:8 - Giglio-Tos. 1927. Tierreich 50:54 - Jacobson & Bianki. 1902. Prem. i Lozhn. Ross. Imp. 145 - Kirby. 1904. Syn. Cat. Orth. 1:211 - Mistshenko. 1937. J. Bombay nat. Hist. Soc. 39(4):797 - Saussure. 1871. Mem. Soc. Hist. nat. Geneve 21:254, pl. 7, fig. 56 - Schulthess. 1894. Zool. Jb., Syst. 8:69 - Schulthess. 1898. Annali Mus. civ. Stor. nat. Genova 39:170 - Uvarov. 1939. J. Linn. Soc. Lond. (Zool.) 40:547 - Wood-Mason. 1882. J. Asiat. Soc. Bengal 51:22
+
+
+--- [Eremiaphila arabica - Wikipedia] ---
+Eremiaphila arabica, common name Arabian mantis, is a species of praying mantis native to the Middle East and has been found in Egypt, Bahrain, Yemen, and Saudi Arabia.
+
+
+--- [Mantodea of Iran: A review-based study] ---
+No content
+
+
+--- [IRMNG - Eremiaphila arabica Saussure, 1871] ---
+IRMNG taxon details basis of record Hallan, J. (2000-2017). Biology Catalog (2012 version), http://bug.tamu.edu/research/collection/hallan/ (as at 2012). [details] current name source Hallan, J. (2000-2017). Biology Catalog (2012 version), http://bug.tamu.edu/research/collection/hallan/ (as at 2012). [details] extant flag source as per genus [details] habitat flag source as per genus [details] Unreviewed Descriptive info Hallan comment: [Egypt, Israel, Yemen, Saudi Arabia] [details] |
+
+
+--- [Eremiaphila arabica Saussure, 1871 | COL - catalogueoflife.org] ---
+Trying to blend in? Bots stand out! Loading challenge js-pow-sha256... Why am I seeing this? This is a challenge to protect Catalogue of Life services from aggressive scraping that may cause unreasonable load on our systems. If you have any issues contact us and provide the following Request Id: add1664a1af71cb1de90c6e06f4c1444

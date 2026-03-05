@@ -1,0 +1,44 @@
+=== SEARCH SNIPPETS ===
+
+[Sam Richardson: Islands, Ice, and Sand - Stanford University]
+Sep 23, 2021 · Sam Richardson (1934-2013), a California native, created small-scaled, finely crafted poetic sculptures that influenced a generation of artists and students and helped push the boundaries of landscape art in the West. The exhibition, which includes Most of that Iceberg is Below the Water (1969) from the permanent collection and works on loan from private lenders, focuses on Richardson’s ...
+URL: https://events.stanford.edu/event/sam_richardson_islands_ice_and_sand
+
+[Compare files - datasets/SimpleQA]
+Between what dates was the Stanford University exhibition titled "Sam Richardson: Islands, Ice, and Sand" on view? Please give me the full dates (month, date, ...
+URL: https://www.oxen.ai/datasets/SimpleQA/compare/file/59b37c013206a4d1ee7d3964cef03c3f..27ec8c7ddecbf47c2baa1428256d6ebc/eval.parquet?view=base&page=2
+
+[Stanford's Second Sunday program digs into unique landscape sculptures]
+Sep 9, 2021 · Participants can create their own sculpture inspired by the exhibition “Sam Richardson: Islands, Ice, and Sand” that opens Sept. 23 at Stanford’s Anderson Collection.
+URL: https://www.paloaltoonline.com/ae/2021/09/09/stanfords-second-sunday-program-digs-into-unique-landscape-sculptures/
+
+[Community Calendar]
+VirtualMaples Pavilion | Stanford, CA. 8:00p · Sam Richardson: Islands, Ice, and Sand. Anderson Collection | Stanford, CA. Date: Ongoing Wed - Mon. Thurs until ...
+URL: https://www.paloaltoonline.com/calendar/?category=28#!/show?start=2021-11-15
+
+[Community Calendar]
+Sam Richardson: Islands, Ice, and Sand. Anderson Collection | Stanford, CA. Date: Ongoing Wed - Mon. Thurs until 8 pm. Closed Tues. from September 23, 2021 ...
+URL: https://www.paloaltoonline.com/calendar/?_escaped_fragment_=%2Fshow%2F%3Fser%3DProject+READ#!/show?start=2021-12-02
+
+
+=== FULL EXTRACTED CONTENT ===
+
+
+--- [Sam Richardson: Islands, Ice, and Sand - Stanford University] ---
+This event is over. Event Details: Sam Richardson (1934-2013), a California native, created small-scaled, finely crafted poetic sculptures that influenced a generation of artists and students and helped push the boundaries of landscape art in the West. The exhibition, which includes Most of that Iceberg is Below the Water (1969) from the permanent collection and works on loan from private lenders, focuses on Richardson’s polyurethane foam, acrylic, and polyester resin sculpture from the late 1960s to the mid-1970s. Richardson’s representations of uninhabited landscape and sections of geologic forms carry new relevance as they evoke contemporary questions of environmental change, migration, borders, and home. On View: SEPTEMBER 23, 2021 - MARCH 13, 2022
+
+
+--- [Compare files - datasets/SimpleQA] ---
+Home Repositories Models Docs Blog Pricing Login Sign up Repositories Models Blog Community Pricing Search Docs LOG IN SIGN UP datasets / SimpleQA Data Branches Evaluations Fine-tune eval.parquet comparing changes between versions 59b37c013206a4d1ee7d3964cef03c3f 27ec8c7ddecbf47c2baa1428256d6ebc Base Diff Head Schema 3 columns, 101-200 of 326 rows Row details Copyright © 2026 Oxen Labs, Inc., All Rights Reserved Careers Privacy Policy Terms and Conditions
+
+
+--- [Stanford's Second Sunday program digs into unique landscape sculptures] ---
+| Getting your Trinity Audio player ready... | The latest edition of the Stanford University museums’ Second Sunday from Home program is just the tip of the iceberg, in a sense: The family-friendly online program on Sept. 12, 11 a.m., explores landscape sculptures by Sam Richardson ahead of the opening later this month of an exhibition highlighting his works. Participants can create their own sculpture inspired by the exhibition “Sam Richardson: Islands, Ice, and Sand” that opens Sept. 23 at Stanford’s Anderson Collection. Richardson loved nature and the outdoors, according to the Second Sunday program information, so fittingly the program’s sculpture activity uses some recycled items to craft a papier mâché creation that pays tribute to nature. The show at the Anderson Collection will focus on Richardson’s small-scale pieces from the late 1960s to the mid-1970s, which used polyurethane foam, acrylic, and polyester resin sculpture to create layers and depth. For more information, visit museum.stanford.edu
+
+
+--- [Community Calendar] ---
+Palo Alto Online Nonprofit local news for the Midpeninsula Enter the code sent to your email. Email address Enter your password Sign in by entering the code we sent to , or clicking the magic link in the email. Get the best of Palo Alto Online directly in your email inbox. Sending to: Link Copy link
+
+
+--- [Community Calendar] ---
+Palo Alto Online Nonprofit local news for the Midpeninsula Enter the code sent to your email. Email address Enter your password Sign in by entering the code we sent to , or clicking the magic link in the email. Get the best of Palo Alto Online directly in your email inbox. Sending to: Link Copy link
