@@ -1,31 +1,28 @@
 const axios = require('axios');
 require('dotenv').config();
 
-const WEB_LINK = process.env.WEB_LINK;
-const WEB_PASSWORD = process.env.WEB_PASSWORD;
+const KEIRO_API_KEY = process.env.KEIRO_API;
+const KEIRO_ENDPOINT = 'https://kierolabs.space/api/research-pro';
 
-// Max context chars to send to LLM (llama3.2 3B works best with ~4000-6000 chars)
+// Max context chars to send to LLM (llama3.2 3B works best with ~6000 chars)
 const MAX_CONTEXT_CHARS = 6000;
 
 /**
- * Call the web search API and return structured results.
+ * Call the Keiro research-pro API and return structured results.
  */
-async function searchWeb(query, topN = 2) {
+async function searchWeb(query, topN = 5) {
     try {
         const startTime = Date.now();
-        const response = await axios.post(WEB_LINK, {
-            query: query,
-            top_n: topN,
-            method: 'auto',
-            password: WEB_PASSWORD,
-            cache_search: false
+        const response = await axios.post(KEIRO_ENDPOINT, {
+            apiKey: KEIRO_API_KEY,
+            query: query
         }, {
             timeout: 120000,
             headers: { 'Content-Type': 'application/json' }
         });
 
         const elapsed = Date.now() - startTime;
-        const data = response.data;
+        const data = response.data?.data || response.data || {};
 
         return {
             success: data.success || false,
@@ -52,24 +49,6 @@ async function searchWeb(query, topN = 2) {
 }
 
 /**
- * Check if content is binary/garbled (e.g. raw PDF bytes).
- */
-function isBinaryContent(content) {
-    if (!content || content.length === 0) return true;
-    if (content.startsWith('%PDF')) return true;
-
-    const sample = content.substring(0, 500);
-    let nonPrintable = 0;
-    for (let i = 0; i < sample.length; i++) {
-        const code = sample.charCodeAt(i);
-        if (code < 32 && code !== 10 && code !== 13 && code !== 9) {
-            nonPrintable++;
-        }
-    }
-    return (nonPrintable / sample.length) > 0.1;
-}
-
-/**
  * Clean raw content text — collapse whitespace, remove junk.
  */
 function cleanContent(content) {
@@ -83,16 +62,15 @@ function cleanContent(content) {
 }
 
 /**
- * Build a context string from web search results.
- * Prioritizes search snippets + trimmed extracted content to stay within MAX_CONTEXT_CHARS.
- * This ensures the LLM gets focused, relevant info instead of drowning in noise.
+ * Build a context string from Keiro search results.
+ * Prioritizes search snippets first, then extracted content capped at MAX_CONTEXT_CHARS.
  */
 function buildContextFromSearch(searchResult) {
     const { extractedContent, searchResults } = searchResult;
     const contextParts = [];
     let totalChars = 0;
 
-    // Step 1: Always include search snippets first (they're pre-extracted relevant text)
+    // Step 1: Always include search snippets first (concise, relevant)
     if (searchResults && searchResults.length > 0) {
         for (const result of searchResults) {
             const snippet = result.snippet || '';
@@ -111,11 +89,17 @@ function buildContextFromSearch(searchResult) {
         for (const item of extractedContent) {
             if (totalChars >= MAX_CONTEXT_CHARS) break;
 
+            // Skip failed extractions
+            if (!item.success && item.success !== undefined) {
+                console.log(`    📄 [SKIP] ${(item.title || 'Unknown').substring(0, 50)} → extraction failed`);
+                continue;
+            }
+
             const rawContent = item.content || '';
             const title = item.search_title || item.title || 'Unknown';
 
-            if (isBinaryContent(rawContent)) {
-                console.log(`    📄 [SKIP] ${title.substring(0, 50)} → binary content`);
+            if (!rawContent || rawContent.length === 0) {
+                console.log(`    📄 [SKIP] ${title.substring(0, 50)} → no content`);
                 continue;
             }
 
@@ -159,7 +143,8 @@ function getFullContentForSaving(searchResult) {
         for (const item of extractedContent) {
             const title = item.search_title || item.title || 'Unknown';
             const content = item.content || 'No content';
-            parts.push(`\n--- [${title}] ---\n${content}\n`);
+            const url = item.url || 'N/A';
+            parts.push(`\n--- [${title}] ---\nURL: ${url}\n${content}\n`);
         }
     }
 
